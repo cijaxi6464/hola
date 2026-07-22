@@ -1,0 +1,3688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="eng">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:01:48.750"
+        end="00:01:51.210"><span region="Default">Still, we won't give up!</span></p>
+      <p
+        begin="00:01:59.130"
+        end="00:02:02.420"><span region="Default">Together we can go anywhere</span></p>
+      <p
+        begin="00:02:02.580"
+        end="00:02:06.170"><span region="Default">Yes! This is our world</span></p>
+      <p
+        begin="00:02:06.330"
+        end="00:02:10.289"><span region="Default">Even if I'm scared, or cry</span></p>
+      <p
+        begin="00:02:10.460"
+        end="00:02:12.040"><span region="Default">Don't worry! Smile</span></p>
+      <p
+        begin="00:02:12.210"
+        end="00:02:14.540"><span region="Default">You're not alone</span></p>
+      <p
+        begin="00:02:15.920"
+        end="00:02:19.500"><span region="Default">Let's find it! A shining smile</span></p>
+      <p
+        begin="00:02:19.670"
+        end="00:02:24.079"><span region="Default">That's the real treasure!</span></p>
+      <p
+        begin="00:02:25.790"
+        end="00:02:27.579"><span region="Default">Let's go, Kasukabe Guard!</span></p>
+      <p
+        begin="00:02:28.710"
+        end="00:02:29.880"><span region="Default">India?</span></p>
+      <p
+        begin="00:02:30.040"
+        end="00:02:32.040"><span region="Default">The place famous for curry?</span></p>
+      <p
+        begin="00:02:32.210"
+        end="00:02:35.710"><span region="Default">Yes. In Mushibai, Hagashimir province</span></p>
+      <p
+        begin="00:02:35.880"
+        end="00:02:39.500"><span region="Default">there's an entertainment festival<br/>every year.</span></p>
+      <p
+        begin="00:02:39.670"
+        end="00:02:42.130"><span region="Default">With musicals, singing and dancing.</span></p>
+      <p
+        begin="00:02:42.290"
+        end="00:02:44.170"><span region="Default">Wow! Awesome.</span></p>
+      <p
+        begin="00:02:46.079"
+        end="00:02:48.920"><span region="Default">A girl named Ariana<br/>who performed last year</span></p>
+      <p
+        begin="00:02:49.079"
+        end="00:02:51.130"><span region="Default">is very popular in India right now.</span></p>
+      <p
+        begin="00:02:51.290"
+        end="00:02:53.540"><span region="Default">Really? She's pretty.</span></p>
+      <p
+        begin="00:02:56.630"
+        end="00:03:00.500"><span region="Default">To celebrate our upcoming<br/>sister city relationship,</span></p>
+      <p
+        begin="00:03:00.670"
+        end="00:03:04.330"><span region="Default">our town will hold the Kasukabe Kids<br/>Entertainment Festival.</span></p>
+      <p
+        begin="00:03:04.500"
+        end="00:03:09.040"><span region="Default">The winners will get invited to India<br/>and get to dance on stage.</span></p>
+      <p
+        begin="00:03:09.830"
+        end="00:03:11.500"><span region="Default">To India? For free?</span></p>
+      <p
+        begin="00:03:11.920"
+        end="00:03:16.460"><span region="Default">Yes! We, the Kasukabe Guard should join<br/>and represent Futaba Kindergarten!</span></p>
+      <p
+        begin="00:03:16.630"
+        end="00:03:17.920"><span region="Default">Sounds fun.</span></p>
+      <p
+        begin="00:03:18.079"
+        end="00:03:20.210"><span region="Default">But I wonder if we can do it.</span></p>
+      <p
+        begin="00:03:20.380"
+        end="00:03:22.880"><span region="Default">Masao! Let's give it a dry.</span></p>
+      <p
+        begin="00:03:23.040"
+        end="00:03:25.670"><span region="Default">It's "Let's give it a try".</span></p>
+      <p
+        begin="00:03:25.829"
+        end="00:03:29.880"><span region="Default">I want to eat curry<br/>with a cute Indian lady.</span></p>
+      <p
+        begin="00:03:30.210"
+        end="00:03:31.750"><span region="Default">I wanna go to India too!</span></p>
+      <p
+        begin="00:03:31.920"
+        end="00:03:32.790"><span region="Default">Agreed!</span></p>
+      <p
+        begin="00:03:32.960"
+        end="00:03:34.540"><span region="Default">Yeah, me too!</span></p>
+      <p
+        begin="00:03:34.750"
+        end="00:03:36.000"><span region="Default">Then it's decided.</span></p>
+      <p
+        begin="00:03:36.170"
+        end="00:03:38.000"><span region="Default">Let's all go to India!</span></p>
+      <p
+        begin="00:03:38.290"
+        end="00:03:39.750"><span region="Default">Yeah!</span></p>
+      <p
+        begin="00:04:07.580"
+        end="00:04:09.880"><span region="Default">Shin chan, you're not practicing?</span></p>
+      <p
+        begin="00:04:10.040"
+        end="00:04:12.330"><span region="Default">I'm too busy with this right now.</span></p>
+      <p
+        begin="00:04:12.500"
+        end="00:04:17.130"><span region="Default">We've been practicing all the time.<br/>I want to play 'real house'.</span></p>
+      <p
+        begin="00:04:17.420"
+        end="00:04:21.250"><span region="Default">I have an English test today.<br/>I've got to study.</span></p>
+      <p
+        begin="00:04:24.000"
+        end="00:04:25.540"><span region="Default">Hey, guys! Look.</span></p>
+      <p
+        begin="00:04:29.880"
+        end="00:04:30.710"><span region="Default">Naan.</span></p>
+      <p
+        begin="00:04:33.170"
+        end="00:04:34.580"><span region="Default">Huh? Naan bread?</span></p>
+      <p
+        begin="00:04:34.790"
+        end="00:04:36.750"><span region="Default">Yep, it's naan bread.</span></p>
+      <p
+        begin="00:04:37.500"
+        end="00:04:39.580"><span region="Default">Dancing all together in India</span></p>
+      <p
+        begin="00:04:39.750"
+        end="00:04:43.960"><span region="Default">sounds like soooo much fun!</span></p>
+      <p
+        begin="00:04:47.330"
+        end="00:04:51.210"><span region="Default">It's a once in a lifetime chance.</span></p>
+      <p
+        begin="00:04:52.170"
+        end="00:04:53.000"><span region="Default">You're right.</span></p>
+      <p
+        begin="00:04:53.170"
+        end="00:04:55.630"><span region="Default">If we don't win, we won't be able to go.</span></p>
+      <p
+        begin="00:04:55.790"
+        end="00:04:57.710"><span region="Default">Let's give it our all!</span></p>
+      <p
+        begin="00:04:57.880"
+        end="00:05:00.170"><span region="Default">Jeez, Kazama. You always skip practice.</span></p>
+      <p
+        begin="00:05:00.330"
+        end="00:05:02.040"><span region="Default">That's you.</span></p>
+      <p
+        begin="00:05:02.290"
+        end="00:05:05.580"><span region="Default">(Kasukabe Kids Entertainment Festival)</span></p>
+      <p
+        begin="00:05:09.630"
+        end="00:05:13.210"><span region="Default">Together we can go anywhere</span></p>
+      <p
+        begin="00:05:13.380"
+        end="00:05:17.000"><span region="Default">Yes! This is our world</span></p>
+      <p
+        begin="00:05:17.170"
+        end="00:05:20.500"><span region="Default">Even if I'm scared, or cry</span></p>
+      <p
+        begin="00:05:20.920"
+        end="00:05:22.500"><span region="Default">Don't worry! Smile</span></p>
+      <p
+        begin="00:05:22.670"
+        end="00:05:24.540"><span region="Default">You're not alone</span></p>
+      <p
+        begin="00:05:26.460"
+        end="00:05:30.290"><span region="Default">Let's find it! A shining smile</span></p>
+      <p
+        begin="00:05:30.460"
+        end="00:05:34.000"><span region="Default">That's the real treasure!</span></p>
+      <p
+        begin="00:05:58.630"
+        end="00:05:59.500"><span region="Default">Yay!</span></p>
+      <p
+        begin="00:06:21.920"
+        end="00:06:24.500"><span region="Default">Namaste!</span></p>
+      <p
+        begin="00:06:25.290"
+        end="00:06:29.130"><span region="Default">(Crayon Shinchan the Movie:<br/>Super Hot! The Spicy Kasukabe Dancers)</span></p>
+      <p
+        begin="00:07:27.420"
+        end="00:07:29.500"><span region="Default">We're in India!</span></p>
+      <p
+        begin="00:07:39.330"
+        end="00:07:42.330"><span region="Default">Let's hold hands so we don't get lost.</span></p>
+      <p
+        begin="00:07:53.880"
+        end="00:07:57.580"><span region="Default">Bo! Shinnosuke!<br/>Don't run, it's dangerous.</span></p>
+      <p
+        begin="00:07:57.750"
+        end="00:08:01.080"><span region="Default">Hey, Shinnosuke! Wait!</span></p>
+      <p
+        begin="00:08:08.000"
+        end="00:08:09.630"><span region="Default">Nice stone.</span></p>
+      <p
+        begin="00:08:16.080"
+        end="00:08:19.250"><span region="Default">Himawari, thank you for coming<br/>all the way here.</span></p>
+      <p
+        begin="00:08:19.580"
+        end="00:08:21.500"><span region="Default">Stop it, Hima.</span></p>
+      <p
+        begin="00:08:21.670"
+        end="00:08:24.880"><span region="Default">I'm sorry we brought the whole family.</span></p>
+      <p
+        begin="00:08:25.040"
+        end="00:08:26.630"><span region="Default">Sorry.</span></p>
+      <p
+        begin="00:08:27.750"
+        end="00:08:33.080"><span region="Default">No, I really appreciate it.<br/>I can't lead the trip by myself.</span></p>
+      <p
+        begin="00:08:33.380"
+        end="00:08:37.000"><span region="Default">I wish my mom and dad could come too.</span></p>
+      <p
+        begin="00:08:37.169"
+        end="00:08:40.710"><span region="Default">My parents can't get any time off.</span></p>
+      <p
+        begin="00:08:40.880"
+        end="00:08:41.960"><span region="Default">Mine either.</span></p>
+      <p
+        begin="00:08:42.130"
+        end="00:08:44.380"><span region="Default">Adults can't take time off<br/>at short notice.</span></p>
+      <p
+        begin="00:08:44.540"
+        end="00:08:47.710"><span region="Default">I'm jealous.<br/>Shin chan's dad doesn't have work.</span></p>
+      <p
+        begin="00:08:47.880"
+        end="00:08:50.040"><span region="Default">I do have a job, you know.</span></p>
+      <p
+        begin="00:08:50.210"
+        end="00:08:53.540"><span region="Default">The company won't have any problem<br/>without him, that's all.</span></p>
+      <p
+        begin="00:08:53.710"
+        end="00:08:58.460"><span region="Default">Shinnosuke, the truth can hurt people.</span></p>
+      <p
+        begin="00:08:58.830"
+        end="00:09:00.540"><span region="Default">Even Shiro's here.</span></p>
+      <p
+        begin="00:09:00.710"
+        end="00:09:02.880"><span region="Default">Shiro is family, too.</span></p>
+      <p
+        begin="00:09:03.630"
+        end="00:09:05.250"><span region="Default">Who is he?</span></p>
+      <p
+        begin="00:09:05.460"
+        end="00:09:08.250"><span region="Default">He's taking us to Mushibai.</span></p>
+      <p
+        begin="00:09:08.420"
+        end="00:09:12.710"><span region="Default">He's our guide, Mr. Mhm Uh-huh.</span></p>
+      <p
+        begin="00:09:12.880"
+        end="00:09:13.880"><span region="Default">Mhm.</span></p>
+      <p
+        begin="00:09:14.250"
+        end="00:09:15.790"><span region="Default">Uh-huh!</span></p>
+      <p
+        begin="00:09:17.750"
+        end="00:09:19.790"><span region="Default">Wow, what's this?</span></p>
+      <p
+        begin="00:09:20.130"
+        end="00:09:21.710"><span region="Default">It's chai, right?</span></p>
+      <p
+        begin="00:09:21.880"
+        end="00:09:22.670"><span region="Default">Uh-huh.</span></p>
+      <p
+        begin="00:09:22.830"
+        end="00:09:27.250"><span region="Default">It's milk tea made by boiling tea leaves<br/>and adding spices later.</span></p>
+      <p
+        begin="00:09:27.420"
+        end="00:09:29.500"><span region="Default">You know your stuff, boss.</span></p>
+      <p
+        begin="00:09:29.670"
+        end="00:09:31.460"><span region="Default">I've done my research.</span></p>
+      <p
+        begin="00:09:33.580"
+        end="00:09:34.710"><span region="Default">Namaste.</span></p>
+      <p
+        begin="00:09:35.170"
+        end="00:09:37.580"><span region="Default">Namaste is an Indian greeting, right?</span></p>
+      <p
+        begin="00:09:37.750"
+        end="00:09:41.670"><span region="Default">Yeah. It means 'hello' or 'goodbye.'</span></p>
+      <p
+        begin="00:09:42.000"
+        end="00:09:45.210"><span region="Default">Kazama, can you take a look<br/>at my special namaste?</span></p>
+      <p
+        begin="00:09:45.380"
+        end="00:09:47.330"><span region="Default">Special namaste?</span></p>
+      <p
+        begin="00:09:47.710"
+        end="00:09:52.250"><span region="Default">Speaking of India...<br/>An Indian elephant, toot!</span></p>
+      <p
+        begin="00:09:52.420"
+        end="00:09:54.250"><span region="Default">Namaste!</span></p>
+      <p
+        begin="00:09:54.420"
+        end="00:09:56.080"><span region="Default">That's no elephant!</span></p>
+      <p
+        begin="00:09:56.250"
+        end="00:09:57.290"><span region="Default">Silly.</span></p>
+      <p
+        begin="00:10:01.040"
+        end="00:10:05.130"><span region="Default">I laughed so hard<br/>that my nose ran more than usual.</span></p>
+      <p
+        begin="00:10:06.080"
+        end="00:10:09.290"><span region="Default">I say the important things<br/>in elephant form, you know.</span></p>
+      <p
+        begin="00:10:09.460"
+        end="00:10:13.380"><span region="Default">Kazama,<br/>you're stepping on cow poop, toot.</span></p>
+      <p
+        begin="00:10:13.880"
+        end="00:10:15.250"><span region="Default">My shoe's all dirty!</span></p>
+      <p
+        begin="00:10:15.540"
+        end="00:10:18.250"><span region="Default">Oops. It's okay, don't worry.</span></p>
+      <p
+        begin="00:10:18.500"
+        end="00:10:20.380"><span region="Default">I've got some water. I'll wash it off.</span></p>
+      <p
+        begin="00:10:20.540"
+        end="00:10:23.000"><span region="Default">It happens often in India, right?</span></p>
+      <p
+        begin="00:10:23.170"
+        end="00:10:24.500"><span region="Default">Uh-huh.</span></p>
+      <p
+        begin="00:10:43.630"
+        end="00:10:45.460"><span region="Default">Bo, look! Look!</span></p>
+      <p
+        begin="00:10:48.580"
+        end="00:10:51.170"><span region="Default">We should perform like this on stage.</span></p>
+      <p
+        begin="00:11:57.630"
+        end="00:11:58.710"><span region="Default">A key?</span></p>
+      <p
+        begin="00:11:59.130"
+        end="00:12:00.540"><span region="Default">That means...</span></p>
+      <p
+        begin="00:12:10.080"
+        end="00:12:11.500"><span region="Default">What's this?</span></p>
+      <p
+        begin="00:12:11.670"
+        end="00:12:12.750"><span region="Default">A nose...</span></p>
+      <p
+        begin="00:12:13.500"
+        end="00:12:15.920"><span region="Default">...backpack?</span></p>
+      <p
+        begin="00:12:19.960"
+        end="00:12:22.290"><span region="Default">Shin chan, it suits you.</span></p>
+      <p
+        begin="00:12:26.880"
+        end="00:12:29.250"><span region="Default">This, snooze.</span></p>
+      <p
+        begin="00:12:29.420"
+        end="00:12:30.540"><span region="Default">"Please"!</span></p>
+      <p
+        begin="00:12:32.130"
+        end="00:12:34.500"><span region="Default">I found it over there.</span></p>
+      <p
+        begin="00:12:36.630"
+        end="00:12:41.080"><span region="Default">I'm rich.<br/>I've got one million thousand yen!</span></p>
+      <p
+        begin="00:12:45.960"
+        end="00:12:48.000"><span region="Default">Please, keep the change.</span></p>
+      <p
+        begin="00:12:48.170"
+        end="00:12:50.250"><span region="Default">Maybe it's not enough.</span></p>
+      <p
+        begin="00:13:00.960"
+        end="00:13:04.170"><span region="Default">Noselina Jolie. Nice!</span></p>
+      <p
+        begin="00:13:04.330"
+        end="00:13:06.290"><span region="Default">Noselina Jolie?</span></p>
+      <p
+        begin="00:13:06.460"
+        end="00:13:10.080"><span region="Default">The name of this nose.<br/>Use it whenever you want.</span></p>
+      <p
+        begin="00:13:10.250"
+        end="00:13:13.750"><span region="Default">Noselina is half your nose.</span></p>
+      <p
+        begin="00:13:14.540"
+        end="00:13:15.920"><span region="Default">Thank you.</span></p>
+      <p
+        begin="00:13:19.670"
+        end="00:13:21.880"><span region="Default">Put together it looks like a heart.</span></p>
+      <p
+        begin="00:13:22.290"
+        end="00:13:23.830"><span region="Default">A butt-looking stone!</span></p>
+      <p
+        begin="00:13:24.130"
+        end="00:13:27.540"><span region="Default">Here, let's share the butt.</span></p>
+      <p
+        begin="00:13:27.710"
+        end="00:13:28.580"><span region="Default">Are you sure?</span></p>
+      <p
+        begin="00:13:29.210"
+        end="00:13:30.790"><span region="Default">My sideburn of India.</span></p>
+      <p
+        begin="00:13:30.960"
+        end="00:13:33.000"><span region="Default">It's "souvenir".</span></p>
+      <p
+        begin="00:13:33.170"
+        end="00:13:34.380"><span region="Default">Same difference.</span></p>
+      <p
+        begin="00:13:34.540"
+        end="00:13:36.170"><span region="Default">Difference same.</span></p>
+      <p
+        begin="00:13:41.380"
+        end="00:13:45.710"><span region="Default">Let's find it! A shining smile</span></p>
+      <p
+        begin="00:13:45.880"
+        end="00:13:49.960"><span region="Default">That's the real treasure!</span></p>
+      <p
+        begin="00:13:50.630"
+        end="00:13:52.500"><span region="Default">The show is in two days.</span></p>
+      <p
+        begin="00:13:52.670"
+        end="00:13:54.290"><span region="Default">Yeah, I'm looking forward to it.</span></p>
+      <p
+        begin="00:13:54.830"
+        end="00:13:59.710"><span region="Default">The world will finally know<br/>how cute I am.</span></p>
+      <p
+        begin="00:14:00.290"
+        end="00:14:01.630"><span region="Default">Yeah.</span></p>
+      <p
+        begin="00:14:01.790"
+        end="00:14:03.630"><span region="Default">I'm getting nervous.</span></p>
+      <p
+        begin="00:14:03.790"
+        end="00:14:04.920"><span region="Default">It's too early.</span></p>
+      <p
+        begin="00:14:05.080"
+        end="00:14:08.920"><span region="Default">Don't worry! There are many more<br/>people in India than in Kasukabe.</span></p>
+      <p
+        begin="00:14:09.080"
+        end="00:14:10.830"><span region="Default">They'll be watching you.</span></p>
+      <p
+        begin="00:14:11.000"
+        end="00:14:12.580"><span region="Default">Don't say that!</span></p>
+      <p
+        begin="00:14:13.710"
+        end="00:14:17.000"><span region="Default">Dancing all together! It'll be fun!</span></p>
+      <p
+        begin="00:14:23.830"
+        end="00:14:25.580"><span region="Default">Heave ho.</span></p>
+      <p
+        begin="00:14:26.920"
+        end="00:14:29.710"><span region="Default">I'm back. Did you sell anything?</span></p>
+      <p
+        begin="00:14:29.880"
+        end="00:14:31.420"><span region="Default">Just a sale item.</span></p>
+      <p
+        begin="00:14:35.170"
+        end="00:14:36.380"><span region="Default">Welcome.</span></p>
+      <p
+        begin="00:14:46.000"
+        end="00:14:48.750"><span region="Default">- We're looking for the 'paper'.<br/>- Huh?</span></p>
+      <p
+        begin="00:14:49.210"
+        end="00:14:53.460"><span region="Default">It looks like simple tissue paper,<br/>but in truth...</span></p>
+      <p
+        begin="00:14:53.750"
+        end="00:14:58.500"><span region="Default">According to my deduction,<br/>it should be sealed in a case like this.</span></p>
+      <p
+        begin="00:15:02.170"
+        end="00:15:04.750"><span region="Default">I've never seen it!<br/>It's not in this store!</span></p>
+      <p
+        begin="00:15:04.960"
+        end="00:15:08.080"><span region="Default">So it is here.<br/>You're always right, Big Bro.</span></p>
+      <p
+        begin="00:15:08.250"
+        end="00:15:13.040"><span region="Default">I said it's not here!<br/>I'm terribly busy. Come on, leave.</span></p>
+      <p
+        begin="00:15:13.500"
+        end="00:15:17.380"><span region="Default">It's no use.<br/>You can't keep secrets from us.</span></p>
+      <p
+        begin="00:15:17.790"
+        end="00:15:20.080"><span region="Default">Right, Big Bro?</span></p>
+      <p
+        begin="00:15:36.880"
+        end="00:15:39.500"><span region="Default">Say the truth</span></p>
+      <p
+        begin="00:15:39.670"
+        end="00:15:42.210"><span region="Default">Just say it, and you'll feel better</span></p>
+      <p
+        begin="00:15:42.380"
+        end="00:15:45.380"><span region="Default">3-2-1, go! Say it</span></p>
+      <p
+        begin="00:15:45.540"
+        end="00:15:48.290"><span region="Default">If you say it, you'll feel better</span></p>
+      <p
+        begin="00:15:54.170"
+        end="00:15:57.000"><span region="Default">Shake your shoulders and sing. Yeah!</span></p>
+      <p
+        begin="00:15:57.170"
+        end="00:15:59.830"><span region="Default">Step, step, let's dance. Come on!</span></p>
+      <p
+        begin="00:16:00.000"
+        end="00:16:05.880"><span region="Default">Open your mouth and say it</span></p>
+      <p
+        begin="00:16:06.040"
+        end="00:16:07.330"><span region="Default">Uuups!</span></p>
+      <p
+        begin="00:16:08.750"
+        end="00:16:11.420"><span region="Default">Is it up there? Right? Left?</span></p>
+      <p
+        begin="00:16:11.580"
+        end="00:16:14.420"><span region="Default">No, no, no, no!</span></p>
+      <p
+        begin="00:16:14.580"
+        end="00:16:17.420"><span region="Default">Is it here? There? Over there?</span></p>
+      <p
+        begin="00:16:17.750"
+        end="00:16:20.080"><span region="Default">No, no, no, no!</span></p>
+      <p
+        begin="00:16:20.460"
+        end="00:16:26.080"><span region="Default">That 'paper' is a monstrosity<br/>That has to stay locked up</span></p>
+      <p
+        begin="00:16:26.250"
+        end="00:16:31.580"><span region="Default">The one and only, diabolically evil<br/>Bizarre and mysterious</span></p>
+      <p
+        begin="00:16:31.960"
+        end="00:16:37.630"><span region="Default">Horrifying and earth-shattering<br/>It won't be in there!</span></p>
+      <p
+        begin="00:16:37.790"
+        end="00:16:38.880"><span region="Default">So where is it?</span></p>
+      <p
+        begin="00:16:39.040"
+        end="00:16:40.630"><span region="Default">That 'paper'...</span></p>
+      <p
+        begin="00:16:42.960"
+        end="00:16:44.040"><span region="Default">It's not there!</span></p>
+      <p
+        begin="00:16:44.880"
+        end="00:16:46.880"><span region="Default">I just sold this.</span></p>
+      <p
+        begin="00:16:47.130"
+        end="00:16:48.330"><span region="Default">Who did you sell it to?</span></p>
+      <p
+        begin="00:16:48.500"
+        end="00:16:51.210"><span region="Default">Two foreigners. A butt-shaking kid,</span></p>
+      <p
+        begin="00:16:51.380"
+        end="00:16:53.460"><span region="Default">and a snotty boy.</span></p>
+      <p
+        begin="00:16:53.630"
+        end="00:16:55.170"><span region="Default">Butt-shaking?</span></p>
+      <p
+        begin="00:16:55.330"
+        end="00:16:56.750"><span region="Default">Snotty?</span></p>
+      <p
+        begin="00:16:56.920"
+        end="00:16:59.460"><span region="Default">They look like this.</span></p>
+      <p
+        begin="00:17:00.710"
+        end="00:17:04.420"><span region="Default">If that gets stuck in someone's nose,</span></p>
+      <p
+        begin="00:17:05.460"
+        end="00:17:08.630"><span region="Default">something terrible will happen.</span></p>
+      <p
+        begin="00:17:11.670"
+        end="00:17:13.250"><span region="Default">Heave ho.</span></p>
+      <p
+        begin="00:17:14.630"
+        end="00:17:17.250"><span region="Default">It takes 15 hours to reach Mushibai.</span></p>
+      <p
+        begin="00:17:18.380"
+        end="00:17:19.710"><span region="Default">Time will fly.</span></p>
+      <p
+        begin="00:17:19.880"
+        end="00:17:24.250"><span region="Default">This train has an observation deck.<br/>Let's go explore!</span></p>
+      <p
+        begin="00:17:24.420"
+        end="00:17:25.460"><span region="Default">Let's go!</span></p>
+      <p
+        begin="00:17:25.630"
+        end="00:17:30.580"><span region="Default">Can you take a photo of me with<br/>a beautiful view and send it to my mom?</span></p>
+      <p
+        begin="00:17:30.750"
+        end="00:17:31.630"><span region="Default">Sure.</span></p>
+      <p
+        begin="00:17:32.080"
+        end="00:17:36.040"><span region="Default">Can I send you a photo of me<br/>with a beautiful lady, Mom?</span></p>
+      <p
+        begin="00:17:36.210"
+        end="00:17:37.630"><span region="Default">No, thanks.</span></p>
+      <p
+        begin="00:17:47.670"
+        end="00:17:49.420"><span region="Default">Say "Cheese."</span></p>
+      <p
+        begin="00:17:50.330"
+        end="00:17:52.170"><span region="Default">I'll send it to your moms.</span></p>
+      <p
+        begin="00:17:52.420"
+        end="00:17:56.580"><span region="Default">Um, what time is it in Japan?<br/>Well, whatever.</span></p>
+      <p
+        begin="00:17:58.580"
+        end="00:18:00.080"><span region="Default">Huh? That was fast!</span></p>
+      <p
+        begin="00:18:00.880"
+        end="00:18:03.170"><span region="Default">I guess they're worried.</span></p>
+      <p
+        begin="00:18:03.580"
+        end="00:18:04.710"><span region="Default">Look! Look!</span></p>
+      <p
+        begin="00:18:06.000"
+        end="00:18:08.330"><span region="Default">It's very different from Kasukabe.</span></p>
+      <p
+        begin="00:18:08.500"
+        end="00:18:10.630"><span region="Default">India is so dynamic.</span></p>
+      <p
+        begin="00:18:11.290"
+        end="00:18:13.460"><span region="Default">I wanna see it too.</span></p>
+      <p
+        begin="00:18:38.580"
+        end="00:18:41.580"><span region="Default">Hey ladies, I'm Shinnosuke Nohara.</span></p>
+      <p
+        begin="00:18:41.750"
+        end="00:18:44.420"><span region="Default">Wanna eat some hot steamy curry with me?</span></p>
+      <p
+        begin="00:18:44.580"
+        end="00:18:45.960"><span region="Default">Stop it, Shinnosuke.</span></p>
+      <p
+        begin="00:18:46.500"
+        end="00:18:48.750"><span region="Default">Sorry, sorry! I'm sorry!</span></p>
+      <p
+        begin="00:18:48.920"
+        end="00:18:51.880"><span region="Default">Huh? What was I...?</span></p>
+      <p
+        begin="00:18:52.330"
+        end="00:18:56.580"><span region="Default">Jeez, you're so silly.<br/>We came all the way to India. Behave.</span></p>
+      <p
+        begin="00:19:18.580"
+        end="00:19:20.000"><span region="Default">I need the bathroom.</span></p>
+      <p
+        begin="00:19:23.540"
+        end="00:19:25.630"><span region="Default">Huh? What was I...?</span></p>
+      <p
+        begin="00:19:38.170"
+        end="00:19:39.790"><span region="Default">I got the Old Maid.</span></p>
+      <p
+        begin="00:19:40.960"
+        end="00:19:43.080"><span region="Default">Two old men playing Old Maid. Nice!</span></p>
+      <p
+        begin="00:19:43.250"
+        end="00:19:46.210"><span region="Default">Mr. Uh-huh, care to join us?</span></p>
+      <p
+        begin="00:19:46.380"
+        end="00:19:47.250"><span region="Default">Uh-huh.</span></p>
+      <p
+        begin="00:19:47.420"
+        end="00:19:49.210"><span region="Default">We're back with a crash!</span></p>
+      <p
+        begin="00:19:49.580"
+        end="00:19:52.670"><span region="Default">Don't say scary things.<br/>It's "back with a bang."</span></p>
+      <p
+        begin="00:19:52.830"
+        end="00:19:54.750"><span region="Default">How was the observation deck?</span></p>
+      <p
+        begin="00:19:54.920"
+        end="00:19:55.830"><span region="Default">Great!</span></p>
+      <p
+        begin="00:19:56.000"
+        end="00:19:58.380"><span region="Default">Let's go together later.</span></p>
+      <p
+        begin="00:19:58.540"
+        end="00:19:59.580"><span region="Default">Good idea.</span></p>
+      <p
+        begin="00:19:59.750"
+        end="00:20:02.210"><span region="Default">Found it! Curry Flavor Chocobi.</span></p>
+      <p
+        begin="00:20:03.710"
+        end="00:20:06.580"><span region="Default">Have some, Bo. Let's have a toast!</span></p>
+      <p
+        begin="00:20:07.250"
+        end="00:20:09.250"><span region="Default">I'm star-star-starving.</span></p>
+      <p
+        begin="00:20:09.420"
+        end="00:20:10.380"><span region="Default">Stop.</span></p>
+      <p
+        begin="00:20:10.790"
+        end="00:20:12.830"><span region="Default">No snacks before lunch.</span></p>
+      <p
+        begin="00:20:13.000"
+        end="00:20:15.290"><span region="Default">You're so stingy, Mom.</span></p>
+      <p
+        begin="00:20:15.460"
+        end="00:20:16.830"><span region="Default">I'm fine with that.</span></p>
+      <p
+        begin="00:20:17.330"
+        end="00:20:20.750"><span region="Default">I wanna eat it! I wanna eat it!<br/>I wanna eat it! I wanna eat it!</span></p>
+      <p
+        begin="00:20:20.920"
+        end="00:20:21.920"><span region="Default">I wanna eat it! I wanna eat it!</span></p>
+      <p
+        begin="00:20:22.080"
+        end="00:20:23.750"><span region="Default">You're a good boy, Bo.</span></p>
+      <p
+        begin="00:20:23.920"
+        end="00:20:27.500"><span region="Default">The train will do a 30-minute stop<br/>at the next station.</span></p>
+      <p
+        begin="00:20:27.670"
+        end="00:20:30.210"><span region="Default">Let's go buy lunch all together.</span></p>
+      <p
+        begin="00:20:34.330"
+        end="00:20:37.540"><span region="Default">Thanks to the sketch,<br/>I was able to identify the kids</span></p>
+      <p
+        begin="00:20:37.710"
+        end="00:20:41.880"><span region="Default">from security camera footage and<br/>track them down by facial recognition.</span></p>
+      <p
+        begin="00:20:42.080"
+        end="00:20:45.040"><span region="Default">They're currently on a train<br/>bound for Mushibai.</span></p>
+      <p
+        begin="00:20:45.210"
+        end="00:20:47.040"><span region="Default">That's the train.</span></p>
+      <p
+        begin="00:20:47.210"
+        end="00:20:51.000"><span region="Default">Butt-shaking boy and snotty boy<br/>are on that train.</span></p>
+      <p
+        begin="00:20:51.290"
+        end="00:20:53.630"><span region="Default">You're the best, Big Bro.</span></p>
+      <p
+        begin="00:20:53.790"
+        end="00:20:57.210"><span region="Default">We'll prevent anyone to stick<br/>that 'paper' up their nose!</span></p>
+      <p
+        begin="00:20:57.380"
+        end="00:20:58.210"><span region="Default">Roger.</span></p>
+      <p
+        begin="00:21:33.460"
+        end="00:21:36.960"><span region="Default">Lord Urufu! It's dangerous!<br/>It was caught in the jungle 2 days ago.</span></p>
+      <p
+        begin="00:21:37.130"
+        end="00:21:38.880"><span region="Default">I'm just saying hello.</span></p>
+      <p
+        begin="00:21:39.250"
+        end="00:21:41.630"><span region="Default">To my potential partner.</span></p>
+      <p
+        begin="00:21:42.130"
+        end="00:21:45.500"><span region="Default">My buddy must be strong.</span></p>
+      <p
+        begin="00:21:46.540"
+        end="00:21:49.830"><span region="Default">Do you have what it takes<br/>to be my partner?</span></p>
+      <p
+        begin="00:21:51.630"
+        end="00:21:53.500"><span region="Default">I want curry!</span></p>
+      <p
+        begin="00:21:54.210"
+        end="00:21:57.920"><span region="Default">There are so many kinds of curry.</span></p>
+      <p
+        begin="00:21:58.710"
+        end="00:22:03.380"><span region="Default">Mr. Uh-huh, I'd like to order<br/>some mild curry for the kids.</span></p>
+      <p
+        begin="00:22:03.540"
+        end="00:22:04.630"><span region="Default">Uh-huh.</span></p>
+      <p
+        begin="00:22:06.040"
+        end="00:22:07.670"><span region="Default">Hmm... hmm...</span></p>
+      <p
+        begin="00:22:08.210"
+        end="00:22:11.130"><span region="Default">Rice? Naan? Chapati?</span></p>
+      <p
+        begin="00:22:11.290"
+        end="00:22:12.380"><span region="Default">Chapati?</span></p>
+      <p
+        begin="00:22:12.540"
+        end="00:22:14.710"><span region="Default">Chapati chapati chapati chapati...</span></p>
+      <p
+        begin="00:22:14.880"
+        end="00:22:16.710"><span region="Default">That's "kabaddi".</span></p>
+      <p
+        begin="00:22:17.710"
+        end="00:22:20.420"><span region="Default">He's making chapati.</span></p>
+      <p
+        begin="00:22:20.880"
+        end="00:22:24.330"><span region="Default">Chapati is made from whole wheat flour<br/>kneaded with water</span></p>
+      <p
+        begin="00:22:24.500"
+        end="00:22:29.330"><span region="Default">and baked. It's commonly eaten<br/>in Indian households.</span></p>
+      <p
+        begin="00:22:29.500"
+        end="00:22:30.380"><span region="Default">Right?</span></p>
+      <p
+        begin="00:22:30.540"
+        end="00:22:31.460"><span region="Default">Uh-huh.</span></p>
+      <p
+        begin="00:22:36.540"
+        end="00:22:38.040"><span region="Default">Looks delicious!</span></p>
+      <p
+        begin="00:22:38.210"
+        end="00:22:39.920"><span region="Default">Is chapati delicious?</span></p>
+      <p
+        begin="00:22:40.920"
+        end="00:22:41.920"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:22:42.290"
+        end="00:22:45.830"><span region="Default">Right. Then I'll have...</span></p>
+      <p
+        begin="00:22:49.130"
+        end="00:22:50.500"><span region="Default">Naan.</span></p>
+      <p
+        begin="00:22:51.750"
+        end="00:22:53.460"><span region="Default">I'd like some rice.</span></p>
+      <p
+        begin="00:22:53.630"
+        end="00:22:54.380"><span region="Default">Naan.</span></p>
+      <p
+        begin="00:22:54.540"
+        end="00:22:55.500"><span region="Default">I want naan, too.</span></p>
+      <p
+        begin="00:22:55.960"
+        end="00:22:57.040"><span region="Default">Naan.</span></p>
+      <p
+        begin="00:22:57.540"
+        end="00:22:58.460"><span region="Default">Let's have naan.</span></p>
+      <p
+        begin="00:22:58.830"
+        end="00:23:01.250"><span region="Default">I'll have both rice and naan.</span></p>
+      <p
+        begin="00:23:01.420"
+        end="00:23:03.460"><span region="Default">Naan. For you too?</span></p>
+      <p
+        begin="00:23:03.630"
+        end="00:23:04.420"><span region="Default">Uh-huh.</span></p>
+      <p
+        begin="00:23:04.790"
+        end="00:23:06.540"><span region="Default">I'll have...</span></p>
+      <p
+        begin="00:23:16.880"
+        end="00:23:17.830"><span region="Default">Naan.</span></p>
+      <p
+        begin="00:23:24.040"
+        end="00:23:28.830"><span region="Default">I can't sit down.<br/>I'm so hungry my butt's gonna split.</span></p>
+      <p
+        begin="00:23:30.330"
+        end="00:23:31.630"><span region="Default">What curry is it?</span></p>
+      <p
+        begin="00:23:31.790"
+        end="00:23:34.880"><span region="Default">Smells good. Let me have a bite.</span></p>
+      <p
+        begin="00:23:35.040"
+        end="00:23:39.330"><span region="Default">One bite, please. Gimme gimme.<br/>One bite, please.</span></p>
+      <p
+        begin="00:24:00.630"
+        end="00:24:02.000"><span region="Default">Really?</span></p>
+      <p
+        begin="00:24:22.000"
+        end="00:24:24.710"><span region="Default">Real curry is not so bad either.</span></p>
+      <p
+        begin="00:24:30.790"
+        end="00:24:32.630"><span region="Default">They all look delicious.</span></p>
+      <p
+        begin="00:24:41.170"
+        end="00:24:44.460"><span region="Default">Bo, did you just do something?</span></p>
+      <p
+        begin="00:24:45.960"
+        end="00:24:48.920"><span region="Default">What's happening to me?</span></p>
+      <p
+        begin="00:24:50.250"
+        end="00:24:53.880"><span region="Default">Naan, rice, naan.</span></p>
+      <p
+        begin="00:24:54.250"
+        end="00:24:57.830"><span region="Default">Naan and rice. Naan, naan, naan.</span></p>
+      <p
+        begin="00:24:58.670"
+        end="00:24:59.960"><span region="Default">Chapati.</span></p>
+      <p
+        begin="00:25:03.580"
+        end="00:25:05.000"><span region="Default">Chapati?</span></p>
+      <p
+        begin="00:25:05.210"
+        end="00:25:06.380"><span region="Default">Chapati?</span></p>
+      <p
+        begin="00:25:06.540"
+        end="00:25:07.830"><span region="Default">Well, okay.</span></p>
+      <p
+        begin="00:25:08.000"
+        end="00:25:09.540"><span region="Default">Did you all get your food?</span></p>
+      <p
+        begin="00:25:09.710"
+        end="00:25:10.920"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:25:11.170"
+        end="00:25:13.130"><span region="Default">Shin chan wanted naan.</span></p>
+      <p
+        begin="00:25:15.420"
+        end="00:25:17.750"><span region="Default">He asked for naan, not chapati.</span></p>
+      <p
+        begin="00:25:18.250"
+        end="00:25:20.080"><span region="Default">He ordered naan, but...</span></p>
+      <p
+        begin="00:25:20.250"
+        end="00:25:22.500"><span region="Default">Bo, what's wrong?</span></p>
+      <p
+        begin="00:25:23.460"
+        end="00:25:26.710"><span region="Default">My butt is so hungry.<br/>Happy Masala curry!</span></p>
+      <p
+        begin="00:25:26.960"
+        end="00:25:29.540"><span region="Default">It has to be naan!</span></p>
+      <p
+        begin="00:25:31.080"
+        end="00:25:34.210"><span region="Default">Shin chan wanted to eat naan.</span></p>
+      <p
+        begin="00:25:34.380"
+        end="00:25:35.670"><span region="Default">Naan! Naan!</span></p>
+      <p
+        begin="00:25:35.830"
+        end="00:25:38.210"><span region="Default">- Naan!<br/>- Bo just blew a gale!</span></p>
+      <p
+        begin="00:25:40.920"
+        end="00:25:42.080"><span region="Default">Bo!</span></p>
+      <p
+        begin="00:25:43.880"
+        end="00:25:44.670"><span region="Default">Hey!</span></p>
+      <p
+        begin="00:26:00.630"
+        end="00:26:02.210"><span region="Default">The world's most terrifying</span></p>
+      <p
+        begin="00:26:02.750"
+        end="00:26:05.710"><span region="Default">wild honey badger!</span></p>
+      <p
+        begin="00:26:13.630"
+        end="00:26:16.210"><span region="Default">- What's that?<br/>- How cute!</span></p>
+      <p
+        begin="00:26:16.540"
+        end="00:26:19.170"><span region="Default">Bo! Look, we brought some naan.</span></p>
+      <p
+        begin="00:26:19.500"
+        end="00:26:22.630"><span region="Default">We've got naan. Calm down now.</span></p>
+      <p
+        begin="00:26:27.250"
+        end="00:26:29.960"><span region="Default">That's Shin chan's naan.<br/>Give it back.</span></p>
+      <p
+        begin="00:26:32.580"
+        end="00:26:34.580"><span region="Default">Shin chan's naan!</span></p>
+      <p
+        begin="00:26:34.750"
+        end="00:26:36.420"><span region="Default">Bo is so fast!</span></p>
+      <p
+        begin="00:26:38.880"
+        end="00:26:39.880"><span region="Default">Bo!</span></p>
+      <p
+        begin="00:26:50.750"
+        end="00:26:52.960"><span region="Default">Calm down, Bo.</span></p>
+      <p
+        begin="00:26:57.790"
+        end="00:26:59.580"><span region="Default">Mhm! Uh-huh!</span></p>
+      <p
+        begin="00:26:59.750"
+        end="00:27:02.170"><span region="Default">Mr. Uh-huh, are you okay?</span></p>
+      <p
+        begin="00:27:06.170"
+        end="00:27:08.710"><span region="Default">Wait a minute, Bo!</span></p>
+      <p
+        begin="00:27:12.960"
+        end="00:27:13.880"><span region="Default">Oh, no!</span></p>
+      <p
+        begin="00:27:14.540"
+        end="00:27:16.630"><span region="Default">It's already up his nose!</span></p>
+      <p
+        begin="00:27:17.580"
+        end="00:27:19.750"><span region="Default">Only half of it. Don't give up!</span></p>
+      <p
+        begin="00:27:25.210"
+        end="00:27:28.380"><span region="Default">Boy! Take that piece of paper<br/>out of your nose.</span></p>
+      <p
+        begin="00:27:28.830"
+        end="00:27:29.710"><span region="Default">Piece of paper?</span></p>
+      <p
+        begin="00:27:30.540"
+        end="00:27:31.670"><span region="Default">Who are you?</span></p>
+      <p
+        begin="00:27:32.670"
+        end="00:27:37.290"><span region="Default">Indian Police Unsolved Mysterious Cases<br/>Special Investigation Unit Detective</span></p>
+      <p
+        begin="00:27:37.460"
+        end="00:27:41.210"><span region="Default">Kabir Katchapapal Pakkapapal<br/>Katchapapal Pakkapapal.</span></p>
+      <p
+        begin="00:27:41.380"
+        end="00:27:42.420"><span region="Default">Same. Dill.</span></p>
+      <p
+        begin="00:27:42.580"
+        end="00:27:45.500"><span region="Default">We're here to collect<br/>some dangerous 'paper'.</span></p>
+      <p
+        begin="00:27:45.790"
+        end="00:27:47.710"><span region="Default">Excellent Japanese.</span></p>
+      <p
+        begin="00:27:48.290"
+        end="00:27:53.830"><span region="Default">We are the top elite<br/>among India's 1.45 billion people.</span></p>
+      <p
+        begin="00:27:54.000"
+        end="00:27:58.290"><span region="Default">I speak 12 languages.<br/>Dill speaks all languages.</span></p>
+      <p
+        begin="00:27:58.630"
+        end="00:28:00.250"><span region="Default">All languages?</span></p>
+      <p
+        begin="00:28:00.790"
+        end="00:28:04.460"><span region="Default">So, say "I can walk on my butt"<br/>in Indian.</span></p>
+      <p
+        begin="00:28:07.290"
+        end="00:28:08.630"><span region="Default">Korean.</span></p>
+      <p
+        begin="00:28:11.420"
+        end="00:28:12.790"><span region="Default">Akita dialect.</span></p>
+      <p
+        begin="00:28:16.330"
+        end="00:28:17.920"><span region="Default">What are you making him do?</span></p>
+      <p
+        begin="00:28:18.460"
+        end="00:28:20.380"><span region="Default">What paper?</span></p>
+      <p
+        begin="00:28:20.790"
+        end="00:28:23.830"><span region="Default">The evil piece of paper<br/>stuck in that boy's nose.</span></p>
+      <p
+        begin="00:28:24.630"
+        end="00:28:29.040"><span region="Default">When you stick it up your nose,<br/>all your energy concentrates there.</span></p>
+      <p
+        begin="00:28:29.210"
+        end="00:28:30.960"><span region="Default">It makes you breathe hard,</span></p>
+      <p
+        begin="00:28:31.380"
+        end="00:28:33.420"><span region="Default">and generates tremendous power.</span></p>
+      <p
+        begin="00:28:33.580"
+        end="00:28:34.750"><span region="Default">That's right.</span></p>
+      <p
+        begin="00:28:34.960"
+        end="00:28:39.210"><span region="Default">And it'll try to grant the desires<br/>of the one who stuck it up their nose.</span></p>
+      <p
+        begin="00:28:39.540"
+        end="00:28:40.710"><span region="Default">What?</span></p>
+      <p
+        begin="00:28:40.880"
+        end="00:28:43.920"><span region="Default">When it gets stuck in both nostrils,</span></p>
+      <p
+        begin="00:28:44.250"
+        end="00:28:48.880"><span region="Default">the boy will go out of control<br/>to fulfill his desires,</span></p>
+      <p
+        begin="00:28:49.040"
+        end="00:28:52.000"><span region="Default">turning into a brutal and barbaric</span></p>
+      <p
+        begin="00:28:52.170"
+        end="00:28:53.710"><span region="Default">belligerent tyrant!</span></p>
+      <p
+        begin="00:28:53.960"
+        end="00:28:57.170"><span region="Default">What? Bo will turn into a tyrant?</span></p>
+      <p
+        begin="00:28:57.710"
+        end="00:29:02.130"><span region="Default">It's only up one nostril,<br/>so he only has half the power.</span></p>
+      <p
+        begin="00:29:02.420"
+        end="00:29:04.710"><span region="Default">We must take that 'paper'<br/>out of his nose now!</span></p>
+      <p
+        begin="00:29:04.880"
+        end="00:29:06.460"><span region="Default">Well said, Big Bro.</span></p>
+      <p
+        begin="00:29:21.790"
+        end="00:29:23.830"><span region="Default">Naan!</span></p>
+      <p
+        begin="00:29:28.250"
+        end="00:29:29.790"><span region="Default">Your naan, Shin chan.</span></p>
+      <p
+        begin="00:29:29.960"
+        end="00:29:31.500"><span region="Default">Thanks a bunch.</span></p>
+      <p
+        begin="00:29:34.210"
+        end="00:29:37.670"><span region="Default">It's just naan bread. Needs curry.</span></p>
+      <p
+        begin="00:29:37.880"
+        end="00:29:39.210"><span region="Default">Curry for Shin chan!</span></p>
+      <p
+        begin="00:29:39.380"
+        end="00:29:44.130"><span region="Default">Curry for Shin chan!<br/>Curry for Shin chan!</span></p>
+      <p
+        begin="00:29:44.830"
+        end="00:29:45.960"><span region="Default">Bo!</span></p>
+      <p
+        begin="00:29:49.170"
+        end="00:29:52.380"><span region="Default">He's strong. I can't believe...</span></p>
+      <p
+        begin="00:29:53.040"
+        end="00:29:57.880"><span region="Default">he subdued my potential partner,<br/>the King of All Ratels.</span></p>
+      <p
+        begin="00:29:59.080"
+        end="00:30:00.750"><span region="Default">Catch him!</span></p>
+      <p
+        begin="00:30:03.880"
+        end="00:30:07.500"><span region="Default">Shin chan's curry. Shin chan's curry.</span></p>
+      <p
+        begin="00:30:07.670"
+        end="00:30:10.460"><span region="Default">Shin chan hates green pepper.<br/>He likes meat.</span></p>
+      <p
+        begin="00:30:10.710"
+        end="00:30:11.460"><span region="Default">Bo!</span></p>
+      <p
+        begin="00:30:11.920"
+        end="00:30:12.920"><span region="Default">And Tandoori chicken.</span></p>
+      <p
+        begin="00:30:13.210"
+        end="00:30:16.380"><span region="Default">He likes rice too. And naan.<br/>We have naan. We do.</span></p>
+      <p
+        begin="00:30:16.540"
+        end="00:30:19.330"><span region="Default">Shin chan's curry. Shin chan's curry.</span></p>
+      <p
+        begin="00:30:21.790"
+        end="00:30:26.130"><span region="Default">Shin chan's curry. He likes meat.<br/>And fish. And shrimp.</span></p>
+      <p
+        begin="00:30:26.290"
+        end="00:30:30.830"><span region="Default">Does he like onions?<br/>Likes spicy food too, but not too spicy.</span></p>
+      <p
+        begin="00:30:31.000"
+        end="00:30:33.420"><span region="Default">Shin chan's curry. Shin chan's curry.</span></p>
+      <p
+        begin="00:30:34.920"
+        end="00:30:36.830"><span region="Default">What are you doing to the kids?!</span></p>
+      <p
+        begin="00:30:37.000"
+        end="00:30:38.580"><span region="Default">We'll take care of it.</span></p>
+      <p
+        begin="00:30:40.000"
+        end="00:30:41.920"><span region="Default">In one fell swoop.</span></p>
+      <p
+        begin="00:30:42.080"
+        end="00:30:43.000"><span region="Default">Yeah.</span></p>
+      <p
+        begin="00:30:45.710"
+        end="00:30:49.920"><span region="Default">We'll draw out<br/>120% of our latent abilities.</span></p>
+      <p
+        begin="00:30:50.080"
+        end="00:30:52.460"><span region="Default">This is the power of India!</span></p>
+      <p
+        begin="00:30:57.920"
+        end="00:31:00.580"><span region="Default">Let's sing! India power!</span></p>
+      <p
+        begin="00:31:00.750"
+        end="00:31:03.460"><span region="Default">Can you feel it? Inside me</span></p>
+      <p
+        begin="00:31:03.630"
+        end="00:31:06.290"><span region="Default">Let's dance! India power!</span></p>
+      <p
+        begin="00:31:06.460"
+        end="00:31:09.210"><span region="Default">I know it's there!<br/>The power that lies dormant</span></p>
+      <p
+        begin="00:31:09.380"
+        end="00:31:11.880"><span region="Default">Pushing forward<br/>On the path of the unknown</span></p>
+      <p
+        begin="00:31:12.170"
+        end="00:31:16.920"><span region="Default">We are Hot! Super spicy curry</span></p>
+      <p
+        begin="00:31:17.830"
+        end="00:31:20.380"><span region="Default">Singing makes you strong</span></p>
+      <p
+        begin="00:31:20.540"
+        end="00:31:23.250"><span region="Default">The drumbeat of your heart</span></p>
+      <p
+        begin="00:31:23.420"
+        end="00:31:26.040"><span region="Default">Dancing lights up your passion</span></p>
+      <p
+        begin="00:31:26.210"
+        end="00:31:29.500"><span region="Default">Limits? Common sense? Chai, chai, chai</span></p>
+      <p
+        begin="00:31:30.540"
+        end="00:31:32.250"><span region="Default">They're powering up?</span></p>
+      <p
+        begin="00:31:32.420"
+        end="00:31:37.750"><span region="Default">I don't care about shattered samosas<br/>That's my song</span></p>
+      <p
+        begin="00:31:37.920"
+        end="00:31:40.500"><span region="Default">Masala chai for spilled tears</span></p>
+      <p
+        begin="00:31:40.670"
+        end="00:31:43.330"><span region="Default">That's my love song</span></p>
+      <p
+        begin="00:31:43.580"
+        end="00:31:48.830"><span region="Default">Okay! Full throttle, top gear!</span></p>
+      <p
+        begin="00:31:49.290"
+        end="00:31:51.920"><span region="Default">Let's sing! India power!</span></p>
+      <p
+        begin="00:31:52.210"
+        end="00:31:54.880"><span region="Default">Are you feeling it? Inside me</span></p>
+      <p
+        begin="00:31:55.040"
+        end="00:31:57.630"><span region="Default">Let's dance! India power!</span></p>
+      <p
+        begin="00:31:57.790"
+        end="00:32:00.580"><span region="Default">Awaken! The power that lies dormant</span></p>
+      <p
+        begin="00:32:00.750"
+        end="00:32:03.500"><span region="Default">Push forward to the unknown!</span></p>
+      <p
+        begin="00:32:03.670"
+        end="00:32:08.290"><span region="Default">We are Hot!<br/>Super spicy curry</span></p>
+      <p
+        begin="00:32:08.710"
+        end="00:32:10.790"><span region="Default">India Power is amazing!</span></p>
+      <p
+        begin="00:32:10.960"
+        end="00:32:15.540"><span region="Default">India power!</span></p>
+      <p
+        begin="00:32:17.250"
+        end="00:32:18.210"><span region="Default">Oh, no!</span></p>
+      <p
+        begin="00:32:18.380"
+        end="00:32:19.330"><span region="Default">The train!</span></p>
+      <p
+        begin="00:32:19.500"
+        end="00:32:20.960"><span region="Default">Must go to Mushibai.</span></p>
+      <p
+        begin="00:32:21.130"
+        end="00:32:22.210"><span region="Default">Bo?</span></p>
+      <p
+        begin="00:32:22.540"
+        end="00:32:24.920"><span region="Default">We'll all join the festival.</span></p>
+      <p
+        begin="00:32:47.500"
+        end="00:32:49.000"><span region="Default">Wait...</span></p>
+      <p
+        begin="00:32:55.080"
+        end="00:32:56.670"><span region="Default">I'm starving.</span></p>
+      <p
+        begin="00:32:58.750"
+        end="00:33:00.960"><span region="Default">No picking up food from the floor!</span></p>
+      <p
+        begin="00:33:21.420"
+        end="00:33:23.960"><span region="Default">I'm amazing, aren't I?</span></p>
+      <p
+        begin="00:33:28.250"
+        end="00:33:30.540"><span region="Default">I can even do this.</span></p>
+      <p
+        begin="00:33:31.830"
+        end="00:33:33.290"><span region="Default">What happened to him?</span></p>
+      <p
+        begin="00:33:33.460"
+        end="00:33:35.460"><span region="Default">I've never seen Bo like that before.</span></p>
+      <p
+        begin="00:33:35.630"
+        end="00:33:37.040"><span region="Default">Wait, Bo!</span></p>
+      <p
+        begin="00:33:37.210"
+        end="00:33:39.000"><span region="Default">I can do anything.</span></p>
+      <p
+        begin="00:33:42.290"
+        end="00:33:43.750"><span region="Default">I'm amazing.</span></p>
+      <p
+        begin="00:34:01.630"
+        end="00:34:03.880"><span region="Default">Bo! It's dangerous!</span></p>
+      <p
+        begin="00:34:04.040"
+        end="00:34:05.460"><span region="Default">Pull that piece of paper out!</span></p>
+      <p
+        begin="00:34:06.380"
+        end="00:34:07.420"><span region="Default">What?</span></p>
+      <p
+        begin="00:34:07.580"
+        end="00:34:11.670"><span region="Default">You've gone weird because<br/>of that tissue in your nose!</span></p>
+      <p
+        begin="00:34:17.580"
+        end="00:34:19.130"><span region="Default">"Weird"?</span></p>
+      <p
+        begin="00:34:20.540"
+        end="00:34:23.210"><span region="Default">I'm weird?</span></p>
+      <p
+        begin="00:34:24.250"
+        end="00:34:29.000"><span region="Default">I'm not weird. Not at all.</span></p>
+      <p
+        begin="00:34:31.170"
+        end="00:34:34.000"><span region="Default">I'm awesome now!</span></p>
+      <p
+        begin="00:34:37.750"
+        end="00:34:38.580"><span region="Default">Bo...</span></p>
+      <p
+        begin="00:34:38.750"
+        end="00:34:40.710"><span region="Default">Butt-shaking boy!</span></p>
+      <p
+        begin="00:34:41.040"
+        end="00:34:43.380"><span region="Default">Throw that backpack this way!</span></p>
+      <p
+        begin="00:34:43.960"
+        end="00:34:48.750"><span region="Default">Don't let snotty boy get the other<br/>piece of paper at all costs!</span></p>
+      <p
+        begin="00:34:53.630"
+        end="00:34:56.630"><span region="Default">There's another piece.</span></p>
+      <p
+        begin="00:35:05.330"
+        end="00:35:08.830"><span region="Default">Two pieces and it'll be complete.</span></p>
+      <p
+        begin="00:35:09.170"
+        end="00:35:11.920"><span region="Default">I want it. I want the other one too!</span></p>
+      <p
+        begin="00:35:12.080"
+        end="00:35:13.880"><span region="Default">I want it! I want it!</span></p>
+      <p
+        begin="00:35:14.040"
+        end="00:35:17.330"><span region="Default">The piece of paper up snotty boy's nose</span></p>
+      <p
+        begin="00:35:17.500"
+        end="00:35:19.830"><span region="Default">is craving for the other piece!</span></p>
+      <p
+        begin="00:35:20.080"
+        end="00:35:21.250"><span region="Default">Shiro!</span></p>
+      <p
+        begin="00:35:21.830"
+        end="00:35:26.000"><span region="Default">Bo, what happened to you?<br/>You're not yourself anymore!</span></p>
+      <p
+        begin="00:35:26.540"
+        end="00:35:29.330"><span region="Default">Bo is calmer and gentler!</span></p>
+      <p
+        begin="00:35:29.500"
+        end="00:35:34.330"><span region="Default">Yes! He's nicer!<br/>And a good boy, too!</span></p>
+      <p
+        begin="00:35:41.540"
+        end="00:35:42.540"><span region="Default">Bo!</span></p>
+      <p
+        begin="00:35:48.920"
+        end="00:35:50.210"><span region="Default">Bo...</span></p>
+      <p
+        begin="00:35:51.630"
+        end="00:35:54.250"><span region="Default">What do you know about me?</span></p>
+      <p
+        begin="00:35:58.210"
+        end="00:35:59.460"><span region="Default">Bo?</span></p>
+      <p
+        begin="00:36:00.420"
+        end="00:36:06.880"><span region="Default">What do you know about me!</span></p>
+      <p
+        begin="00:36:16.460"
+        end="00:36:19.040"><span region="Default">I found a strongman.</span></p>
+      <p
+        begin="00:36:21.250"
+        end="00:36:22.580"><span region="Default">Shinnosuke!</span></p>
+      <p
+        begin="00:36:23.460"
+        end="00:36:25.460"><span region="Default">Dad!</span></p>
+      <p
+        begin="00:36:44.330"
+        end="00:36:47.880"><span region="Default">Kabir Katchapapal Pakkapapal<br/>Katchapapal Pakkapapal!</span></p>
+      <p
+        begin="00:36:49.830"
+        end="00:36:52.540"><span region="Default">Dill!</span></p>
+      <p
+        begin="00:36:52.710"
+        end="00:36:54.960"><span region="Default">Masao! Shiro!</span></p>
+      <p
+        begin="00:37:02.580"
+        end="00:37:05.830"><span region="Default">Shinnosuke!</span></p>
+      <p
+        begin="00:37:53.330"
+        end="00:37:55.420"><span region="Default">Where am I?</span></p>
+      <p
+        begin="00:37:56.670"
+        end="00:37:59.830"><span region="Default">Dad! Mom!</span></p>
+      <p
+        begin="00:38:12.830"
+        end="00:38:16.040"><span region="Default">This is Mushibai, in Hagashimir province.</span></p>
+      <p
+        begin="00:38:17.290"
+        end="00:38:20.170"><span region="Default">Where the festival will take place.</span></p>
+      <p
+        begin="00:38:21.250"
+        end="00:38:22.540"><span region="Default">Hi, Cube.</span></p>
+      <p
+        begin="00:38:22.920"
+        end="00:38:23.880"><span region="Default">Yes, Sir?</span></p>
+      <p
+        begin="00:38:24.210"
+        end="00:38:26.630"><span region="Default">Get the car. Autopilot.</span></p>
+      <p
+        begin="00:38:26.790"
+        end="00:38:28.210"><span region="Default">As you wish.</span></p>
+      <p
+        begin="00:38:36.130"
+        end="00:38:39.040"><span region="Default">Come to my castle. Hop on.</span></p>
+      <p
+        begin="00:38:39.290"
+        end="00:38:42.750"><span region="Default">You're invited to my castle.<br/>Please get in the car.</span></p>
+      <p
+        begin="00:38:42.920"
+        end="00:38:46.960"><span region="Default">Don't be shy, Bo. You're my partner.</span></p>
+      <p
+        begin="00:38:48.210"
+        end="00:38:49.290"><span region="Default">Right?</span></p>
+      <p
+        begin="00:38:51.750"
+        end="00:38:55.540"><span region="Default">Hey! What the hell are you doing?</span></p>
+      <p
+        begin="00:38:57.000"
+        end="00:38:58.170"><span region="Default">Hiroshi!</span></p>
+      <p
+        begin="00:38:59.330"
+        end="00:39:01.170"><span region="Default">Bo! Get away from him!</span></p>
+      <p
+        begin="00:39:02.580"
+        end="00:39:04.210"><span region="Default">Let go of me, you bastard!</span></p>
+      <p
+        begin="00:39:04.380"
+        end="00:39:08.130"><span region="Default">It's okay, Shin chan's mom and dad.</span></p>
+      <p
+        begin="00:39:08.460"
+        end="00:39:09.420"><span region="Default">Huh?</span></p>
+      <p
+        begin="00:39:11.000"
+        end="00:39:16.170"><span region="Default">I don't need to be protected<br/>by anyone anymore.</span></p>
+      <p
+        begin="00:39:17.420"
+        end="00:39:18.630"><span region="Default">Bo...?</span></p>
+      <p
+        begin="00:39:19.080"
+        end="00:39:23.330"><span region="Default">Come on. Partner, up front.<br/>The rest of you in the back.</span></p>
+      <p
+        begin="00:39:26.460"
+        end="00:39:29.170"><span region="Default">What are you doing?<br/>They're little kids!</span></p>
+      <p
+        begin="00:39:32.580"
+        end="00:39:34.500"><span region="Default">- What?<br/>- How dare you?</span></p>
+      <p
+        begin="00:39:34.670"
+        end="00:39:36.000"><span region="Default">Hey, Bo!</span></p>
+      <p
+        begin="00:39:36.380"
+        end="00:39:37.250"><span region="Default">Bo!</span></p>
+      <p
+        begin="00:39:37.670"
+        end="00:39:40.460"><span region="Default">We have to go find<br/>Shinnosuke and Masao!</span></p>
+      <p
+        begin="00:39:40.710"
+        end="00:39:44.000"><span region="Default">I'll take care of it.<br/>I'll prepare perfectly.</span></p>
+      <p
+        begin="00:39:44.170"
+        end="00:39:45.170"><span region="Default">Prepare?</span></p>
+      <p
+        begin="00:39:45.750"
+        end="00:39:50.790"><span region="Default">For the entertainment festival.<br/>We came here to perform there.</span></p>
+      <p
+        begin="00:39:51.250"
+        end="00:39:55.170"><span region="Default">We came here to perform<br/>at the Entertainment Festival.</span></p>
+      <p
+        begin="00:39:55.330"
+        end="00:40:01.540"><span region="Default">Right! Then let's buy<br/>the whole festival for my partner, Bo!</span></p>
+      <p
+        begin="00:40:01.710"
+        end="00:40:03.250"><span region="Default">Buy the whole festival?</span></p>
+      <p
+        begin="00:40:03.420"
+        end="00:40:05.040"><span region="Default">That can't be possible...</span></p>
+      <p
+        begin="00:40:08.540"
+        end="00:40:12.500"><span region="Default">This is the Amazing Cube.<br/>I spent a trillion yen to develop it.</span></p>
+      <p
+        begin="00:40:12.670"
+        end="00:40:17.920"><span region="Default">It allows me to instantly connect to<br/>the entire world network via satellite</span></p>
+      <p
+        begin="00:40:18.080"
+        end="00:40:19.880"><span region="Default">and do anything I want.</span></p>
+      <p
+        begin="00:40:20.580"
+        end="00:40:22.920"><span region="Default">Now the festival is ours.</span></p>
+      <p
+        begin="00:40:23.420"
+        end="00:40:24.710"><span region="Default">Do as you please.</span></p>
+      <p
+        begin="00:40:24.880"
+        end="00:40:27.170"><span region="Default">Urufu &amp; Bo Inc. presents</span></p>
+      <p
+        begin="00:40:27.330"
+        end="00:40:28.880"><span region="Default">The Entertainment Festival!</span></p>
+      <p
+        begin="00:40:30.380"
+        end="00:40:34.500"><span region="Default">No need to thank me.<br/>I'm your partner.</span></p>
+      <p
+        begin="00:40:34.880"
+        end="00:40:36.130"><span region="Default">Right?</span></p>
+      <p
+        begin="00:40:36.710"
+        end="00:40:38.750"><span region="Default">Hey! Stay away from Bo!</span></p>
+      <p
+        begin="00:40:38.920"
+        end="00:40:40.290"><span region="Default">Who the hell are you?</span></p>
+      <p
+        begin="00:40:42.080"
+        end="00:40:43.130"><span region="Default">Hi, Cube.</span></p>
+      <p
+        begin="00:40:43.290"
+        end="00:40:44.000"><span region="Default">Yes, Sir?</span></p>
+      <p
+        begin="00:40:44.170"
+        end="00:40:46.630"><span region="Default">Start the music.</span></p>
+      <p
+        begin="00:40:55.330"
+        end="00:40:59.380"><span region="Default">Yeah! Ho Ho<br/>Gorgeous rich guy</span></p>
+      <p
+        begin="00:40:59.540"
+        end="00:41:01.420"><span region="Default">Ya Ha Ha! Cool</span></p>
+      <p
+        begin="00:41:01.580"
+        end="00:41:03.540"><span region="Default">I'll tell you about me.</span></p>
+      <p
+        begin="00:41:03.710"
+        end="00:41:07.830"><span region="Default">The Ganges echoed with my first cry<br/>I am Urufu the Perfect</span></p>
+      <p
+        begin="00:41:08.000"
+        end="00:41:11.960"><span region="Default">The hottest man in India<br/>Gorgeous rich guy</span></p>
+      <p
+        begin="00:41:12.130"
+        end="00:41:15.960"><span region="Default">Kangchenjunga hair<br/>A trillion yen is small change</span></p>
+      <p
+        begin="00:41:16.210"
+        end="00:41:20.380"><span region="Default">Happiness, health, time<br/>and sleeping in, I can buy it all</span></p>
+      <p
+        begin="00:41:20.540"
+        end="00:41:23.420"><span region="Default">Everyone loves me</span></p>
+      <p
+        begin="00:41:24.460"
+        end="00:41:27.580"><span region="Default">This perfect man has just one wish</span></p>
+      <p
+        begin="00:41:28.630"
+        end="00:41:32.580"><span region="Default">The best partner<br/>To share my path with</span></p>
+      <p
+        begin="00:41:33.000"
+        end="00:41:35.000"><span region="Default">And many adventures<br/>I finally found him</span></p>
+      <p
+        begin="00:41:35.170"
+        end="00:41:37.040"><span region="Default">It's you, Mr. Bo!</span></p>
+      <p
+        begin="00:41:37.210"
+        end="00:41:39.130"><span region="Default">Tell me what you need<br/>and I'll give you everything.</span></p>
+      <p
+        begin="00:41:39.290"
+        end="00:41:42.580"><span region="Default">I can't live without you now</span></p>
+      <p
+        begin="00:41:42.750"
+        end="00:41:44.580"><span region="Default">You neither, right?</span></p>
+      <p
+        begin="00:41:44.750"
+        end="00:41:47.330"><span region="Default">(That's a partner)</span></p>
+      <p
+        begin="00:41:47.500"
+        end="00:41:52.670"><span region="Default">With you, I'll be super warm in winter</span></p>
+      <p
+        begin="00:41:52.830"
+        end="00:41:55.460"><span region="Default">(That's a heater)</span></p>
+      <p
+        begin="00:41:55.830"
+        end="00:42:01.040"><span region="Default">You always steal my heart</span></p>
+      <p
+        begin="00:42:01.210"
+        end="00:42:04.080"><span region="Default">(That's a burglar)</span></p>
+      <p
+        begin="00:42:05.420"
+        end="00:42:06.960"><span region="Default">What the heck?</span></p>
+      <p
+        begin="00:42:08.750"
+        end="00:42:11.750"><span region="Default">Dill, you left me all alone...</span></p>
+      <p
+        begin="00:42:12.040"
+        end="00:42:17.170"><span region="Default">You're a cop, right? Sing again<br/>and do something with your India power!</span></p>
+      <p
+        begin="00:42:17.580"
+        end="00:42:24.380"><span region="Default">Let's sing. India power...</span></p>
+      <p
+        begin="00:42:24.540"
+        end="00:42:25.670"><span region="Default">Gloomy.</span></p>
+      <p
+        begin="00:42:26.380"
+        end="00:42:29.040"><span region="Default">What exactly is that 'paper'?</span></p>
+      <p
+        begin="00:42:29.210"
+        end="00:42:31.670"><span region="Default">You said it makes desires come true.</span></p>
+      <p
+        begin="00:42:31.960"
+        end="00:42:35.210"><span region="Default">"I want to eat that."<br/>"I want this."...</span></p>
+      <p
+        begin="00:42:35.380"
+        end="00:42:39.130"><span region="Default">Human desire is immeasurable,<br/>like the deep ocean.</span></p>
+      <p
+        begin="00:42:40.080"
+        end="00:42:43.830"><span region="Default">I think that 'paper' gives the power<br/>to make desires come true</span></p>
+      <p
+        begin="00:42:44.000"
+        end="00:42:46.460"><span region="Default">to whoever sticks it in their nose.</span></p>
+      <p
+        begin="00:42:46.630"
+        end="00:42:48.830"><span region="Default">The power to make desires come true?</span></p>
+      <p
+        begin="00:42:49.960"
+        end="00:42:53.460"><span region="Default">Some say that, since ancient times,</span></p>
+      <p
+        begin="00:42:53.630"
+        end="00:42:57.130"><span region="Default">people who are considered tyrants<br/>might have been influenced</span></p>
+      <p
+        begin="00:42:57.290"
+        end="00:42:59.670"><span region="Default">by that 'paper'.</span></p>
+      <p
+        begin="00:43:00.790"
+        end="00:43:04.080"><span region="Default">The last time its existence<br/>was recorded</span></p>
+      <p
+        begin="00:43:04.250"
+        end="00:43:05.880"><span region="Default">was 35 years ago in India.</span></p>
+      <p
+        begin="00:43:06.330"
+        end="00:43:10.830"><span region="Default">When an elephant destroyed a village<br/>with just his nose.</span></p>
+      <p
+        begin="00:43:11.080"
+        end="00:43:12.580"><span region="Default">An elephant?</span></p>
+      <p
+        begin="00:43:12.750"
+        end="00:43:16.830"><span region="Default">It was a beautiful village<br/>growing bananas.</span></p>
+      <p
+        begin="00:43:18.330"
+        end="00:43:22.330"><span region="Default">Look! It's got two pieces of paper<br/>stuck in its nose.</span></p>
+      <p
+        begin="00:43:23.170"
+        end="00:43:30.460"><span region="Default">Maybe the elephant's desire<br/>to eat bananas destroyed the village.</span></p>
+      <p
+        begin="00:43:31.000"
+        end="00:43:33.170"><span region="Default">What will happen to Bo?</span></p>
+      <p
+        begin="00:43:33.330"
+        end="00:43:38.130"><span region="Default">When the two pieces of paper are<br/>fully inserted into both nostrils,</span></p>
+      <p
+        begin="00:43:38.290"
+        end="00:43:42.880"><span region="Default">they'll become one with the boy,<br/>and he'll turn into a tyrant.</span></p>
+      <p
+        begin="00:43:45.500"
+        end="00:43:48.750"><span region="Default">I can't live without you now</span></p>
+      <p
+        begin="00:43:49.080"
+        end="00:43:50.710"><span region="Default">You neither, right?</span></p>
+      <p
+        begin="00:43:50.880"
+        end="00:43:53.500"><span region="Default">(That's a partner)</span></p>
+      <p
+        begin="00:43:53.920"
+        end="00:43:59.000"><span region="Default">You can dam up<br/>The muddy waters of sorrow</span></p>
+      <p
+        begin="00:43:59.250"
+        end="00:44:02.170"><span region="Default">(That's a barrier)</span></p>
+      <p
+        begin="00:44:04.330"
+        end="00:44:06.330"><span region="Default">What the heck is that?</span></p>
+      <p
+        begin="00:44:07.880"
+        end="00:44:09.000"><span region="Default">Misae?</span></p>
+      <p
+        begin="00:44:09.170"
+        end="00:44:11.460"><span region="Default">When I first saw that piece of paper,</span></p>
+      <p
+        begin="00:44:11.710"
+        end="00:44:14.750"><span region="Default">I felt like I wanted it so bad...</span></p>
+      <p
+        begin="00:44:14.920"
+        end="00:44:16.920"><span region="Default">But now I don't want it at all.</span></p>
+      <p
+        begin="00:44:17.210"
+        end="00:44:20.420"><span region="Default">I suppose now that it has the boy</span></p>
+      <p
+        begin="00:44:20.580"
+        end="00:44:24.880"><span region="Default">it doesn't have to tempt anyone anymore.</span></p>
+      <p
+        begin="00:44:25.290"
+        end="00:44:28.670"><span region="Default">Now, in order to turn that boy<br/>into a tyrant,</span></p>
+      <p
+        begin="00:44:28.830"
+        end="00:44:33.830"><span region="Default">it only wants the other piece<br/>of paper that butt-shaking boy has.</span></p>
+      <p
+        begin="00:44:34.330"
+        end="00:44:36.380"><span region="Default">Shinnosuke has what?</span></p>
+      <p
+        begin="00:44:36.540"
+        end="00:44:39.040"><span region="Default">The 'paper' is made of two pieces.</span></p>
+      <p
+        begin="00:44:39.460"
+        end="00:44:44.000"><span region="Default">At this point, in order to prevent<br/>the birth of a tyrant,</span></p>
+      <p
+        begin="00:44:44.170"
+        end="00:44:49.460"><span region="Default">if butt-shaking boy would run somewhere<br/>far away with his piece of paper...</span></p>
+      <p
+        begin="00:44:49.630"
+        end="00:44:52.460"><span region="Default">His name is not "butt-shaking boy"!</span></p>
+      <p
+        begin="00:44:52.630"
+        end="00:44:53.880"><span region="Default">Shinnosuke is...</span></p>
+      <p
+        begin="00:44:54.290"
+        end="00:44:58.830"><span region="Default">my plump, smooth-skinned, butt-shaking<br/>sweet and lovely boy...</span></p>
+      <p
+        begin="00:44:59.130"
+        end="00:45:01.670"><span region="Default">Shinnosuke!</span></p>
+      <p
+        begin="00:45:01.830"
+        end="00:45:06.960"><span region="Default">If you want to see it<br/>I'll open up my heart</span></p>
+      <p
+        begin="00:45:07.130"
+        end="00:45:10.080"><span region="Default">(That's dissection)</span></p>
+      <p
+        begin="00:46:02.750"
+        end="00:46:05.710"><span region="Default">Um... I am a boy.</span></p>
+      <p
+        begin="00:46:33.080"
+        end="00:46:34.080"><span region="Default">Yo!</span></p>
+      <p
+        begin="00:46:41.420"
+        end="00:46:43.040"><span region="Default">Elephants.</span></p>
+      <p
+        begin="00:46:44.040"
+        end="00:46:45.830"><span region="Default">Elephants...</span></p>
+      <p
+        begin="00:46:49.170"
+        end="00:46:54.880"><span region="Default">Elephant, elephant.<br/>I'm so popular.</span></p>
+      <p
+        begin="00:47:09.670"
+        end="00:47:14.170"><span region="Default">Panic, panic, panic<br/>Everyone's rushing around</span></p>
+      <p
+        begin="00:47:15.540"
+        end="00:47:20.630"><span region="Default">I'm amazing, I'm a genius</span></p>
+      <p
+        begin="00:47:21.330"
+        end="00:47:26.420"><span region="Default">Powerful, powerful, full power!<br/>Hey, Misae</span></p>
+      <p
+        begin="00:47:26.880"
+        end="00:47:31.250"><span region="Default">I'm enjoying my silly day<br/>I'm fine!</span></p>
+      <p
+        begin="00:47:32.670"
+        end="00:47:38.000"><span region="Default">If you want to hang out with the girls<br/>Leave it to me</span></p>
+      <p
+        begin="00:47:38.540"
+        end="00:47:43.540"><span region="Default">Three or four, you have to be passionate</span></p>
+      <p
+        begin="00:47:44.830"
+        end="00:47:49.830"><span region="Default">Come on baby, come on baby<br/>Can you eat onions?</span></p>
+      <p
+        begin="00:47:50.580"
+        end="00:47:53.380"><span region="Default">You make me blush<br/>If you stare at me</span></p>
+      <p
+        begin="00:47:53.540"
+        end="00:47:58.250"><span region="Default">Elephant, elephant<br/>I'm so popular</span></p>
+      <p
+        begin="00:47:58.420"
+        end="00:47:59.210"><span region="Default">Namaste!</span></p>
+      <p
+        begin="00:47:59.380"
+        end="00:48:03.790"><span region="Default">Panic, panic, panic<br/>Everyone's rushing around</span></p>
+      <p
+        begin="00:48:05.170"
+        end="00:48:12.670"><span region="Default">I'm amazing, I'm a genius<br/>Got a bright future ahead of me</span></p>
+      <p
+        begin="00:48:28.580"
+        end="00:48:33.580"><span region="Default">Come on baby, come on baby<br/>Can you eat onions?</span></p>
+      <p
+        begin="00:48:34.380"
+        end="00:48:37.210"><span region="Default">You make me blush<br/>If you stare at me</span></p>
+      <p
+        begin="00:48:37.380"
+        end="00:48:41.880"><span region="Default">Elephant, elephant<br/>I'm so popular</span></p>
+      <p
+        begin="00:48:42.040"
+        end="00:48:43.130"><span region="Default">Namaste!</span></p>
+      <p
+        begin="00:48:43.290"
+        end="00:48:47.830"><span region="Default">Panic, panic, panic<br/>Everyone's rushing around</span></p>
+      <p
+        begin="00:48:49.080"
+        end="00:48:56.790"><span region="Default">I'm amazing, I'm a genius<br/>Got a bright future ahead of me</span></p>
+      <p
+        begin="00:48:56.960"
+        end="00:49:01.130"><span region="Default">Hey lady, do you like green peppers?<br/>Can you eat carrots?</span></p>
+      <p
+        begin="00:49:01.290"
+        end="00:49:03.830"><span region="Default">Do you put green onions in your natto?</span></p>
+      <p
+        begin="00:49:15.710"
+        end="00:49:19.420"><span region="Default">I wish everyone happiness!</span></p>
+      <p
+        begin="00:49:19.580"
+        end="00:49:23.080"><span region="Default">Great, Ariana. Fantastic work.</span></p>
+      <p
+        begin="00:49:23.250"
+        end="00:49:27.130"><span region="Default">Make everyone happy with that smile<br/>at this year's festival.</span></p>
+      <p
+        begin="00:49:27.460"
+        end="00:49:29.460"><span region="Default">Thank you, I'll do my best.</span></p>
+      <p
+        begin="00:49:29.880"
+        end="00:49:31.880"><span region="Default">Ariana is rehearsing!</span></p>
+      <p
+        begin="00:49:32.330"
+        end="00:49:33.630"><span region="Default">- Let's go watch.<br/>- Yeah.</span></p>
+      <p
+        begin="00:49:33.790"
+        end="00:49:35.040"><span region="Default">Ariana is here!</span></p>
+      <p
+        begin="00:49:35.330"
+        end="00:49:39.500"><span region="Default">- Ariana!<br/>- Smile, Ariana!</span></p>
+      <p
+        begin="00:49:39.830"
+        end="00:49:41.460"><span region="Default">You'll be on stage soon.</span></p>
+      <p
+        begin="00:49:42.080"
+        end="00:49:45.380"><span region="Default">Mom and Dad will be cheering for you<br/>from here.</span></p>
+      <p
+        begin="00:49:45.540"
+        end="00:49:47.290"><span region="Default">Keep smiling. Do your best.</span></p>
+      <p
+        begin="00:49:47.460"
+        end="00:49:51.500"><span region="Default">I know. We're leaving soon. Bye.</span></p>
+      <p
+        begin="00:49:57.380"
+        end="00:50:02.380"><span region="Default">Always smile.<br/>No one wants to see me depressed.</span></p>
+      <p
+        begin="00:50:08.880"
+        end="00:50:16.250"><span region="Default">I'm smiling for someone else's sake</span></p>
+      <p
+        begin="00:50:17.670"
+        end="00:50:22.290"><span region="Default">Being the beautiful me<br/>Reflected in everyone's eyes</span></p>
+      <p
+        begin="00:50:23.670"
+        end="00:50:30.460"><span region="Default">I want to keep shining<br/>But I feel somewhat frustrated</span></p>
+      <p
+        begin="00:50:31.000"
+        end="00:50:35.170"><span region="Default">I don't want to be hated</span></p>
+      <p
+        begin="00:50:35.330"
+        end="00:50:39.290"><span region="Default">I just don't want to be alone</span></p>
+      <p
+        begin="00:50:39.460"
+        end="00:50:46.040"><span region="Default">I'm always a good girl<br/>I don't know what to do anymore</span></p>
+      <p
+        begin="00:50:56.380"
+        end="00:50:57.250"><span region="Default">What?</span></p>
+      <p
+        begin="00:50:57.420"
+        end="00:50:58.580"><span region="Default">Once again.</span></p>
+      <p
+        begin="00:51:01.920"
+        end="00:51:02.710"><span region="Default">Here.</span></p>
+      <p
+        begin="00:51:03.380"
+        end="00:51:04.170"><span region="Default">What?</span></p>
+      <p
+        begin="00:51:04.460"
+        end="00:51:09.630"><span region="Default">When you're down, you should eat<br/>something sweet and indulge yourself.</span></p>
+      <p
+        begin="00:51:09.790"
+        end="00:51:11.130"><span region="Default">That's what my mom said.</span></p>
+      <p
+        begin="00:51:11.420"
+        end="00:51:13.710"><span region="Default">I'm not down.</span></p>
+      <p
+        begin="00:51:14.040"
+        end="00:51:16.040"><span region="Default">She can understand me?</span></p>
+      <p
+        begin="00:51:16.210"
+        end="00:51:18.380"><span region="Default">I'm speaking Indian?!</span></p>
+      <p
+        begin="00:51:18.540"
+        end="00:51:20.130"><span region="Default">I'm a genius!</span></p>
+      <p
+        begin="00:51:20.290"
+        end="00:51:22.670"><span region="Default">I'm speaking Japanese.</span></p>
+      <p
+        begin="00:51:22.830"
+        end="00:51:25.670"><span region="Default">I studied Japanese because I love anime.</span></p>
+      <p
+        begin="00:51:26.130"
+        end="00:51:28.500"><span region="Default">Sparkle! A feeling of love!</span></p>
+      <p
+        begin="00:51:28.670"
+        end="00:51:31.630"><span region="Default">Flutter!<br/>Friendship! Love! Self-esteem!</span></p>
+      <p
+        begin="00:51:32.000"
+        end="00:51:34.080"><span region="Default">'Shake Shake Bootycure!'</span></p>
+      <p
+        begin="00:51:34.330"
+        end="00:51:36.580"><span region="Default">Wow! So you know about it.</span></p>
+      <p
+        begin="00:51:36.750"
+        end="00:51:38.920"><span region="Default">I watch it with Himawari.</span></p>
+      <p
+        begin="00:51:41.670"
+        end="00:51:45.170"><span region="Default">An ordinary girl faces up<br/>to any challenge with her friends</span></p>
+      <p
+        begin="00:51:45.330"
+        end="00:51:49.290"><span region="Default">for her and someone else's happiness.</span></p>
+      <p
+        begin="00:51:51.210"
+        end="00:51:54.580"><span region="Default">Shake Shake Bootycure!</span></p>
+      <p
+        begin="00:51:55.500"
+        end="00:51:56.830"><span region="Default">So cool!</span></p>
+      <p
+        begin="00:51:57.000"
+        end="00:51:59.080"><span region="Default">I'm Bootycure Shinnosuke!</span></p>
+      <p
+        begin="00:51:59.250"
+        end="00:52:02.080"><span region="Default">I'm Bootycure Ariana!</span></p>
+      <p
+        begin="00:52:04.000"
+        end="00:52:05.920"><span region="Default">What are you doing here?</span></p>
+      <p
+        begin="00:52:06.250"
+        end="00:52:09.380"><span region="Default">I'm looking for Bo and the others.</span></p>
+      <p
+        begin="00:52:10.580"
+        end="00:52:11.920"><span region="Default">Bo?</span></p>
+      <p
+        begin="00:52:14.670"
+        end="00:52:18.170"><span region="Default">This is hopeless.<br/>Getting lost in India...</span></p>
+      <p
+        begin="00:52:18.460"
+        end="00:52:22.580"><span region="Default">I can't speak the language,<br/>and I don't have any money.</span></p>
+      <p
+        begin="00:52:22.750"
+        end="00:52:24.540"><span region="Default">It's over.</span></p>
+      <p
+        begin="00:52:30.380"
+        end="00:52:35.960"><span region="Default">I don't know what to do with myself.<br/>I can't take care of a dog too!</span></p>
+      <p
+        begin="00:53:51.960"
+        end="00:53:55.000"><span region="Default">I'll follow you anywhere, Master Shiro!</span></p>
+      <p
+        begin="00:54:14.000"
+        end="00:54:17.670"><span region="Default">Bo, where are Shin chan's mom and dad?</span></p>
+      <p
+        begin="00:54:18.290"
+        end="00:54:19.630"><span region="Default">Don't worry about them.</span></p>
+      <p
+        begin="00:54:38.080"
+        end="00:54:41.960"><span region="Default">Shinnosuke...<br/>Masao... Shiro...</span></p>
+      <p
+        begin="00:54:44.130"
+        end="00:54:46.670"><span region="Default">Please be safe!</span></p>
+      <p
+        begin="00:54:47.130"
+        end="00:54:48.330"><span region="Default">Dill...</span></p>
+      <p
+        begin="00:54:49.250"
+        end="00:54:52.250"><span region="Default">Grown-ups have the duty to make curry.</span></p>
+      <p
+        begin="00:54:58.040"
+        end="00:54:59.830"><span region="Default">Bo, what are you doing?</span></p>
+      <p
+        begin="00:55:01.960"
+        end="00:55:04.920"><span region="Default">Preparing for the festival, of course.</span></p>
+      <p
+        begin="00:55:05.250"
+        end="00:55:08.670"><span region="Default">My costumes, my songs.</span></p>
+      <p
+        begin="00:55:11.580"
+        end="00:55:14.580"><span region="Default">I paid for everything.</span></p>
+      <p
+        begin="00:55:14.750"
+        end="00:55:17.710"><span region="Default">Don't worry, it's a small price to pay.</span></p>
+      <p
+        begin="00:55:17.880"
+        end="00:55:21.130"><span region="Default">I'm your one and only partner,<br/>after all.</span></p>
+      <p
+        begin="00:55:22.290"
+        end="00:55:23.630"><span region="Default">Right?</span></p>
+      <p
+        begin="00:55:25.750"
+        end="00:55:27.210"><span region="Default">Right?</span></p>
+      <p
+        begin="00:55:31.080"
+        end="00:55:34.830"><span region="Default">Hey, Bo. About that piece<br/>of paper in your nose...</span></p>
+      <p
+        begin="00:55:35.000"
+        end="00:55:36.960"><span region="Default">I think it's time to take it out.</span></p>
+      <p
+        begin="00:55:37.130"
+        end="00:55:38.670"><span region="Default">If you don't, something bad will...</span></p>
+      <p
+        begin="00:55:38.830"
+        end="00:55:43.130"><span region="Default">There's nothing bad. I'm doing great.</span></p>
+      <p
+        begin="00:55:43.290"
+        end="00:55:47.500"><span region="Default">Bo, aren't you worried<br/>about Shin chan and Masao?</span></p>
+      <p
+        begin="00:55:54.630"
+        end="00:55:55.500"><span region="Default">- Shin chan!<br/>- Shinnosuke!</span></p>
+      <p
+        begin="00:55:56.080"
+        end="00:55:57.460"><span region="Default">Found him.</span></p>
+      <p
+        begin="00:56:01.380"
+        end="00:56:02.920"><span region="Default">Looks like he's doing pretty well.</span></p>
+      <p
+        begin="00:56:03.080"
+        end="00:56:05.500"><span region="Default">Thank goodness! Shinnosuke's okay.</span></p>
+      <p
+        begin="00:56:05.670"
+        end="00:56:10.250"><span region="Default">So you've been looking for them.</span></p>
+      <p
+        begin="00:56:10.420"
+        end="00:56:12.500"><span region="Default">Why didn't you tell us?</span></p>
+      <p
+        begin="00:56:14.960"
+        end="00:56:17.330"><span region="Default">Found the 'paper'.</span></p>
+      <p
+        begin="00:56:20.330"
+        end="00:56:22.790"><span region="Default">Wait for me, Shin chan.</span></p>
+      <p
+        begin="00:56:36.630"
+        end="00:56:40.290"><span region="Default">So that boy called Bo<br/>has stuck that 'paper' up his nose</span></p>
+      <p
+        begin="00:56:40.460"
+        end="00:56:45.130"><span region="Default">and gained an incredible power<br/>that can make any desire come true?</span></p>
+      <p
+        begin="00:56:45.290"
+        end="00:56:47.920"><span region="Default">I guess so.</span></p>
+      <p
+        begin="00:56:54.250"
+        end="00:56:59.040"><span region="Default">What would you do if you had the power</span></p>
+      <p
+        begin="00:56:59.210"
+        end="00:57:00.920"><span region="Default">to make anything come true?</span></p>
+      <p
+        begin="00:57:02.750"
+        end="00:57:04.080"><span region="Default">I'd...</span></p>
+      <p
+        begin="00:57:05.130"
+        end="00:57:06.540"><span region="Default">lie around.</span></p>
+      <p
+        begin="00:57:06.710"
+        end="00:57:10.540"><span region="Default">Then slack off, and snooze off.</span></p>
+      <p
+        begin="00:57:10.960"
+        end="00:57:12.420"><span region="Default">What?</span></p>
+      <p
+        begin="00:57:13.130"
+        end="00:57:16.040"><span region="Default">I guess you don't need that 'paper'.</span></p>
+      <p
+        begin="00:57:17.960"
+        end="00:57:18.830"><span region="Default">What's that?</span></p>
+      <p
+        begin="00:57:28.580"
+        end="00:57:29.670"><span region="Default">What are those?</span></p>
+      <p
+        begin="00:57:31.040"
+        end="00:57:32.130"><span region="Default">Shin chan!</span></p>
+      <p
+        begin="00:57:32.460"
+        end="00:57:33.460"><span region="Default">Bo!</span></p>
+      <p
+        begin="00:57:33.630"
+        end="00:57:35.580"><span region="Default">The festival is about to start.</span></p>
+      <p
+        begin="00:57:36.330"
+        end="00:57:37.540"><span region="Default">I've been looking for you.</span></p>
+      <p
+        begin="00:57:37.710"
+        end="00:57:40.290"><span region="Default">Don't worry, I'll make sure</span></p>
+      <p
+        begin="00:57:40.460"
+        end="00:57:43.080"><span region="Default">you get here safely.</span></p>
+      <p
+        begin="00:57:43.460"
+        end="00:57:46.210"><span region="Default">So, do you have the 'paper'?</span></p>
+      <p
+        begin="00:57:47.580"
+        end="00:57:49.250"><span region="Default">Do you have Noselina Jolie with you?</span></p>
+      <p
+        begin="00:57:49.420"
+        end="00:57:50.630"><span region="Default">What's going on here?</span></p>
+      <p
+        begin="00:57:51.040"
+        end="00:57:53.710"><span region="Default">Bo, are you in there?</span></p>
+      <p
+        begin="00:57:53.880"
+        end="00:57:57.420"><span region="Default">I'm not.<br/>Do you have the 'paper'?</span></p>
+      <p
+        begin="00:57:57.580"
+        end="00:57:58.880"><span region="Default">Rare.</span></p>
+      <p
+        begin="00:57:59.040"
+        end="00:58:00.170"><span region="Default">Earth.</span></p>
+      <p
+        begin="00:58:00.330"
+        end="00:58:01.330"><span region="Default">Heart.</span></p>
+      <p
+        begin="00:58:01.500"
+        end="00:58:02.330"><span region="Default">Tooth.</span></p>
+      <p
+        begin="00:58:02.500"
+        end="00:58:03.630"><span region="Default">Heartache.</span></p>
+      <p
+        begin="00:58:03.830"
+        end="00:58:08.080"><span region="Default">E... e...<br/>It's not time to play word chain!</span></p>
+      <p
+        begin="00:58:08.250"
+        end="00:58:11.920"><span region="Default">N? Namaste! I love India!</span></p>
+      <p
+        begin="00:58:12.960"
+        end="00:58:14.130"><span region="Default">The 'paper'!</span></p>
+      <p
+        begin="00:58:18.830"
+        end="00:58:21.040"><span region="Default">Good, you've got it.</span></p>
+      <p
+        begin="00:58:21.580"
+        end="00:58:26.500"><span region="Default">You said that I can use Noselina<br/>whenever I want, right?</span></p>
+      <p
+        begin="00:58:26.830"
+        end="00:58:28.460"><span region="Default">Now it's the time.</span></p>
+      <p
+        begin="00:58:28.880"
+        end="00:58:31.080"><span region="Default">I want the 'paper'.</span></p>
+      <p
+        begin="00:58:31.460"
+        end="00:58:35.380"><span region="Default">I want the 'paper'. I want the 'paper'.<br/>I want the 'paper'.</span></p>
+      <p
+        begin="00:58:36.040"
+        end="00:58:37.420"><span region="Default">Bo?</span></p>
+      <p
+        begin="00:58:38.630"
+        end="00:58:41.790"><span region="Default">Shin chan! Gimme the 'paper'.</span></p>
+      <p
+        begin="00:58:43.210"
+        end="00:58:44.960"><span region="Default">Run, Shinnosuke!</span></p>
+      <p
+        begin="00:58:54.420"
+        end="00:58:55.290"><span region="Default">Kazama?</span></p>
+      <p
+        begin="00:58:57.460"
+        end="00:58:59.250"><span region="Default">Run, Shinnosuke!</span></p>
+      <p
+        begin="00:59:00.130"
+        end="00:59:02.380"><span region="Default">You must not give Bo the 'paper'!</span></p>
+      <p
+        begin="00:59:02.540"
+        end="00:59:04.880"><span region="Default">Dump it somewhere far away!</span></p>
+      <p
+        begin="00:59:06.290"
+        end="00:59:08.630"><span region="Default">Stop it! Let go of me!</span></p>
+      <p
+        begin="00:59:08.960"
+        end="00:59:10.460"><span region="Default">Kazama!</span></p>
+      <p
+        begin="00:59:15.000"
+        end="00:59:16.040"><span region="Default">Watch out!</span></p>
+      <p
+        begin="00:59:17.920"
+        end="00:59:18.790"><span region="Default">Don't interfere!</span></p>
+      <p
+        begin="00:59:21.330"
+        end="00:59:22.880"><span region="Default">Ariana!</span></p>
+      <p
+        begin="01:00:03.330"
+        end="01:00:05.290"><span region="Default">Shinnosuke! Behind you!</span></p>
+      <p
+        begin="01:00:06.290"
+        end="01:00:07.580"><span region="Default">Shake shake!</span></p>
+      <p
+        begin="01:00:11.130"
+        end="01:00:12.670"><span region="Default">We did it!</span></p>
+      <p
+        begin="01:00:13.000"
+        end="01:00:15.460"><span region="Default">We're like the Bootycure!</span></p>
+      <p
+        begin="01:00:15.630"
+        end="01:00:16.670"><span region="Default">That's right.</span></p>
+      <p
+        begin="01:00:16.830"
+        end="01:00:19.000"><span region="Default">Shake Shake Bootycure!</span></p>
+      <p
+        begin="01:00:19.290"
+        end="01:00:20.920"><span region="Default">Isn't that Ariana?</span></p>
+      <p
+        begin="01:00:21.080"
+        end="01:00:22.630"><span region="Default">What? Ariana?</span></p>
+      <p
+        begin="01:00:40.580"
+        end="01:00:42.420"><span region="Default">Ariana!</span></p>
+      <p
+        begin="01:00:52.580"
+        end="01:00:54.750"><span region="Default">Shin chan, done.</span></p>
+      <p
+        begin="01:00:55.170"
+        end="01:00:57.250"><span region="Default">Now let's find Masao.</span></p>
+      <p
+        begin="01:00:57.500"
+        end="01:00:59.040"><span region="Default">What should we do with him?</span></p>
+      <p
+        begin="01:00:59.460"
+        end="01:01:01.460"><span region="Default">Make him chop onions?</span></p>
+      <p
+        begin="01:01:01.960"
+        end="01:01:03.210"><span region="Default">Let him go.</span></p>
+      <p
+        begin="01:01:03.380"
+        end="01:01:05.330"><span region="Default">Let me go!</span></p>
+      <p
+        begin="01:01:08.880"
+        end="01:01:10.540"><span region="Default">Are you okay, Kazama?</span></p>
+      <p
+        begin="01:01:10.710"
+        end="01:01:11.670"><span region="Default">Yeah.</span></p>
+      <p
+        begin="01:01:16.880"
+        end="01:01:19.040"><span region="Default">Bo, please!</span></p>
+      <p
+        begin="01:01:19.210"
+        end="01:01:24.460"><span region="Default">Take that 'paper' out of your nose.<br/>That's why you've gone weird!</span></p>
+      <p
+        begin="01:01:25.250"
+        end="01:01:27.130"><span region="Default">I'm not weird.</span></p>
+      <p
+        begin="01:01:28.830"
+        end="01:01:30.380"><span region="Default">Didn't you know?</span></p>
+      <p
+        begin="01:01:31.290"
+        end="01:01:35.080"><span region="Default">This is the real me.</span></p>
+      <p
+        begin="01:01:36.210"
+        end="01:01:37.210"><span region="Default">Nene!</span></p>
+      <p
+        begin="01:01:37.380"
+        end="01:01:40.790"><span region="Default">Both of you,<br/>change into your stage clothes.</span></p>
+      <p
+        begin="01:01:41.170"
+        end="01:01:43.460"><span region="Default">The festival is about to begin.</span></p>
+      <p
+        begin="01:01:47.960"
+        end="01:01:49.250"><span region="Default">Oh, man.</span></p>
+      <p
+        begin="01:01:49.420"
+        end="01:01:50.420"><span region="Default">Are you okay?</span></p>
+      <p
+        begin="01:01:50.580"
+        end="01:01:53.670"><span region="Default">Now I know how a package feels.</span></p>
+      <p
+        begin="01:01:53.960"
+        end="01:01:55.210"><span region="Default">So, where are we?</span></p>
+      <p
+        begin="01:01:56.500"
+        end="01:02:01.420"><span region="Default">I think it's flying back. If we stay<br/>on board, we'll probably meet Bo.</span></p>
+      <p
+        begin="01:02:03.460"
+        end="01:02:05.630"><span region="Default">Well, I guess I'll lie down, then.</span></p>
+      <p
+        begin="01:02:11.630"
+        end="01:02:14.170"><span region="Default">- Is this Ariana?<br/>- She'd never kick a dog.</span></p>
+      <p
+        begin="01:02:14.330"
+        end="01:02:18.130"><span region="Default">- She's so nice. I can't believe it.<br/>- I'd be disappointed.</span></p>
+      <p
+        begin="01:02:18.290"
+        end="01:02:20.540"><span region="Default">- What's with the pose?<br/>- Ain't right.</span></p>
+      <p
+        begin="01:02:20.710"
+        end="01:02:24.040"><span region="Default">- I want to see her smile.<br/>- It's not like her.</span></p>
+      <p
+        begin="01:02:38.420"
+        end="01:02:42.210"><span region="Default">I'm smiling for someone else's sake</span></p>
+      <p
+        begin="01:02:42.380"
+        end="01:02:45.290"><span region="Default">Being the beautiful me<br/>Reflected in everyone's eyes</span></p>
+      <p
+        begin="01:02:46.210"
+        end="01:02:52.830"><span region="Default">I want to keep shining<br/>But I feel somewhat frustrated</span></p>
+      <p
+        begin="01:02:53.000"
+        end="01:02:56.710"><span region="Default">I don't want to be hated</span></p>
+      <p
+        begin="01:02:56.880"
+        end="01:03:00.460"><span region="Default">I just don't want to be alone</span></p>
+      <p
+        begin="01:03:00.630"
+        end="01:03:06.330"><span region="Default">I'm always a good girl<br/>I don't know</span></p>
+      <p
+        begin="01:03:06.500"
+        end="01:03:08.960"><span region="Default">what to do anymore</span></p>
+      <p
+        begin="01:03:09.130"
+        end="01:03:14.000"><span region="Default">I just smiled and laughed<br/>This is how I should be, right?</span></p>
+      <p
+        begin="01:03:14.170"
+        end="01:03:18.380"><span region="Default">The feelings I left behind<br/>Are looping</span></p>
+      <p
+        begin="01:03:18.670"
+        end="01:03:25.040"><span region="Default">The pent up feelings inside me<br/>Swell up and my heart aches</span></p>
+      <p
+        begin="01:03:25.210"
+        end="01:03:30.000"><span region="Default">I just smiled and laughed<br/>This is how I should be</span></p>
+      <p
+        begin="01:03:30.170"
+        end="01:03:34.420"><span region="Default">The feelings I pretended not to see<br/>Are looping</span></p>
+      <p
+        begin="01:03:34.580"
+        end="01:03:37.920"><span region="Default">Tell me, what is right?</span></p>
+      <p
+        begin="01:03:38.130"
+        end="01:03:41.960"><span region="Default">What should I do?<br/>What should I do?</span></p>
+      <p
+        begin="01:03:42.130"
+        end="01:03:48.420"><span region="Default">What shall I do?<br/>Tell me, what shall I do?</span></p>
+      <p
+        begin="01:03:54.920"
+        end="01:03:59.830"><span region="Default">Why?<br/>It should have been a fun festival.</span></p>
+      <p
+        begin="01:04:06.290"
+        end="01:04:09.250"><span region="Default">Don't worry. It's gonna be alright.</span></p>
+      <p
+        begin="01:04:09.750"
+        end="01:04:13.170"><span region="Default">Nene, let's do what you and I can do.</span></p>
+      <p
+        begin="01:04:14.250"
+        end="01:04:15.580"><span region="Default">You're right.</span></p>
+      <p
+        begin="01:04:29.130"
+        end="01:04:30.960"><span region="Default">Shinnosuke! Wake up.</span></p>
+      <p
+        begin="01:04:31.130"
+        end="01:04:32.000"><span region="Default">Hm?</span></p>
+      <p
+        begin="01:04:35.040"
+        end="01:04:36.710"><span region="Default">What's this place?</span></p>
+      <p
+        begin="01:04:41.710"
+        end="01:04:44.250"><span region="Default">This is Bo's...</span></p>
+      <p
+        begin="01:04:49.670"
+        end="01:04:54.920"><span region="Default">Maharaja Bo presents<br/>the Entertainment Festival!</span></p>
+      <p
+        begin="01:05:21.040"
+        end="01:05:26.710"><span region="Default">The world is at the mercy<br/>of Maharaja Bo's desires.</span></p>
+      <p
+        begin="01:05:37.330"
+        end="01:05:40.420"><span region="Default">No need to line up behind someone else.</span></p>
+      <p
+        begin="01:05:40.580"
+        end="01:05:44.790"><span region="Default">(Bo will run wild at the front)</span></p>
+      <p
+        begin="01:05:45.000"
+        end="01:05:48.000"><span region="Default">No one can stop someone else's freedom</span></p>
+      <p
+        begin="01:05:48.330"
+        end="01:05:51.170"><span region="Default">A huge mountain of curry erupting!</span></p>
+      <p
+        begin="01:05:51.750"
+        end="01:05:55.080"><span region="Default">(Boom! Drink and eat all you want)</span></p>
+      <p
+        begin="01:06:01.670"
+        end="01:06:05.210"><span region="Default">The world is at the mercy<br/>of Maharaja Bo's desires.</span></p>
+      <p
+        begin="01:06:17.170"
+        end="01:06:22.080"><span region="Default">I'll just do what I want.<br/>Sleep in like a log, bravo!</span></p>
+      <p
+        begin="01:06:22.250"
+        end="01:06:23.630"><span region="Default">At Midnight.</span></p>
+      <p
+        begin="01:06:23.790"
+        end="01:06:24.790"><span region="Default">(Out of control sunfish)</span></p>
+      <p
+        begin="01:06:24.960"
+        end="01:06:25.920"><span region="Default">And I won't brush my teeth.</span></p>
+      <p
+        begin="01:06:26.080"
+        end="01:06:28.710"><span region="Default">(Even if you get cavities?)</span></p>
+      <p
+        begin="01:06:28.880"
+        end="01:06:30.080"><span region="Default">I don't care.</span></p>
+      <p
+        begin="01:06:30.960"
+        end="01:06:32.790"><span region="Default">It's just baby teeth.</span></p>
+      <p
+        begin="01:06:32.960"
+        end="01:06:35.080"><span region="Default">(Outrageous and defiant)</span></p>
+      <p
+        begin="01:06:56.130"
+        end="01:06:58.670"><span region="Default">Nene, why aren't you dancing?</span></p>
+      <p
+        begin="01:06:59.830"
+        end="01:07:03.920"><span region="Default">Kazama, I told you to change<br/>into your stage costume, didn't I?</span></p>
+      <p
+        begin="01:07:05.710"
+        end="01:07:09.580"><span region="Default">You promised.<br/>You said we'd all dance together.</span></p>
+      <p
+        begin="01:07:11.670"
+        end="01:07:12.710"><span region="Default">Dance.</span></p>
+      <p
+        begin="01:07:12.880"
+        end="01:07:13.880"><span region="Default">-I refuse.<br/>-I refuse.</span></p>
+      <p
+        begin="01:07:14.040"
+        end="01:07:15.500"><span region="Default">We're friends, right?</span></p>
+      <p
+        begin="01:07:15.960"
+        end="01:07:18.290"><span region="Default">Because we are,<br/>I'll tell you something.</span></p>
+      <p
+        begin="01:07:18.460"
+        end="01:07:21.290"><span region="Default">You can't dictate someone's feelings.</span></p>
+      <p
+        begin="01:07:21.460"
+        end="01:07:25.000"><span region="Default">We won't be dancing<br/>to someone else's tune.</span></p>
+      <p
+        begin="01:07:26.170"
+        end="01:07:30.670"><span region="Default">If you don't dance,<br/>I'll have you chop onions.</span></p>
+      <p
+        begin="01:07:32.500"
+        end="01:07:33.830"><span region="Default">Kazama!</span></p>
+      <p
+        begin="01:07:34.250"
+        end="01:07:35.790"><span region="Default">Mommy!</span></p>
+      <p
+        begin="01:07:36.170"
+        end="01:07:38.250"><span region="Default">Toru!</span></p>
+      <p
+        begin="01:07:44.830"
+        end="01:07:46.250"><span region="Default">- Shin chan!<br/>- Shinnosuke?</span></p>
+      <p
+        begin="01:07:47.500"
+        end="01:07:48.960"><span region="Default">Are you okay?</span></p>
+      <p
+        begin="01:07:50.500"
+        end="01:07:53.130"><span region="Default">Can't you show up more normally?</span></p>
+      <p
+        begin="01:07:53.290"
+        end="01:07:57.830"><span region="Default">Hey! Why did you bring it here?<br/>I told you to dump it far away!</span></p>
+      <p
+        begin="01:07:58.000"
+        end="01:08:02.460"><span region="Default">No way I'll dump Noselina.<br/>You're so mean, Kazama.</span></p>
+      <p
+        begin="01:08:04.290"
+        end="01:08:05.960"><span region="Default">Bravo!</span></p>
+      <p
+        begin="01:08:11.040"
+        end="01:08:12.420"><span region="Default">Welcome to the festival.</span></p>
+      <p
+        begin="01:08:12.790"
+        end="01:08:16.830"><span region="Default">Bo, you've changed quite a lot<br/>since the last time I saw you.</span></p>
+      <p
+        begin="01:08:17.000"
+        end="01:08:19.460"><span region="Default">Kids grow up quickly, you know.</span></p>
+      <p
+        begin="01:08:20.000"
+        end="01:08:24.380"><span region="Default">Shin chan, give me the 'paper'.<br/>Then...</span></p>
+      <p
+        begin="01:08:24.670"
+        end="01:08:26.580"><span region="Default">Let's all dance!</span></p>
+      <p
+        begin="01:08:31.170"
+        end="01:08:32.250"><span region="Default">Bo!</span></p>
+      <p
+        begin="01:08:32.630"
+        end="01:08:33.670"><span region="Default">Shin chan!</span></p>
+      <p
+        begin="01:08:33.830"
+        end="01:08:34.670"><span region="Default">Bo!</span></p>
+      <p
+        begin="01:08:34.830"
+        end="01:08:35.710"><span region="Default">Shin chan!</span></p>
+      <p
+        begin="01:08:35.880"
+        end="01:08:38.920"><span region="Default">I want to see your runny nose!</span></p>
+      <p
+        begin="01:08:39.330"
+        end="01:08:42.920"><span region="Default">No more snot for me.</span></p>
+      <p
+        begin="01:08:44.710"
+        end="01:08:46.250"><span region="Default">Give me the 'paper'.</span></p>
+      <p
+        begin="01:08:46.420"
+        end="01:08:47.500"><span region="Default">No.</span></p>
+      <p
+        begin="01:08:58.290"
+        end="01:09:00.250"><span region="Default">This is the power of the 'paper'?</span></p>
+      <p
+        begin="01:09:00.790"
+        end="01:09:01.630"><span region="Default">Shin chan!</span></p>
+      <p
+        begin="01:09:01.790"
+        end="01:09:03.500"><span region="Default">Shinnosuke! This way.</span></p>
+      <p
+        begin="01:09:07.250"
+        end="01:09:11.960"><span region="Default">Can you put that 'paper'<br/>in my empty left nostril?</span></p>
+      <p
+        begin="01:09:12.250"
+        end="01:09:15.420"><span region="Default">Bo! This isn't fun at all!</span></p>
+      <p
+        begin="01:09:17.210"
+        end="01:09:18.920"><span region="Default">It isn't fun?</span></p>
+      <p
+        begin="01:09:20.920"
+        end="01:09:24.080"><span region="Default">You don't have enough... power.</span></p>
+      <p
+        begin="01:09:24.500"
+        end="01:09:29.130"><span region="Default">If you want your desires to come true,<br/>get the power!</span></p>
+      <p
+        begin="01:09:33.920"
+        end="01:09:38.460"><span region="Default">Shin chan...<br/>No, Shinnosuke Nohara.</span></p>
+      <p
+        begin="01:09:39.540"
+        end="01:09:41.290"><span region="Default">Give me the 'paper'.</span></p>
+      <p
+        begin="01:09:41.670"
+        end="01:09:42.880"><span region="Default">Bo?</span></p>
+      <p
+        begin="01:09:43.250"
+        end="01:09:47.920"><span region="Default">Fun? Not fun?<br/>Who cares about that.</span></p>
+      <p
+        begin="01:09:48.380"
+        end="01:09:50.710"><span region="Default">I want the 'paper'.</span></p>
+      <p
+        begin="01:09:51.460"
+        end="01:09:55.580"><span region="Default">I'll get it and become the perfect me!</span></p>
+      <p
+        begin="01:09:57.750"
+        end="01:09:59.250"><span region="Default">What can we do?</span></p>
+      <p
+        begin="01:10:01.380"
+        end="01:10:02.540"><span region="Default">Shiro?</span></p>
+      <p
+        begin="01:10:08.250"
+        end="01:10:09.670"><span region="Default">Masao?</span></p>
+      <p
+        begin="01:10:24.250"
+        end="01:10:25.460"><span region="Default">Nasal rinse?</span></p>
+      <p
+        begin="01:10:26.210"
+        end="01:10:28.170"><span region="Default">This is pretty nuts.</span></p>
+      <p
+        begin="01:10:28.960"
+        end="01:10:30.630"><span region="Default">Masao!</span></p>
+      <p
+        begin="01:10:34.710"
+        end="01:10:35.750"><span region="Default">Hey!</span></p>
+      <p
+        begin="01:10:38.630"
+        end="01:10:40.420"><span region="Default">- Let's run now!<br/>- Yeah.</span></p>
+      <p
+        begin="01:10:47.830"
+        end="01:10:50.920"><span region="Default">I'll power them all up<br/>and catch Shinnosuke Nohara.</span></p>
+      <p
+        begin="01:10:51.330"
+        end="01:10:55.500"><span region="Default">Killer Beasts.<br/>Battle mode, maximum level.</span></p>
+      <p
+        begin="01:10:59.500"
+        end="01:11:03.080"><span region="Default">You're overreacting.<br/>He's just a kid.</span></p>
+      <p
+        begin="01:11:03.540"
+        end="01:11:06.040"><span region="Default">Don't underestimate Shinnosuke Nohara.</span></p>
+      <p
+        begin="01:11:06.630"
+        end="01:11:12.290"><span region="Default">He calls up a storm with his farts<br/>and shatters order with his butt.</span></p>
+      <p
+        begin="01:11:13.330"
+        end="01:11:15.960"><span region="Default">I'll get the 'paper' at all costs.</span></p>
+      <p
+        begin="01:11:20.250"
+        end="01:11:22.710"><span region="Default">Shinnosuke! Who's that girl?</span></p>
+      <p
+        begin="01:11:22.880"
+        end="01:11:24.710"><span region="Default">That's Ariana.</span></p>
+      <p
+        begin="01:11:24.880"
+        end="01:11:25.790"><span region="Default">Jeez.</span></p>
+      <p
+        begin="01:11:47.540"
+        end="01:11:48.630"><span region="Default">What can we do?</span></p>
+      <p
+        begin="01:11:49.710"
+        end="01:11:52.290"><span region="Default">Masao, why are you acting like a dog?</span></p>
+      <p
+        begin="01:11:53.000"
+        end="01:11:57.250"><span region="Default">You don't know how it feels<br/>to have to become a dog to survive!</span></p>
+      <p
+        begin="01:11:58.080"
+        end="01:12:01.920"><span region="Default">The 'paper' in Bo's nose<br/>is going in deeper.</span></p>
+      <p
+        begin="01:12:02.080"
+        end="01:12:06.080"><span region="Default">We have to pull it out.<br/>That's not like him.</span></p>
+      <p
+        begin="01:12:06.670"
+        end="01:12:08.540"><span region="Default">Bo's is calmer and gentler.</span></p>
+      <p
+        begin="01:12:08.710"
+        end="01:12:12.670"><span region="Default">He's a nice boy<br/>who cares about everyone.</span></p>
+      <p
+        begin="01:12:12.830"
+        end="01:12:16.460"><span region="Default">A snotless Bo isn't Bo!</span></p>
+      <p
+        begin="01:12:16.880"
+        end="01:12:19.790"><span region="Default">Does he have to be snotty all the time?</span></p>
+      <p
+        begin="01:12:21.500"
+        end="01:12:26.710"><span region="Default">What is "like him"? Does he have<br/>to be a good boy all the time?</span></p>
+      <p
+        begin="01:12:26.880"
+        end="01:12:30.580"><span region="Default">Isn't that just something<br/>that you guys assume?</span></p>
+      <p
+        begin="01:12:31.040"
+        end="01:12:36.380"><span region="Default">Do I have to hold back and smile<br/>even if I'm not having fun at all?</span></p>
+      <p
+        begin="01:12:36.630"
+        end="01:12:38.880"><span region="Default">I get frustrated, I get angry.</span></p>
+      <p
+        begin="01:12:39.040"
+        end="01:12:42.830"><span region="Default">Even when I'm scared and want to cry<br/>I have to smile?</span></p>
+      <p
+        begin="01:12:44.710"
+        end="01:12:47.420"><span region="Default">I'm envious.<br/>He can do whatever he wants</span></p>
+      <p
+        begin="01:12:47.580"
+        end="01:12:51.500"><span region="Default">and still have everyone cheering him on<br/>and not hating him.</span></p>
+      <p
+        begin="01:12:52.630"
+        end="01:12:56.580"><span region="Default">Maybe he's much happier now<br/>that he's not a good boy at all.</span></p>
+      <p
+        begin="01:13:00.290"
+        end="01:13:04.170"><span region="Default">No... um... sorry.</span></p>
+      <p
+        begin="01:13:05.710"
+        end="01:13:07.630"><span region="Default">Bo is happy?</span></p>
+      <p
+        begin="01:13:08.080"
+        end="01:13:10.290"><span region="Default">Snotless Bo is happy?</span></p>
+      <p
+        begin="01:13:11.040"
+        end="01:13:15.460"><span region="Default">If Bo is happy, does that mean<br/>we shouldn't pull out that paper?</span></p>
+      <p
+        begin="01:13:17.250"
+        end="01:13:21.380"><span region="Default">What do we really know about him?</span></p>
+      <p
+        begin="01:13:34.040"
+        end="01:13:35.750"><span region="Default">First we need to run.</span></p>
+      <p
+        begin="01:13:46.670"
+        end="01:13:47.710"><span region="Default">The adults are gone!</span></p>
+      <p
+        begin="01:13:47.880"
+        end="01:13:49.250"><span region="Default">Did they run away?</span></p>
+      <p
+        begin="01:13:49.420"
+        end="01:13:51.960"><span region="Default">Leaving the kid behind?</span></p>
+      <p
+        begin="01:13:53.040"
+        end="01:13:54.920"><span region="Default">You're right.</span></p>
+      <p
+        begin="01:14:15.960"
+        end="01:14:17.460"><span region="Default">My eyes! My eyes!</span></p>
+      <p
+        begin="01:14:19.290"
+        end="01:14:21.040"><span region="Default">There it is! The key!</span></p>
+      <p
+        begin="01:14:21.210"
+        end="01:14:22.170"><span region="Default">Good.</span></p>
+      <p
+        begin="01:14:27.960"
+        end="01:14:30.630"><span region="Default">We must save Nene and Kazama.</span></p>
+      <p
+        begin="01:14:30.790"
+        end="01:14:31.630"><span region="Default">Yeah!</span></p>
+      <p
+        begin="01:14:36.130"
+        end="01:14:39.380"><span region="Default">Fugitives detected!<br/>Central garden, West side path A-16.</span></p>
+      <p
+        begin="01:14:39.540"
+        end="01:14:43.880"><span region="Default">I repeat. Fugitives detected!<br/>Central garden, West side path A-16.</span></p>
+      <p
+        begin="01:14:47.380"
+        end="01:14:50.210"><span region="Default">My socks raised in India!</span></p>
+      <p
+        begin="01:14:54.790"
+        end="01:14:56.000"><span region="Default">Good!</span></p>
+      <p
+        begin="01:14:59.960"
+        end="01:15:03.210"><span region="Default">What?! My socks have no effect!</span></p>
+      <p
+        begin="01:15:03.710"
+        end="01:15:07.670"><span region="Default">Maybe cooking curry for so long<br/>made the smell go away</span></p>
+      <p
+        begin="01:15:07.960"
+        end="01:15:10.540"><span region="Default">and now they've got a nice, spicy scent?</span></p>
+      <p
+        begin="01:15:10.960"
+        end="01:15:12.460"><span region="Default">They smell bad enough.</span></p>
+      <p
+        begin="01:15:12.630"
+        end="01:15:14.750"><span region="Default">The scary power of spices.</span></p>
+      <p
+        begin="01:15:22.830"
+        end="01:15:27.630"><span region="Default">The children are waiting.<br/>We can't waste time here.</span></p>
+      <p
+        begin="01:15:32.960"
+        end="01:15:37.250"><span region="Default">Please, power that lies dormant<br/>inside of me...</span></p>
+      <p
+        begin="01:15:37.790"
+        end="01:15:40.670"><span region="Default">...awaken. India power!</span></p>
+      <p
+        begin="01:15:41.170"
+        end="01:15:44.210"><span region="Default">My name is Misae Nohara</span></p>
+      <p
+        begin="01:15:44.380"
+        end="01:15:47.170"><span region="Default">Daughter of Yoshiji and Hisae Koyama</span></p>
+      <p
+        begin="01:15:47.540"
+        end="01:15:50.580"><span region="Default">I was born in Kumamoto<br/>and moved to Tokyo</span></p>
+      <p
+        begin="01:15:50.750"
+        end="01:15:53.000"><span region="Default">Married Hiroshi</span></p>
+      <p
+        begin="01:15:53.880"
+        end="01:15:57.460"><span region="Default">Became the mother<br/>of Shinnosuke and Himawari</span></p>
+      <p
+        begin="01:15:57.790"
+        end="01:16:03.710"><span region="Default">In India, I was entrusted with<br/>Nene, Masao, Toru, and Bo's safety</span></p>
+      <p
+        begin="01:16:03.880"
+        end="01:16:06.080"><span region="Default">and became an invincible warrior!</span></p>
+      <p
+        begin="01:16:07.040"
+        end="01:16:09.250"><span region="Default">Make way!</span></p>
+      <p
+        begin="01:16:11.500"
+        end="01:16:17.500"><span region="Default">Wow wow wow, Make way!</span></p>
+      <p
+        begin="01:16:17.830"
+        end="01:16:26.750"><span region="Default">Wow wow wow<br/>Misae Nohara is coming through</span></p>
+      <p
+        begin="01:16:28.130"
+        end="01:16:31.710"><span region="Default">India power!</span></p>
+      <p
+        begin="01:16:36.000"
+        end="01:16:37.210"><span region="Default">What's up, Shiro?</span></p>
+      <p
+        begin="01:16:38.880"
+        end="01:16:40.210"><span region="Default">Master Shiro!</span></p>
+      <p
+        begin="01:16:44.750"
+        end="01:16:45.710"><span region="Default">Shiro?</span></p>
+      <p
+        begin="01:16:50.540"
+        end="01:16:51.580"><span region="Default">Shiro!</span></p>
+      <p
+        begin="01:16:54.330"
+        end="01:16:55.500"><span region="Default">Shiro!</span></p>
+      <p
+        begin="01:16:56.960"
+        end="01:16:58.040"><span region="Default">Masao?</span></p>
+      <p
+        begin="01:17:01.670"
+        end="01:17:03.080"><span region="Default">Masao!</span></p>
+      <p
+        begin="01:17:03.250"
+        end="01:17:05.330"><span region="Default">Shin chan's mom and dad!</span></p>
+      <p
+        begin="01:17:06.330"
+        end="01:17:09.040"><span region="Default">I was so scared!</span></p>
+      <p
+        begin="01:17:09.960"
+        end="01:17:11.460"><span region="Default">Dad!</span></p>
+      <p
+        begin="01:17:12.290"
+        end="01:17:13.460"><span region="Default">Mom!</span></p>
+      <p
+        begin="01:17:14.670"
+        end="01:17:16.040"><span region="Default">Shinnosuke!</span></p>
+      <p
+        begin="01:17:17.790"
+        end="01:17:20.630"><span region="Default">Nene, Kazama, and Shiro too!</span></p>
+      <p
+        begin="01:17:21.000"
+        end="01:17:23.080"><span region="Default">Thank goodness you're all safe.</span></p>
+      <p
+        begin="01:17:25.040"
+        end="01:17:29.250"><span region="Default">Jeez, you always get lost<br/>so easily, Mom and Dad.</span></p>
+      <p
+        begin="01:17:29.420"
+        end="01:17:30.630"><span region="Default">Aren't you hurt?</span></p>
+      <p
+        begin="01:17:32.330"
+        end="01:17:35.130"><span region="Default">What's that word you've been saying?</span></p>
+      <p
+        begin="01:17:35.290"
+        end="01:17:36.960"><span region="Default">My new gag.</span></p>
+      <p
+        begin="01:17:37.130"
+        end="01:17:40.670"><span region="Default">I dunno what it means,<br/>but Indian people say it all the time.</span></p>
+      <p
+        begin="01:17:40.880"
+        end="01:17:43.210"><span region="Default">What? You don't know?</span></p>
+      <p
+        begin="01:17:43.380"
+        end="01:17:46.500"><span region="Default">''Dhanyavaad' means 'Thank you'.</span></p>
+      <p
+        begin="01:17:48.170"
+        end="01:17:50.580"><span region="Default">Marry thanks for telling me.</span></p>
+      <p
+        begin="01:17:50.750"
+        end="01:17:52.460"><span region="Default">Just say "Dhanyavaad."</span></p>
+      <p
+        begin="01:17:52.880"
+        end="01:17:55.500"><span region="Default">He managed to get by with just one word?</span></p>
+      <p
+        begin="01:17:55.670"
+        end="01:17:58.540"><span region="Default">Our son is really a tough little boy.</span></p>
+      <p
+        begin="01:18:00.790"
+        end="01:18:02.170"><span region="Default">Who are you?</span></p>
+      <p
+        begin="01:18:02.750"
+        end="01:18:05.130"><span region="Default">Ariana is a friend of mine!</span></p>
+      <p
+        begin="01:18:05.500"
+        end="01:18:06.750"><span region="Default">A friend?</span></p>
+      <p
+        begin="01:18:07.540"
+        end="01:18:10.040"><span region="Default">You saved Shinnosuke, right?</span></p>
+      <p
+        begin="01:18:10.790"
+        end="01:18:12.000"><span region="Default">Thank you!</span></p>
+      <p
+        begin="01:18:12.750"
+        end="01:18:14.460"><span region="Default">Thank you so much!</span></p>
+      <p
+        begin="01:18:14.920"
+        end="01:18:17.040"><span region="Default">Um, it's okay.</span></p>
+      <p
+        begin="01:18:26.830"
+        end="01:18:28.830"><span region="Default">Oh no! Let's get out of here!</span></p>
+      <p
+        begin="01:18:53.790"
+        end="01:18:56.040"><span region="Default">Damn, they're persistent.</span></p>
+      <p
+        begin="01:18:58.040"
+        end="01:19:01.210"><span region="Default">I'll take care of this. You go ahead.</span></p>
+      <p
+        begin="01:19:03.500"
+        end="01:19:05.130"><span region="Default">You're making it hard.</span></p>
+      <p
+        begin="01:19:06.130"
+        end="01:19:09.790"><span region="Default">Run... get the kids somewhere safe.</span></p>
+      <p
+        begin="01:19:19.460"
+        end="01:19:21.210"><span region="Default">Big Bro is right.</span></p>
+      <p
+        begin="01:19:22.710"
+        end="01:19:25.670"><span region="Default">Run. Get the kids somewhere safe.</span></p>
+      <p
+        begin="01:19:27.210"
+        end="01:19:30.460"><span region="Default">Undercover operation successful.</span></p>
+      <p
+        begin="01:19:32.040"
+        end="01:19:33.420"><span region="Default">You're safe!</span></p>
+      <p
+        begin="01:19:34.080"
+        end="01:19:35.290"><span region="Default">Of course I am.</span></p>
+      <p
+        begin="01:19:35.670"
+        end="01:19:39.250"><span region="Default">I knew you weren't the guy<br/>to meet his end like that.</span></p>
+      <p
+        begin="01:19:39.420"
+        end="01:19:40.830"><span region="Default">You got it, Big Bro.</span></p>
+      <p
+        begin="01:19:41.710"
+        end="01:19:42.750"><span region="Default">Dill!</span></p>
+      <p
+        begin="01:19:42.920"
+        end="01:19:46.790"><span region="Default">Kabir Katchapapal Pakkapapal<br/>Katchapapal Pakkapapal!</span></p>
+      <p
+        begin="01:19:53.250"
+        end="01:19:58.880"><span region="Default">Let's sing! India power!<br/>Can you feel it? Inside me</span></p>
+      <p
+        begin="01:19:59.040"
+        end="01:20:01.170"><span region="Default">Let's dance! India power!</span></p>
+      <p
+        begin="01:20:01.330"
+        end="01:20:03.580"><span region="Default">This way! Let's run while we can.</span></p>
+      <p
+        begin="01:20:04.630"
+        end="01:20:07.330"><span region="Default">Pushing forward<br/>On the path of the unknown</span></p>
+      <p
+        begin="01:20:07.500"
+        end="01:20:11.630"><span region="Default">We are Hot! Super spicy curry</span></p>
+      <p
+        begin="01:20:16.580"
+        end="01:20:18.080"><span region="Default">Looks like a warehouse.</span></p>
+      <p
+        begin="01:20:19.210"
+        end="01:20:21.170"><span region="Default">There's a car! Let's go.</span></p>
+      <p
+        begin="01:20:22.830"
+        end="01:20:24.580"><span region="Default">Shin chan, what's wrong?</span></p>
+      <p
+        begin="01:20:24.750"
+        end="01:20:27.000"><span region="Default">I'm gonna get Bo.</span></p>
+      <p
+        begin="01:20:28.960"
+        end="01:20:31.920"><span region="Default">I'm not running away without him.</span></p>
+      <p
+        begin="01:20:37.210"
+        end="01:20:38.210"><span region="Default">You're right.</span></p>
+      <p
+        begin="01:20:38.670"
+        end="01:20:42.920"><span region="Default">That's why we have to get outta here<br/>now, to save Bo.</span></p>
+      <p
+        begin="01:20:43.920"
+        end="01:20:45.880"><span region="Default">You can't give him that piece of paper.</span></p>
+      <p
+        begin="01:20:46.880"
+        end="01:20:50.330"><span region="Default">We have to stop Bo<br/>from hurting anyone else.</span></p>
+      <p
+        begin="01:20:52.250"
+        end="01:20:53.290"><span region="Default">Yeah.</span></p>
+      <p
+        begin="01:20:54.670"
+        end="01:20:56.250"><span region="Default">So, where are we gonna run?</span></p>
+      <p
+        begin="01:20:57.500"
+        end="01:20:58.710"><span region="Default">Eep! We're doomed.</span></p>
+      <p
+        begin="01:20:58.960"
+        end="01:21:02.540"><span region="Default">They're too many!<br/>There's nowhere to run.</span></p>
+      <p
+        begin="01:21:07.130"
+        end="01:21:08.460"><span region="Default">What the...</span></p>
+      <p
+        begin="01:21:09.130"
+        end="01:21:10.830"><span region="Default">Come on, let's go!</span></p>
+      <p
+        begin="01:21:12.920"
+        end="01:21:14.830"><span region="Default">Get in!</span></p>
+      <p
+        begin="01:21:18.130"
+        end="01:21:19.880"><span region="Default">You know how to fly this thing?</span></p>
+      <p
+        begin="01:21:20.170"
+        end="01:21:25.290"><span region="Default">I'm going to awaken 120%<br/>of my dormant abilities!</span></p>
+      <p
+        begin="01:21:27.330"
+        end="01:21:30.040"><span region="Default">Let's go, India Power!</span></p>
+      <p
+        begin="01:22:10.630"
+        end="01:22:12.540"><span region="Default">India power!</span></p>
+      <p
+        begin="01:22:13.000"
+        end="01:22:14.290"><span region="Default">I won't let you go.</span></p>
+      <p
+        begin="01:22:25.290"
+        end="01:22:26.790"><span region="Default">Dad, go faster!</span></p>
+      <p
+        begin="01:22:58.500"
+        end="01:22:59.670"><span region="Default">I'll send a chopper...</span></p>
+      <p
+        begin="01:22:59.830"
+        end="01:23:01.080"><span region="Default">I'll go.</span></p>
+      <p
+        begin="01:23:15.000"
+        end="01:23:16.380"><span region="Default">Follow my partner!</span></p>
+      <p
+        begin="01:23:50.290"
+        end="01:23:51.670"><span region="Default">What?</span></p>
+      <p
+        begin="01:23:52.830"
+        end="01:23:56.670"><span region="Default">Oh, no!<br/>The fuel has reached the 'danger zone'!</span></p>
+      <p
+        begin="01:24:16.540"
+        end="01:24:19.420"><span region="Default">From the danger zone to the riverbank.</span></p>
+      <p
+        begin="01:24:20.250"
+        end="01:24:22.040"><span region="Default">Are you okay, Dear?</span></p>
+      <p
+        begin="01:24:25.500"
+        end="01:24:26.500"><span region="Default">What's that?</span></p>
+      <p
+        begin="01:24:27.130"
+        end="01:24:28.080"><span region="Default">A bird?</span></p>
+      <p
+        begin="01:24:28.250"
+        end="01:24:29.420"><span region="Default">A plane?</span></p>
+      <p
+        begin="01:24:29.790"
+        end="01:24:31.170"><span region="Default">Bo!</span></p>
+      <p
+        begin="01:24:35.830"
+        end="01:24:37.130"><span region="Default">Fireworks!</span></p>
+      <p
+        begin="01:24:37.290"
+        end="01:24:38.880"><span region="Default">This is no time for that!</span></p>
+      <p
+        begin="01:24:39.880"
+        end="01:24:43.330"><span region="Default">You get it now?<br/>You can't run away from me.</span></p>
+      <p
+        begin="01:24:43.750"
+        end="01:24:45.130"><span region="Default">Give me the 'paper'.</span></p>
+      <p
+        begin="01:24:48.170"
+        end="01:24:49.630"><span region="Default">We can't do that.</span></p>
+      <p
+        begin="01:24:50.080"
+        end="01:24:52.500"><span region="Default">It's to protect you too, Bo.</span></p>
+      <p
+        begin="01:24:52.670"
+        end="01:24:53.920"><span region="Default">Yeah!</span></p>
+      <p
+        begin="01:24:55.250"
+        end="01:24:58.330"><span region="Default">Shinnosuke!<br/>Take the 'paper' and run far away.</span></p>
+      <p
+        begin="01:24:58.500"
+        end="01:25:00.210"><span region="Default">We'll buy you some time.</span></p>
+      <p
+        begin="01:25:10.710"
+        end="01:25:13.380"><span region="Default">Kazama! Nene! Masao!</span></p>
+      <p
+        begin="01:25:13.580"
+        end="01:25:14.460"><span region="Default">Kids!</span></p>
+      <p
+        begin="01:25:15.380"
+        end="01:25:17.210"><span region="Default">Don't get in my way.</span></p>
+      <p
+        begin="01:25:21.540"
+        end="01:25:24.580"><span region="Default">Two pieces of 'paper'<br/>will make me perfect.</span></p>
+      <p
+        begin="01:25:25.630"
+        end="01:25:27.880"><span region="Default">Choose, Shinnosuke Nohara.</span></p>
+      <p
+        begin="01:25:28.290"
+        end="01:25:33.210"><span region="Default">Give me the 'paper' yourself,<br/>or I'll take it from you.</span></p>
+      <p
+        begin="01:25:37.710"
+        end="01:25:38.790"><span region="Default">Don't do it!</span></p>
+      <p
+        begin="01:25:38.960"
+        end="01:25:40.080"><span region="Default">Shinnosuke.</span></p>
+      <p
+        begin="01:25:45.630"
+        end="01:25:49.210"><span region="Default">I'm gonna get Bo's snot back.</span></p>
+      <p
+        begin="01:25:49.500"
+        end="01:25:52.710"><span region="Default">Don't tell me you're going to<br/>stick it up your nose!</span></p>
+      <p
+        begin="01:25:52.880"
+        end="01:25:54.540"><span region="Default">Don't do it!</span></p>
+      <p
+        begin="01:25:59.710"
+        end="01:26:00.540"><span region="Default">His butt?</span></p>
+      <p
+        begin="01:26:18.040"
+        end="01:26:21.040"><span region="Default">Sticking the 'paper' in his butt?<br/>I hadn't thought of that.</span></p>
+      <p
+        begin="01:26:21.460"
+        end="01:26:25.000"><span region="Default">By sticking it in his butt<br/>instead of up his nose,</span></p>
+      <p
+        begin="01:26:25.170"
+        end="01:26:29.630"><span region="Default">he gets the power, but the evilness<br/>is less likely to come through.</span></p>
+      <p
+        begin="01:26:29.960"
+        end="01:26:32.790"><span region="Default">You're the best, Big Bro.<br/>Great insight.</span></p>
+      <p
+        begin="01:26:32.960"
+        end="01:26:37.500"><span region="Default">You can do it! Get the 'paper' back,<br/>Lovely Boy Shinnosuke!</span></p>
+      <p
+        begin="01:26:37.670"
+        end="01:26:38.920"><span region="Default">Pull out the 'paper'!</span></p>
+      <p
+        begin="01:26:39.080"
+        end="01:26:41.080"><span region="Default">No! I want the 'paper'!</span></p>
+      <p
+        begin="01:26:41.250"
+        end="01:26:42.580"><span region="Default">No! No! No!</span></p>
+      <p
+        begin="01:26:45.710"
+        end="01:26:46.880"><span region="Default">I want the 'paper'!</span></p>
+      <p
+        begin="01:26:47.040"
+        end="01:26:47.830"><span region="Default">No!</span></p>
+      <p
+        begin="01:26:49.830"
+        end="01:26:50.790"><span region="Default">Pull out the 'paper'!</span></p>
+      <p
+        begin="01:26:50.960"
+        end="01:26:52.460"><span region="Default">No! I want the 'paper'!</span></p>
+      <p
+        begin="01:26:52.630"
+        end="01:26:53.380"><span region="Default">No!</span></p>
+      <p
+        begin="01:26:54.170"
+        end="01:26:55.540"><span region="Default">- Pull out the 'paper'!<br/>- I want the 'paper'!</span></p>
+      <p
+        begin="01:26:55.710"
+        end="01:26:58.040"><span region="Default">No! No! No! No!</span></p>
+      <p
+        begin="01:26:58.670"
+        end="01:26:59.960"><span region="Default">Nooo!</span></p>
+      <p
+        begin="01:27:02.710"
+        end="01:27:04.250"><span region="Default">Bo, are you okay?</span></p>
+      <p
+        begin="01:27:05.920"
+        end="01:27:10.460"><span region="Default">Shinnosuke Nohara,<br/>I knew you were no ordinary boy.</span></p>
+      <p
+        begin="01:27:10.920"
+        end="01:27:13.380"><span region="Default">But the real showdown starts now.</span></p>
+      <p
+        begin="01:27:18.670"
+        end="01:27:21.000"><span region="Default">The 'paper' went completely up his nose!</span></p>
+      <p
+        begin="01:27:21.170"
+        end="01:27:25.040"><span region="Default">Lovely Boy Shinnosuke! Run away!</span></p>
+      <p
+        begin="01:27:44.460"
+        end="01:27:45.630"><span region="Default">Bo?</span></p>
+      <p
+        begin="01:27:46.210"
+        end="01:27:49.540"><span region="Default">This is the perfect me.</span></p>
+      <p
+        begin="01:27:49.920"
+        end="01:27:51.580"><span region="Default">India power!</span></p>
+      <p
+        begin="01:27:51.750"
+        end="01:27:55.000"><span region="Default">You're too slow. Basically motionless.</span></p>
+      <p
+        begin="01:27:59.630"
+        end="01:28:01.250"><span region="Default">A tyrant is born!</span></p>
+      <p
+        begin="01:28:01.420"
+        end="01:28:06.080"><span region="Default">It's all over.<br/>No one can stop him now.</span></p>
+      <p
+        begin="01:28:22.290"
+        end="01:28:23.790"><span region="Default">Shinnosuke!</span></p>
+      <p
+        begin="01:28:27.380"
+        end="01:28:28.920"><span region="Default">Shinnosuke!</span></p>
+      <p
+        begin="01:28:29.170"
+        end="01:28:30.380"><span region="Default">Give up!</span></p>
+      <p
+        begin="01:28:32.380"
+        end="01:28:35.460"><span region="Default">I'll pull out that 'paper'.</span></p>
+      <p
+        begin="01:28:36.460"
+        end="01:28:40.170"><span region="Default">I want to see snotty Bo again.</span></p>
+      <p
+        begin="01:28:40.330"
+        end="01:28:44.000"><span region="Default">I told you, no more snot.</span></p>
+      <p
+        begin="01:28:44.380"
+        end="01:28:48.630"><span region="Default">You'll give out something,<br/>even if it's not snot.</span></p>
+      <p
+        begin="01:28:48.790"
+        end="01:28:51.290"><span region="Default">You'll come up with something fun!</span></p>
+      <p
+        begin="01:28:51.460"
+        end="01:28:55.580"><span region="Default">Now you're only letting out<br/>things that aren't fun!</span></p>
+      <p
+        begin="01:28:55.880"
+        end="01:28:57.790"><span region="Default">What do you know about me?</span></p>
+      <p
+        begin="01:28:58.040"
+        end="01:29:01.920"><span region="Default">So tell me, Bo.<br/>What do you do for fun?</span></p>
+      <p
+        begin="01:29:02.080"
+        end="01:29:05.420"><span region="Default">Where do you want to go?<br/>What do you eat? What do you like?</span></p>
+      <p
+        begin="01:29:05.580"
+        end="01:29:06.830"><span region="Default">Stop it!</span></p>
+      <p
+        begin="01:29:07.460"
+        end="01:29:09.960"><span region="Default">You can't defeat me.</span></p>
+      <p
+        begin="01:29:10.540"
+        end="01:29:12.960"><span region="Default">I'm not trying to defeat you.</span></p>
+      <p
+        begin="01:29:13.750"
+        end="01:29:16.290"><span region="Default">I just wanna play with you.</span></p>
+      <p
+        begin="01:29:17.710"
+        end="01:29:24.290"><span region="Default">Even if you become tyrant Bo,<br/>Pope Bo, or King Bo,</span></p>
+      <p
+        begin="01:29:24.460"
+        end="01:29:27.170"><span region="Default">I still wanna play with you!</span></p>
+      <p
+        begin="01:29:27.790"
+        end="01:29:29.170"><span region="Default">That's right, Bo.</span></p>
+      <p
+        begin="01:29:29.330"
+        end="01:29:30.500"><span region="Default">Let's play.</span></p>
+      <p
+        begin="01:29:30.670"
+        end="01:29:31.960"><span region="Default">It's fun!</span></p>
+      <p
+        begin="01:29:33.460"
+        end="01:29:37.500"><span region="Default">Even if your nose isn't runny,<br/>even if you change,</span></p>
+      <p
+        begin="01:29:37.670"
+        end="01:29:39.500"><span region="Default">I want to have fun with you.</span></p>
+      <p
+        begin="01:29:40.040"
+        end="01:29:42.250"><span region="Default">I want to play with you forever!</span></p>
+      <p
+        begin="01:29:42.630"
+        end="01:29:44.750"><span region="Default">Let's play, Bo!</span></p>
+      <p
+        begin="01:29:45.000"
+        end="01:29:45.880"><span region="Default">Bo!</span></p>
+      <p
+        begin="01:29:46.040"
+        end="01:29:47.000"><span region="Default">Bo!</span></p>
+      <p
+        begin="01:29:47.170"
+        end="01:29:48.040"><span region="Default">Bo!</span></p>
+      <p
+        begin="01:30:02.080"
+        end="01:30:05.460"><span region="Default">Bo, let's dance together.</span></p>
+      <p
+        begin="01:30:13.130"
+        end="01:30:15.080"><span region="Default">(Futaba Kindergarten Entrance Ceremony)</span></p>
+      <p
+        begin="01:31:05.710"
+        end="01:31:09.670"><span region="Default">Bo! Let's dance together.<br/>Because...</span></p>
+      <p
+        begin="01:31:10.920"
+        end="01:31:15.170"><span region="Default">We're friends, toot!</span></p>
+      <p
+        begin="01:31:58.080"
+        end="01:32:00.290"><span region="Default">A butt-looking stone.</span></p>
+      <p
+        begin="01:32:00.460"
+        end="01:32:02.080"><span region="Default">My sideburn of India.</span></p>
+      <p
+        begin="01:32:02.250"
+        end="01:32:04.540"><span region="Default">It's "souvenir".</span></p>
+      <p
+        begin="01:32:04.710"
+        end="01:32:05.710"><span region="Default">Same difference.</span></p>
+      <p
+        begin="01:32:05.880"
+        end="01:32:07.670"><span region="Default">Difference same.</span></p>
+      <p
+        begin="01:32:10.750"
+        end="01:32:12.380"><span region="Default">Bo is back!</span></p>
+      <p
+        begin="01:32:12.540"
+        end="01:32:14.130"><span region="Default">- Bo! Bo!<br/>- Bo!</span></p>
+      <p
+        begin="01:32:14.290"
+        end="01:32:16.000"><span region="Default">Bo is crying.</span></p>
+      <p
+        begin="01:32:16.170"
+        end="01:32:18.630"><span region="Default">No, it's snot.</span></p>
+      <p
+        begin="01:32:20.960"
+        end="01:32:23.750"><span region="Default">Guys, I'm sorry.</span></p>
+      <p
+        begin="01:32:35.040"
+        end="01:32:40.960"><span region="Default">How nice to have friends who like you<br/>even though you've become a tyrant.</span></p>
+      <p
+        begin="01:32:41.880"
+        end="01:32:46.210"><span region="Default">I should be smiling<br/>and be happy for them...</span></p>
+      <p
+        begin="01:32:46.380"
+        end="01:32:50.290"><span region="Default">But I feel so envious.</span></p>
+      <p
+        begin="01:32:51.710"
+        end="01:32:55.000"><span region="Default">I'm such a jerk.</span></p>
+      <p
+        begin="01:32:59.210"
+        end="01:33:04.500"><span region="Default">If people knew how selfish I am,<br/>they would all hate me.</span></p>
+      <p
+        begin="01:33:05.000"
+        end="01:33:08.250"><span region="Default">Jeez, what am I even saying?</span></p>
+      <p
+        begin="01:33:08.920"
+        end="01:33:11.790"><span region="Default">I like you, you know.</span></p>
+      <p
+        begin="01:33:12.460"
+        end="01:33:16.330"><span region="Default">It's admirable to be able<br/>to smile and be happy for others.</span></p>
+      <p
+        begin="01:33:16.500"
+        end="01:33:19.210"><span region="Default">But sometimes,<br/>we just don't feel like it.</span></p>
+      <p
+        begin="01:33:19.380"
+        end="01:33:25.710"><span region="Default">Yeah. Trying to be liked by everyone,<br/>to never do anything wrong</span></p>
+      <p
+        begin="01:33:25.880"
+        end="01:33:27.880"><span region="Default">is pretty tough.</span></p>
+      <p
+        begin="01:33:28.040"
+        end="01:33:30.500"><span region="Default">Nobody is perfect.</span></p>
+      <p
+        begin="01:33:30.790"
+        end="01:33:34.880"><span region="Default">If you were perfect, I couldn't be<br/>with you. It'd be exhausting.</span></p>
+      <p
+        begin="01:33:35.040"
+        end="01:33:39.750"><span region="Default">Me too. If you were beautiful,<br/>with a nice personality, a hot body...</span></p>
+      <p
+        begin="01:33:39.920"
+        end="01:33:45.330"><span region="Default">plus you were always kind and pleasant,<br/>and could do everything well...</span></p>
+      <p
+        begin="01:33:45.500"
+        end="01:33:47.380"><span region="Default">- That wouldn't be bad.<br/>- Hey!</span></p>
+      <p
+        begin="01:33:49.210"
+        end="01:33:51.080"><span region="Default">Ariana!</span></p>
+      <p
+        begin="01:34:07.710"
+        end="01:34:10.580"><span region="Default">If you stick this up your nostrils,<br/>you'll become almighty.</span></p>
+      <p
+        begin="01:34:10.830"
+        end="01:34:12.790"><span region="Default">No! We can't do that.</span></p>
+      <p
+        begin="01:34:13.130"
+        end="01:34:16.380"><span region="Default">Let's stick it in.<br/>No one's watching now.</span></p>
+      <p
+        begin="01:34:16.670"
+        end="01:34:23.580"><span region="Default">But it was in Bo's nose<br/>and Shin chan's butt. Isn't it dirty?</span></p>
+      <p
+        begin="01:34:23.880"
+        end="01:34:28.330"><span region="Default">It's okay!<br/>You won't be a rice ball anymore.</span></p>
+      <p
+        begin="01:34:28.500"
+        end="01:34:31.040"><span region="Default">You'll be the strongest<br/>grilled rice ball ever!</span></p>
+      <p
+        begin="01:34:31.540"
+        end="01:34:33.000"><span region="Default">You got a point.</span></p>
+      <p
+        begin="01:34:38.750"
+        end="01:34:39.880"><span region="Default">What is this?</span></p>
+      <p
+        begin="01:34:40.040"
+        end="01:34:40.960"><span region="Default">Naan, isn't it?</span></p>
+      <p
+        begin="01:34:41.130"
+        end="01:34:42.630"><span region="Default">Huh? Naan bread?</span></p>
+      <p
+        begin="01:34:51.460"
+        end="01:34:53.420"><span region="Default">What's that? Naan?</span></p>
+      <p
+        begin="01:34:53.580"
+        end="01:34:54.500"><span region="Default">Rice?</span></p>
+      <p
+        begin="01:34:57.790"
+        end="01:34:59.920"><span region="Default">I'm chapati bread.</span></p>
+      <p
+        begin="01:35:04.130"
+        end="01:35:06.750"><span region="Default">Big Bro!<br/>The 'paper' is stuck in the chapati!</span></p>
+      <p
+        begin="01:35:06.920"
+        end="01:35:08.580"><span region="Default">A tyrant chapati?</span></p>
+      <p
+        begin="01:35:09.290"
+        end="01:35:12.080"><span region="Default">Chapati is made of<br/>whole wheat flour and water,</span></p>
+      <p
+        begin="01:35:12.250"
+        end="01:35:15.500"><span region="Default">rolled out into a thin, round dough<br/>and baked without yeast.</span></p>
+      <p
+        begin="01:35:15.670"
+        end="01:35:17.210"><span region="Default">Remember this.</span></p>
+      <p
+        begin="01:35:17.540"
+        end="01:35:19.920"><span region="Default">It's not famous at all in the world.</span></p>
+      <p
+        begin="01:35:20.080"
+        end="01:35:22.880"><span region="Default">It's been soundly beaten<br/>by naan and rice.</span></p>
+      <p
+        begin="01:35:23.040"
+        end="01:35:26.130"><span region="Default">And now chapati's desire to be famous<br/>has gone out of control!</span></p>
+      <p
+        begin="01:35:27.170"
+        end="01:35:28.880"><span region="Default">Just in!</span></p>
+      <p
+        begin="01:35:29.290"
+        end="01:35:31.170"><span region="Default">What is this?</span></p>
+      <p
+        begin="01:35:32.540"
+        end="01:35:36.290"><span region="Default">This is gonna be terrible!</span></p>
+      <p
+        begin="01:35:36.460"
+        end="01:35:37.830"><span region="Default">Run!</span></p>
+      <p
+        begin="01:35:38.000"
+        end="01:35:40.960"><span region="Default">It's chapati,<br/>totally unknown in the world!</span></p>
+      <p
+        begin="01:35:41.420"
+        end="01:35:44.420"><span region="Default">I found a strongbread.<br/>I'll make you my partner!</span></p>
+      <p
+        begin="01:35:49.170"
+        end="01:35:54.380"><span region="Default">Chapati is a wonderful Indian dish.<br/>It pairs deliciously with any curry.</span></p>
+      <p
+        begin="01:35:54.540"
+        end="01:35:56.210"><span region="Default">With just a few ingredients<br/>and a little bit of heat,</span></p>
+      <p
+        begin="01:35:56.380"
+        end="01:35:59.580"><span region="Default">you can make delicious,<br/>freshly baked chapati.</span></p>
+      <p
+        begin="01:35:59.750"
+        end="01:36:00.830"><span region="Default">Chewy and fluffy chapati.</span></p>
+      <p
+        begin="01:36:00.830"
+        end="01:36:02.670"><span region="Default">(Chapati)<br/>Superfood Chapati.</span></p>
+      <p
+        begin="01:36:02.830"
+        end="01:36:07.130"><span region="Default">Chapati is a wonderful word.<br/>Chapati makes everyone happy.</span></p>
+      <p
+        begin="01:36:08.170"
+        end="01:36:09.290"><span region="Default">What is this?</span></p>
+      <p
+        begin="01:36:09.460"
+        end="01:36:11.580"><span region="Default">We must pull the paper out<br/>of the chapati!</span></p>
+      <p
+        begin="01:36:11.750"
+        end="01:36:14.170"><span region="Default">But it's so up high.</span></p>
+      <p
+        begin="01:36:15.380"
+        end="01:36:17.630"><span region="Default">All right! Let's gooo!</span></p>
+      <p
+        begin="01:36:18.880"
+        end="01:36:19.750"><span region="Default">No dice.</span></p>
+      <p
+        begin="01:36:19.920"
+        end="01:36:21.830"><span region="Default">Why did you think it'd work?</span></p>
+      <p
+        begin="01:36:22.000"
+        end="01:36:24.130"><span region="Default">Stay back, kids!</span></p>
+      <p
+        begin="01:36:25.170"
+        end="01:36:28.040"><span region="Default">We'll drag it down<br/>and pull the paper out.</span></p>
+      <p
+        begin="01:36:28.630"
+        end="01:36:30.420"><span region="Default">In one fell swoop.</span></p>
+      <p
+        begin="01:36:30.880"
+        end="01:36:32.710"><span region="Default">India power!</span></p>
+      <p
+        begin="01:36:40.420"
+        end="01:36:41.540"><span region="Default">They caught it!</span></p>
+      <p
+        begin="01:36:42.130"
+        end="01:36:43.000"><span region="Default">Oh, no!</span></p>
+      <p
+        begin="01:36:43.630"
+        end="01:36:46.960"><span region="Default">You bastard! Why?</span></p>
+      <p
+        begin="01:36:47.250"
+        end="01:36:49.880"><span region="Default">I'm Urufu the Perfect!</span></p>
+      <p
+        begin="01:36:50.040"
+        end="01:36:52.330"><span region="Default">The hottest man in India!</span></p>
+      <p
+        begin="01:36:52.500"
+        end="01:36:54.830"><span region="Default">- He needs help!<br/>- Hiroshi!</span></p>
+      <p
+        begin="01:37:07.960"
+        end="01:37:10.170"><span region="Default">Oh, no! It's got another arm!</span></p>
+      <p
+        begin="01:37:13.830"
+        end="01:37:15.540"><span region="Default">Sorry for the wait.</span></p>
+      <p
+        begin="01:37:15.710"
+        end="01:37:17.250"><span region="Default">Principal!</span></p>
+      <p
+        begin="01:37:17.540"
+        end="01:37:19.000"><span region="Default">Mhm Uh-huh!</span></p>
+      <p
+        begin="01:37:19.170"
+        end="01:37:20.460"><span region="Default">Bunta Takakura!</span></p>
+      <p
+        begin="01:37:25.170"
+        end="01:37:27.750"><span region="Default">They've changed way too much.</span></p>
+      <p
+        begin="01:37:27.920"
+        end="01:37:30.130"><span region="Default">It's been a tough journey.</span></p>
+      <p
+        begin="01:37:31.920"
+        end="01:37:33.830"><span region="Default">We caught the chapati!</span></p>
+      <p
+        begin="01:37:34.170"
+        end="01:37:36.250"><span region="Default">What now?</span></p>
+      <p
+        begin="01:37:36.420"
+        end="01:37:38.290"><span region="Default">Now! Let's go!</span></p>
+      <p
+        begin="01:37:42.130"
+        end="01:37:43.790"><span region="Default">Stop! It's dangerous!</span></p>
+      <p
+        begin="01:37:43.960"
+        end="01:37:45.460"><span region="Default">- No!<br/>- No!</span></p>
+      <p
+        begin="01:37:45.790"
+        end="01:37:48.040"><span region="Default">Together we can go anywhere</span></p>
+      <p
+        begin="01:37:48.250"
+        end="01:37:49.880"><span region="Default">They're after the 'paper'?</span></p>
+      <p
+        begin="01:37:50.080"
+        end="01:37:52.580"><span region="Default">Yes! This is our world</span></p>
+      <p
+        begin="01:37:52.960"
+        end="01:37:55.540"><span region="Default">Even if I'm scared, or cry</span></p>
+      <p
+        begin="01:37:55.710"
+        end="01:37:57.670"><span region="Default">Don't worry! Smile</span></p>
+      <p
+        begin="01:37:57.830"
+        end="01:37:59.830"><span region="Default">You're not alone</span></p>
+      <p
+        begin="01:38:05.750"
+        end="01:38:09.710"><span region="Default">We'll pull out Chapati's 'paper'<br/>and make the world a fun place.</span></p>
+      <p
+        begin="01:38:10.330"
+        end="01:38:11.670"><span region="Default">It's over there.</span></p>
+      <p
+        begin="01:38:11.830"
+        end="01:38:15.040"><span region="Default">Let's go, Kasukabe Guard! Namaste...</span></p>
+      <p
+        begin="01:38:15.210"
+        end="01:38:16.750"><span region="Default">Fire!</span></p>
+      <p
+        begin="01:38:24.630"
+        end="01:38:26.210"><span region="Default">It won't come out!</span></p>
+      <p
+        begin="01:38:26.380"
+        end="01:38:28.460"><span region="Default">We've got to pull together!</span></p>
+      <p
+        begin="01:38:30.790"
+        end="01:38:32.130"><span region="Default">One, two...</span></p>
+      <p
+        begin="01:38:51.670"
+        end="01:38:54.000"><span region="Default">Got it!</span></p>
+      <p
+        begin="01:39:07.670"
+        end="01:39:09.830"><span region="Default">Let's eat.</span></p>
+      <p
+        begin="01:39:10.380"
+        end="01:39:11.290"><span region="Default">Looks tasty.</span></p>
+      <p
+        begin="01:39:11.460"
+        end="01:39:14.630"><span region="Default">There's plenty,<br/>so eat as much as you like.</span></p>
+      <p
+        begin="01:39:14.790"
+        end="01:39:17.460"><span region="Default">- This one's not spicy.<br/>- Really? Which one?</span></p>
+      <p
+        begin="01:39:19.380"
+        end="01:39:20.460"><span region="Default">Yummy!</span></p>
+      <p
+        begin="01:39:20.830"
+        end="01:39:23.290"><span region="Default">Ariana,<br/>do you like Shake Shake Bootycure?</span></p>
+      <p
+        begin="01:39:23.460"
+        end="01:39:24.380"><span region="Default">Of course!</span></p>
+      <p
+        begin="01:39:24.540"
+        end="01:39:26.830"><span region="Default">I like Bootycure Turmeric.</span></p>
+      <p
+        begin="01:39:27.000"
+        end="01:39:28.250"><span region="Default">She's cool and cute.</span></p>
+      <p
+        begin="01:39:28.630"
+        end="01:39:31.330"><span region="Default">I like Bootycure Ornithine.</span></p>
+      <p
+        begin="01:39:31.500"
+        end="01:39:33.710"><span region="Default">What about you, Ariana?<br/>Who do you like?</span></p>
+      <p
+        begin="01:39:33.960"
+        end="01:39:39.170"><span region="Default">I'm glad you asked!<br/>The Bootycure I like the most...</span></p>
+      <p
+        begin="01:39:40.330"
+        end="01:39:43.290"><span region="Default">Everyone has so many buddies...</span></p>
+      <p
+        begin="01:39:43.670"
+        end="01:39:48.750"><span region="Default">But no human, no animal,<br/>not even a chapati wants me.</span></p>
+      <p
+        begin="01:39:49.500"
+        end="01:39:51.420"><span region="Default">Why can't I have a partner?</span></p>
+      <p
+        begin="01:39:51.580"
+        end="01:39:56.920"><span region="Default">I think you can't find a partner<br/>or a friend by trying too hard.</span></p>
+      <p
+        begin="01:39:58.130"
+        end="01:40:02.880"><span region="Default">It's okay to be alone. Don't compare<br/>yourself with others. Be kind.</span></p>
+      <p
+        begin="01:40:03.040"
+        end="01:40:06.830"><span region="Default">Be sillier<br/>and enjoy what you like to do.</span></p>
+      <p
+        begin="01:40:07.000"
+        end="01:40:10.580"><span region="Default">If you can be your best friend<br/>and make yourself smile,</span></p>
+      <p
+        begin="01:40:10.750"
+        end="01:40:14.830"><span region="Default">one day you'll overcome<br/>all kinds of differences,</span></p>
+      <p
+        begin="01:40:15.000"
+        end="01:40:19.250"><span region="Default">and a great partner will just show up<br/>by your side.</span></p>
+      <p
+        begin="01:40:19.420"
+        end="01:40:21.540"><span region="Default">- Right?<br/>- Uh-huh.</span></p>
+      <p
+        begin="01:40:22.080"
+        end="01:40:24.210"><span region="Default">- Tuck in.<br/>- Let's all eat chapati.</span></p>
+      <p
+        begin="01:40:24.380"
+        end="01:40:26.330"><span region="Default">I want naan.</span></p>
+      <p
+        begin="01:40:26.500"
+        end="01:40:27.250"><span region="Default">Thanks.</span></p>
+      <p
+        begin="01:40:27.420"
+        end="01:40:28.500"><span region="Default">What a 'naansense' day!</span></p>
+      <p
+        begin="01:40:28.880"
+        end="01:40:32.210"><span region="Default">I'm glad no one was hurt<br/>and we got to eat chapati too.</span></p>
+      <p
+        begin="01:40:32.380"
+        end="01:40:33.580"><span region="Default">You're always right, Big Bro.</span></p>
+      <p
+        begin="01:40:33.750"
+        end="01:40:36.710"><span region="Default">And finally, the 'paper'<br/>we've been searching for so long...</span></p>
+      <p
+        begin="01:40:36.880"
+        end="01:40:38.250"><span region="Default">Where is it?</span></p>
+      <p
+        begin="01:40:41.790"
+        end="01:40:44.170"><span region="Default">I'm glad I found the right paper.</span></p>
+      <p
+        begin="01:40:44.330"
+        end="01:40:50.080"><span region="Default">There's no paper in Indian toilets<br/>Even if there is, you can't flush it</span></p>
+      <p
+        begin="01:40:50.250"
+        end="01:40:52.540"><span region="Default">- You used the 'paper'?<br/>– For your butt?</span></p>
+      <p
+        begin="01:40:52.710"
+        end="01:40:53.580"><span region="Default">Do you want it?</span></p>
+      <p
+        begin="01:40:53.750"
+        end="01:40:55.040"><span region="Default">Nooo!</span></p>
+      <p
+        begin="01:40:55.420"
+        end="01:40:57.000"><span region="Default">No? Okay then.</span></p>
+      <p
+        begin="01:40:58.040"
+        end="01:41:00.130"><span region="Default">Nooo!</span></p>
+      <p
+        begin="01:41:00.290"
+        end="01:41:03.080"><span region="Default">Big Bro! The 'paper' is burning!</span></p>
+      <p
+        begin="01:41:06.920"
+        end="01:41:09.420"><span region="Default">We just have to accept it.</span></p>
+      <p
+        begin="01:41:10.830"
+        end="01:41:12.790"><span region="Default">Want some chapati, old man?</span></p>
+      <p
+        begin="01:41:13.290"
+        end="01:41:15.580"><span region="Default">Don't call me that, Shinnosuke.</span></p>
+      <p
+        begin="01:41:15.750"
+        end="01:41:21.250"><span region="Default">My name is Kabir Katchapapal<br/>Pakkapapal Katchapapal Pakkapapal.</span></p>
+      <p
+        begin="01:41:21.420"
+        end="01:41:25.710"><span region="Default">Beer Ketchup Paparazzi<br/>Catch the Ball Pass the Ball?</span></p>
+      <p
+        begin="01:41:25.960"
+        end="01:41:29.960"><span region="Default">Kabir Katchapapal Pakkapapal<br/>Katchapapal Pakkapapal!</span></p>
+      <p
+        begin="01:41:30.540"
+        end="01:41:32.420"><span region="Default">Say it three times.</span></p>
+      <p
+        begin="01:41:40.670"
+        end="01:41:42.630"><span region="Default">I did.<br/>Now say my name, Shinnosuke.</span></p>
+      <p
+        begin="01:41:42.790"
+        end="01:41:45.460"><span region="Default">Didn't catch it.<br/>Say it three more times.</span></p>
+      <p
+        begin="01:41:45.630"
+        end="01:41:46.540"><span region="Default">Hey!</span></p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,5032 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="zho">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:01:48.710"
+        end="00:01:51.289"><span region="Default">就算遇到危险，我们也不会放弃…</span></p>
+      <p
+        begin="00:01:59.039"
+        end="00:02:02.750"><span region="Default">只要我们在一起，可以去任何地方</span></p>
+      <p
+        begin="00:02:02.750"
+        end="00:02:06.540"><span region="Default">没错，这里是我们的世界</span></p>
+      <p
+        begin="00:02:06.540"
+        end="00:02:10.500"><span region="Default">即使感到害怕或哭泣</span></p>
+      <p
+        begin="00:02:10.500"
+        end="00:02:12.250"><span region="Default">别担心，笑一个</span></p>
+      <p
+        begin="00:02:12.250"
+        end="00:02:14.630"><span region="Default">因为你不是孤独一人</span></p>
+      <p
+        begin="00:02:15.890"
+        end="00:02:19.790"><span region="Default">去寻找闪耀的笑容吧</span></p>
+      <p
+        begin="00:02:19.790"
+        end="00:02:23.579"><span region="Default">那才是真正的宝物</span></p>
+      <p
+        begin="00:02:25.670"
+        end="00:02:27.670"><span region="Default">上啊，春日部防卫队</span></p>
+      <p
+        begin="00:02:28.630"
+        end="00:02:30.000"><span region="Default">印度？</span></p>
+      <p
+        begin="00:02:30.000"
+        end="00:02:32.130"><span region="Default">那个咖哩很有名的地方吗？</span></p>
+      <p
+        begin="00:02:33.579"
+        end="00:02:36.079"><span region="Default">在印度哈加希米尔州的穆希拜</span></p>
+      <p
+        begin="00:02:36.079"
+        end="00:02:38.500"><span region="Default">每年他们都会举办娱乐节</span></p>
+      <p
+        begin="00:02:38.500"
+        end="00:02:40.000"><span region="Default">表演很好看的歌舞</span></p>
+      <p
+        begin="00:02:40.000"
+        end="00:02:42.170"><span region="Default">或音乐剧给大家看喔</span></p>
+      <p
+        begin="00:02:42.790"
+        end="00:02:44.130"><span region="Default">好棒喔</span></p>
+      <p
+        begin="00:02:46.079"
+        end="00:02:48.920"><span region="Default">去年上台表演叫艾莉安娜的女生</span></p>
+      <p
+        begin="00:02:48.920"
+        end="00:02:51.420"><span region="Default">听说现在在印度很受欢迎喔</span></p>
+      <p
+        begin="00:02:52.040"
+        end="00:02:53.380"><span region="Default">好可爱</span></p>
+      <p
+        begin="00:02:56.670"
+        end="00:02:57.540"><span region="Default">- 而且　- 等等我</span></p>
+      <p
+        begin="00:02:57.540"
+        end="00:03:00.380"><span region="Default">这次为了纪念我们跟穆希拜成为姊妹市</span></p>
+      <p
+        begin="00:03:00.380"
+        end="00:03:01.210"><span region="Default">过几天</span></p>
+      <p
+        begin="00:03:01.210"
+        end="00:03:04.420"><span region="Default">我们这里也会举办春日部儿童娱乐节</span></p>
+      <p
+        begin="00:03:04.420"
+        end="00:03:05.920"><span region="Default">得到第一名的团队</span></p>
+      <p
+        begin="00:03:05.920"
+        end="00:03:07.080"><span region="Default">还可以去印度</span></p>
+      <p
+        begin="00:03:07.080"
+        end="00:03:09.420"><span region="Default">跟大家一起上台跳舞呢</span></p>
+      <p
+        begin="00:03:09.420"
+        end="00:03:09.960"><span region="Default">呆</span></p>
+      <p
+        begin="00:03:09.960"
+        end="00:03:11.960"><span region="Default">可以免费去印度吗？</span></p>
+      <p
+        begin="00:03:11.960"
+        end="00:03:12.630"><span region="Default">对啊</span></p>
+      <p
+        begin="00:03:12.630"
+        end="00:03:15.500"><span region="Default">我们春日部防卫队代表双叶幼儿园</span></p>
+      <p
+        begin="00:03:15.500"
+        end="00:03:16.790"><span region="Default">去参加比赛吧</span></p>
+      <p
+        begin="00:03:16.790"
+        end="00:03:18.170"><span region="Default">感觉很有趣</span></p>
+      <p
+        begin="00:03:18.170"
+        end="00:03:20.380"><span region="Default">但是我们几个办得到吗？</span></p>
+      <p
+        begin="00:03:20.380"
+        end="00:03:23.000"><span region="Default">正男，不知道怎么试试看</span></p>
+      <p
+        begin="00:03:23.000"
+        end="00:03:25.829"><span region="Default">你要说的是“不试试看怎么知道”吧</span></p>
+      <p
+        begin="00:03:25.829"
+        end="00:03:30.210"><span region="Default">我想跟印度的华丽大姐姐一起吃咖哩</span></p>
+      <p
+        begin="00:03:30.210"
+        end="00:03:31.920"><span region="Default">妮妮也想去印度</span></p>
+      <p
+        begin="00:03:31.920"
+        end="00:03:33.130"><span region="Default">赞成</span></p>
+      <p
+        begin="00:03:33.130"
+        end="00:03:34.630"><span region="Default">好耶，那我也要</span></p>
+      <p
+        begin="00:03:34.630"
+        end="00:03:36.250"><span region="Default">那就说定啰</span></p>
+      <p
+        begin="00:03:36.250"
+        end="00:03:38.079"><span region="Default">我们大家一起去印度吧</span></p>
+      <p
+        begin="00:03:38.329"
+        end="00:03:39.880"><span region="Default">好…</span></p>
+      <p
+        begin="00:04:07.580"
+        end="00:04:09.960"><span region="Default">小新，你不练习吗？</span></p>
+      <p
+        begin="00:04:09.960"
+        end="00:04:11.250"><span region="Default">人家现在很忙</span></p>
+      <p
+        begin="00:04:11.250"
+        end="00:04:12.540"><span region="Default">在吹派对吹笛</span></p>
+      <p
+        begin="00:04:12.540"
+        end="00:04:14.330"><span region="Default">我们已经练习很多了</span></p>
+      <p
+        begin="00:04:14.330"
+        end="00:04:17.209"><span region="Default">我现在想玩一下超真实扮家家酒</span></p>
+      <p
+        begin="00:04:17.209"
+        end="00:04:19.380"><span region="Default">我今天有英文考试</span></p>
+      <p
+        begin="00:04:19.380"
+        end="00:04:21.209"><span region="Default">要先念书才可以</span></p>
+      <p
+        begin="00:04:22.790"
+        end="00:04:23.960"><span region="Default">呆</span></p>
+      <p
+        begin="00:04:23.960"
+        end="00:04:25.830"><span region="Default">各位，快看</span></p>
+      <p
+        begin="00:04:28.170"
+        end="00:04:29.420"><span region="Default">呆</span></p>
+      <p
+        begin="00:04:30.000"
+        end="00:04:30.790"><span region="Default">馕</span></p>
+      <p
+        begin="00:04:33.170"
+        end="00:04:34.880"><span region="Default">什么嘛，是馕啊</span></p>
+      <p
+        begin="00:04:34.880"
+        end="00:04:36.790"><span region="Default">就是馕没错</span></p>
+      <p
+        begin="00:04:37.540"
+        end="00:04:39.670"><span region="Default">大家一起在印度跳舞</span></p>
+      <p
+        begin="00:04:39.670"
+        end="00:04:44.250"><span region="Default">一定会非常非常非常有趣的</span></p>
+      <p
+        begin="00:04:47.420"
+        end="00:04:48.790"><span region="Default">这是我们几个</span></p>
+      <p
+        begin="00:04:48.790"
+        end="00:04:51.290"><span region="Default">一生只有一次的珍贵时光</span></p>
+      <p
+        begin="00:04:52.210"
+        end="00:04:53.210"><span region="Default">没错</span></p>
+      <p
+        begin="00:04:53.210"
+        end="00:04:54.630"><span region="Default">如果没有得到第一名</span></p>
+      <p
+        begin="00:04:54.630"
+        end="00:04:55.920"><span region="Default">就不能去印度了</span></p>
+      <p
+        begin="00:04:56.420"
+        end="00:04:58.040"><span region="Default">快点努力练习吧</span></p>
+      <p
+        begin="00:04:58.040"
+        end="00:04:59.290"><span region="Default">讨厌啦，风间</span></p>
+      <p
+        begin="00:04:59.290"
+        end="00:05:00.390"><span region="Default">你真是会偷懒耶</span></p>
+      <p
+        begin="00:05:00.390"
+        end="00:05:01.880"><span region="Default">偷懒的是你吧</span></p>
+      <p
+        begin="00:05:02.290"
+        end="00:05:05.500"><span region="Default">（春日部儿童娱乐节）</span></p>
+      <p
+        begin="00:05:09.630"
+        end="00:05:13.330"><span region="Default">只要我们在一起，可以去任何地方</span></p>
+      <p
+        begin="00:05:13.330"
+        end="00:05:17.130"><span region="Default">没错，这里是我们的世界</span></p>
+      <p
+        begin="00:05:17.130"
+        end="00:05:21.080"><span region="Default">即使感到害怕或哭泣</span></p>
+      <p
+        begin="00:05:21.080"
+        end="00:05:22.960"><span region="Default">别担心，笑一个</span></p>
+      <p
+        begin="00:05:22.960"
+        end="00:05:25.000"><span region="Default">因为你不是孤独一人</span></p>
+      <p
+        begin="00:05:26.420"
+        end="00:05:30.420"><span region="Default">去寻找闪耀的笑容吧</span></p>
+      <p
+        begin="00:05:30.420"
+        end="00:05:34.380"><span region="Default">那才是真正的宝物</span></p>
+      <p
+        begin="00:06:19.670"
+        end="00:06:21.710"><span region="Default">耶！</span></p>
+      <p
+        begin="00:06:21.960"
+        end="00:06:24.330"><span region="Default">那摩斯戴…</span></p>
+      <p
+        begin="00:06:29.210"
+        end="00:06:31.130"><span region="Default">你拥有的超级巨星</span></p>
+      <p
+        begin="00:06:31.130"
+        end="00:06:32.960"><span region="Default">对我来说也是超级巨星</span></p>
+      <p
+        begin="00:06:32.960"
+        end="00:06:34.580"><span region="Default">大家都是超级巨星</span></p>
+      <p
+        begin="00:06:34.580"
+        end="00:06:36.630"><span region="Default">所以都是大家的超级巨星</span></p>
+      <p
+        begin="00:06:36.630"
+        end="00:06:38.580"><span region="Default">快点发现超级巨星</span></p>
+      <p
+        begin="00:06:38.580"
+        end="00:06:40.250"><span region="Default">明天闪耀的超级巨星</span></p>
+      <p
+        begin="00:06:40.250"
+        end="00:06:41.920"><span region="Default">嘟啦达达达啦啦啦…</span></p>
+      <p
+        begin="00:06:41.920"
+        end="00:06:43.710"><span region="Default">每个人都是大家的超级巨星</span></p>
+      <p
+        begin="00:06:45.040"
+        end="00:06:47.380"><span region="Default">你是大力士</span></p>
+      <p
+        begin="00:06:47.380"
+        end="00:06:48.790"><span region="Default">你脑袋灵光</span></p>
+      <p
+        begin="00:06:48.790"
+        end="00:06:50.580"><span region="Default">你长得标致</span></p>
+      <p
+        begin="00:06:50.580"
+        end="00:06:53.130"><span region="Default">你对大家都体贴</span></p>
+      <p
+        begin="00:06:53.130"
+        end="00:06:54.960"><span region="Default">擅长唱歌，擅长画图</span></p>
+      <p
+        begin="00:06:54.960"
+        end="00:06:56.750"><span region="Default">不到最后绝不放弃</span></p>
+      <p
+        begin="00:06:56.750"
+        end="00:07:00.500"><span region="Default">有各式各样的人让世界运转才对</span></p>
+      <p
+        begin="00:07:00.500"
+        end="00:07:02.330"><span region="Default">别在意你做不到的事</span></p>
+      <p
+        begin="00:07:02.330"
+        end="00:07:03.880"><span region="Default">有些事只有你做得到</span></p>
+      <p
+        begin="00:07:03.880"
+        end="00:07:05.880"><span region="Default">所以好好重视自己</span></p>
+      <p
+        begin="00:07:05.880"
+        end="00:07:07.540"><span region="Default">带着坚定不移的自信</span></p>
+      <p
+        begin="00:07:07.540"
+        end="00:07:09.710"><span region="Default">你是研磨就会发光的钻石</span></p>
+      <p
+        begin="00:07:09.710"
+        end="00:07:11.580"><span region="Default">没有你就不会开始</span></p>
+      <p
+        begin="00:07:11.580"
+        end="00:07:13.420"><span region="Default">地球这个空间里</span></p>
+      <p
+        begin="00:07:13.420"
+        end="00:07:15.420"><span region="Default">每个人都是英雄和超级巨星</span></p>
+      <p
+        begin="00:07:15.420"
+        end="00:07:17.210"><span region="Default">我们是超级巨星</span></p>
+      <p
+        begin="00:07:17.210"
+        end="00:07:19.000"><span region="Default">大家都是超级巨星</span></p>
+      <p
+        begin="00:07:19.000"
+        end="00:07:20.790"><span region="Default">领导者，英雄</span></p>
+      <p
+        begin="00:07:20.790"
+        end="00:07:23.000"><span region="Default">走吧！超级巨星</span></p>
+      <p
+        begin="00:07:23.000"
+        end="00:07:24.630"><span region="Default">你是超级巨星吗？</span></p>
+      <p
+        begin="00:07:27.500"
+        end="00:07:29.540"><span region="Default">这里就是印度</span></p>
+      <p
+        begin="00:07:39.330"
+        end="00:07:42.000"><span region="Default">大家手牵手，不要走丢啰</span></p>
+      <p
+        begin="00:07:44.630"
+        end="00:07:45.920"><span region="Default">真的好酷喔</span></p>
+      <p
+        begin="00:07:45.920"
+        end="00:07:47.290"><span region="Default">请问这个多少钱？</span></p>
+      <p
+        begin="00:07:53.880"
+        end="00:07:55.540"><span region="Default">阿呆，小新</span></p>
+      <p
+        begin="00:07:55.540"
+        end="00:07:57.710"><span region="Default">好了，不要跑，很危险</span></p>
+      <p
+        begin="00:07:58.630"
+        end="00:07:59.630"><span region="Default">小新</span></p>
+      <p
+        begin="00:07:59.630"
+        end="00:08:01.000"><span region="Default">等一下啦</span></p>
+      <p
+        begin="00:08:01.000"
+        end="00:08:01.750"><span region="Default">呆</span></p>
+      <p
+        begin="00:08:06.960"
+        end="00:08:07.790"><span region="Default">呆</span></p>
+      <p
+        begin="00:08:08.000"
+        end="00:08:09.630"><span region="Default">好石头</span></p>
+      <p
+        begin="00:08:16.130"
+        end="00:08:17.040"><span region="Default">小葵</span></p>
+      <p
+        begin="00:08:17.040"
+        end="00:08:19.130"><span region="Default">搭这么久的飞机，辛苦你了</span></p>
+      <p
+        begin="00:08:19.580"
+        end="00:08:21.580"><span region="Default">小葵，不可以这样喔</span></p>
+      <p
+        begin="00:08:22.000"
+        end="00:08:23.500"><span region="Default">我们全家一起跟来</span></p>
+      <p
+        begin="00:08:23.500"
+        end="00:08:25.000"><span region="Default">还真是不好意思</span></p>
+      <p
+        begin="00:08:25.000"
+        end="00:08:26.540"><span region="Default">真的很不好意思</span></p>
+      <p
+        begin="00:08:27.920"
+        end="00:08:29.000"><span region="Default">别这么说</span></p>
+      <p
+        begin="00:08:29.000"
+        end="00:08:31.750"><span region="Default">只有一个人也顾不了这么多小朋友</span></p>
+      <p
+        begin="00:08:31.750"
+        end="00:08:33.500"><span region="Default">你们真的帮了大忙</span></p>
+      <p
+        begin="00:08:33.500"
+        end="00:08:34.830"><span region="Default">如果我爸爸妈妈</span></p>
+      <p
+        begin="00:08:34.830"
+        end="00:08:37.130"><span region="Default">也可以一起来的话就好了</span></p>
+      <p
+        begin="00:08:37.130"
+        end="00:08:38.960"><span region="Default">我爸爸妈妈也是</span></p>
+      <p
+        begin="00:08:38.960"
+        end="00:08:40.830"><span region="Default">他们的工作很难请假</span></p>
+      <p
+        begin="00:08:40.830"
+        end="00:08:42.080"><span region="Default">我家也是</span></p>
+      <p
+        begin="00:08:42.080"
+        end="00:08:44.500"><span region="Default">大人都没有办法突然请假嘛</span></p>
+      <p
+        begin="00:08:44.500"
+        end="00:08:45.750"><span region="Default">好羡慕喔</span></p>
+      <p
+        begin="00:08:45.750"
+        end="00:08:47.880"><span region="Default">小新的爸爸都没有工作</span></p>
+      <p
+        begin="00:08:47.880"
+        end="00:08:50.250"><span region="Default">我怎么可能会没有工作呢</span></p>
+      <p
+        begin="00:08:50.250"
+        end="00:08:51.790"><span region="Default">因为就算爸爸不在</span></p>
+      <p
+        begin="00:08:51.790"
+        end="00:08:53.790"><span region="Default">公司也完全没差嘛</span></p>
+      <p
+        begin="00:08:53.790"
+        end="00:08:55.000"><span region="Default">小新</span></p>
+      <p
+        begin="00:08:55.000"
+        end="00:08:56.080"><span region="Default">有时候说实话</span></p>
+      <p
+        begin="00:08:56.080"
+        end="00:08:58.290"><span region="Default">是很有可能会伤害到别人的</span></p>
+      <p
+        begin="00:08:58.880"
+        end="00:09:00.630"><span region="Default">而且连小白都来了</span></p>
+      <p
+        begin="00:09:00.630"
+        end="00:09:02.920"><span region="Default">因为小白也是家人啊</span></p>
+      <p
+        begin="00:09:04.250"
+        end="00:09:05.170"><span region="Default">你是谁？</span></p>
+      <p
+        begin="00:09:05.580"
+        end="00:09:08.580"><span region="Default">他是负责带我们到穆希拜的导游</span></p>
+      <p
+        begin="00:09:08.580"
+        end="00:09:11.130"><span region="Default">他的名字叫做伍亨．阿罕</span></p>
+      <p
+        begin="00:09:11.130"
+        end="00:09:12.830"><span region="Default">请多多关照</span></p>
+      <p
+        begin="00:09:18.540"
+        end="00:09:19.880"><span region="Default">这是什么啊？</span></p>
+      <p
+        begin="00:09:20.130"
+        end="00:09:21.750"><span region="Default">是印度奶茶吧</span></p>
+      <p
+        begin="00:09:22.830"
+        end="00:09:25.880"><span region="Default">他们会把茶叶熬煮之后做成奶茶</span></p>
+      <p
+        begin="00:09:25.880"
+        end="00:09:27.540"><span region="Default">然后加入香料调味</span></p>
+      <p
+        begin="00:09:27.540"
+        end="00:09:29.580"><span region="Default">老大，你懂的真多耶</span></p>
+      <p
+        begin="00:09:29.580"
+        end="00:09:31.540"><span region="Default">因为我有先做功课嘛</span></p>
+      <p
+        begin="00:09:33.500"
+        end="00:09:34.750"><span region="Default">那摩斯戴</span></p>
+      <p
+        begin="00:09:35.170"
+        end="00:09:37.710"><span region="Default">“那摩斯戴”是印度的打招呼对吧？</span></p>
+      <p
+        begin="00:09:37.710"
+        end="00:09:38.500"><span region="Default">对啊</span></p>
+      <p
+        begin="00:09:38.500"
+        end="00:09:40.330"><span region="Default">它的意思就是“你好”</span></p>
+      <p
+        begin="00:09:40.330"
+        end="00:09:41.580"><span region="Default">或者是“再见”</span></p>
+      <p
+        begin="00:09:42.000"
+        end="00:09:43.000"><span region="Default">风间</span></p>
+      <p
+        begin="00:09:43.000"
+        end="00:09:45.540"><span region="Default">你想不想要看我独特的那摩斯戴？</span></p>
+      <p
+        begin="00:09:45.540"
+        end="00:09:47.000"><span region="Default">独特的那摩斯戴？</span></p>
+      <p
+        begin="00:09:47.670"
+        end="00:09:51.000"><span region="Default">说到印度就会想到印度象</span></p>
+      <p
+        begin="00:09:51.000"
+        end="00:09:54.000"><span region="Default">大象那摩斯戴</span></p>
+      <p
+        begin="00:09:54.630"
+        end="00:09:56.130"><span region="Default">哪里像大象啊？</span></p>
+      <p
+        begin="00:09:56.130"
+        end="00:09:57.040"><span region="Default">傻瓜</span></p>
+      <p
+        begin="00:09:57.040"
+        end="00:09:58.880"><span region="Default">大象是很聪明的动物好吗</span></p>
+      <p
+        begin="00:10:01.040"
+        end="00:10:02.420"><span region="Default">我笑得太用力</span></p>
+      <p
+        begin="00:10:02.420"
+        end="00:10:04.960"><span region="Default">比平常流出更多鼻水了</span></p>
+      <p
+        begin="00:10:06.000"
+        end="00:10:07.580"><span region="Default">我只要说很重要的事</span></p>
+      <p
+        begin="00:10:07.580"
+        end="00:10:09.710"><span region="Default">就会加上“大象”喔</span></p>
+      <p
+        begin="00:10:09.710"
+        end="00:10:10.790"><span region="Default">风间</span></p>
+      <p
+        begin="00:10:10.790"
+        end="00:10:13.830"><span region="Default">你踩到牛便便了喔，大象</span></p>
+      <p
+        begin="00:10:13.830"
+        end="00:10:15.670"><span region="Default">我整个脚都是便便了</span></p>
+      <p
+        begin="00:10:15.970"
+        end="00:10:18.330"><span region="Default">没关系，没事…</span></p>
+      <p
+        begin="00:10:18.630"
+        end="00:10:20.630"><span region="Default">我有水，我帮你洗一洗</span></p>
+      <p
+        begin="00:10:20.630"
+        end="00:10:22.960"><span region="Default">这在印度应该很常发生对吧？</span></p>
+      <p
+        begin="00:10:28.880"
+        end="00:10:29.710"><span region="Default">呆</span></p>
+      <p
+        begin="00:10:33.500"
+        end="00:10:34.250"><span region="Default">呆</span></p>
+      <p
+        begin="00:10:43.580"
+        end="00:10:45.540"><span region="Default">阿呆，你看…</span></p>
+      <p
+        begin="00:10:45.540"
+        end="00:10:48.750"><span region="Default">不理不理…</span></p>
+      <p
+        begin="00:10:48.750"
+        end="00:10:51.170"><span region="Default">我们就用这个参加娱乐节吧</span></p>
+      <p
+        begin="00:10:51.180"
+        end="00:10:57.920"><span region="Default">不理不理…</span></p>
+      <p
+        begin="00:11:03.530"
+        end="00:11:05.000"><span region="Default">呆…</span></p>
+      <p
+        begin="00:11:12.250"
+        end="00:11:12.960"><span region="Default">呆</span></p>
+      <p
+        begin="00:11:14.460"
+        end="00:11:18.880"><span region="Default">呆…</span></p>
+      <p
+        begin="00:11:20.520"
+        end="00:11:23.040"><span region="Default">呆…</span></p>
+      <p
+        begin="00:11:41.820"
+        end="00:11:42.710"><span region="Default">呆</span></p>
+      <p
+        begin="00:11:52.370"
+        end="00:11:53.210"><span region="Default">呆</span></p>
+      <p
+        begin="00:11:57.630"
+        end="00:11:58.500"><span region="Default">钥匙？</span></p>
+      <p
+        begin="00:11:59.080"
+        end="00:12:00.630"><span region="Default">- 也就是说…　- 呆</span></p>
+      <p
+        begin="00:12:10.210"
+        end="00:12:11.710"><span region="Default">这是什么？</span></p>
+      <p
+        begin="00:12:11.710"
+        end="00:12:12.830"><span region="Default">鼻子…</span></p>
+      <p
+        begin="00:12:14.170"
+        end="00:12:15.830"><span region="Default">的背包</span></p>
+      <p
+        begin="00:12:16.500"
+        end="00:12:17.210"><span region="Default">呆</span></p>
+      <p
+        begin="00:12:20.040"
+        end="00:12:22.130"><span region="Default">小新，很适合</span></p>
+      <p
+        begin="00:12:26.920"
+        end="00:12:29.630"><span region="Default">请给我这个，snooze</span></p>
+      <p
+        begin="00:12:29.630"
+        end="00:12:30.960"><span region="Default">Please</span></p>
+      <p
+        begin="00:12:32.170"
+        end="00:12:34.580"><span region="Default">我是在那个地方找到的喔</span></p>
+      <p
+        begin="00:12:34.580"
+        end="00:12:36.580"><span region="Default">（只要100卢比）</span></p>
+      <p
+        begin="00:12:36.580"
+        end="00:12:37.880"><span region="Default">我很有钱</span></p>
+      <p
+        begin="00:12:38.580"
+        end="00:12:40.960"><span region="Default">我有一亿万圆喔</span></p>
+      <p
+        begin="00:12:46.420"
+        end="00:12:48.290"><span region="Default">拿去…不用客气</span></p>
+      <p
+        begin="00:12:48.290"
+        end="00:12:50.460"><span region="Default">可能不够</span></p>
+      <p
+        begin="00:12:50.690"
+        end="00:12:51.630"><span region="Default">呆</span></p>
+      <p
+        begin="00:13:00.960"
+        end="00:13:04.290"><span region="Default">鼻洁莉娜．裘莉，不错喔</span></p>
+      <p
+        begin="00:13:04.540"
+        end="00:13:06.420"><span region="Default">鼻洁莉娜？</span></p>
+      <p
+        begin="00:13:06.420"
+        end="00:13:08.130"><span region="Default">我帮鼻子取的名字</span></p>
+      <p
+        begin="00:13:08.130"
+        end="00:13:10.290"><span region="Default">你想用随时都可以拿去</span></p>
+      <p
+        begin="00:13:10.290"
+        end="00:13:13.670"><span region="Default">鼻洁莉娜有一半的鼻子是你的喔</span></p>
+      <p
+        begin="00:13:14.500"
+        end="00:13:15.920"><span region="Default">谢谢你</span></p>
+      <p
+        begin="00:13:19.540"
+        end="00:13:22.250"><span region="Default">这个合起来就是爱心</span></p>
+      <p
+        begin="00:13:22.250"
+        end="00:13:24.290"><span region="Default">这颗石头好像屁屁喔</span></p>
+      <p
+        begin="00:13:24.830"
+        end="00:13:27.380"><span region="Default">屁屁，一人一半</span></p>
+      <p
+        begin="00:13:27.750"
+        end="00:13:28.630"><span region="Default">可以吗？</span></p>
+      <p
+        begin="00:13:28.630"
+        end="00:13:29.250"><span region="Default">呆</span></p>
+      <p
+        begin="00:13:29.250"
+        end="00:13:30.790"><span region="Default">我要当印度的绊脚石</span></p>
+      <p
+        begin="00:13:30.790"
+        end="00:13:33.210"><span region="Default">应该是“伴手礼”才对</span></p>
+      <p
+        begin="00:13:33.210"
+        end="00:13:34.580"><span region="Default">也可以这样说</span></p>
+      <p
+        begin="00:13:34.580"
+        end="00:13:36.250"><span region="Default">这样说也可以</span></p>
+      <p
+        begin="00:13:41.250"
+        end="00:13:45.880"><span region="Default">去寻找闪耀的笑容吧</span></p>
+      <p
+        begin="00:13:45.880"
+        end="00:13:49.830"><span region="Default">那才是真正的宝物</span></p>
+      <p
+        begin="00:13:50.580"
+        end="00:13:52.630"><span region="Default">后天就要正式上台了耶</span></p>
+      <p
+        begin="00:13:52.630"
+        end="00:13:54.710"><span region="Default">呆，我很期待</span></p>
+      <p
+        begin="00:13:55.960"
+        end="00:13:57.830"><span region="Default">终于可以让全世界知道</span></p>
+      <p
+        begin="00:13:57.830"
+        end="00:13:59.790"><span region="Default">妮妮我有多可爱了</span></p>
+      <p
+        begin="00:14:00.670"
+        end="00:14:01.710"><span region="Default">是喔…</span></p>
+      <p
+        begin="00:14:01.710"
+        end="00:14:03.790"><span region="Default">我好像已经开始紧张了</span></p>
+      <p
+        begin="00:14:03.790"
+        end="00:14:05.170"><span region="Default">也太早了吧</span></p>
+      <p
+        begin="00:14:05.170"
+        end="00:14:06.250"><span region="Default">你放心</span></p>
+      <p
+        begin="00:14:06.250"
+        end="00:14:08.830"><span region="Default">只是有比春日部更多的印度人</span></p>
+      <p
+        begin="00:14:08.830"
+        end="00:14:11.040"><span region="Default">来看你表演跳舞而已喔</span></p>
+      <p
+        begin="00:14:11.040"
+        end="00:14:12.710"><span region="Default">不要说出来啦</span></p>
+      <p
+        begin="00:14:13.750"
+        end="00:14:17.080"><span region="Default">好期待跟大家一起跳舞</span></p>
+      <p
+        begin="00:14:27.060"
+        end="00:14:28.380"><span region="Default">我回来了</span></p>
+      <p
+        begin="00:14:28.380"
+        end="00:14:29.830"><span region="Default">有卖出什么吗？</span></p>
+      <p
+        begin="00:14:29.830"
+        end="00:14:31.330"><span region="Default">只卖了促销商品</span></p>
+      <p
+        begin="00:14:35.130"
+        end="00:14:36.380"><span region="Default">欢迎光临</span></p>
+      <p
+        begin="00:14:46.040"
+        end="00:14:47.580"><span region="Default">我们正在找纸</span></p>
+      <p
+        begin="00:14:47.880"
+        end="00:14:48.540"><span region="Default">纸？</span></p>
+      <p
+        begin="00:14:49.170"
+        end="00:14:53.750"><span region="Default">外观就像普通的面纸，但是实际上…</span></p>
+      <p
+        begin="00:14:53.750"
+        end="00:14:55.130"><span region="Default">根据我的推理</span></p>
+      <p
+        begin="00:14:55.130"
+        end="00:14:58.040"><span region="Default">现在应该被封印在这种盒子里</span></p>
+      <p
+        begin="00:15:01.830"
+        end="00:15:03.710"><span region="Default">我…我没有见过</span></p>
+      <p
+        begin="00:15:03.710"
+        end="00:15:05.170"><span region="Default">不在这间店里</span></p>
+      <p
+        begin="00:15:05.170"
+        end="00:15:06.960"><span region="Default">看来就是在这里</span></p>
+      <p
+        begin="00:15:06.960"
+        end="00:15:08.170"><span region="Default">不愧是大哥</span></p>
+      <p
+        begin="00:15:09.000"
+        end="00:15:11.170"><span region="Default">我说没有就是没有</span></p>
+      <p
+        begin="00:15:11.170"
+        end="00:15:13.630"><span region="Default">我很忙，拜托你们快点离开吧</span></p>
+      <p
+        begin="00:15:13.630"
+        end="00:15:14.790"><span region="Default">没用的</span></p>
+      <p
+        begin="00:15:14.790"
+        end="00:15:17.290"><span region="Default">你绝对不可能瞒得过我们</span></p>
+      <p
+        begin="00:15:17.880"
+        end="00:15:19.710"><span region="Default">对吧？大哥</span></p>
+      <p
+        begin="00:15:36.830"
+        end="00:15:39.290"><span region="Default">说出实话吧</span></p>
+      <p
+        begin="00:15:39.620"
+        end="00:15:42.540"><span region="Default">说出来会比较舒畅</span></p>
+      <p
+        begin="00:15:42.540"
+        end="00:15:45.500"><span region="Default">3、2、1，好，说吧</span></p>
+      <p
+        begin="00:15:45.500"
+        end="00:15:48.380"><span region="Default">说出来的话，会比较舒畅</span></p>
+      <p
+        begin="00:15:54.130"
+        end="00:15:57.130"><span region="Default">抖抖肩膀唱歌吧，耶！</span></p>
+      <p
+        begin="00:15:57.130"
+        end="00:15:59.920"><span region="Default">踏着步伐跳舞吧，来吧！</span></p>
+      <p
+        begin="00:15:59.920"
+        end="00:16:06.040"><span region="Default">张开嘴巴说出来吧</span></p>
+      <p
+        begin="00:16:06.040"
+        end="00:16:07.420"><span region="Default">上面！</span></p>
+      <p
+        begin="00:16:08.710"
+        end="00:16:11.630"><span region="Default">在上面？在右边？在左边？</span></p>
+      <p
+        begin="00:16:11.630"
+        end="00:16:14.540"><span region="Default">不是…！</span></p>
+      <p
+        begin="00:16:14.540"
+        end="00:16:17.790"><span region="Default">在我这里？在你那里？在他那里？</span></p>
+      <p
+        begin="00:16:17.790"
+        end="00:16:20.380"><span region="Default">不是…！</span></p>
+      <p
+        begin="00:16:20.380"
+        end="00:16:26.210"><span region="Default">那纸是不可见人的怪物</span></p>
+      <p
+        begin="00:16:26.210"
+        end="00:16:31.420"><span region="Default">独一无二、穷凶极恶、奇奇怪怪</span></p>
+      <p
+        begin="00:16:31.960"
+        end="00:16:34.880"><span region="Default">战战兢兢、惊天动地</span></p>
+      <p
+        begin="00:16:34.880"
+        end="00:16:37.880"><span region="Default">不可能在那种地方！</span></p>
+      <p
+        begin="00:16:37.880"
+        end="00:16:39.000"><span region="Default">那么在哪里？</span></p>
+      <p
+        begin="00:16:39.000"
+        end="00:16:40.540"><span region="Default">纸就在这里</span></p>
+      <p
+        begin="00:16:42.920"
+        end="00:16:44.130"><span region="Default">不见了</span></p>
+      <p
+        begin="00:16:44.540"
+        end="00:16:46.960"><span region="Default">这个东西刚刚卖掉了</span></p>
+      <p
+        begin="00:16:47.170"
+        end="00:16:48.420"><span region="Default">卖给谁了？</span></p>
+      <p
+        begin="00:16:48.420"
+        end="00:16:49.540"><span region="Default">不是本地人</span></p>
+      <p
+        begin="00:16:49.540"
+        end="00:16:51.460"><span region="Default">一个屁屁扭来扭去的小孩</span></p>
+      <p
+        begin="00:16:51.460"
+        end="00:16:53.670"><span region="Default">跟一个鼻水甩来甩去的小孩</span></p>
+      <p
+        begin="00:16:53.670"
+        end="00:16:55.380"><span region="Default">屁屁扭来扭去？</span></p>
+      <p
+        begin="00:16:55.380"
+        end="00:16:56.920"><span region="Default">鼻水甩来甩去？</span></p>
+      <p
+        begin="00:16:56.920"
+        end="00:16:59.000"><span region="Default">他们长这个样子</span></p>
+      <p
+        begin="00:17:00.750"
+        end="00:17:04.290"><span region="Default">要是有人把那张纸插进鼻子里的话</span></p>
+      <p
+        begin="00:17:05.500"
+        end="00:17:08.290"><span region="Default">那么事情可就严重了</span></p>
+      <p
+        begin="00:17:14.579"
+        end="00:17:17.329"><span region="Default">要搭15个小时才能到穆希拜啊</span></p>
+      <p
+        begin="00:17:18.460"
+        end="00:17:20.079"><span region="Default">一下子就到了啦</span></p>
+      <p
+        begin="00:17:20.079"
+        end="00:17:22.750"><span region="Default">听说火车上有观景室耶</span></p>
+      <p
+        begin="00:17:22.750"
+        end="00:17:24.380"><span region="Default">我们大家一起去探险吧</span></p>
+      <p
+        begin="00:17:24.380"
+        end="00:17:25.670"><span region="Default">好啊…</span></p>
+      <p
+        begin="00:17:25.670"
+        end="00:17:26.880"><span region="Default">小新妈妈</span></p>
+      <p
+        begin="00:17:26.880"
+        end="00:17:29.380"><span region="Default">可以帮我在风景漂亮的地方拍照</span></p>
+      <p
+        begin="00:17:29.380"
+        end="00:17:30.830"><span region="Default">传给我妈妈吗？</span></p>
+      <p
+        begin="00:17:30.830"
+        end="00:17:32.210"><span region="Default">交给我吧</span></p>
+      <p
+        begin="00:17:32.210"
+        end="00:17:34.420"><span region="Default">我也可以跟漂亮大姐姐拍照</span></p>
+      <p
+        begin="00:17:34.420"
+        end="00:17:36.040"><span region="Default">然后传给妈妈吗？</span></p>
+      <p
+        begin="00:17:36.040"
+        end="00:17:37.420"><span region="Default">这就不用了</span></p>
+      <p
+        begin="00:17:47.580"
+        end="00:17:49.000"><span region="Default">来，笑一个</span></p>
+      <p
+        begin="00:17:50.380"
+        end="00:17:52.250"><span region="Default">我会传给大家的妈妈看</span></p>
+      <p
+        begin="00:17:52.630"
+        end="00:17:53.670"><span region="Default">我想想喔</span></p>
+      <p
+        begin="00:17:53.670"
+        end="00:17:55.500"><span region="Default">现在是日本几点啊？</span></p>
+      <p
+        begin="00:17:55.500"
+        end="00:17:56.540"><span region="Default">管他的</span></p>
+      <p
+        begin="00:17:57.080"
+        end="00:17:57.960"><span region="Default">（谢谢）（谢谢野原太太）</span></p>
+      <p
+        begin="00:17:57.960"
+        end="00:17:59.150"><span region="Default">（没吃坏肚子吧？）（在搭火车？）</span></p>
+      <p
+        begin="00:17:59.150"
+        end="00:17:59.880"><span region="Default">好快</span></p>
+      <p
+        begin="00:17:59.880"
+        end="00:18:00.830"><span region="Default">（吃了什么？咖哩？）（要小心水喔）</span></p>
+      <p
+        begin="00:18:00.830"
+        end="00:18:03.080"><span region="Default">也是，大家都很担心吧</span></p>
+      <p
+        begin="00:18:03.660"
+        end="00:18:04.790"><span region="Default">你们快看</span></p>
+      <p
+        begin="00:18:05.960"
+        end="00:18:08.420"><span region="Default">果然跟春日部不一样耶</span></p>
+      <p
+        begin="00:18:08.420"
+        end="00:18:10.630"><span region="Default">印度真是有活力</span></p>
+      <p
+        begin="00:18:11.580"
+        end="00:18:13.040"><span region="Default">我也要看啦</span></p>
+      <p
+        begin="00:18:38.630"
+        end="00:18:39.960"><span region="Default">两位大姐姐</span></p>
+      <p
+        begin="00:18:39.960"
+        end="00:18:41.920"><span region="Default">我是野原新之助</span></p>
+      <p
+        begin="00:18:41.920"
+        end="00:18:43.170"><span region="Default">要不要跟我一起</span></p>
+      <p
+        begin="00:18:43.170"
+        end="00:18:44.580"><span region="Default">吃香喷喷、辣呼呼的咖哩咧？</span></p>
+      <p
+        begin="00:18:44.580"
+        end="00:18:46.040"><span region="Default">- 小新，不要这样<br/>吃香喷喷、辣呼呼的咖哩咧？</span></p>
+      <p
+        begin="00:18:46.590"
+        end="00:18:49.000"><span region="Default">Sorry！Sorry！I'm sorry！</span></p>
+      <p
+        begin="00:18:49.000"
+        end="00:18:51.960"><span region="Default">奇怪，我刚才怎么啦？</span></p>
+      <p
+        begin="00:18:52.380"
+        end="00:18:54.170"><span region="Default">你这个小傻瓜</span></p>
+      <p
+        begin="00:18:54.170"
+        end="00:18:56.710"><span region="Default">大老远跑来印度在做什么啦？</span></p>
+      <p
+        begin="00:19:18.630"
+        end="00:19:20.080"><span region="Default">我要上厕所</span></p>
+      <p
+        begin="00:19:24.230"
+        end="00:19:25.420"><span region="Default">我刚才怎么了？</span></p>
+      <p
+        begin="00:19:38.630"
+        end="00:19:39.880"><span region="Default">是鬼牌</span></p>
+      <p
+        begin="00:19:40.960"
+        end="00:19:43.330"><span region="Default">两个老头玩抽鬼牌也不错嘛</span></p>
+      <p
+        begin="00:19:43.330"
+        end="00:19:44.250"><span region="Default">是啊</span></p>
+      <p
+        begin="00:19:44.250"
+        end="00:19:46.080"><span region="Default">阿罕先生要一起玩吗？</span></p>
+      <p
+        begin="00:19:47.380"
+        end="00:19:49.540"><span region="Default">你回来，咧曼兄弟破产</span></p>
+      <p
+        begin="00:19:49.540"
+        end="00:19:51.460"><span region="Default">不要讲那么恐怖的事啦</span></p>
+      <p
+        begin="00:19:51.460"
+        end="00:19:52.750"><span region="Default">是“我回来了”</span></p>
+      <p
+        begin="00:19:52.750"
+        end="00:19:54.880"><span region="Default">观景车厢怎么样啊？</span></p>
+      <p
+        begin="00:19:54.880"
+        end="00:19:55.880"><span region="Default">超赞的</span></p>
+      <p
+        begin="00:19:55.880"
+        end="00:19:58.500"><span region="Default">园长，等一下也跟我们一起去嘛</span></p>
+      <p
+        begin="00:19:58.500"
+        end="00:19:59.750"><span region="Default">好啊</span></p>
+      <p
+        begin="00:19:59.750"
+        end="00:20:02.170"><span region="Default">发现了咖哩口味小饼干</span></p>
+      <p
+        begin="00:20:02.170"
+        end="00:20:03.290"><span region="Default">呆</span></p>
+      <p
+        begin="00:20:03.670"
+        end="00:20:06.540"><span region="Default">阿呆也不用客气，来一杯吧</span></p>
+      <p
+        begin="00:20:07.210"
+        end="00:20:09.420"><span region="Default">我的咕噜在肚子肚子叫了</span></p>
+      <p
+        begin="00:20:09.420"
+        end="00:20:10.460"><span region="Default">等一下</span></p>
+      <p
+        begin="00:20:10.830"
+        end="00:20:12.920"><span region="Default">吃饭之前不准吃零食</span></p>
+      <p
+        begin="00:20:13.880"
+        end="00:20:15.460"><span region="Default">妈妈真小气</span></p>
+      <p
+        begin="00:20:15.460"
+        end="00:20:16.920"><span region="Default">我就是小气</span></p>
+      <p
+        begin="00:20:17.290"
+        end="00:20:18.500"><span region="Default">我想吃</span></p>
+      <p
+        begin="00:20:18.500"
+        end="00:20:22.120"><span region="Default">我想吃…</span></p>
+      <p
+        begin="00:20:22.120"
+        end="00:20:23.830"><span region="Default">- 阿呆真是乖孩子<br/>我想吃…</span></p>
+      <p
+        begin="00:20:23.830"
+        end="00:20:25.460"><span region="Default">- 好了…　- 我想吃…</span></p>
+      <p
+        begin="00:20:25.460"
+        end="00:20:27.710"><span region="Default">火车会在下一站停30分钟</span></p>
+      <p
+        begin="00:20:27.710"
+        end="00:20:30.290"><span region="Default">等到了那边，再一起去买午餐吧</span></p>
+      <p
+        begin="00:20:34.330"
+        end="00:20:35.710"><span region="Default">根据肖像画</span></p>
+      <p
+        begin="00:20:35.710"
+        end="00:20:37.460"><span region="Default">再查了附近的监视器</span></p>
+      <p
+        begin="00:20:37.460"
+        end="00:20:39.710"><span region="Default">锁定那些拿到纸的小朋友</span></p>
+      <p
+        begin="00:20:39.710"
+        end="00:20:42.170"><span region="Default">然后以脸部辨识追踪他们</span></p>
+      <p
+        begin="00:20:42.170"
+        end="00:20:45.290"><span region="Default">目前查出他们正在往穆希拜的火车上</span></p>
+      <p
+        begin="00:20:45.290"
+        end="00:20:46.630"><span region="Default">就是那列火车</span></p>
+      <p
+        begin="00:20:47.290"
+        end="00:20:48.710"><span region="Default">屁屁扭来扭去男孩</span></p>
+      <p
+        begin="00:20:48.710"
+        end="00:20:51.080"><span region="Default">跟鼻水甩来甩去男孩就在那里</span></p>
+      <p
+        begin="00:20:51.080"
+        end="00:20:53.790"><span region="Default">效率真是高，不愧是大哥</span></p>
+      <p
+        begin="00:20:53.790"
+        end="00:20:54.920"><span region="Default">不管怎么样</span></p>
+      <p
+        begin="00:20:54.920"
+        end="00:20:57.500"><span region="Default">都要阻止有人把纸插进鼻子里</span></p>
+      <p
+        begin="00:20:57.500"
+        end="00:20:58.290"><span region="Default">收到</span></p>
+      <p
+        begin="00:21:33.480"
+        end="00:21:35.330"><span region="Default">乌尔夫大人，危险啊</span></p>
+      <p
+        begin="00:21:35.330"
+        end="00:21:37.500"><span region="Default">这是两天前在森林抓到的野生…</span></p>
+      <p
+        begin="00:21:37.500"
+        end="00:21:38.960"><span region="Default">我只是来打招呼</span></p>
+      <p
+        begin="00:21:39.250"
+        end="00:21:41.420"><span region="Default">向我的搭档候选人</span></p>
+      <p
+        begin="00:21:42.080"
+        end="00:21:45.420"><span region="Default">只有强者才有资格当我的搭档</span></p>
+      <p
+        begin="00:21:46.540"
+        end="00:21:49.710"><span region="Default">你真的有办法成为我的搭档吗？</span></p>
+      <p
+        begin="00:21:51.750"
+        end="00:21:53.250"><span region="Default">我想吃咖哩</span></p>
+      <p
+        begin="00:21:54.170"
+        end="00:21:57.460"><span region="Default">这边的咖哩有很多不同的种类耶</span></p>
+      <p
+        begin="00:21:58.720"
+        end="00:21:59.920"><span region="Default">阿罕先生</span></p>
+      <p
+        begin="00:21:59.920"
+        end="00:22:03.460"><span region="Default">我想帮小朋友们点不要太辣的口味好吗？</span></p>
+      <p
+        begin="00:22:08.180"
+        end="00:22:11.210"><span region="Default">米饭，馕，洽帕提？</span></p>
+      <p
+        begin="00:22:11.210"
+        end="00:22:12.500"><span region="Default">洽帕提？</span></p>
+      <p
+        begin="00:22:12.500"
+        end="00:22:14.670"><span region="Default">洽帕提…</span></p>
+      <p
+        begin="00:22:14.670"
+        end="00:22:16.420"><span region="Default">那个是“卡巴迪”啦</span></p>
+      <p
+        begin="00:22:17.710"
+        end="00:22:20.500"><span region="Default">他现在好像正在制作洽帕提喔</span></p>
+      <p
+        begin="00:22:20.920"
+        end="00:22:23.170"><span region="Default">洽帕提就是用全麦面粉</span></p>
+      <p
+        begin="00:22:23.170"
+        end="00:22:25.880"><span region="Default">加水搓揉烤熟而成的食物</span></p>
+      <p
+        begin="00:22:25.880"
+        end="00:22:29.170"><span region="Default">是一种普遍印度家庭都会吃的东西喔</span></p>
+      <p
+        begin="00:22:29.580"
+        end="00:22:30.420"><span region="Default">对吧？</span></p>
+      <p
+        begin="00:22:36.580"
+        end="00:22:38.210"><span region="Default">看起来好好吃</span></p>
+      <p
+        begin="00:22:38.210"
+        end="00:22:40.040"><span region="Default">This chapati delicious？</span></p>
+      <p
+        begin="00:22:40.950"
+        end="00:22:42.000"><span region="Default">Yes</span></p>
+      <p
+        begin="00:22:43.730"
+        end="00:22:45.710"><span region="Default">那我要…</span></p>
+      <p
+        begin="00:22:49.170"
+        end="00:22:49.880"><span region="Default">馕</span></p>
+      <p
+        begin="00:22:51.830"
+        end="00:22:53.670"><span region="Default">我想要吃米饭耶</span></p>
+      <p
+        begin="00:22:53.670"
+        end="00:22:54.500"><span region="Default">我要馕</span></p>
+      <p
+        begin="00:22:54.500"
+        end="00:22:55.580"><span region="Default">我也要馕</span></p>
+      <p
+        begin="00:22:57.520"
+        end="00:22:58.540"><span region="Default">我就选馕吧</span></p>
+      <p
+        begin="00:22:58.790"
+        end="00:23:01.420"><span region="Default">我要米饭跟馕，两种都要</span></p>
+      <p
+        begin="00:23:01.420"
+        end="00:23:03.710"><span region="Default">我要馕，你也要馕吗？</span></p>
+      <p
+        begin="00:23:04.790"
+        end="00:23:06.210"><span region="Default">我要…</span></p>
+      <p
+        begin="00:23:16.870"
+        end="00:23:17.630"><span region="Default">馕</span></p>
+      <p
+        begin="00:23:25.080"
+        end="00:23:26.290"><span region="Default">还要多久</span></p>
+      <p
+        begin="00:23:26.290"
+        end="00:23:29.170"><span region="Default">我肚子饿到屁屁快裂开了</span></p>
+      <p
+        begin="00:23:30.250"
+        end="00:23:31.420"><span region="Default">什么咖哩？</span></p>
+      <p
+        begin="00:23:31.880"
+        end="00:23:33.290"><span region="Default">好香喔</span></p>
+      <p
+        begin="00:23:33.290"
+        end="00:23:35.080"><span region="Default">分我一口吧</span></p>
+      <p
+        begin="00:23:35.080"
+        end="00:23:36.420"><span region="Default">分我一口嘛</span></p>
+      <p
+        begin="00:23:36.420"
+        end="00:23:37.580"><span region="Default">分我一口</span></p>
+      <p
+        begin="00:23:37.580"
+        end="00:23:39.420"><span region="Default">拜托分我一口啦</span></p>
+      <p
+        begin="00:23:41.580"
+        end="00:23:42.460"><span region="Default">呆</span></p>
+      <p
+        begin="00:24:01.130"
+        end="00:24:01.920"><span region="Default">可以吗？</span></p>
+      <p
+        begin="00:24:20.040"
+        end="00:24:22.130"><span region="Default">不知道咖哩的味道吃起来怎么样？</span></p>
+      <p
+        begin="00:24:22.130"
+        end="00:24:23.290"><span region="Default">正宗的咖哩也蛮不赖的嘛</span></p>
+      <p
+        begin="00:24:23.290"
+        end="00:24:24.540"><span region="Default">- 希望吃起来不会辣<br/>正宗的咖哩也蛮不赖的嘛</span></p>
+      <p
+        begin="00:24:24.540"
+        end="00:24:25.880"><span region="Default">我很怕辣耶</span></p>
+      <p
+        begin="00:24:29.380"
+        end="00:24:30.130"><span region="Default">呆</span></p>
+      <p
+        begin="00:24:30.830"
+        end="00:24:32.710"><span region="Default">每一样看起来都好好吃</span></p>
+      <p
+        begin="00:24:32.710"
+        end="00:24:33.420"><span region="Default">呆</span></p>
+      <p
+        begin="00:24:37.130"
+        end="00:24:37.880"><span region="Default">呆</span></p>
+      <p
+        begin="00:24:42.080"
+        end="00:24:44.540"><span region="Default">阿呆，你刚刚做了什么吗？</span></p>
+      <p
+        begin="00:24:45.960"
+        end="00:24:48.500"><span region="Default">我是怎么了啊？</span></p>
+      <p
+        begin="00:24:50.230"
+        end="00:24:50.920"><span region="Default">馕</span></p>
+      <p
+        begin="00:24:52.040"
+        end="00:24:53.130"><span region="Default">米饭</span></p>
+      <p
+        begin="00:24:53.130"
+        end="00:24:53.960"><span region="Default">馕</span></p>
+      <p
+        begin="00:24:54.230"
+        end="00:24:55.620"><span region="Default">馕跟米饭</span></p>
+      <p
+        begin="00:24:55.630"
+        end="00:24:57.920"><span region="Default">馕…</span></p>
+      <p
+        begin="00:24:58.740"
+        end="00:24:59.790"><span region="Default">洽帕提</span></p>
+      <p
+        begin="00:25:03.580"
+        end="00:25:04.670"><span region="Default">洽帕提？</span></p>
+      <p
+        begin="00:25:05.170"
+        end="00:25:06.580"><span region="Default">洽帕提</span></p>
+      <p
+        begin="00:25:06.580"
+        end="00:25:08.000"><span region="Default">算了，没差</span></p>
+      <p
+        begin="00:25:08.000"
+        end="00:25:09.670"><span region="Default">大家拿到餐点了吗？</span></p>
+      <p
+        begin="00:25:09.670"
+        end="00:25:11.130"><span region="Default">拿到了…</span></p>
+      <p
+        begin="00:25:11.130"
+        end="00:25:13.080"><span region="Default">小新要吃馕</span></p>
+      <p
+        begin="00:25:15.380"
+        end="00:25:17.880"><span region="Default">小新刚刚说要吃馕</span></p>
+      <p
+        begin="00:25:18.290"
+        end="00:25:20.290"><span region="Default">他明明点的是馕</span></p>
+      <p
+        begin="00:25:20.290"
+        end="00:25:22.580"><span region="Default">阿呆，你怎么了吗？</span></p>
+      <p
+        begin="00:25:23.500"
+        end="00:25:25.420"><span region="Default">我屁屁好饿喔</span></p>
+      <p
+        begin="00:25:25.420"
+        end="00:25:27.000"><span region="Default">我要开动马萨拉咖哩</span></p>
+      <p
+        begin="00:25:27.000"
+        end="00:25:29.500"><span region="Default">应该要是馕啊</span></p>
+      <p
+        begin="00:25:29.500"
+        end="00:25:31.370"><span region="Default">呆</span></p>
+      <p
+        begin="00:25:31.380"
+        end="00:25:34.080"><span region="Default">小新明明就想吃馕</span></p>
+      <p
+        begin="00:25:34.080"
+        end="00:25:38.290"><span region="Default">- 阿呆刮起好大的暴风<br/>- 是馕…是馕啊</span></p>
+      <p
+        begin="00:25:38.290"
+        end="00:25:40.750"><span region="Default">呆</span></p>
+      <p
+        begin="00:25:40.920"
+        end="00:25:41.960"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:25:45.390"
+        end="00:25:47.920"><span region="Default">呆</span></p>
+      <p
+        begin="00:25:47.920"
+        end="00:25:49.630"><span region="Default">呆…</span></p>
+      <p
+        begin="00:26:00.580"
+        end="00:26:02.580"><span region="Default">世上最恐怖的…</span></p>
+      <p
+        begin="00:26:02.580"
+        end="00:26:05.290"><span region="Default">野生的蜜獾啊</span></p>
+      <p
+        begin="00:26:07.940"
+        end="00:26:08.710"><span region="Default">呆</span></p>
+      <p
+        begin="00:26:13.560"
+        end="00:26:14.830"><span region="Default">那是什么？</span></p>
+      <p
+        begin="00:26:14.830"
+        end="00:26:16.290"><span region="Default">好可爱哟</span></p>
+      <p
+        begin="00:26:16.520"
+        end="00:26:17.540"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:26:17.540"
+        end="00:26:19.250"><span region="Default">你看，是馕喔</span></p>
+      <p
+        begin="00:26:19.500"
+        end="00:26:20.710"><span region="Default">我们有馕了</span></p>
+      <p
+        begin="00:26:20.710"
+        end="00:26:22.580"><span region="Default">所以请你冷静下来</span></p>
+      <p
+        begin="00:26:27.290"
+        end="00:26:30.040"><span region="Default">那是小新的馕，快还来</span></p>
+      <p
+        begin="00:26:32.630"
+        end="00:26:34.790"><span region="Default">小新的馕</span></p>
+      <p
+        begin="00:26:34.790"
+        end="00:26:35.960"><span region="Default">他动作好快喔</span></p>
+      <p
+        begin="00:26:38.930"
+        end="00:26:40.380"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:26:47.110"
+        end="00:26:48.040"><span region="Default">呆</span></p>
+      <p
+        begin="00:26:50.710"
+        end="00:26:52.670"><span region="Default">阿呆，你冷静一点</span></p>
+      <p
+        begin="00:26:59.790"
+        end="00:27:02.250"><span region="Default">阿罕先生，你还好吧？</span></p>
+      <p
+        begin="00:27:05.170"
+        end="00:27:05.710"><span region="Default">呆</span></p>
+      <p
+        begin="00:27:06.170"
+        end="00:27:08.460"><span region="Default">阿呆，你等一下啦</span></p>
+      <p
+        begin="00:27:12.080"
+        end="00:27:12.630"><span region="Default">呆</span></p>
+      <p
+        begin="00:27:12.940"
+        end="00:27:13.750"><span region="Default">糟了</span></p>
+      <p
+        begin="00:27:14.540"
+        end="00:27:16.380"><span region="Default">纸已经插进鼻子了</span></p>
+      <p
+        begin="00:27:17.540"
+        end="00:27:19.830"><span region="Default">还只有一边，不要放弃</span></p>
+      <p
+        begin="00:27:25.250"
+        end="00:27:28.290"><span region="Default">小朋友，快把纸从鼻子里拔出来</span></p>
+      <p
+        begin="00:27:28.850"
+        end="00:27:29.790"><span region="Default">纸？</span></p>
+      <p
+        begin="00:27:30.580"
+        end="00:27:31.750"><span region="Default">你们是什么人啊？</span></p>
+      <p
+        begin="00:27:32.670"
+        end="00:27:35.380"><span region="Default">我们是印度警察机密离奇悬案</span></p>
+      <p
+        begin="00:27:35.380"
+        end="00:27:37.420"><span region="Default">特殊搜查组刑警</span></p>
+      <p
+        begin="00:27:37.420"
+        end="00:27:39.460"><span region="Default">"卡比尔．卡查帕帕尔．帕卡帕帕尔．</span></p>
+      <p
+        begin="00:27:39.460"
+        end="00:27:41.330"><span region="Default">卡查帕帕尔．帕卡帕帕尔"</span></p>
+      <p
+        begin="00:27:41.330"
+        end="00:27:42.580"><span region="Default">一样，我是迪尔</span></p>
+      <p
+        begin="00:27:42.580"
+        end="00:27:45.580"><span region="Default">我们是来这里回收某种危险的纸</span></p>
+      <p
+        begin="00:27:45.580"
+        end="00:27:48.080"><span region="Default">你们怎么会说我们的语言？</span></p>
+      <p
+        begin="00:27:48.080"
+        end="00:27:49.290"><span region="Default">别太惊讶</span></p>
+      <p
+        begin="00:27:49.290"
+        end="00:27:52.290"><span region="Default">因为我们是印度14亿5千万人里</span></p>
+      <p
+        begin="00:27:52.290"
+        end="00:27:54.000"><span region="Default">菁英中的菁英</span></p>
+      <p
+        begin="00:27:54.000"
+        end="00:27:56.000"><span region="Default">我会12国语言</span></p>
+      <p
+        begin="00:27:56.000"
+        end="00:27:58.380"><span region="Default">迪尔会说所有语言</span></p>
+      <p
+        begin="00:27:58.670"
+        end="00:28:00.330"><span region="Default">所有语言？</span></p>
+      <p
+        begin="00:28:00.810"
+        end="00:28:01.790"><span region="Default">那…</span></p>
+      <p
+        begin="00:28:01.790"
+        end="00:28:04.830"><span region="Default">“我会用屁屁走路”的印度话怎么说咧</span></p>
+      <p
+        begin="00:28:04.830"
+        end="00:28:07.250"><span region="Default">（印地语）</span></p>
+      <p
+        begin="00:28:07.250"
+        end="00:28:08.710"><span region="Default">韩国话咧？</span></p>
+      <p
+        begin="00:28:08.710"
+        end="00:28:11.170"><span region="Default">（韩语）</span></p>
+      <p
+        begin="00:28:11.380"
+        end="00:28:12.830"><span region="Default">山东话咧？</span></p>
+      <p
+        begin="00:28:12.830"
+        end="00:28:14.170"><span region="Default">俺能撅着屁屁走路</span></p>
+      <p
+        begin="00:28:16.290"
+        end="00:28:18.000"><span region="Default">别让他做这种事啦</span></p>
+      <p
+        begin="00:28:18.420"
+        end="00:28:20.750"><span region="Default">请问你说什么纸？</span></p>
+      <p
+        begin="00:28:20.750"
+        end="00:28:23.920"><span region="Default">那位男孩子鼻子里插着邪恶的纸张</span></p>
+      <p
+        begin="00:28:24.830"
+        end="00:28:26.460"><span region="Default">只要把纸插进鼻子里</span></p>
+      <p
+        begin="00:28:26.460"
+        end="00:28:29.210"><span region="Default">体内的能量就会集中到鼻子</span></p>
+      <p
+        begin="00:28:29.210"
+        end="00:28:31.080"><span region="Default">让人变得很有气势</span></p>
+      <p
+        begin="00:28:31.380"
+        end="00:28:33.630"><span region="Default">产生非常强大的力量</span></p>
+      <p
+        begin="00:28:33.630"
+        end="00:28:34.830"><span region="Default">说得没错</span></p>
+      <p
+        begin="00:28:34.830"
+        end="00:28:39.000"><span region="Default">而且纸会让插着的人想实现心里的欲望</span></p>
+      <p
+        begin="00:28:39.580"
+        end="00:28:40.460"><span region="Default">欲望？</span></p>
+      <p
+        begin="00:28:40.790"
+        end="00:28:44.210"><span region="Default">如果把纸完全插入两个鼻孔的话</span></p>
+      <p
+        begin="00:28:44.210"
+        end="00:28:46.880"><span region="Default">那位男孩就会为了实现欲望</span></p>
+      <p
+        begin="00:28:46.880"
+        end="00:28:48.630"><span region="Default">不自觉暴冲失控</span></p>
+      <p
+        begin="00:28:49.080"
+        end="00:28:50.580"><span region="Default">变成残暴不仁</span></p>
+      <p
+        begin="00:28:50.580"
+        end="00:28:53.790"><span region="Default">旁若无人的无情暴君</span></p>
+      <p
+        begin="00:28:54.710"
+        end="00:28:57.250"><span region="Default">阿呆会变成无情的暴君吗？</span></p>
+      <p
+        begin="00:28:57.670"
+        end="00:28:59.880"><span region="Default">现在只有一边有纸</span></p>
+      <p
+        begin="00:28:59.880"
+        end="00:29:01.920"><span region="Default">纸的力量还只有一半</span></p>
+      <p
+        begin="00:29:02.500"
+        end="00:29:04.880"><span region="Default">一定要趁现在把纸拔出来</span></p>
+      <p
+        begin="00:29:04.880"
+        end="00:29:06.540"><span region="Default">大哥说的都对</span></p>
+      <p
+        begin="00:29:10.750"
+        end="00:29:11.630"><span region="Default">呆</span></p>
+      <p
+        begin="00:29:21.630"
+        end="00:29:23.710"><span region="Default">馕</span></p>
+      <p
+        begin="00:29:28.250"
+        end="00:29:29.960"><span region="Default">小新，你的馕</span></p>
+      <p
+        begin="00:29:29.960"
+        end="00:29:31.380"><span region="Default">多谢多谢</span></p>
+      <p
+        begin="00:29:34.170"
+        end="00:29:37.750"><span region="Default">只有馕怎么可以，要有咖哩才行</span></p>
+      <p
+        begin="00:29:37.750"
+        end="00:29:44.460"><span region="Default">给小新咖哩…</span></p>
+      <p
+        begin="00:29:44.830"
+        end="00:29:45.880"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:29:49.170"
+        end="00:29:50.170"><span region="Default">他好强</span></p>
+      <p
+        begin="00:29:50.960"
+        end="00:29:53.080"><span region="Default">居然让我的搭档候选人</span></p>
+      <p
+        begin="00:29:53.080"
+        end="00:29:54.710"><span region="Default">蜜獾之中的蜜獾</span></p>
+      <p
+        begin="00:29:54.710"
+        end="00:29:57.460"><span region="Default">最强的蜜獾之王尝到这样的苦头</span></p>
+      <p
+        begin="00:29:59.040"
+        end="00:30:00.670"><span region="Default">给我抓住那小子</span></p>
+      <p
+        begin="00:30:03.750"
+        end="00:30:07.500"><span region="Default">小新的咖哩…</span></p>
+      <p
+        begin="00:30:07.500"
+        end="00:30:08.880"><span region="Default">小新讨厌青椒</span></p>
+      <p
+        begin="00:30:08.880"
+        end="00:30:10.080"><span region="Default">小新喜欢肉</span></p>
+      <p
+        begin="00:30:10.080"
+        end="00:30:11.920"><span region="Default">- 阿呆<br/>- 小新喜欢唐杜里烤鸡</span></p>
+      <p
+        begin="00:30:11.920"
+        end="00:30:13.250"><span region="Default">小新也喜欢鱼</span></p>
+      <p
+        begin="00:30:13.250"
+        end="00:30:15.080"><span region="Default">他喜欢米饭，也喜欢馕</span></p>
+      <p
+        begin="00:30:15.080"
+        end="00:30:16.880"><span region="Default">我们有馕了…</span></p>
+      <p
+        begin="00:30:16.880"
+        end="00:30:17.960"><span region="Default">小新的咖哩…</span></p>
+      <p
+        begin="00:30:17.960"
+        end="00:30:20.080"><span region="Default">小新的咖哩</span></p>
+      <p
+        begin="00:30:21.380"
+        end="00:30:23.170"><span region="Default">小新的咖哩…</span></p>
+      <p
+        begin="00:30:23.170"
+        end="00:30:25.500"><span region="Default">小新喜欢肉也喜欢鱼</span></p>
+      <p
+        begin="00:30:25.500"
+        end="00:30:26.790"><span region="Default">也喜欢虾子</span></p>
+      <p
+        begin="00:30:26.790"
+        end="00:30:28.250"><span region="Default">小新可以吃洋葱吗？</span></p>
+      <p
+        begin="00:30:28.250"
+        end="00:30:29.790"><span region="Default">他非常喜欢吃辣</span></p>
+      <p
+        begin="00:30:29.790"
+        end="00:30:30.960"><span region="Default">但是不能吃太辣</span></p>
+      <p
+        begin="00:30:30.960"
+        end="00:30:33.500"><span region="Default">小新的咖哩…</span></p>
+      <p
+        begin="00:30:34.830"
+        end="00:30:36.790"><span region="Default">你们两个对小朋友做什么？</span></p>
+      <p
+        begin="00:30:36.790"
+        end="00:30:38.380"><span region="Default">这里就交给我们吧</span></p>
+      <p
+        begin="00:30:39.920"
+        end="00:30:41.790"><span region="Default">一口气解决吧</span></p>
+      <p
+        begin="00:30:45.750"
+        end="00:30:49.960"><span region="Default">我们会激发沉睡在体内的力量120%出来</span></p>
+      <p
+        begin="00:30:49.960"
+        end="00:30:52.080"><span region="Default">这就是印度力量</span></p>
+      <p
+        begin="00:30:57.830"
+        end="00:31:00.710"><span region="Default">歌唱吧！印度力量</span></p>
+      <p
+        begin="00:31:00.710"
+        end="00:31:03.580"><span region="Default">有感受到吗？在我体内</span></p>
+      <p
+        begin="00:31:03.580"
+        end="00:31:06.420"><span region="Default">跳舞吧！印度力量'</span></p>
+      <p
+        begin="00:31:06.420"
+        end="00:31:09.330"><span region="Default">一定存在着沉睡的力量</span></p>
+      <p
+        begin="00:31:09.330"
+        end="00:31:12.130"><span region="Default">勇闯未知的道路吧</span></p>
+      <p
+        begin="00:31:12.130"
+        end="00:31:16.710"><span region="Default">We are hot！超辣的咖哩</span></p>
+      <p
+        begin="00:31:17.790"
+        end="00:31:20.500"><span region="Default">唱歌会使我们变强</span></p>
+      <p
+        begin="00:31:20.500"
+        end="00:31:23.460"><span region="Default">用心跳敲响出鼓声</span></p>
+      <p
+        begin="00:31:23.460"
+        end="00:31:26.130"><span region="Default">跳舞会使你变热情</span></p>
+      <p
+        begin="00:31:26.130"
+        end="00:31:29.580"><span region="Default">极限？常识？根本小茶一杯</span></p>
+      <p
+        begin="00:31:30.420"
+        end="00:31:32.500"><span region="Default">唱歌跳舞能提升力量？</span></p>
+      <p
+        begin="00:31:32.500"
+        end="00:31:35.920"><span region="Default">萨莫萨碎了我也不在意</span></p>
+      <p
+        begin="00:31:35.920"
+        end="00:31:37.960"><span region="Default">这就是我的歌</span></p>
+      <p
+        begin="00:31:37.960"
+        end="00:31:40.580"><span region="Default">流下泪水配马萨拉茶</span></p>
+      <p
+        begin="00:31:40.580"
+        end="00:31:43.420"><span region="Default">这就是爱之歌</span></p>
+      <p
+        begin="00:31:43.420"
+        end="00:31:48.630"><span region="Default">OK！火力全开最高档</span></p>
+      <p
+        begin="00:31:49.330"
+        end="00:31:52.170"><span region="Default">歌唱吧！印度力量</span></p>
+      <p
+        begin="00:31:52.170"
+        end="00:31:54.960"><span region="Default">有感受到吗？在我体内</span></p>
+      <p
+        begin="00:31:54.960"
+        end="00:31:57.880"><span region="Default">跳舞吧！印度力量</span></p>
+      <p
+        begin="00:31:57.880"
+        end="00:32:00.710"><span region="Default">唤醒沉睡的力量吧</span></p>
+      <p
+        begin="00:32:00.710"
+        end="00:32:03.630"><span region="Default">勇闯未知的道路吧</span></p>
+      <p
+        begin="00:32:03.630"
+        end="00:32:08.040"><span region="Default">We are hot！超辣的咖哩</span></p>
+      <p
+        begin="00:32:08.630"
+        end="00:32:10.880"><span region="Default">印度力量好厉害</span></p>
+      <p
+        begin="00:32:10.880"
+        end="00:32:15.540"><span region="Default">印度力量！</span></p>
+      <p
+        begin="00:32:17.330"
+        end="00:32:18.330"><span region="Default">糟了</span></p>
+      <p
+        begin="00:32:18.520"
+        end="00:32:19.420"><span region="Default">火车</span></p>
+      <p
+        begin="00:32:19.420"
+        end="00:32:21.250"><span region="Default">要去穆希拜才行</span></p>
+      <p
+        begin="00:32:21.250"
+        end="00:32:22.080"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:32:22.580"
+        end="00:32:25.000"><span region="Default">要一起去娱乐节</span></p>
+      <p
+        begin="00:32:47.460"
+        end="00:32:49.000"><span region="Default">等等</span></p>
+      <p
+        begin="00:32:55.040"
+        end="00:32:56.630"><span region="Default">我肚子好饿喔</span></p>
+      <p
+        begin="00:32:58.580"
+        end="00:33:00.830"><span region="Default">地上的东西不准吃</span></p>
+      <p
+        begin="00:33:21.350"
+        end="00:33:24.040"><span region="Default">我好像变得非常厉害？</span></p>
+      <p
+        begin="00:33:28.380"
+        end="00:33:30.380"><span region="Default">连这种事都做得到</span></p>
+      <p
+        begin="00:33:31.880"
+        end="00:33:33.460"><span region="Default">到底怎么回事啊？</span></p>
+      <p
+        begin="00:33:33.460"
+        end="00:33:35.750"><span region="Default">我从来没有看过这样的阿呆</span></p>
+      <p
+        begin="00:33:35.750"
+        end="00:33:37.130"><span region="Default">阿呆，等一下</span></p>
+      <p
+        begin="00:33:37.380"
+        end="00:33:38.830"><span region="Default">我无所不能</span></p>
+      <p
+        begin="00:33:42.290"
+        end="00:33:43.460"><span region="Default">我很厉害</span></p>
+      <p
+        begin="00:33:45.170"
+        end="00:33:47.040"><span region="Default">呆</span></p>
+      <p
+        begin="00:33:47.040"
+        end="00:33:48.540"><span region="Default">呆</span></p>
+      <p
+        begin="00:34:01.810"
+        end="00:34:04.000"><span region="Default">阿呆，太危险了</span></p>
+      <p
+        begin="00:34:04.000"
+        end="00:34:05.830"><span region="Default">把那张纸拔下来</span></p>
+      <p
+        begin="00:34:06.420"
+        end="00:34:07.500"><span region="Default">纸？</span></p>
+      <p
+        begin="00:34:07.500"
+        end="00:34:09.170"><span region="Default">就是你鼻子的纸</span></p>
+      <p
+        begin="00:34:09.170"
+        end="00:34:11.330"><span region="Default">才让你变得这么奇怪的</span></p>
+      <p
+        begin="00:34:17.400"
+        end="00:34:18.710"><span region="Default">“很奇怪”？</span></p>
+      <p
+        begin="00:34:20.530"
+        end="00:34:22.670"><span region="Default">我很奇怪吗？</span></p>
+      <p
+        begin="00:34:24.330"
+        end="00:34:25.670"><span region="Default">我不奇怪</span></p>
+      <p
+        begin="00:34:26.960"
+        end="00:34:28.710"><span region="Default">我一点也不奇怪</span></p>
+      <p
+        begin="00:34:31.040"
+        end="00:34:34.210"><span region="Default">现在的我超棒</span></p>
+      <p
+        begin="00:34:38.120"
+        end="00:34:38.790"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:34:38.790"
+        end="00:34:40.580"><span region="Default">屁屁扭来扭去男孩</span></p>
+      <p
+        begin="00:34:41.000"
+        end="00:34:43.130"><span region="Default">把身上的背包丢过来</span></p>
+      <p
+        begin="00:34:43.860"
+        end="00:34:46.500"><span region="Default">你绝对不可以让鼻水甩来甩去男孩</span></p>
+      <p
+        begin="00:34:46.500"
+        end="00:34:48.460"><span region="Default">抢到另外一张纸</span></p>
+      <p
+        begin="00:34:53.710"
+        end="00:34:56.250"><span region="Default">还有另一张纸</span></p>
+      <p
+        begin="00:35:05.400"
+        end="00:35:08.500"><span region="Default">两张纸才能成为完全体</span></p>
+      <p
+        begin="00:35:09.130"
+        end="00:35:12.040"><span region="Default">我想要，我想要另一张</span></p>
+      <p
+        begin="00:35:12.040"
+        end="00:35:14.460"><span region="Default">我想要…</span></p>
+      <p
+        begin="00:35:14.460"
+        end="00:35:16.960"><span region="Default">鼻水甩来甩去男孩鼻子里的纸</span></p>
+      <p
+        begin="00:35:16.960"
+        end="00:35:19.920"><span region="Default">强烈的想要得到另外一张纸</span></p>
+      <p
+        begin="00:35:19.920"
+        end="00:35:20.830"><span region="Default">小白</span></p>
+      <p
+        begin="00:35:21.880"
+        end="00:35:24.000"><span region="Default">阿呆，你到底是怎么了？</span></p>
+      <p
+        begin="00:35:24.000"
+        end="00:35:25.790"><span region="Default">这样根本不像你</span></p>
+      <p
+        begin="00:35:25.790"
+        end="00:35:26.540"><span region="Default">呆</span></p>
+      <p
+        begin="00:35:26.540"
+        end="00:35:29.500"><span region="Default">你本来是一个很稳重的人</span></p>
+      <p
+        begin="00:35:29.500"
+        end="00:35:30.500"><span region="Default">就是啊</span></p>
+      <p
+        begin="00:35:30.500"
+        end="00:35:32.290"><span region="Default">你是温柔的乖孩子</span></p>
+      <p
+        begin="00:35:32.290"
+        end="00:35:34.460"><span region="Default">这样才是阿呆啊</span></p>
+      <p
+        begin="00:35:34.460"
+        end="00:35:35.160"><span region="Default">呆</span></p>
+      <p
+        begin="00:35:41.710"
+        end="00:35:42.630"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:35:49.000"
+        end="00:35:49.880"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:35:51.420"
+        end="00:35:54.080"><span region="Default">你们到底又了解我什么？</span></p>
+      <p
+        begin="00:35:58.190"
+        end="00:35:59.250"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:36:00.380"
+        end="00:36:07.420"><span region="Default">你们到底又了解我什么？</span></p>
+      <p
+        begin="00:36:16.460"
+        end="00:36:18.960"><span region="Default">我终于找到强者</span></p>
+      <p
+        begin="00:36:21.460"
+        end="00:36:22.670"><span region="Default">小新</span></p>
+      <p
+        begin="00:36:23.460"
+        end="00:36:25.380"><span region="Default">爸爸</span></p>
+      <p
+        begin="00:36:44.250"
+        end="00:36:46.250"><span region="Default">卡比尔．卡查帕帕尔．帕卡帕帕尔．</span></p>
+      <p
+        begin="00:36:46.250"
+        end="00:36:48.000"><span region="Default">卡查帕帕尔．帕卡帕帕尔</span></p>
+      <p
+        begin="00:36:49.870"
+        end="00:36:52.630"><span region="Default">迪尔</span></p>
+      <p
+        begin="00:36:52.630"
+        end="00:36:53.630"><span region="Default">正男</span></p>
+      <p
+        begin="00:36:53.870"
+        end="00:36:54.790"><span region="Default">小白</span></p>
+      <p
+        begin="00:37:02.460"
+        end="00:37:06.500"><span region="Default">小新</span></p>
+      <p
+        begin="00:37:53.330"
+        end="00:37:55.040"><span region="Default">这里是哪里？</span></p>
+      <p
+        begin="00:37:56.630"
+        end="00:37:59.880"><span region="Default">爸爸、妈妈</span></p>
+      <p
+        begin="00:38:12.170"
+        end="00:38:12.830"><span region="Default">（车站）</span></p>
+      <p
+        begin="00:38:12.830"
+        end="00:38:16.130"><span region="Default">这里就是加希米尔州的穆希拜</span></p>
+      <p
+        begin="00:38:17.210"
+        end="00:38:19.960"><span region="Default">也就是娱乐节举办的地方</span></p>
+      <p
+        begin="00:38:21.290"
+        end="00:38:22.500"><span region="Default">嗨，方块</span></p>
+      <p
+        begin="00:38:22.920"
+        end="00:38:23.580"><span region="Default">是</span></p>
+      <p
+        begin="00:38:24.210"
+        end="00:38:26.830"><span region="Default">帮我准备车，然后自动导航</span></p>
+      <p
+        begin="00:38:26.830"
+        end="00:38:28.290"><span region="Default">没问题，收到</span></p>
+      <p
+        begin="00:38:36.040"
+        end="00:38:38.380"><span region="Default">我想邀请你来我的城堡</span></p>
+      <p
+        begin="00:38:38.380"
+        end="00:38:39.380"><span region="Default">上车</span></p>
+      <p
+        begin="00:38:39.380"
+        end="00:38:41.580"><span region="Default">我想邀请你来我的城堡</span></p>
+      <p
+        begin="00:38:41.580"
+        end="00:38:42.830"><span region="Default">请您上车</span></p>
+      <p
+        begin="00:38:43.000"
+        end="00:38:44.420"><span region="Default">不用客气</span></p>
+      <p
+        begin="00:38:44.420"
+        end="00:38:47.040"><span region="Default">因为我把你当成我的搭档</span></p>
+      <p
+        begin="00:38:48.210"
+        end="00:38:49.210"><span region="Default">没错吧</span></p>
+      <p
+        begin="00:38:53.080"
+        end="00:38:55.210"><span region="Default">你这小子在做什么呀？</span></p>
+      <p
+        begin="00:38:57.000"
+        end="00:38:57.830"><span region="Default">老公</span></p>
+      <p
+        begin="00:38:59.250"
+        end="00:39:01.630"><span region="Default">阿呆，离那个人远一点</span></p>
+      <p
+        begin="00:39:02.580"
+        end="00:39:04.330"><span region="Default">放开我，臭小子</span></p>
+      <p
+        begin="00:39:04.330"
+        end="00:39:08.500"><span region="Default">没事的，小新妈妈、小新爸爸</span></p>
+      <p
+        begin="00:39:11.000"
+        end="00:39:12.290"><span region="Default">因为我现在</span></p>
+      <p
+        begin="00:39:12.830"
+        end="00:39:16.250"><span region="Default">已经不再需要任何人的保护了</span></p>
+      <p
+        begin="00:39:17.460"
+        end="00:39:18.420"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:39:19.040"
+        end="00:39:21.290"><span region="Default">来吧，搭档坐前面</span></p>
+      <p
+        begin="00:39:21.290"
+        end="00:39:23.420"><span region="Default">其他人去后面</span></p>
+      <p
+        begin="00:39:26.460"
+        end="00:39:28.960"><span region="Default">等一下，怎么能这样对小朋友？</span></p>
+      <p
+        begin="00:39:31.000"
+        end="00:39:31.790"><span region="Default">什么？</span></p>
+      <p
+        begin="00:39:32.630"
+        end="00:39:33.630"><span region="Default">你们做什么？</span></p>
+      <p
+        begin="00:39:33.630"
+        end="00:39:35.000"><span region="Default">- 竟然这样对我们　- 阿呆…</span></p>
+      <p
+        begin="00:39:35.000"
+        end="00:39:35.920"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:39:35.920"
+        end="00:39:37.670"><span region="Default">- 呆…　- 阿呆</span></p>
+      <p
+        begin="00:39:37.670"
+        end="00:39:40.540"><span region="Default">我们要快点去找小新跟正男才行</span></p>
+      <p
+        begin="00:39:40.540"
+        end="00:39:42.290"><span region="Default">就交给我吧</span></p>
+      <p
+        begin="00:39:42.290"
+        end="00:39:44.170"><span region="Default">我会做好完美的准备</span></p>
+      <p
+        begin="00:39:44.170"
+        end="00:39:45.250"><span region="Default">准备？</span></p>
+      <p
+        begin="00:39:45.710"
+        end="00:39:47.460"><span region="Default">就是为了娱乐节</span></p>
+      <p
+        begin="00:39:47.460"
+        end="00:39:49.580"><span region="Default">我们就是为了上台表演跳舞</span></p>
+      <p
+        begin="00:39:49.580"
+        end="00:39:50.960"><span region="Default">才来这里的嘛</span></p>
+      <p
+        begin="00:39:50.960"
+        end="00:39:53.630"><span region="Default">- 我们是为了在娱乐节表演　- 呆…</span></p>
+      <p
+        begin="00:39:53.630"
+        end="00:39:55.330"><span region="Default">才来到这个地方的</span></p>
+      <p
+        begin="00:39:55.330"
+        end="00:39:56.670"><span region="Default">原来如此</span></p>
+      <p
+        begin="00:39:57.130"
+        end="00:39:59.750"><span region="Default">那就为了我的搭档阿呆</span></p>
+      <p
+        begin="00:39:59.750"
+        end="00:40:01.710"><span region="Default">买下整个娱乐节吧</span></p>
+      <p
+        begin="00:40:01.710"
+        end="00:40:03.330"><span region="Default">买下整个娱乐节？</span></p>
+      <p
+        begin="00:40:03.330"
+        end="00:40:04.920"><span region="Default">怎么可能办得到啊？</span></p>
+      <p
+        begin="00:40:08.500"
+        end="00:40:12.630"><span region="Default">这是我耗资一兆圆开发的超厉害方块</span></p>
+      <p
+        begin="00:40:12.630"
+        end="00:40:13.710"><span region="Default">有了这个</span></p>
+      <p
+        begin="00:40:13.710"
+        end="00:40:15.500"><span region="Default">就可以让我透过卫星</span></p>
+      <p
+        begin="00:40:15.500"
+        end="00:40:18.040"><span region="Default">瞬间连上全球的网路</span></p>
+      <p
+        begin="00:40:18.040"
+        end="00:40:19.580"><span region="Default">什么都办得到</span></p>
+      <p
+        begin="00:40:19.580"
+        end="00:40:20.670"><span region="Default">（已付款）</span></p>
+      <p
+        begin="00:40:20.670"
+        end="00:40:23.250"><span region="Default">现在娱乐节已经是我们的了</span></p>
+      <p
+        begin="00:40:23.250"
+        end="00:40:24.960"><span region="Default">尽情享受吧</span></p>
+      <p
+        begin="00:40:24.960"
+        end="00:40:28.960"><span region="Default">由乌尔夫与阿呆两人举办的娱乐节</span></p>
+      <p
+        begin="00:40:30.380"
+        end="00:40:31.710"><span region="Default">不用谢我</span></p>
+      <p
+        begin="00:40:31.710"
+        end="00:40:34.250"><span region="Default">因为是我选择你当我的搭档</span></p>
+      <p
+        begin="00:40:35.000"
+        end="00:40:36.080"><span region="Default">没错吧</span></p>
+      <p
+        begin="00:40:36.710"
+        end="00:40:38.830"><span region="Default">走开，不准你靠近阿呆</span></p>
+      <p
+        begin="00:40:38.830"
+        end="00:40:40.380"><span region="Default">你到底是什么人？</span></p>
+      <p
+        begin="00:40:42.080"
+        end="00:40:43.330"><span region="Default">嗨，方块</span></p>
+      <p
+        begin="00:40:43.330"
+        end="00:40:44.040"><span region="Default">是</span></p>
+      <p
+        begin="00:40:44.040"
+        end="00:40:46.170"><span region="Default">马上播放音乐</span></p>
+      <p
+        begin="00:40:55.290"
+        end="00:40:59.500"><span region="Default">我是乌尔夫，奢华有钱人</span></p>
+      <p
+        begin="00:40:59.500"
+        end="00:41:01.500"><span region="Default">我是乌尔夫</span></p>
+      <p
+        begin="00:41:01.500"
+        end="00:41:03.710"><span region="Default">就告诉你们我是谁吧</span></p>
+      <p
+        begin="00:41:03.710"
+        end="00:41:07.960"><span region="Default">在恒河呱呱坠地，我是完美的乌尔夫</span></p>
+      <p
+        begin="00:41:07.960"
+        end="00:41:12.080"><span region="Default">印度最赞的男人，奢华有钱人</span></p>
+      <p
+        begin="00:41:12.080"
+        end="00:41:14.210"><span region="Default">我的头发是干城章嘉峰</span></p>
+      <p
+        begin="00:41:14.210"
+        end="00:41:16.210"><span region="Default">一兆圆只是小钱</span></p>
+      <p
+        begin="00:41:16.210"
+        end="00:41:18.330"><span region="Default">"幸福、健康、时间和回笼觉</span></p>
+      <p
+        begin="00:41:18.330"
+        end="00:41:20.500"><span region="Default">都能用钱买到"</span></p>
+      <p
+        begin="00:41:20.500"
+        end="00:41:23.080"><span region="Default">人人都爱我</span></p>
+      <p
+        begin="00:41:24.420"
+        end="00:41:27.290"><span region="Default">完美的我有个唯一的愿望</span></p>
+      <p
+        begin="00:41:28.580"
+        end="00:41:32.960"><span region="Default">就是与我同行的最强搭档</span></p>
+      <p
+        begin="00:41:32.960"
+        end="00:41:35.080"><span region="Default">我四处冒险，总算发现</span></p>
+      <p
+        begin="00:41:35.080"
+        end="00:41:37.130"><span region="Default">那就是你，阿呆先生</span></p>
+      <p
+        begin="00:41:37.130"
+        end="00:41:39.210"><span region="Default">需要什么尽管说，我全都会给你</span></p>
+      <p
+        begin="00:41:39.210"
+        end="00:41:42.630"><span region="Default">没有你，我已经无法活下去</span></p>
+      <p
+        begin="00:41:42.630"
+        end="00:41:44.540"><span region="Default">你也一样吧？</span></p>
+      <p
+        begin="00:41:44.540"
+        end="00:41:47.460"><span region="Default">那就是搭档</span></p>
+      <p
+        begin="00:41:47.460"
+        end="00:41:52.750"><span region="Default">只要有你，不管怎样的冬天都超暖和</span></p>
+      <p
+        begin="00:41:52.760"
+        end="00:41:55.790"><span region="Default">那就是暖炉</span></p>
+      <p
+        begin="00:41:55.790"
+        end="00:42:01.090"><span region="Default">你总能华丽地偷走我的心</span></p>
+      <p
+        begin="00:42:01.090"
+        end="00:42:04.170"><span region="Default">那就是小偷</span></p>
+      <p
+        begin="00:42:05.400"
+        end="00:42:06.710"><span region="Default">什么鬼啊？</span></p>
+      <p
+        begin="00:42:08.790"
+        end="00:42:11.670"><span region="Default">丢下我一个人，迪尔</span></p>
+      <p
+        begin="00:42:12.450"
+        end="00:42:13.670"><span region="Default">你是刑警吧？</span></p>
+      <p
+        begin="00:42:13.670"
+        end="00:42:15.170"><span region="Default">像刚才那样唱歌</span></p>
+      <p
+        begin="00:42:15.170"
+        end="00:42:17.630"><span region="Default">用印度力量想想办法呀</span></p>
+      <p
+        begin="00:42:17.630"
+        end="00:42:19.710"><span region="Default">歌唱吧…</span></p>
+      <p
+        begin="00:42:20.580"
+        end="00:42:24.460"><span region="Default">印度力量…</span></p>
+      <p
+        begin="00:42:24.460"
+        end="00:42:25.580"><span region="Default">好阴沉</span></p>
+      <p
+        begin="00:42:26.330"
+        end="00:42:29.130"><span region="Default">请问那一张纸到底是什么？</span></p>
+      <p
+        begin="00:42:29.130"
+        end="00:42:32.000"><span region="Default">你之前说可以实现欲望之类的</span></p>
+      <p
+        begin="00:42:32.000"
+        end="00:42:33.710"><span region="Default">“我想吃那个”</span></p>
+      <p
+        begin="00:42:33.710"
+        end="00:42:35.420"><span region="Default">“我想要这个”</span></p>
+      <p
+        begin="00:42:35.420"
+        end="00:42:39.210"><span region="Default">我们人的欲望就像大海一样深不见底</span></p>
+      <p
+        begin="00:42:39.830"
+        end="00:42:43.040"><span region="Default">听说把那张纸插在鼻子上</span></p>
+      <p
+        begin="00:42:43.040"
+        end="00:42:46.420"><span region="Default">就可以让人得到实现欲望的能力</span></p>
+      <p
+        begin="00:42:46.420"
+        end="00:42:48.920"><span region="Default">让人实现欲望的能力？</span></p>
+      <p
+        begin="00:42:50.000"
+        end="00:42:53.630"><span region="Default">自古以来被称为暴君的那些人</span></p>
+      <p
+        begin="00:42:53.630"
+        end="00:42:57.000"><span region="Default">很有可能都是受到了纸的影响</span></p>
+      <p
+        begin="00:42:57.380"
+        end="00:42:59.540"><span region="Default">关于这点众说纷纭</span></p>
+      <p
+        begin="00:43:00.710"
+        end="00:43:04.210"><span region="Default">最后一次确认纸真实存在的地点</span></p>
+      <p
+        begin="00:43:04.210"
+        end="00:43:06.380"><span region="Default">在35年前的印度</span></p>
+      <p
+        begin="00:43:06.380"
+        end="00:43:08.790"><span region="Default">有一只印度象只靠一根鼻子</span></p>
+      <p
+        begin="00:43:08.790"
+        end="00:43:10.580"><span region="Default">就毁掉了村庄</span></p>
+      <p
+        begin="00:43:11.080"
+        end="00:43:12.290"><span region="Default">印度象？</span></p>
+      <p
+        begin="00:43:12.790"
+        end="00:43:16.500"><span region="Default">那里本来是种了很多香蕉的美丽村庄</span></p>
+      <p
+        begin="00:43:18.420"
+        end="00:43:22.290"><span region="Default">真的耶，大象的鼻子里插着纸</span></p>
+      <p
+        begin="00:43:23.200"
+        end="00:43:24.080"><span region="Default">或许</span></p>
+      <p
+        begin="00:43:24.420"
+        end="00:43:28.080"><span region="Default">是那只大象想吃很多香蕉的强烈欲望</span></p>
+      <p
+        begin="00:43:28.080"
+        end="00:43:30.380"><span region="Default">让它毁了整座村庄吧</span></p>
+      <p
+        begin="00:43:30.960"
+        end="00:43:33.420"><span region="Default">那阿呆会变成怎么样？</span></p>
+      <p
+        begin="00:43:33.420"
+        end="00:43:37.880"><span region="Default">要是两张纸都完全塞进两个鼻孔里的话</span></p>
+      <p
+        begin="00:43:38.250"
+        end="00:43:40.250"><span region="Default">他们就会合为一体</span></p>
+      <p
+        begin="00:43:40.250"
+        end="00:43:42.330"><span region="Default">阿呆就会变成暴君</span></p>
+      <p
+        begin="00:43:45.460"
+        end="00:43:48.830"><span region="Default">没有你，我已经无法活下去</span></p>
+      <p
+        begin="00:43:48.830"
+        end="00:43:50.830"><span region="Default">你也一样吧？</span></p>
+      <p
+        begin="00:43:50.830"
+        end="00:43:53.880"><span region="Default">那就是搭档</span></p>
+      <p
+        begin="00:43:53.880"
+        end="00:43:59.080"><span region="Default">你连悲伤的浊流都能堵住</span></p>
+      <p
+        begin="00:43:59.080"
+        end="00:44:02.250"><span region="Default">那就是堤防</span></p>
+      <p
+        begin="00:44:04.290"
+        end="00:44:05.920"><span region="Default">那到底是什么鬼呀？</span></p>
+      <p
+        begin="00:44:07.900"
+        end="00:44:08.790"><span region="Default">美冴</span></p>
+      <p
+        begin="00:44:09.130"
+        end="00:44:11.540"><span region="Default">之前我看到纸的时候</span></p>
+      <p
+        begin="00:44:11.710"
+        end="00:44:14.540"><span region="Default">就突然有一股非常想要拥有的欲望</span></p>
+      <p
+        begin="00:44:14.920"
+        end="00:44:17.000"><span region="Default">但是现在却一点也不想要</span></p>
+      <p
+        begin="00:44:17.330"
+        end="00:44:20.630"><span region="Default">或许是因为纸得到那位男孩了</span></p>
+      <p
+        begin="00:44:20.630"
+        end="00:44:24.670"><span region="Default">所以也已经没有必要再诱惑其他人了吧</span></p>
+      <p
+        begin="00:44:25.460"
+        end="00:44:28.330"><span region="Default">接下来为了让他变成暴君</span></p>
+      <p
+        begin="00:44:28.830"
+        end="00:44:30.540"><span region="Default">那张纸会带着他</span></p>
+      <p
+        begin="00:44:30.540"
+        end="00:44:33.920"><span region="Default">去找屁屁扭来扭去男孩的另一张纸</span></p>
+      <p
+        begin="00:44:34.290"
+        end="00:44:36.540"><span region="Default">小新带着的另一张纸？</span></p>
+      <p
+        begin="00:44:36.540"
+        end="00:44:39.130"><span region="Default">为了让两张纸合为一体</span></p>
+      <p
+        begin="00:44:39.460"
+        end="00:44:41.580"><span region="Default">事情发展成这样了</span></p>
+      <p
+        begin="00:44:41.580"
+        end="00:44:44.080"><span region="Default">如果不希望暴君诞生</span></p>
+      <p
+        begin="00:44:44.080"
+        end="00:44:46.670"><span region="Default">只要屁屁扭来扭去男孩</span></p>
+      <p
+        begin="00:44:46.670"
+        end="00:44:49.540"><span region="Default">可以带着纸逃到远方的话…</span></p>
+      <p
+        begin="00:44:49.540"
+        end="00:44:52.750"><span region="Default">他才不叫“屁屁会扭来扭去男孩”</span></p>
+      <p
+        begin="00:44:52.750"
+        end="00:44:53.960"><span region="Default">小新他…</span></p>
+      <p
+        begin="00:44:54.290"
+        end="00:44:56.670"><span region="Default">屁屁会扭来扭去、还滑不溜丢</span></p>
+      <p
+        begin="00:44:56.670"
+        end="00:44:59.080"><span region="Default">是我心爱的可爱男孩</span></p>
+      <p
+        begin="00:44:59.080"
+        end="00:45:01.830"><span region="Default">小新</span></p>
+      <p
+        begin="00:45:01.830"
+        end="00:45:07.080"><span region="Default">只要你想看，我愿敞开心房让你看</span></p>
+      <p
+        begin="00:45:07.080"
+        end="00:45:10.170"><span region="Default">那就是解剖</span></p>
+      <p
+        begin="00:45:59.830"
+        end="00:46:01.000"><span region="Default">你在做什么？</span></p>
+      <p
+        begin="00:46:01.580"
+        end="00:46:02.420"><span region="Default">（印地语）</span></p>
+      <p
+        begin="00:46:02.750"
+        end="00:46:04.080"><span region="Default">那个…</span></p>
+      <p
+        begin="00:46:04.080"
+        end="00:46:06.040"><span region="Default">I am a 小朋友</span></p>
+      <p
+        begin="00:46:13.040"
+        end="00:46:14.420"><span region="Default">老板</span></p>
+      <p
+        begin="00:46:14.420"
+        end="00:46:16.130"><span region="Default">我想要昨天那个</span></p>
+      <p
+        begin="00:46:16.130"
+        end="00:46:17.630"><span region="Default">味道非常好</span></p>
+      <p
+        begin="00:46:17.630"
+        end="00:46:19.880"><span region="Default">我们全家吃了都很喜欢</span></p>
+      <p
+        begin="00:46:19.880"
+        end="00:46:21.670"><span region="Default">是吗？那太好了</span></p>
+      <p
+        begin="00:46:22.330"
+        end="00:46:23.790"><span region="Default">今天我要多一点</span></p>
+      <p
+        begin="00:46:23.790"
+        end="00:46:24.750"><span region="Default">好…</span></p>
+      <p
+        begin="00:46:41.460"
+        end="00:46:42.630"><span region="Default">大象</span></p>
+      <p
+        begin="00:46:44.090"
+        end="00:46:45.710"><span region="Default">大象</span></p>
+      <p
+        begin="00:46:49.190"
+        end="00:46:54.540"><span region="Default">大象，大象，我是个超级人气王</span></p>
+      <p
+        begin="00:47:09.670"
+        end="00:47:14.250"><span region="Default">一片混乱，大家都慌慌张张</span></p>
+      <p
+        begin="00:47:15.380"
+        end="00:47:18.540"><span region="Default">我很厉害，我是个天才</span></p>
+      <p
+        begin="00:47:21.290"
+        end="00:47:26.170"><span region="Default">精力充沛火力全开，对吧，美冴</span></p>
+      <p
+        begin="00:47:26.710"
+        end="00:47:31.920"><span region="Default">开心度过愚蠢的一天吧，那摩斯戴！</span></p>
+      <p
+        begin="00:47:32.580"
+        end="00:47:34.830"><span region="Default">要搭讪的话</span></p>
+      <p
+        begin="00:47:35.630"
+        end="00:47:37.830"><span region="Default">交给我就行</span></p>
+      <p
+        begin="00:47:38.500"
+        end="00:47:40.670"><span region="Default">管他三七二十一</span></p>
+      <p
+        begin="00:47:41.460"
+        end="00:47:43.630"><span region="Default">死缠烂打就对了</span></p>
+      <p
+        begin="00:47:44.790"
+        end="00:47:49.080"><span region="Default">来吧，宝贝，你敢吃洋葱吗？</span></p>
+      <p
+        begin="00:47:50.540"
+        end="00:47:53.580"><span region="Default">用那种眼神看我，我会害羞</span></p>
+      <p
+        begin="00:47:53.580"
+        end="00:47:58.040"><span region="Default">大象，大象，我是人气王</span></p>
+      <p
+        begin="00:47:58.040"
+        end="00:47:59.290"><span region="Default">那摩斯戴！</span></p>
+      <p
+        begin="00:47:59.290"
+        end="00:48:03.880"><span region="Default">一片混乱，大家都慌慌张张</span></p>
+      <p
+        begin="00:48:05.040"
+        end="00:48:12.750"><span region="Default">我很厉害，我是个天才，将来大有可为</span></p>
+      <p
+        begin="00:48:18.540"
+        end="00:48:19.790"><span region="Default">那摩斯戴！</span></p>
+      <p
+        begin="00:48:28.540"
+        end="00:48:33.380"><span region="Default">来吧，宝贝，你敢吃洋葱吗？</span></p>
+      <p
+        begin="00:48:34.330"
+        end="00:48:37.420"><span region="Default">用那种眼神看我，我会害羞</span></p>
+      <p
+        begin="00:48:37.420"
+        end="00:48:42.000"><span region="Default">大象，大象，我是人气王</span></p>
+      <p
+        begin="00:48:42.000"
+        end="00:48:43.250"><span region="Default">那摩斯戴！</span></p>
+      <p
+        begin="00:48:43.250"
+        end="00:48:47.920"><span region="Default">一片混乱，大家都慌慌张张</span></p>
+      <p
+        begin="00:48:49.000"
+        end="00:48:56.830"><span region="Default">我很厉害，我是个天才，将来大有可为</span></p>
+      <p
+        begin="00:48:57.170"
+        end="00:48:59.710"><span region="Default">漂亮大姐姐，你喜欢青椒吗？</span></p>
+      <p
+        begin="00:48:59.710"
+        end="00:49:01.130"><span region="Default">敢吃红萝卜吗？</span></p>
+      <p
+        begin="00:49:01.130"
+        end="00:49:03.080"><span region="Default">你吃纳豆会加葱花吗？</span></p>
+      <p
+        begin="00:49:03.080"
+        end="00:49:05.460"><span region="Default">想不想跟我一起去玩啊？</span></p>
+      <p
+        begin="00:49:15.670"
+        end="00:49:19.770"><span region="Default">祝大家都可以过得幸福快乐喔</span></p>
+      <p
+        begin="00:49:19.770"
+        end="00:49:21.630"><span region="Default">很好，艾莉安娜</span></p>
+      <p
+        begin="00:49:21.630"
+        end="00:49:23.330"><span region="Default">表现得非常好</span></p>
+      <p
+        begin="00:49:23.330"
+        end="00:49:24.460"><span region="Default">今年的娱乐节</span></p>
+      <p
+        begin="00:49:24.460"
+        end="00:49:27.500"><span region="Default">也要用甜美的笑容让大家幸福哟</span></p>
+      <p
+        begin="00:49:27.500"
+        end="00:49:29.210"><span region="Default">好，我会加油</span></p>
+      <p
+        begin="00:49:29.880"
+        end="00:49:31.830"><span region="Default">听说艾莉安娜在练习耶</span></p>
+      <p
+        begin="00:49:32.260"
+        end="00:49:33.040"><span region="Default">快去看看</span></p>
+      <p
+        begin="00:49:33.040"
+        end="00:49:33.750"><span region="Default">好</span></p>
+      <p
+        begin="00:49:33.750"
+        end="00:49:35.130"><span region="Default">是艾莉安娜耶</span></p>
+      <p
+        begin="00:49:35.130"
+        end="00:49:36.040"><span region="Default">艾莉安娜…</span></p>
+      <p
+        begin="00:49:36.040"
+        end="00:49:38.200"><span region="Default">艾莉安娜，笑一个</span></p>
+      <p
+        begin="00:49:38.200"
+        end="00:49:39.580"><span region="Default">艾莉安娜</span></p>
+      <p
+        begin="00:49:39.830"
+        end="00:49:42.170"><span region="Default">（妈妈）<br/>艾莉安娜，你快上台了吧</span></p>
+      <p
+        begin="00:49:42.170"
+        end="00:49:45.250"><span region="Default">爸爸妈妈都会在这里帮你加油</span></p>
+      <p
+        begin="00:49:45.250"
+        end="00:49:47.420"><span region="Default">要保持笑容，加油喔</span></p>
+      <p
+        begin="00:49:47.420"
+        end="00:49:48.670"><span region="Default">我当然知道</span></p>
+      <p
+        begin="00:49:48.670"
+        end="00:49:50.290"><span region="Default">我们现在要出发了</span></p>
+      <p
+        begin="00:49:50.290"
+        end="00:49:51.210"><span region="Default">拜拜</span></p>
+      <p
+        begin="00:49:57.330"
+        end="00:49:59.290"><span region="Default">要一直保持笑容</span></p>
+      <p
+        begin="00:49:59.290"
+        end="00:50:02.460"><span region="Default">因为没有人会想看到我沮丧的模样</span></p>
+      <p
+        begin="00:50:08.840"
+        end="00:50:16.080"><span region="Default">我是为了谁而笑呢？</span></p>
+      <p
+        begin="00:50:17.630"
+        end="00:50:22.000"><span region="Default">我在大家眼中非常美好</span></p>
+      <p
+        begin="00:50:23.610"
+        end="00:50:30.540"><span region="Default">我想当耀眼的人，却又隐约感到焦躁</span></p>
+      <p
+        begin="00:50:31.000"
+        end="00:50:35.210"><span region="Default">我不想被讨厌</span></p>
+      <p
+        begin="00:50:35.210"
+        end="00:50:39.460"><span region="Default">我不要孤独一人</span></p>
+      <p
+        begin="00:50:39.460"
+        end="00:50:41.670"><span region="Default">永远当个乖女孩…</span></p>
+      <p
+        begin="00:50:41.670"
+        end="00:50:46.130"><span region="Default">我已经不知道该怎么做了</span></p>
+      <p
+        begin="00:50:47.500"
+        end="00:50:49.500"><span region="Default">咚咚呀咚啊，嘿唷</span></p>
+      <p
+        begin="00:50:49.500"
+        end="00:50:53.080"><span region="Default">当当当，丹雅瓦德…</span></p>
+      <p
+        begin="00:50:53.080"
+        end="00:50:56.420"><span region="Default">当当当，丹雅瓦德…</span></p>
+      <p
+        begin="00:50:56.420"
+        end="00:50:57.500"><span region="Default">你在干嘛？</span></p>
+      <p
+        begin="00:50:57.500"
+        end="00:50:58.330"><span region="Default">再来一次</span></p>
+      <p
+        begin="00:50:58.330"
+        end="00:50:59.880"><span region="Default">嘿唷，当当…</span></p>
+      <p
+        begin="00:51:02.130"
+        end="00:51:02.790"><span region="Default">给你</span></p>
+      <p
+        begin="00:51:03.460"
+        end="00:51:04.460"><span region="Default">什么啊？</span></p>
+      <p
+        begin="00:51:04.460"
+        end="00:51:07.290"><span region="Default">觉得沮丧的时候就吃点甜的</span></p>
+      <p
+        begin="00:51:07.290"
+        end="00:51:09.750"><span region="Default">好好放纵自己一下比较好</span></p>
+      <p
+        begin="00:51:09.750"
+        end="00:51:11.460"><span region="Default">这是我妈妈说的喔</span></p>
+      <p
+        begin="00:51:12.090"
+        end="00:51:14.040"><span region="Default">我没有觉得沮丧啊</span></p>
+      <p
+        begin="00:51:14.670"
+        end="00:51:16.080"><span region="Default">我怎么听得懂咧？</span></p>
+      <p
+        begin="00:51:16.080"
+        end="00:51:18.380"><span region="Default">天啊，我会说印度话吗？</span></p>
+      <p
+        begin="00:51:18.380"
+        end="00:51:20.250"><span region="Default">我真是个天才</span></p>
+      <p
+        begin="00:51:20.250"
+        end="00:51:22.880"><span region="Default">不对，是我在说你的语言啦</span></p>
+      <p
+        begin="00:51:22.880"
+        end="00:51:26.040"><span region="Default">因为我很喜欢看动画，所以有学过</span></p>
+      <p
+        begin="00:51:26.040"
+        end="00:51:28.670"><span region="Default">闪耀吧！喜爱的心情！</span></p>
+      <p
+        begin="00:51:28.670"
+        end="00:51:31.710"><span region="Default">悸动吧！友情！爱情！自尊心！</span></p>
+      <p
+        begin="00:51:31.960"
+        end="00:51:34.170"><span region="Default">扭动，扭屁屁美少女…</span></p>
+      <p
+        begin="00:51:35.080"
+        end="00:51:36.830"><span region="Default">你果然知道耶</span></p>
+      <p
+        begin="00:51:36.830"
+        end="00:51:39.040"><span region="Default">我常常跟小葵一起看喔</span></p>
+      <p
+        begin="00:51:41.750"
+        end="00:51:43.250"><span region="Default">普通的小女生</span></p>
+      <p
+        begin="00:51:43.250"
+        end="00:51:45.290"><span region="Default">为了自己跟别人的幸福</span></p>
+      <p
+        begin="00:51:45.290"
+        end="00:51:46.580"><span region="Default">和同伴一起</span></p>
+      <p
+        begin="00:51:46.580"
+        end="00:51:49.040"><span region="Default">勇敢克服遇到的各种困难</span></p>
+      <p
+        begin="00:51:51.290"
+        end="00:51:52.330"><span region="Default">扭动</span></p>
+      <p
+        begin="00:51:53.080"
+        end="00:51:54.500"><span region="Default">扭屁屁美少女</span></p>
+      <p
+        begin="00:51:55.290"
+        end="00:51:56.960"><span region="Default">超酷的</span></p>
+      <p
+        begin="00:51:56.960"
+        end="00:51:59.290"><span region="Default">我是扭动，新之助天使</span></p>
+      <p
+        begin="00:51:59.290"
+        end="00:52:02.130"><span region="Default">我是扭动，艾莉安娜天使</span></p>
+      <p
+        begin="00:52:04.040"
+        end="00:52:06.290"><span region="Default">你在这种地方做什么啊？</span></p>
+      <p
+        begin="00:52:06.290"
+        end="00:52:09.460"><span region="Default">我现在在找我的朋友阿呆他们喔</span></p>
+      <p
+        begin="00:52:10.630"
+        end="00:52:11.670"><span region="Default">阿呆？</span></p>
+      <p
+        begin="00:52:14.840"
+        end="00:52:18.250"><span region="Default">怎么办？我竟然在印度走丢</span></p>
+      <p
+        begin="00:52:18.500"
+        end="00:52:20.540"><span region="Default">我不会说这里的语言</span></p>
+      <p
+        begin="00:52:20.540"
+        end="00:52:22.380"><span region="Default">身上也没有钱</span></p>
+      <p
+        begin="00:52:22.670"
+        end="00:52:24.460"><span region="Default">这下完蛋了</span></p>
+      <p
+        begin="00:52:30.380"
+        end="00:52:33.500"><span region="Default">我自己都不知道现在该怎么办了</span></p>
+      <p
+        begin="00:52:33.500"
+        end="00:52:35.960"><span region="Default">所以没办法照顾狗狗啦</span></p>
+      <p
+        begin="00:53:51.920"
+        end="00:53:54.830"><span region="Default">小白前辈，我要跟随你一辈子</span></p>
+      <p
+        begin="00:54:14.000"
+        end="00:54:18.330"><span region="Default">阿呆，小新的爸爸妈妈他们在哪里啊</span></p>
+      <p
+        begin="00:54:18.330"
+        end="00:54:19.710"><span region="Default">你们不用担心</span></p>
+      <p
+        begin="00:54:38.000"
+        end="00:54:39.750"><span region="Default">我的小新</span></p>
+      <p
+        begin="00:54:39.750"
+        end="00:54:42.330"><span region="Default">正男、小白</span></p>
+      <p
+        begin="00:54:43.880"
+        end="00:54:46.540"><span region="Default">拜托，一定要平安无事</span></p>
+      <p
+        begin="00:54:47.180"
+        end="00:54:48.130"><span region="Default">迪尔</span></p>
+      <p
+        begin="00:54:49.210"
+        end="00:54:52.330"><span region="Default">大人有煮咖哩给大家吃的义务</span></p>
+      <p
+        begin="00:54:58.080"
+        end="00:54:59.920"><span region="Default">阿呆，你在做什么？</span></p>
+      <p
+        begin="00:55:02.000"
+        end="00:55:04.580"><span region="Default">当然是准备娱乐节目啊</span></p>
+      <p
+        begin="00:55:05.210"
+        end="00:55:08.250"><span region="Default">我要穿的表演服还有我的歌</span></p>
+      <p
+        begin="00:55:11.560"
+        end="00:55:14.710"><span region="Default">全都是用我的钱准备的</span></p>
+      <p
+        begin="00:55:14.710"
+        end="00:55:17.920"><span region="Default">别放在心上，这点钱不算什么</span></p>
+      <p
+        begin="00:55:17.920"
+        end="00:55:21.500"><span region="Default">因为我们是彼此独一无二的搭档啊</span></p>
+      <p
+        begin="00:55:22.330"
+        end="00:55:23.330"><span region="Default">没错吧</span></p>
+      <p
+        begin="00:55:25.790"
+        end="00:55:26.920"><span region="Default">没错吧</span></p>
+      <p
+        begin="00:55:31.040"
+        end="00:55:33.210"><span region="Default">阿呆，那个…</span></p>
+      <p
+        begin="00:55:33.210"
+        end="00:55:35.040"><span region="Default">你鼻子里那张纸</span></p>
+      <p
+        begin="00:55:35.040"
+        end="00:55:37.210"><span region="Default">差不多可以拔下来了吧？</span></p>
+      <p
+        begin="00:55:37.210"
+        end="00:55:39.000"><span region="Default">听说一直插着的话会很糟糕</span></p>
+      <p
+        begin="00:55:39.000"
+        end="00:55:40.630"><span region="Default">一点也不糟糕</span></p>
+      <p
+        begin="00:55:40.630"
+        end="00:55:43.210"><span region="Default">现在我的状况非常好</span></p>
+      <p
+        begin="00:55:43.210"
+        end="00:55:44.210"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:55:44.210"
+        end="00:55:47.170"><span region="Default">你不担心小新跟正男发生了什么事吗？</span></p>
+      <p
+        begin="00:55:54.750"
+        end="00:55:55.790"><span region="Default">小新…</span></p>
+      <p
+        begin="00:55:56.170"
+        end="00:55:57.080"><span region="Default">找到了</span></p>
+      <p
+        begin="00:56:01.330"
+        end="00:56:03.000"><span region="Default">他看起来很有精神</span></p>
+      <p
+        begin="00:56:03.000"
+        end="00:56:05.750"><span region="Default">太好了，小新他平安无事</span></p>
+      <p
+        begin="00:56:05.750"
+        end="00:56:07.130"><span region="Default">什么嘛，阿呆</span></p>
+      <p
+        begin="00:56:07.130"
+        end="00:56:08.460"><span region="Default">你还是很担心</span></p>
+      <p
+        begin="00:56:08.460"
+        end="00:56:10.500"><span region="Default">所以在找小新他们啊</span></p>
+      <p
+        begin="00:56:10.500"
+        end="00:56:12.250"><span region="Default">为什么不早说啊？</span></p>
+      <p
+        begin="00:56:15.000"
+        end="00:56:17.080"><span region="Default">找到纸了</span></p>
+      <p
+        begin="00:56:20.330"
+        end="00:56:22.500"><span region="Default">小新，你等着</span></p>
+      <p
+        begin="00:56:36.630"
+        end="00:56:40.460"><span region="Default">意思是你的朋友阿呆把纸插进鼻子里</span></p>
+      <p
+        begin="00:56:40.460"
+        end="00:56:42.420"><span region="Default">所以瞬间得到了</span></p>
+      <p
+        begin="00:56:42.420"
+        end="00:56:45.290"><span region="Default">可以实现任何欲望的强大力量吗？</span></p>
+      <p
+        begin="00:56:45.290"
+        end="00:56:47.750"><span region="Default">大概是这样，应该吧</span></p>
+      <p
+        begin="00:56:54.290"
+        end="00:56:55.420"><span region="Default">如果</span></p>
+      <p
+        begin="00:56:55.420"
+        end="00:56:59.170"><span region="Default">你也得到了可以实现任何事情的力量</span></p>
+      <p
+        begin="00:56:59.170"
+        end="00:57:00.960"><span region="Default">你打算做什么呢？</span></p>
+      <p
+        begin="00:57:02.750"
+        end="00:57:04.210"><span region="Default">我的话…</span></p>
+      <p
+        begin="00:57:05.130"
+        end="00:57:06.790"><span region="Default">我会悠悠哉哉</span></p>
+      <p
+        begin="00:57:06.790"
+        end="00:57:10.630"><span region="Default">然后懒懒散散的，无所事事</span></p>
+      <p
+        begin="00:57:11.040"
+        end="00:57:12.290"><span region="Default">你说什么啊？</span></p>
+      <p
+        begin="00:57:13.210"
+        end="00:57:16.040"><span region="Default">这样看来你完全不需要纸</span></p>
+      <p
+        begin="00:57:17.880"
+        end="00:57:18.920"><span region="Default">那是什么？</span></p>
+      <p
+        begin="00:57:28.630"
+        end="00:57:29.750"><span region="Default">这是什么？</span></p>
+      <p
+        begin="00:57:31.000"
+        end="00:57:32.210"><span region="Default">小新</span></p>
+      <p
+        begin="00:57:32.500"
+        end="00:57:33.540"><span region="Default">阿呆？</span></p>
+      <p
+        begin="00:57:33.540"
+        end="00:57:35.500"><span region="Default">娱乐节要开始了</span></p>
+      <p
+        begin="00:57:36.250"
+        end="00:57:37.830"><span region="Default">我一直在找你耶</span></p>
+      <p
+        begin="00:57:37.830"
+        end="00:57:39.130"><span region="Default">你放心吧</span></p>
+      <p
+        begin="00:57:39.130"
+        end="00:57:42.830"><span region="Default">我会把你安全的带到我这里来</span></p>
+      <p
+        begin="00:57:43.420"
+        end="00:57:46.290"><span region="Default">所以纸在你那里吗？</span></p>
+      <p
+        begin="00:57:47.490"
+        end="00:57:49.330"><span region="Default">鼻洁莉娜．裘莉还在吗？</span></p>
+      <p
+        begin="00:57:49.330"
+        end="00:57:50.710"><span region="Default">这到底是什么咧？</span></p>
+      <p
+        begin="00:57:50.710"
+        end="00:57:53.790"><span region="Default">阿呆，你不在这个里面吗？</span></p>
+      <p
+        begin="00:57:53.790"
+        end="00:57:55.380"><span region="Default">我不在里面</span></p>
+      <p
+        begin="00:57:55.380"
+        end="00:57:57.500"><span region="Default">你有没有把纸带着？</span></p>
+      <p
+        begin="00:57:57.500"
+        end="00:57:59.170"><span region="Default">纸盒子</span></p>
+      <p
+        begin="00:57:59.170"
+        end="00:58:00.420"><span region="Default">子女</span></p>
+      <p
+        begin="00:58:00.420"
+        end="00:58:01.710"><span region="Default">女孩子</span></p>
+      <p
+        begin="00:58:01.710"
+        end="00:58:02.500"><span region="Default">子孙</span></p>
+      <p
+        begin="00:58:02.500"
+        end="00:58:03.710"><span region="Default">孙子</span></p>
+      <p
+        begin="00:58:03.710"
+        end="00:58:04.920"><span region="Default">子…</span></p>
+      <p
+        begin="00:58:05.460"
+        end="00:58:07.080"><span region="Default">等等，不是玩接龙</span></p>
+      <p
+        begin="00:58:07.080"
+        end="00:58:08.170"><span region="Default">快给我</span></p>
+      <p
+        begin="00:58:08.170"
+        end="00:58:09.170"><span region="Default">我？</span></p>
+      <p
+        begin="00:58:09.170"
+        end="00:58:10.290"><span region="Default">我…</span></p>
+      <p
+        begin="00:58:10.290"
+        end="00:58:12.960"><span region="Default">我爱印度，丹雅瓦德</span></p>
+      <p
+        begin="00:58:12.960"
+        end="00:58:14.210"><span region="Default">我说纸</span></p>
+      <p
+        begin="00:58:18.830"
+        end="00:58:21.130"><span region="Default">很好，纸真的在你那里</span></p>
+      <p
+        begin="00:58:21.710"
+        end="00:58:23.630"><span region="Default">小新，你说过吧</span></p>
+      <p
+        begin="00:58:23.630"
+        end="00:58:26.330"><span region="Default">我想用的时候都可以拿去</span></p>
+      <p
+        begin="00:58:26.880"
+        end="00:58:28.540"><span region="Default">现在就是时候了</span></p>
+      <p
+        begin="00:58:28.540"
+        end="00:58:30.880"><span region="Default">我想要纸</span></p>
+      <p
+        begin="00:58:31.420"
+        end="00:58:36.040"><span region="Default">我想要纸…</span></p>
+      <p
+        begin="00:58:36.040"
+        end="00:58:37.290"><span region="Default">阿呆</span></p>
+      <p
+        begin="00:58:38.580"
+        end="00:58:41.750"><span region="Default">小新，把纸给我</span></p>
+      <p
+        begin="00:58:43.330"
+        end="00:58:45.040"><span region="Default">快逃啊，小新</span></p>
+      <p
+        begin="00:58:54.670"
+        end="00:58:55.380"><span region="Default">风间</span></p>
+      <p
+        begin="00:58:57.500"
+        end="00:58:59.670"><span region="Default">快逃啊，小新</span></p>
+      <p
+        begin="00:59:00.130"
+        end="00:59:02.500"><span region="Default">绝对不可以把纸交给阿呆</span></p>
+      <p
+        begin="00:59:02.500"
+        end="00:59:04.460"><span region="Default">把纸丢得越远越好</span></p>
+      <p
+        begin="00:59:06.290"
+        end="00:59:08.710"><span region="Default">住手，快点放开我</span></p>
+      <p
+        begin="00:59:08.710"
+        end="00:59:10.540"><span region="Default">放开风间</span></p>
+      <p
+        begin="00:59:14.960"
+        end="00:59:15.710"><span region="Default">危险</span></p>
+      <p
+        begin="00:59:17.880"
+        end="00:59:18.880"><span region="Default">不要妨碍我</span></p>
+      <p
+        begin="00:59:21.410"
+        end="00:59:22.710"><span region="Default">艾莉安娜</span></p>
+      <p
+        begin="01:00:03.290"
+        end="01:00:05.130"><span region="Default">新之助，小心后面</span></p>
+      <p
+        begin="01:00:06.140"
+        end="01:00:07.630"><span region="Default">不理不理</span></p>
+      <p
+        begin="01:00:11.210"
+        end="01:00:12.580"><span region="Default">成功了喔</span></p>
+      <p
+        begin="01:00:13.000"
+        end="01:00:15.630"><span region="Default">我们两个就像扭屁屁美少女</span></p>
+      <p
+        begin="01:00:15.630"
+        end="01:00:16.830"><span region="Default">真的耶</span></p>
+      <p
+        begin="01:00:16.830"
+        end="01:00:19.080"><span region="Default">扭动，扭屁屁美少女…</span></p>
+      <p
+        begin="01:00:19.380"
+        end="01:00:21.040"><span region="Default">那不是艾莉安娜吗？</span></p>
+      <p
+        begin="01:00:21.460"
+        end="01:00:22.500"><span region="Default">艾莉安娜</span></p>
+      <p
+        begin="01:00:40.540"
+        end="01:00:43.330"><span region="Default">艾莉安娜</span></p>
+      <p
+        begin="01:00:52.550"
+        end="01:00:54.500"><span region="Default">- 小新，搞定　- 放开我</span></p>
+      <p
+        begin="01:00:55.170"
+        end="01:00:57.330"><span region="Default">- 再来就是正男了　- 快点放开我</span></p>
+      <p
+        begin="01:00:57.540"
+        end="01:00:59.460"><span region="Default">- 放开我　- 这小子怎么办？</span></p>
+      <p
+        begin="01:00:59.460"
+        end="01:01:01.380"><span region="Default">- 要把他丢去切洋葱吗？　- 放开我</span></p>
+      <p
+        begin="01:01:01.920"
+        end="01:01:03.290"><span region="Default">把他放开吧</span></p>
+      <p
+        begin="01:01:03.290"
+        end="01:01:05.040"><span region="Default">- 放开他　- 快点放开我</span></p>
+      <p
+        begin="01:01:08.880"
+        end="01:01:10.630"><span region="Default">风间，你没事吧？</span></p>
+      <p
+        begin="01:01:15.770"
+        end="01:01:16.420"><span region="Default">呆</span></p>
+      <p
+        begin="01:01:16.820"
+        end="01:01:18.960"><span region="Default">阿呆，我求求你</span></p>
+      <p
+        begin="01:01:18.960"
+        end="01:01:21.420"><span region="Default">- 快把鼻子里的纸拔出来　- 呆…</span></p>
+      <p
+        begin="01:01:21.420"
+        end="01:01:22.790"><span region="Default">就是因为那个</span></p>
+      <p
+        begin="01:01:22.790"
+        end="01:01:24.330"><span region="Default">你才会变得这么奇怪</span></p>
+      <p
+        begin="01:01:24.330"
+        end="01:01:25.210"><span region="Default">呆</span></p>
+      <p
+        begin="01:01:25.210"
+        end="01:01:26.920"><span region="Default">我一点也不奇怪</span></p>
+      <p
+        begin="01:01:28.780"
+        end="01:01:30.170"><span region="Default">你不知道吗？</span></p>
+      <p
+        begin="01:01:31.250"
+        end="01:01:34.920"><span region="Default">现在这才是真正的我</span></p>
+      <p
+        begin="01:01:36.250"
+        end="01:01:37.380"><span region="Default">妮妮</span></p>
+      <p
+        begin="01:01:37.380"
+        end="01:01:40.460"><span region="Default">你们两个快点去换表演服</span></p>
+      <p
+        begin="01:01:41.040"
+        end="01:01:43.420"><span region="Default">娱乐节就要开始啰</span></p>
+      <p
+        begin="01:01:48.040"
+        end="01:01:49.420"><span region="Default">伤脑筋</span></p>
+      <p
+        begin="01:01:49.420"
+        end="01:01:50.580"><span region="Default">你没事吧</span></p>
+      <p
+        begin="01:01:50.580"
+        end="01:01:53.880"><span region="Default">我现在知道货物被搬运的心情了</span></p>
+      <p
+        begin="01:01:53.880"
+        end="01:01:55.290"><span region="Default">对了，这是哪里？</span></p>
+      <p
+        begin="01:01:56.540"
+        end="01:01:58.580"><span region="Default">这个好像正在飞回去</span></p>
+      <p
+        begin="01:01:58.580"
+        end="01:02:01.130"><span region="Default">坐在上面可能就会直接到阿呆那里</span></p>
+      <p
+        begin="01:02:03.460"
+        end="01:02:05.710"><span region="Default">那我就悠悠哉哉好了</span></p>
+      <p
+        begin="01:02:11.620"
+        end="01:02:12.630"><span region="Default">这是艾莉安娜吗？</span></p>
+      <p
+        begin="01:02:12.630"
+        end="01:02:14.630"><span region="Default">她应该不是会踢狗的女生才对啊</span></p>
+      <p
+        begin="01:02:14.630"
+        end="01:02:16.710"><span region="Default">艾莉安娜很乖巧，才不可能这样</span></p>
+      <p
+        begin="01:02:16.710"
+        end="01:02:18.290"><span region="Default">如果是她的话，我有点失望</span></p>
+      <p
+        begin="01:02:18.290"
+        end="01:02:19.790"><span region="Default">这是什么姿势啊？</span></p>
+      <p
+        begin="01:02:19.790"
+        end="01:02:21.040"><span region="Default">跟形象超不搭的</span></p>
+      <p
+        begin="01:02:21.040"
+        end="01:02:22.210"><span region="Default">我想看到她笑的样子</span></p>
+      <p
+        begin="01:02:22.210"
+        end="01:02:23.670"><span region="Default">这样不像艾莉安娜</span></p>
+      <p
+        begin="01:02:38.460"
+        end="01:02:42.330"><span region="Default">我是为了谁而笑呢？</span></p>
+      <p
+        begin="01:02:42.330"
+        end="01:02:44.880"><span region="Default">我在大家眼中非常美好</span></p>
+      <p
+        begin="01:02:46.130"
+        end="01:02:52.960"><span region="Default">我想当耀眼的人，却又隐约感到焦躁</span></p>
+      <p
+        begin="01:02:52.960"
+        end="01:02:56.880"><span region="Default">我不想被讨厌</span></p>
+      <p
+        begin="01:02:56.880"
+        end="01:03:00.630"><span region="Default">我就是不想孤独一人</span></p>
+      <p
+        begin="01:03:00.630"
+        end="01:03:02.460"><span region="Default">永远当个乖女孩…</span></p>
+      <p
+        begin="01:03:02.460"
+        end="01:03:09.080"><span region="Default">我已经不知道该怎么做了</span></p>
+      <p
+        begin="01:03:09.080"
+        end="01:03:14.130"><span region="Default">一味地笑着就是正确的吧？</span></p>
+      <p
+        begin="01:03:14.130"
+        end="01:03:18.460"><span region="Default">我抛在一旁的感受正在打转</span></p>
+      <p
+        begin="01:03:18.460"
+        end="01:03:25.170"><span region="Default">心中的焦躁逐渐膨胀，让我胸口好痛</span></p>
+      <p
+        begin="01:03:25.170"
+        end="01:03:30.080"><span region="Default">一味地笑着就是正确的才对</span></p>
+      <p
+        begin="01:03:30.080"
+        end="01:03:34.630"><span region="Default">我假装没看见的感受正在打转</span></p>
+      <p
+        begin="01:03:34.630"
+        end="01:03:38.130"><span region="Default">告诉我，什么才是正确的？</span></p>
+      <p
+        begin="01:03:38.130"
+        end="01:03:42.040"><span region="Default">我该怎么做？我该怎么做呢？</span></p>
+      <p
+        begin="01:03:42.040"
+        end="01:03:49.750"><span region="Default">我要怎么做？我要怎么做才好？</span></p>
+      <p
+        begin="01:03:54.920"
+        end="01:03:56.250"><span region="Default">为什么？</span></p>
+      <p
+        begin="01:03:56.750"
+        end="01:03:59.920"><span region="Default">本来应该是一个开心的活动才对</span></p>
+      <p
+        begin="01:04:06.290"
+        end="01:04:09.250"><span region="Default">别担心，一定有办法的</span></p>
+      <p
+        begin="01:04:09.710"
+        end="01:04:10.580"><span region="Default">妮妮</span></p>
+      <p
+        begin="01:04:10.580"
+        end="01:04:13.250"><span region="Default">现在就做我们可以做的事吧</span></p>
+      <p
+        begin="01:04:14.250"
+        end="01:04:15.460"><span region="Default">说得也是</span></p>
+      <p
+        begin="01:04:29.170"
+        end="01:04:30.920"><span region="Default">新之助，快起来</span></p>
+      <p
+        begin="01:04:35.080"
+        end="01:04:36.670"><span region="Default">这里是哪里？</span></p>
+      <p
+        begin="01:04:41.670"
+        end="01:04:43.960"><span region="Default">这里是阿呆的…</span></p>
+      <p
+        begin="01:04:49.760"
+        end="01:04:53.330"><span region="Default">由摩诃罗阇呆举办的娱乐节</span></p>
+      <p
+        begin="01:04:53.330"
+        end="01:04:55.420"><span region="Default">马上开始</span></p>
+      <p
+        begin="01:04:57.130"
+        end="01:04:58.630"><span region="Default">This is 呆</span></p>
+      <p
+        begin="01:04:58.630"
+        end="01:04:59.040"><span region="Default">呆</span></p>
+      <p
+        begin="01:04:59.040"
+        end="01:05:00.330"><span region="Default">This is 呆</span></p>
+      <p
+        begin="01:05:00.330"
+        end="01:05:01.000"><span region="Default">呆</span></p>
+      <p
+        begin="01:05:01.000"
+        end="01:05:04.920"><span region="Default">摩诃摩诃，摩诃罗阇呆呆呆呆</span></p>
+      <p
+        begin="01:05:04.920"
+        end="01:05:06.380"><span region="Default">This is 呆</span></p>
+      <p
+        begin="01:05:06.380"
+        end="01:05:07.000"><span region="Default">呆</span></p>
+      <p
+        begin="01:05:07.000"
+        end="01:05:08.540"><span region="Default">This is 呆</span></p>
+      <p
+        begin="01:05:08.540"
+        end="01:05:09.000"><span region="Default">呆</span></p>
+      <p
+        begin="01:05:09.000"
+        end="01:05:13.000"><span region="Default">喂喂喂喂…呆呆呆…</span></p>
+      <p
+        begin="01:05:13.000"
+        end="01:05:16.960"><span region="Default">This is…呆呆呆呆</span></p>
+      <p
+        begin="01:05:16.960"
+        end="01:05:21.000"><span region="Default">This is 呆，This is 呆</span></p>
+      <p
+        begin="01:05:21.000"
+        end="01:05:24.130"><span region="Default">全世界都要臣服于我</span></p>
+      <p
+        begin="01:05:24.130"
+        end="01:05:27.040"><span region="Default">摩诃罗阇呆的欲望</span></p>
+      <p
+        begin="01:05:27.040"
+        end="01:05:28.960"><span region="Default">This is 呆</span></p>
+      <p
+        begin="01:05:28.960"
+        end="01:05:30.130"><span region="Default">喂喂喂喂…</span></p>
+      <p
+        begin="01:05:30.130"
+        end="01:05:31.040"><span region="Default">喂喂喂喂</span></p>
+      <p
+        begin="01:05:31.040"
+        end="01:05:32.170"><span region="Default">呆呆呆呆…</span></p>
+      <p
+        begin="01:05:32.170"
+        end="01:05:32.960"><span region="Default">呆</span></p>
+      <p
+        begin="01:05:32.960"
+        end="01:05:36.790"><span region="Default">This is…呆呆呆呆</span></p>
+      <p
+        begin="01:05:37.250"
+        end="01:05:40.380"><span region="Default">再也不需要排在别人的后面</span></p>
+      <p
+        begin="01:05:40.380"
+        end="01:05:44.880"><span region="Default">阿呆永远会冲第一</span></p>
+      <p
+        begin="01:05:45.040"
+        end="01:05:48.290"><span region="Default">再也没人可以妨碍其他人的自由</span></p>
+      <p
+        begin="01:05:48.290"
+        end="01:05:51.130"><span region="Default">超大盘咖哩要爆发了</span></p>
+      <p
+        begin="01:05:51.540"
+        end="01:05:54.960"><span region="Default">爆发，暴饮暴食</span></p>
+      <p
+        begin="01:05:56.080"
+        end="01:05:56.960"><span region="Default">呆</span></p>
+      <p
+        begin="01:05:56.960"
+        end="01:06:00.420"><span region="Default">This is 呆，This is 呆</span></p>
+      <p
+        begin="01:06:01.540"
+        end="01:06:04.130"><span region="Default">全世界都要臣服于我</span></p>
+      <p
+        begin="01:06:04.130"
+        end="01:06:06.710"><span region="Default">摩诃罗阇呆的欲望</span></p>
+      <p
+        begin="01:06:06.710"
+        end="01:06:09.040"><span region="Default">This is 呆</span></p>
+      <p
+        begin="01:06:09.040"
+        end="01:06:10.000"><span region="Default">喂喂喂喂…</span></p>
+      <p
+        begin="01:06:10.000"
+        end="01:06:11.130"><span region="Default">喂喂喂喂</span></p>
+      <p
+        begin="01:06:11.130"
+        end="01:06:12.080"><span region="Default">呆呆呆呆</span></p>
+      <p
+        begin="01:06:12.080"
+        end="01:06:13.080"><span region="Default">呆</span></p>
+      <p
+        begin="01:06:13.080"
+        end="01:06:16.080"><span region="Default">This is This is</span></p>
+      <p
+        begin="01:06:16.080"
+        end="01:06:16.920"><span region="Default">呆呆呆呆</span></p>
+      <p
+        begin="01:06:16.920"
+        end="01:06:19.460"><span region="Default">只要做自己想做的就好</span></p>
+      <p
+        begin="01:06:19.460"
+        end="01:06:22.170"><span region="Default">可以睡回笼觉真是太棒了</span></p>
+      <p
+        begin="01:06:22.170"
+        end="01:06:23.750"><span region="Default">到了深夜</span></p>
+      <p
+        begin="01:06:23.750"
+        end="01:06:24.960"><span region="Default">曼波鱼暴走</span></p>
+      <p
+        begin="01:06:24.960"
+        end="01:06:26.330"><span region="Default">我当然不想刷牙</span></p>
+      <p
+        begin="01:06:26.330"
+        end="01:06:28.750"><span region="Default">蛀牙也没关系吗？</span></p>
+      <p
+        begin="01:06:28.750"
+        end="01:06:31.000"><span region="Default">管他的，呆</span></p>
+      <p
+        begin="01:06:31.000"
+        end="01:06:32.880"><span region="Default">反正只是乳牙</span></p>
+      <p
+        begin="01:06:32.880"
+        end="01:06:34.920"><span region="Default">旁若无人</span></p>
+      <p
+        begin="01:06:34.920"
+        end="01:06:36.080"><span region="Default">呆呆呆呆</span></p>
+      <p
+        begin="01:06:36.080"
+        end="01:06:37.040"><span region="Default">呆</span></p>
+      <p
+        begin="01:06:37.040"
+        end="01:06:38.000"><span region="Default">This is 呆</span></p>
+      <p
+        begin="01:06:38.000"
+        end="01:06:38.790"><span region="Default">呆</span></p>
+      <p
+        begin="01:06:38.790"
+        end="01:06:40.580"><span region="Default">This is 呆</span></p>
+      <p
+        begin="01:06:56.130"
+        end="01:06:58.750"><span region="Default">妮妮，你为什么不跳舞？</span></p>
+      <p
+        begin="01:06:59.750"
+        end="01:07:00.790"><span region="Default">风间</span></p>
+      <p
+        begin="01:07:00.790"
+        end="01:07:03.630"><span region="Default">我应该有说要换上表演服吧？</span></p>
+      <p
+        begin="01:07:05.620"
+        end="01:07:07.250"><span region="Default">我们都说好了</span></p>
+      <p
+        begin="01:07:07.670"
+        end="01:07:09.670"><span region="Default">大家要一起跳舞</span></p>
+      <p
+        begin="01:07:11.750"
+        end="01:07:12.790"><span region="Default">跳啊</span></p>
+      <p
+        begin="01:07:12.790"
+        end="01:07:14.040"><span region="Default">我拒绝…</span></p>
+      <p
+        begin="01:07:14.040"
+        end="01:07:15.750"><span region="Default">我们是朋友吧？</span></p>
+      <p
+        begin="01:07:15.920"
+        end="01:07:18.460"><span region="Default">因为是朋友，所以我要告诉你</span></p>
+      <p
+        begin="01:07:18.460"
+        end="01:07:21.420"><span region="Default">你是绝对不可能掌控人的感受</span></p>
+      <p
+        begin="01:07:21.420"
+        end="01:07:22.420"><span region="Default">我们两个</span></p>
+      <p
+        begin="01:07:22.420"
+        end="01:07:25.080"><span region="Default">才不会随随便便就跟着别人起舞</span></p>
+      <p
+        begin="01:07:26.170"
+        end="01:07:27.790"><span region="Default">如果不跳的话</span></p>
+      <p
+        begin="01:07:27.790"
+        end="01:07:30.750"><span region="Default">就把你们送去切洋葱</span></p>
+      <p
+        begin="01:07:32.460"
+        end="01:07:33.920"><span region="Default">风间</span></p>
+      <p
+        begin="01:07:34.170"
+        end="01:07:35.880"><span region="Default">妈妈</span></p>
+      <p
+        begin="01:07:36.140"
+        end="01:07:38.330"><span region="Default">小彻</span></p>
+      <p
+        begin="01:07:44.870"
+        end="01:07:46.790"><span region="Default">小新</span></p>
+      <p
+        begin="01:07:46.790"
+        end="01:07:47.750"><span region="Default">好痛…</span></p>
+      <p
+        begin="01:07:47.750"
+        end="01:07:48.710"><span region="Default">你还好吗？</span></p>
+      <p
+        begin="01:07:48.710"
+        end="01:07:50.460"><span region="Default">丹雅瓦德</span></p>
+      <p
+        begin="01:07:50.460"
+        end="01:07:53.290"><span region="Default">你就不能用正常一点的方式登场吗？</span></p>
+      <p
+        begin="01:07:53.830"
+        end="01:07:55.540"><span region="Default">你干嘛把纸带来呀？</span></p>
+      <p
+        begin="01:07:55.540"
+        end="01:07:58.000"><span region="Default">我不是叫你丢得越远越好吗？</span></p>
+      <p
+        begin="01:07:58.000"
+        end="01:08:00.460"><span region="Default">怎么能丢掉鼻洁莉娜．裘莉呢？</span></p>
+      <p
+        begin="01:08:00.460"
+        end="01:08:02.250"><span region="Default">风间，你好过分喔</span></p>
+      <p
+        begin="01:08:04.290"
+        end="01:08:05.750"><span region="Default">太棒了</span></p>
+      <p
+        begin="01:08:11.080"
+        end="01:08:12.830"><span region="Default">欢迎来到娱乐节</span></p>
+      <p
+        begin="01:08:12.830"
+        end="01:08:13.630"><span region="Default">阿呆</span></p>
+      <p
+        begin="01:08:13.630"
+        end="01:08:16.630"><span region="Default">才一下子没见，你好像变很多喔</span></p>
+      <p
+        begin="01:08:17.000"
+        end="01:08:19.500"><span region="Default">小朋友可是成长很快的</span></p>
+      <p
+        begin="01:08:19.920"
+        end="01:08:23.290"><span region="Default">小新，把你身上的纸给我</span></p>
+      <p
+        begin="01:08:23.290"
+        end="01:08:27.000"><span region="Default">然后大家一起跳舞</span></p>
+      <p
+        begin="01:08:27.180"
+        end="01:08:31.170"><span region="Default">阿呆…</span></p>
+      <p
+        begin="01:08:31.170"
+        end="01:08:32.080"><span region="Default">阿呆</span></p>
+      <p
+        begin="01:08:32.500"
+        end="01:08:33.380"><span region="Default">小新</span></p>
+      <p
+        begin="01:08:33.920"
+        end="01:08:34.790"><span region="Default">阿呆</span></p>
+      <p
+        begin="01:08:34.790"
+        end="01:08:35.790"><span region="Default">小新</span></p>
+      <p
+        begin="01:08:35.790"
+        end="01:08:39.000"><span region="Default">我真的很想看阿呆的鼻水</span></p>
+      <p
+        begin="01:08:39.370"
+        end="01:08:40.920"><span region="Default">我的鼻水</span></p>
+      <p
+        begin="01:08:41.490"
+        end="01:08:42.580"><span region="Default">不会再流了</span></p>
+      <p
+        begin="01:08:44.710"
+        end="01:08:46.080"><span region="Default">把纸给我</span></p>
+      <p
+        begin="01:08:46.420"
+        end="01:08:47.290"><span region="Default">我不要</span></p>
+      <p
+        begin="01:08:58.319"
+        end="01:09:00.130"><span region="Default">这就是纸的力量？</span></p>
+      <p
+        begin="01:09:01.000"
+        end="01:09:01.790"><span region="Default">小新</span></p>
+      <p
+        begin="01:09:01.790"
+        end="01:09:03.210"><span region="Default">小新，这边</span></p>
+      <p
+        begin="01:09:07.109"
+        end="01:09:09.670"><span region="Default">可以请你帮我把那张纸</span></p>
+      <p
+        begin="01:09:09.670"
+        end="01:09:12.040"><span region="Default">放进我左边空的鼻孔吗？</span></p>
+      <p
+        begin="01:09:12.290"
+        end="01:09:15.750"><span region="Default">阿呆，我觉得这样一点也不有趣</span></p>
+      <p
+        begin="01:09:17.290"
+        end="01:09:18.710"><span region="Default">不有趣？</span></p>
+      <p
+        begin="01:09:20.710"
+        end="01:09:23.710"><span region="Default">看来是力量不够吧</span></p>
+      <p
+        begin="01:09:24.380"
+        end="01:09:26.710"><span region="Default">如果想实现欲望的话</span></p>
+      <p
+        begin="01:09:26.710"
+        end="01:09:28.960"><span region="Default">就要得到强大的力量</span></p>
+      <p
+        begin="01:09:33.920"
+        end="01:09:34.880"><span region="Default">小新</span></p>
+      <p
+        begin="01:09:35.630"
+        end="01:09:38.540"><span region="Default">不对，野原新之助</span></p>
+      <p
+        begin="01:09:39.460"
+        end="01:09:41.080"><span region="Default">把纸交出来</span></p>
+      <p
+        begin="01:09:41.670"
+        end="01:09:42.540"><span region="Default">阿呆</span></p>
+      <p
+        begin="01:09:43.250"
+        end="01:09:45.420"><span region="Default">有趣？不有趣？</span></p>
+      <p
+        begin="01:09:45.790"
+        end="01:09:47.750"><span region="Default">根本一点也不重要</span></p>
+      <p
+        begin="01:09:48.420"
+        end="01:09:50.380"><span region="Default">我就是要那张纸</span></p>
+      <p
+        begin="01:09:51.380"
+        end="01:09:55.420"><span region="Default">我要得到纸，让我变得更完美</span></p>
+      <p
+        begin="01:09:57.880"
+        end="01:09:58.880"><span region="Default">怎么办？</span></p>
+      <p
+        begin="01:10:01.420"
+        end="01:10:02.080"><span region="Default">小白</span></p>
+      <p
+        begin="01:10:08.290"
+        end="01:10:09.420"><span region="Default">正男</span></p>
+      <p
+        begin="01:10:24.330"
+        end="01:10:25.540"><span region="Default">洗鼻壶？</span></p>
+      <p
+        begin="01:10:26.210"
+        end="01:10:28.250"><span region="Default">怎么感觉好像很厉害？</span></p>
+      <p
+        begin="01:10:29.040"
+        end="01:10:30.580"><span region="Default">正男</span></p>
+      <p
+        begin="01:10:38.630"
+        end="01:10:40.170"><span region="Default">趁现在，我们快逃</span></p>
+      <p
+        begin="01:10:47.810"
+        end="01:10:49.210"><span region="Default">全体总动员</span></p>
+      <p
+        begin="01:10:49.210"
+        end="01:10:51.290"><span region="Default">把野原新之助抓回来</span></p>
+      <p
+        begin="01:10:51.290"
+        end="01:10:52.500"><span region="Default">杀手野兽</span></p>
+      <p
+        begin="01:10:52.500"
+        end="01:10:54.750"><span region="Default">战斗模式最高等级</span></p>
+      <p
+        begin="01:10:59.550"
+        end="01:11:01.080"><span region="Default">太夸张了吧</span></p>
+      <p
+        begin="01:11:01.080"
+        end="01:11:03.170"><span region="Default">他只是个小朋友而已啊</span></p>
+      <p
+        begin="01:11:03.540"
+        end="01:11:05.830"><span region="Default">不可以小看野原新之助</span></p>
+      <p
+        begin="01:11:06.630"
+        end="01:11:10.040"><span region="Default">野原新之助放屁能呼风唤雨</span></p>
+      <p
+        begin="01:11:10.040"
+        end="01:11:12.080"><span region="Default">靠屁屁能破坏秩序</span></p>
+      <p
+        begin="01:11:13.290"
+        end="01:11:15.750"><span region="Default">我一定要拿到纸才行</span></p>
+      <p
+        begin="01:11:20.250"
+        end="01:11:22.420"><span region="Default">小新，她是谁啊？</span></p>
+      <p
+        begin="01:11:22.880"
+        end="01:11:24.830"><span region="Default">是艾莉安娜喔</span></p>
+      <p
+        begin="01:11:24.830"
+        end="01:11:26.210"><span region="Default">真是的</span></p>
+      <p
+        begin="01:11:47.710"
+        end="01:11:48.710"><span region="Default">怎么办？</span></p>
+      <p
+        begin="01:11:49.750"
+        end="01:11:52.420"><span region="Default">正男，你为什么要变成狗？</span></p>
+      <p
+        begin="01:11:53.000"
+        end="01:11:55.290"><span region="Default">不变成狗就活不下去的心情</span></p>
+      <p
+        begin="01:11:55.290"
+        end="01:11:56.920"><span region="Default">你怎么可能会懂嘛</span></p>
+      <p
+        begin="01:11:58.130"
+        end="01:12:02.080"><span region="Default">阿呆鼻子的纸塞得越来越进去了</span></p>
+      <p
+        begin="01:12:02.080"
+        end="01:12:03.670"><span region="Default">一定要快点拔出来</span></p>
+      <p
+        begin="01:12:03.670"
+        end="01:12:05.750"><span region="Default">那根本不像我们认识的阿呆</span></p>
+      <p
+        begin="01:12:06.670"
+        end="01:12:08.880"><span region="Default">阿呆应该要更稳重才对</span></p>
+      <p
+        begin="01:12:08.880"
+        end="01:12:10.250"><span region="Default">他是一个很温柔</span></p>
+      <p
+        begin="01:12:10.250"
+        end="01:12:12.830"><span region="Default">会替大家着想的乖孩子</span></p>
+      <p
+        begin="01:12:12.830"
+        end="01:12:14.830"><span region="Default">没有流鼻水的阿呆</span></p>
+      <p
+        begin="01:12:14.830"
+        end="01:12:16.330"><span region="Default">根本就不是阿呆</span></p>
+      <p
+        begin="01:12:16.880"
+        end="01:12:19.880"><span region="Default">难道阿呆就一定要永远流鼻水吗？</span></p>
+      <p
+        begin="01:12:21.510"
+        end="01:12:23.420"><span region="Default">什么叫做像阿呆？</span></p>
+      <p
+        begin="01:12:23.420"
+        end="01:12:24.670"><span region="Default">一定要永远</span></p>
+      <p
+        begin="01:12:24.670"
+        end="01:12:27.000"><span region="Default">当一个温柔的乖孩子才行吗？</span></p>
+      <p
+        begin="01:12:27.000"
+        end="01:12:30.380"><span region="Default">那都是你们大家擅自这样认定的吧？</span></p>
+      <p
+        begin="01:12:31.080"
+        end="01:12:33.380"><span region="Default">就算一点也不觉得开心</span></p>
+      <p
+        begin="01:12:33.380"
+        end="01:12:36.710"><span region="Default">也要为了别人而勉强挤出笑容才行吗？</span></p>
+      <p
+        begin="01:12:36.710"
+        end="01:12:38.960"><span region="Default">就连烦躁、感到生气</span></p>
+      <p
+        begin="01:12:38.960"
+        end="01:12:40.580"><span region="Default">害怕到想哭的时候</span></p>
+      <p
+        begin="01:12:40.580"
+        end="01:12:43.210"><span region="Default">也要装没事，露出笑容才可以吗？</span></p>
+      <p
+        begin="01:12:44.790"
+        end="01:12:46.250"><span region="Default">我好羡慕他</span></p>
+      <p
+        begin="01:12:46.250"
+        end="01:12:47.790"><span region="Default">就算他为所欲为</span></p>
+      <p
+        begin="01:12:47.790"
+        end="01:12:50.080"><span region="Default">你们还是愿意那样支持他</span></p>
+      <p
+        begin="01:12:50.080"
+        end="01:12:51.330"><span region="Default">不会讨厌他</span></p>
+      <p
+        begin="01:12:52.630"
+        end="01:12:54.290"><span region="Default">就算他不再是乖孩子</span></p>
+      <p
+        begin="01:12:54.290"
+        end="01:12:56.880"><span region="Default">但是也许现在的他更幸福</span></p>
+      <p
+        begin="01:13:00.330"
+        end="01:13:02.460"><span region="Default">不是，那个…</span></p>
+      <p
+        begin="01:13:03.330"
+        end="01:13:04.250"><span region="Default">抱歉</span></p>
+      <p
+        begin="01:13:05.750"
+        end="01:13:07.710"><span region="Default">阿呆觉得幸福吗？</span></p>
+      <p
+        begin="01:13:08.130"
+        end="01:13:10.210"><span region="Default">没有流鼻水的阿呆？</span></p>
+      <p
+        begin="01:13:11.080"
+        end="01:13:12.880"><span region="Default">如果阿呆觉得幸福</span></p>
+      <p
+        begin="01:13:12.880"
+        end="01:13:15.330"><span region="Default">那不要把纸拔掉比较好吗？</span></p>
+      <p
+        begin="01:13:17.290"
+        end="01:13:21.290"><span region="Default">我们到底对阿呆又了解多少呢？</span></p>
+      <p
+        begin="01:13:34.130"
+        end="01:13:35.830"><span region="Default">不管了，先逃再说</span></p>
+      <p
+        begin="01:13:46.710"
+        end="01:13:47.880"><span region="Default">大人不见了</span></p>
+      <p
+        begin="01:13:47.880"
+        end="01:13:48.830"><span region="Default">逃跑了吗？</span></p>
+      <p
+        begin="01:13:49.330"
+        end="01:13:51.580"><span region="Default">可是他们会丢下小孩吗？</span></p>
+      <p
+        begin="01:13:53.040"
+        end="01:13:54.580"><span region="Default">说得也是啊</span></p>
+      <p
+        begin="01:13:58.210"
+        end="01:13:59.330"><span region="Default">看我的</span></p>
+      <p
+        begin="01:14:15.580"
+        end="01:14:17.540"><span region="Default">眼睛，我的眼睛</span></p>
+      <p
+        begin="01:14:19.330"
+        end="01:14:21.170"><span region="Default">找到了，钥匙</span></p>
+      <p
+        begin="01:14:21.170"
+        end="01:14:22.000"><span region="Default">很好</span></p>
+      <p
+        begin="01:14:27.920"
+        end="01:14:30.750"><span region="Default">现在要先去救妮妮跟风间才可以</span></p>
+      <p
+        begin="01:14:30.750"
+        end="01:14:31.540"><span region="Default">好</span></p>
+      <p
+        begin="01:14:36.040"
+        end="01:14:37.000"><span region="Default">发现逃跑者</span></p>
+      <p
+        begin="01:14:37.000"
+        end="01:14:39.460"><span region="Default">在中央庭园西侧A16通道</span></p>
+      <p
+        begin="01:14:39.460"
+        end="01:14:40.130"><span region="Default">重复</span></p>
+      <p
+        begin="01:14:40.130"
+        end="01:14:41.250"><span region="Default">发现逃跑者</span></p>
+      <p
+        begin="01:14:41.250"
+        end="01:14:43.460"><span region="Default">在中央庭园西侧A16通道</span></p>
+      <p
+        begin="01:14:47.500"
+        end="01:14:50.040"><span region="Default">这是我在印度培养出来的袜子</span></p>
+      <p
+        begin="01:14:51.040"
+        end="01:14:52.670"><span region="Default">看我的…</span></p>
+      <p
+        begin="01:14:54.710"
+        end="01:14:55.580"><span region="Default">很好</span></p>
+      <p
+        begin="01:14:59.920"
+        end="01:15:01.630"><span region="Default">这怎么可能？</span></p>
+      <p
+        begin="01:15:01.630"
+        end="01:15:03.750"><span region="Default">我的袜子居然没有用</span></p>
+      <p
+        begin="01:15:03.750"
+        end="01:15:05.830"><span region="Default">难道是因为我一直在煮咖哩</span></p>
+      <p
+        begin="01:15:05.830"
+        end="01:15:07.750"><span region="Default">香料把臭味都除掉</span></p>
+      <p
+        begin="01:15:08.000"
+        end="01:15:10.880"><span region="Default">所以我的袜子变成微辣的香味了</span></p>
+      <p
+        begin="01:15:10.880"
+        end="01:15:12.250"><span region="Default">还是很臭啊</span></p>
+      <p
+        begin="01:15:12.710"
+        end="01:15:14.830"><span region="Default">没想到香料这么可怕</span></p>
+      <p
+        begin="01:15:22.830"
+        end="01:15:24.920"><span region="Default">孩子们都还在等我们</span></p>
+      <p
+        begin="01:15:24.920"
+        end="01:15:27.710"><span region="Default">所以现在不能在这种地方磨蹭</span></p>
+      <p
+        begin="01:15:32.750"
+        end="01:15:33.750"><span region="Default">拜托了</span></p>
+      <p
+        begin="01:15:34.670"
+        end="01:15:36.790"><span region="Default">我体内沉睡的力量</span></p>
+      <p
+        begin="01:15:37.880"
+        end="01:15:38.790"><span region="Default">觉醒吧</span></p>
+      <p
+        begin="01:15:39.290"
+        end="01:15:40.750"><span region="Default">印度力量</span></p>
+      <p
+        begin="01:15:41.080"
+        end="01:15:44.330"><span region="Default">我的名字是野原美冴</span></p>
+      <p
+        begin="01:15:44.330"
+        end="01:15:47.630"><span region="Default">小山义治和高治的女儿</span></p>
+      <p
+        begin="01:15:47.630"
+        end="01:15:50.750"><span region="Default">我出生于熊本，搬到东京</span></p>
+      <p
+        begin="01:15:50.750"
+        end="01:15:52.750"><span region="Default">和广志结婚</span></p>
+      <p
+        begin="01:15:53.830"
+        end="01:15:57.210"><span region="Default">成为小新和小葵的母亲</span></p>
+      <p
+        begin="01:15:57.790"
+        end="01:15:59.920"><span region="Default">现在在印度为了…</span></p>
+      <p
+        begin="01:15:59.920"
+        end="01:16:01.880"><span region="Default">妮妮、正男、小彻</span></p>
+      <p
+        begin="01:16:02.340"
+        end="01:16:03.830"><span region="Default">还有阿呆的性命</span></p>
+      <p
+        begin="01:16:03.830"
+        end="01:16:06.170"><span region="Default">所以我成了最强的战士</span></p>
+      <p
+        begin="01:16:06.700"
+        end="01:16:09.330"><span region="Default">把路让开</span></p>
+      <p
+        begin="01:16:14.830"
+        end="01:16:17.580"><span region="Default">把路让开</span></p>
+      <p
+        begin="01:16:21.460"
+        end="01:16:26.830"><span region="Default">野原美冴要通过</span></p>
+      <p
+        begin="01:16:28.690"
+        end="01:16:31.250"><span region="Default">印度力量</span></p>
+      <p
+        begin="01:16:36.120"
+        end="01:16:37.080"><span region="Default">小白，怎么了？</span></p>
+      <p
+        begin="01:16:38.920"
+        end="01:16:40.040"><span region="Default">小白前辈</span></p>
+      <p
+        begin="01:16:44.740"
+        end="01:16:45.710"><span region="Default">小白</span></p>
+      <p
+        begin="01:16:50.580"
+        end="01:16:51.500"><span region="Default">小白</span></p>
+      <p
+        begin="01:16:54.380"
+        end="01:16:55.580"><span region="Default">小白</span></p>
+      <p
+        begin="01:16:57.030"
+        end="01:16:57.920"><span region="Default">正男</span></p>
+      <p
+        begin="01:17:01.630"
+        end="01:17:03.080"><span region="Default">正男</span></p>
+      <p
+        begin="01:17:03.080"
+        end="01:17:05.420"><span region="Default">妈妈、爸爸</span></p>
+      <p
+        begin="01:17:06.330"
+        end="01:17:08.880"><span region="Default">我好害怕喔</span></p>
+      <p
+        begin="01:17:09.920"
+        end="01:17:11.000"><span region="Default">爸爸</span></p>
+      <p
+        begin="01:17:12.250"
+        end="01:17:13.540"><span region="Default">妈妈</span></p>
+      <p
+        begin="01:17:14.710"
+        end="01:17:16.130"><span region="Default">小新</span></p>
+      <p
+        begin="01:17:17.810"
+        end="01:17:20.960"><span region="Default">妮妮、风间跟小白</span></p>
+      <p
+        begin="01:17:20.960"
+        end="01:17:23.080"><span region="Default">太好了，大家都没事</span></p>
+      <p
+        begin="01:17:24.960"
+        end="01:17:26.040"><span region="Default">讨厌</span></p>
+      <p
+        begin="01:17:26.040"
+        end="01:17:29.380"><span region="Default">爸爸跟妈妈，你们老是迷路耶</span></p>
+      <p
+        begin="01:17:29.380"
+        end="01:17:30.630"><span region="Default">你没受伤吧？</span></p>
+      <p
+        begin="01:17:30.630"
+        end="01:17:32.330"><span region="Default">丹雅瓦德</span></p>
+      <p
+        begin="01:17:32.330"
+        end="01:17:34.290"><span region="Default">你从刚刚就一直说的那个</span></p>
+      <p
+        begin="01:17:34.290"
+        end="01:17:35.330"><span region="Default">到底是什么啊？</span></p>
+      <p
+        begin="01:17:35.330"
+        end="01:17:37.130"><span region="Default">新的搞笑方法啊</span></p>
+      <p
+        begin="01:17:37.130"
+        end="01:17:38.580"><span region="Default">虽然不知道意思</span></p>
+      <p
+        begin="01:17:38.580"
+        end="01:17:41.330"><span region="Default">但是印度人常常说这句话喔</span></p>
+      <p
+        begin="01:17:41.750"
+        end="01:17:43.420"><span region="Default">你不知道意思吗？</span></p>
+      <p
+        begin="01:17:43.420"
+        end="01:17:46.580"><span region="Default">“丹雅瓦德”就是印度话的“谢谢”</span></p>
+      <p
+        begin="01:17:48.170"
+        end="01:17:50.710"><span region="Default">真的谢谢你告诉我</span></p>
+      <p
+        begin="01:17:50.710"
+        end="01:17:52.920"><span region="Default">这时候应该说“丹雅瓦德”吧？</span></p>
+      <p
+        begin="01:17:52.920"
+        end="01:17:55.290"><span region="Default">你只靠说谢谢就撑过来了吗？</span></p>
+      <p
+        begin="01:17:55.690"
+        end="01:17:58.170"><span region="Default">我们的孩子真是太坚强了</span></p>
+      <p
+        begin="01:17:58.950"
+        end="01:18:00.250"><span region="Default">你明明很喜欢</span></p>
+      <p
+        begin="01:18:00.250"
+        end="01:18:01.830"><span region="Default">- 我才不喜欢　- 你是谁啊？</span></p>
+      <p
+        begin="01:18:02.790"
+        end="01:18:05.210"><span region="Default">艾莉安娜是我的朋友喔</span></p>
+      <p
+        begin="01:18:05.500"
+        end="01:18:06.630"><span region="Default">朋友？</span></p>
+      <p
+        begin="01:18:07.540"
+        end="01:18:10.130"><span region="Default">就是你帮我们把小新救出来的吧？</span></p>
+      <p
+        begin="01:18:10.790"
+        end="01:18:12.080"><span region="Default">谢谢你</span></p>
+      <p
+        begin="01:18:12.750"
+        end="01:18:14.540"><span region="Default">真的非常谢谢你</span></p>
+      <p
+        begin="01:18:15.750"
+        end="01:18:16.830"><span region="Default">没什么</span></p>
+      <p
+        begin="01:18:26.880"
+        end="01:18:28.670"><span region="Default">糟糕，快逃</span></p>
+      <p
+        begin="01:18:53.830"
+        end="01:18:55.670"><span region="Default">可恶，真是难缠</span></p>
+      <p
+        begin="01:18:58.080"
+        end="01:19:00.130"><span region="Default">好了，这里交给我</span></p>
+      <p
+        begin="01:19:00.130"
+        end="01:19:01.290"><span region="Default">你们先走</span></p>
+      <p
+        begin="01:19:03.250"
+        end="01:19:05.210"><span region="Default">你这样怎么走啊？</span></p>
+      <p
+        begin="01:19:06.160"
+        end="01:19:07.170"><span region="Default">快逃</span></p>
+      <p
+        begin="01:19:07.170"
+        end="01:19:09.880"><span region="Default">赶快带孩子们到安全的地方</span></p>
+      <p
+        begin="01:19:19.420"
+        end="01:19:21.080"><span region="Default">快点照大哥说的做</span></p>
+      <p
+        begin="01:19:22.730"
+        end="01:19:23.500"><span region="Default">快逃</span></p>
+      <p
+        begin="01:19:23.880"
+        end="01:19:25.790"><span region="Default">带孩子们到安全的地方</span></p>
+      <p
+        begin="01:19:27.250"
+        end="01:19:28.330"><span region="Default">潜入调查</span></p>
+      <p
+        begin="01:19:29.290"
+        end="01:19:30.540"><span region="Default">非常成功</span></p>
+      <p
+        begin="01:19:32.040"
+        end="01:19:33.500"><span region="Default">原来你没事啊</span></p>
+      <p
+        begin="01:19:34.130"
+        end="01:19:35.170"><span region="Default">当然</span></p>
+      <p
+        begin="01:19:35.750"
+        end="01:19:36.670"><span region="Default">我就知道</span></p>
+      <p
+        begin="01:19:36.670"
+        end="01:19:39.500"><span region="Default">你不可能因为遇到那点小事就完蛋</span></p>
+      <p
+        begin="01:19:39.500"
+        end="01:19:40.920"><span region="Default">不愧是大哥</span></p>
+      <p
+        begin="01:19:41.750"
+        end="01:19:42.750"><span region="Default">迪尔</span></p>
+      <p
+        begin="01:19:42.750"
+        end="01:19:45.040"><span region="Default">卡比尔．卡查帕帕尔．帕卡帕帕尔．</span></p>
+      <p
+        begin="01:19:45.040"
+        end="01:19:46.750"><span region="Default">卡查帕帕尔．帕卡帕帕尔</span></p>
+      <p
+        begin="01:19:53.290"
+        end="01:19:56.000"><span region="Default">歌唱吧！印度力量</span></p>
+      <p
+        begin="01:19:56.000"
+        end="01:19:58.920"><span region="Default">有感受到吗？在我体内</span></p>
+      <p
+        begin="01:19:58.920"
+        end="01:20:01.420"><span region="Default">跳舞吧！印度力量</span></p>
+      <p
+        begin="01:20:01.420"
+        end="01:20:02.210"><span region="Default">走这边</span></p>
+      <p
+        begin="01:20:02.210"
+        end="01:20:03.250"><span region="Default">快趁现在</span></p>
+      <p
+        begin="01:20:03.250"
+        end="01:20:07.460"><span region="Default">勇闯未知的道路吧</span></p>
+      <p
+        begin="01:20:07.460"
+        end="01:20:11.580"><span region="Default">We are hot！超辣的咖哩</span></p>
+      <p
+        begin="01:20:16.580"
+        end="01:20:18.170"><span region="Default">看起来是仓库</span></p>
+      <p
+        begin="01:20:19.170"
+        end="01:20:20.960"><span region="Default">那里有车，过去看看</span></p>
+      <p
+        begin="01:20:22.880"
+        end="01:20:24.380"><span region="Default">小新，怎么了？</span></p>
+      <p
+        begin="01:20:24.780"
+        end="01:20:27.080"><span region="Default">我想要去找阿呆</span></p>
+      <p
+        begin="01:20:28.920"
+        end="01:20:30.500"><span region="Default">我不可以丢下阿呆</span></p>
+      <p
+        begin="01:20:30.500"
+        end="01:20:32.000"><span region="Default">就这样自己逃跑</span></p>
+      <p
+        begin="01:20:37.260"
+        end="01:20:38.290"><span region="Default">就是说啊</span></p>
+      <p
+        begin="01:20:38.670"
+        end="01:20:41.710"><span region="Default">所以我们现在更应该逃离这里</span></p>
+      <p
+        begin="01:20:41.710"
+        end="01:20:43.000"><span region="Default">这样才能拯救阿呆</span></p>
+      <p
+        begin="01:20:43.830"
+        end="01:20:46.170"><span region="Default">你身上那张纸不可以给他对吧？</span></p>
+      <p
+        begin="01:20:47.000"
+        end="01:20:48.750"><span region="Default">这么做也是为了不让阿呆</span></p>
+      <p
+        begin="01:20:48.750"
+        end="01:20:50.420"><span region="Default">继续去伤害其他人</span></p>
+      <p
+        begin="01:20:54.580"
+        end="01:20:56.330"><span region="Default">那要逃去哪里咧？</span></p>
+      <p
+        begin="01:20:58.080"
+        end="01:20:59.040"><span region="Default">我们完蛋了</span></p>
+      <p
+        begin="01:20:59.040"
+        end="01:21:00.460"><span region="Default">到底有多少只啊？</span></p>
+      <p
+        begin="01:21:00.460"
+        end="01:21:02.330"><span region="Default">根本没有地方可以逃嘛</span></p>
+      <p
+        begin="01:21:07.080"
+        end="01:21:08.210"><span region="Default">怎么会这样？</span></p>
+      <p
+        begin="01:21:09.120"
+        end="01:21:10.750"><span region="Default">各位，快过来</span></p>
+      <p
+        begin="01:21:12.920"
+        end="01:21:14.630"><span region="Default">进去</span></p>
+      <p
+        begin="01:21:18.170"
+        end="01:21:19.960"><span region="Default">你真的会开飞机吗？</span></p>
+      <p
+        begin="01:21:20.130"
+        end="01:21:21.000"><span region="Default">我当然会</span></p>
+      <p
+        begin="01:21:21.000"
+        end="01:21:25.130"><span region="Default">我也要让沉睡在体内的力量觉醒120%</span></p>
+      <p
+        begin="01:21:27.380"
+        end="01:21:29.830"><span region="Default">上啊，印度力量</span></p>
+      <p
+        begin="01:21:46.830"
+        end="01:21:48.250"><span region="Default">啦啦啦…引擎！</span></p>
+      <p
+        begin="01:21:48.250"
+        end="01:21:52.710"><span region="Default">听这宝贝的咆哮声</span></p>
+      <p
+        begin="01:21:52.710"
+        end="01:21:54.330"><span region="Default">啦啦啦…状态！</span></p>
+      <p
+        begin="01:21:54.330"
+        end="01:21:58.920"><span region="Default">啦啦啦…起飞吧</span></p>
+      <p
+        begin="01:21:58.920"
+        end="01:22:03.630"><span region="Default">一路飞向危险地带</span></p>
+      <p
+        begin="01:22:05.080"
+        end="01:22:10.710"><span region="Default">驾驶进入危险地带</span></p>
+      <p
+        begin="01:22:10.710"
+        end="01:22:13.040"><span region="Default">印度力量</span></p>
+      <p
+        begin="01:22:13.040"
+        end="01:22:14.370"><span region="Default">别想逃跑</span></p>
+      <p
+        begin="01:22:14.380"
+        end="01:22:20.380"><span region="Default">哼哼哼…今晚</span></p>
+      <p
+        begin="01:22:20.380"
+        end="01:22:25.250"><span region="Default">扭扭扭…驾驶</span></p>
+      <p
+        begin="01:22:25.250"
+        end="01:22:26.880"><span region="Default">爸爸，再开快一点</span></p>
+      <p
+        begin="01:22:26.880"
+        end="01:22:31.130"><span region="Default">一路飞向危险地带</span></p>
+      <p
+        begin="01:22:32.210"
+        end="01:22:38.500"><span region="Default">我会带你进入危险地带</span></p>
+      <p
+        begin="01:22:53.950"
+        end="01:22:56.880"><span region="Default">冲吧！</span></p>
+      <p
+        begin="01:22:58.640"
+        end="01:23:00.750"><span region="Default">- 我派部下开直升机…　- 我自己去</span></p>
+      <p
+        begin="01:23:14.920"
+        end="01:23:16.460"><span region="Default">跟在我的搭档后面</span></p>
+      <p
+        begin="01:23:21.380"
+        end="01:23:23.000"><span region="Default">哈啦啦…边缘！</span></p>
+      <p
+        begin="01:23:23.000"
+        end="01:23:24.420"><span region="Default">啦啦啦…渴望</span></p>
+      <p
+        begin="01:23:27.460"
+        end="01:23:29.130"><span region="Default">哗啦啦…边缘！</span></p>
+      <p
+        begin="01:23:29.130"
+        end="01:23:30.540"><span region="Default">哈啦啦…强烈</span></p>
+      <p
+        begin="01:23:33.540"
+        end="01:23:38.330"><span region="Default">一路飞向危险地带</span></p>
+      <p
+        begin="01:23:39.040"
+        end="01:23:44.460"><span region="Default">我会带你进入危险地带</span></p>
+      <p
+        begin="01:23:45.960"
+        end="01:23:50.420"><span region="Default">一路飞向危险地带</span></p>
+      <p
+        begin="01:23:50.420"
+        end="01:23:51.750"><span region="Default">什么啊？</span></p>
+      <p
+        begin="01:23:51.750"
+        end="01:23:52.880"><span region="Default">（燃料不足）</span></p>
+      <p
+        begin="01:23:53.290"
+        end="01:23:56.750"><span region="Default">糟了，燃料进入危险地带了</span></p>
+      <p
+        begin="01:24:16.500"
+        end="01:24:19.290"><span region="Default">从危险地带来到河边了</span></p>
+      <p
+        begin="01:24:20.230"
+        end="01:24:21.920"><span region="Default">老公，你没事吧？</span></p>
+      <p
+        begin="01:24:25.500"
+        end="01:24:26.500"><span region="Default">那是什么？</span></p>
+      <p
+        begin="01:24:27.130"
+        end="01:24:27.960"><span region="Default">鸟吗？</span></p>
+      <p
+        begin="01:24:28.460"
+        end="01:24:29.500"><span region="Default">飞机？</span></p>
+      <p
+        begin="01:24:29.830"
+        end="01:24:31.250"><span region="Default">是阿呆…</span></p>
+      <p
+        begin="01:24:35.830"
+        end="01:24:37.260"><span region="Default">放烟火啰</span></p>
+      <p
+        begin="01:24:37.260"
+        end="01:24:38.830"><span region="Default">没时间说这个了</span></p>
+      <p
+        begin="01:24:39.790"
+        end="01:24:41.250"><span region="Default">了解了吧？</span></p>
+      <p
+        begin="01:24:41.250"
+        end="01:24:43.330"><span region="Default">你逃不出我的手掌心</span></p>
+      <p
+        begin="01:24:43.750"
+        end="01:24:45.210"><span region="Default">把纸交出来</span></p>
+      <p
+        begin="01:24:48.210"
+        end="01:24:50.000"><span region="Default">抱歉，我们做不到</span></p>
+      <p
+        begin="01:24:50.000"
+        end="01:24:52.710"><span region="Default">阿呆，这都是为了守护你</span></p>
+      <p
+        begin="01:24:52.710"
+        end="01:24:53.670"><span region="Default">没错</span></p>
+      <p
+        begin="01:24:55.380"
+        end="01:24:58.420"><span region="Default">小新，带着纸逃得越远越好</span></p>
+      <p
+        begin="01:24:58.420"
+        end="01:25:00.290"><span region="Default">我们会帮你争取时间的</span></p>
+      <p
+        begin="01:25:10.830"
+        end="01:25:13.460"><span region="Default">风间、妮妮、正男</span></p>
+      <p
+        begin="01:25:13.770"
+        end="01:25:14.540"><span region="Default">各位</span></p>
+      <p
+        begin="01:25:15.330"
+        end="01:25:16.960"><span region="Default">不准妨碍我</span></p>
+      <p
+        begin="01:25:21.520"
+        end="01:25:22.960"><span region="Default">得到两张纸</span></p>
+      <p
+        begin="01:25:22.960"
+        end="01:25:24.670"><span region="Default">就可以让我变得更完美</span></p>
+      <p
+        begin="01:25:25.580"
+        end="01:25:27.630"><span region="Default">选择吧，野原新之助</span></p>
+      <p
+        begin="01:25:28.170"
+        end="01:25:30.420"><span region="Default">你现在要自己给我纸</span></p>
+      <p
+        begin="01:25:30.420"
+        end="01:25:32.710"><span region="Default">还是要我从你那里抢过来？</span></p>
+      <p
+        begin="01:25:37.710"
+        end="01:25:38.880"><span region="Default">不可以</span></p>
+      <p
+        begin="01:25:38.880"
+        end="01:25:39.960"><span region="Default">小新</span></p>
+      <p
+        begin="01:25:45.580"
+        end="01:25:49.290"><span region="Default">现在我要让阿呆的鼻水变回来</span></p>
+      <p
+        begin="01:25:50.250"
+        end="01:25:52.880"><span region="Default">你该不会打算插进自己的鼻子里</span></p>
+      <p
+        begin="01:25:52.880"
+        end="01:25:54.130"><span region="Default">不可以</span></p>
+      <p
+        begin="01:25:59.670"
+        end="01:26:00.630"><span region="Default">屁屁？</span></p>
+      <p
+        begin="01:26:17.670"
+        end="01:26:19.460"><span region="Default">用屁屁夹纸？</span></p>
+      <p
+        begin="01:26:19.460"
+        end="01:26:21.420"><span region="Default">我从来没有想到这招</span></p>
+      <p
+        begin="01:26:21.420"
+        end="01:26:23.630"><span region="Default">不是把纸直接插进鼻子</span></p>
+      <p
+        begin="01:26:23.630"
+        end="01:26:25.210"><span region="Default">是用屁屁夹着</span></p>
+      <p
+        begin="01:26:25.210"
+        end="01:26:26.830"><span region="Default">这样不但能得到力量</span></p>
+      <p
+        begin="01:26:26.830"
+        end="01:26:30.000"><span region="Default">还不容易被纸的邪恶感染，影响自己</span></p>
+      <p
+        begin="01:26:30.000"
+        end="01:26:32.920"><span region="Default">不愧是大哥，真是有洞察力</span></p>
+      <p
+        begin="01:26:32.920"
+        end="01:26:35.580"><span region="Default">你可以的，把纸拿回来吧</span></p>
+      <p
+        begin="01:26:35.580"
+        end="01:26:37.670"><span region="Default">可爱的男孩新之助</span></p>
+      <p
+        begin="01:26:37.670"
+        end="01:26:39.000"><span region="Default">把纸拔下来</span></p>
+      <p
+        begin="01:26:39.000"
+        end="01:26:41.210"><span region="Default">我不要，快给我纸</span></p>
+      <p
+        begin="01:26:41.210"
+        end="01:26:41.920"><span region="Default">不要</span></p>
+      <p
+        begin="01:26:41.920"
+        end="01:26:43.000"><span region="Default">不要…</span></p>
+      <p
+        begin="01:26:45.570"
+        end="01:26:46.960"><span region="Default">快给我纸</span></p>
+      <p
+        begin="01:26:46.960"
+        end="01:26:47.630"><span region="Default">不要</span></p>
+      <p
+        begin="01:26:49.830"
+        end="01:26:50.960"><span region="Default">把纸拔下来</span></p>
+      <p
+        begin="01:26:50.960"
+        end="01:26:52.710"><span region="Default">不要，快给我纸</span></p>
+      <p
+        begin="01:26:52.710"
+        end="01:26:53.460"><span region="Default">不要</span></p>
+      <p
+        begin="01:26:54.170"
+        end="01:26:55.790"><span region="Default">- 把纸拔下来　- 快给我纸</span></p>
+      <p
+        begin="01:26:55.790"
+        end="01:26:58.540"><span region="Default">不要…</span></p>
+      <p
+        begin="01:26:58.540"
+        end="01:27:00.040"><span region="Default">不要</span></p>
+      <p
+        begin="01:27:02.670"
+        end="01:27:04.580"><span region="Default">阿呆，你没事吧？</span></p>
+      <p
+        begin="01:27:05.920"
+        end="01:27:07.710"><span region="Default">野原新之助</span></p>
+      <p
+        begin="01:27:07.710"
+        end="01:27:10.540"><span region="Default">我就知道你果然有两下子</span></p>
+      <p
+        begin="01:27:10.830"
+        end="01:27:13.330"><span region="Default">可是好戏才正要上场</span></p>
+      <p
+        begin="01:27:18.680"
+        end="01:27:21.210"><span region="Default">糟糕，纸完全进鼻子里了</span></p>
+      <p
+        begin="01:27:21.210"
+        end="01:27:24.960"><span region="Default">可爱的男孩新之助，快逃啊</span></p>
+      <p
+        begin="01:27:44.460"
+        end="01:27:45.380"><span region="Default">阿呆</span></p>
+      <p
+        begin="01:27:46.210"
+        end="01:27:49.330"><span region="Default">看吧，这就是完美的我</span></p>
+      <p
+        begin="01:27:49.790"
+        end="01:27:51.880"><span region="Default">印度力量…</span></p>
+      <p
+        begin="01:27:51.880"
+        end="01:27:53.130"><span region="Default">太慢了</span></p>
+      <p
+        begin="01:27:53.130"
+        end="01:27:54.830"><span region="Default">看起来就像没动</span></p>
+      <p
+        begin="01:27:59.500"
+        end="01:28:01.420"><span region="Default">暴君诞生了</span></p>
+      <p
+        begin="01:28:01.420"
+        end="01:28:04.080"><span region="Default">很遗憾，事情变成这样</span></p>
+      <p
+        begin="01:28:04.080"
+        end="01:28:06.170"><span region="Default">已经没有人可以阻止他了</span></p>
+      <p
+        begin="01:28:22.440"
+        end="01:28:23.380"><span region="Default">新之助</span></p>
+      <p
+        begin="01:28:27.460"
+        end="01:28:28.750"><span region="Default">新之助</span></p>
+      <p
+        begin="01:28:29.250"
+        end="01:28:30.790"><span region="Default">算了，放弃吧</span></p>
+      <p
+        begin="01:28:32.410"
+        end="01:28:35.540"><span region="Default">我会把纸拔出来</span></p>
+      <p
+        begin="01:28:36.380"
+        end="01:28:38.670"><span region="Default">因为我想要再见到…</span></p>
+      <p
+        begin="01:28:38.670"
+        end="01:28:40.420"><span region="Default">流鼻水的阿呆</span></p>
+      <p
+        begin="01:28:40.420"
+        end="01:28:41.420"><span region="Default">我说过了</span></p>
+      <p
+        begin="01:28:41.880"
+        end="01:28:44.080"><span region="Default">我以后不会再流鼻水了</span></p>
+      <p
+        begin="01:28:44.380"
+        end="01:28:46.290"><span region="Default">阿呆，你会流</span></p>
+      <p
+        begin="01:28:46.670"
+        end="01:28:48.630"><span region="Default">就算不是流鼻水</span></p>
+      <p
+        begin="01:28:48.630"
+        end="01:28:51.580"><span region="Default">你也会流露出开心的样子</span></p>
+      <p
+        begin="01:28:51.580"
+        end="01:28:53.250"><span region="Default">现在你做的事</span></p>
+      <p
+        begin="01:28:53.250"
+        end="01:28:56.000"><span region="Default">根本一点也不有趣，不好玩</span></p>
+      <p
+        begin="01:28:56.000"
+        end="01:28:57.880"><span region="Default">你到底又了解我什么了？</span></p>
+      <p
+        begin="01:28:57.880"
+        end="01:29:00.000"><span region="Default">那你告诉我啊</span></p>
+      <p
+        begin="01:29:00.000"
+        end="01:29:02.080"><span region="Default">你喜欢跟我们玩什么？</span></p>
+      <p
+        begin="01:29:02.080"
+        end="01:29:03.290"><span region="Default">想去哪里？</span></p>
+      <p
+        begin="01:29:03.290"
+        end="01:29:04.420"><span region="Default">爱吃什么？</span></p>
+      <p
+        begin="01:29:04.420"
+        end="01:29:05.670"><span region="Default">喜欢什么？</span></p>
+      <p
+        begin="01:29:05.670"
+        end="01:29:06.630"><span region="Default">够了</span></p>
+      <p
+        begin="01:29:07.540"
+        end="01:29:09.790"><span region="Default">不要以为你可以打倒我</span></p>
+      <p
+        begin="01:29:10.540"
+        end="01:29:12.830"><span region="Default">我完全没有想要打倒你</span></p>
+      <p
+        begin="01:29:13.750"
+        end="01:29:16.380"><span region="Default">我只是希望能跟你一起玩</span></p>
+      <p
+        begin="01:29:17.710"
+        end="01:29:20.710"><span region="Default">不管你有没有变暴君</span></p>
+      <p
+        begin="01:29:20.710"
+        end="01:29:24.500"><span region="Default">有没有变暴王或是变暴皇帝</span></p>
+      <p
+        begin="01:29:24.500"
+        end="01:29:27.080"><span region="Default">我还是想要跟你一起玩</span></p>
+      <p
+        begin="01:29:27.880"
+        end="01:29:29.290"><span region="Default">是啊，阿呆</span></p>
+      <p
+        begin="01:29:29.290"
+        end="01:29:30.710"><span region="Default">我们一起玩吧</span></p>
+      <p
+        begin="01:29:30.710"
+        end="01:29:32.040"><span region="Default">很有趣喔</span></p>
+      <p
+        begin="01:29:33.420"
+        end="01:29:36.210"><span region="Default">就算阿呆你不会流鼻水了</span></p>
+      <p
+        begin="01:29:36.210"
+        end="01:29:37.580"><span region="Default">就算你变了</span></p>
+      <p
+        begin="01:29:37.580"
+        end="01:29:39.580"><span region="Default">我还是一样想跟你玩</span></p>
+      <p
+        begin="01:29:40.080"
+        end="01:29:42.130"><span region="Default">我永远都想跟你玩</span></p>
+      <p
+        begin="01:29:42.690"
+        end="01:29:45.000"><span region="Default">阿呆，来玩吧</span></p>
+      <p
+        begin="01:29:45.000"
+        end="01:29:46.040"><span region="Default">阿呆</span></p>
+      <p
+        begin="01:29:46.040"
+        end="01:29:46.920"><span region="Default">阿呆</span></p>
+      <p
+        begin="01:29:47.190"
+        end="01:29:48.130"><span region="Default">阿呆</span></p>
+      <p
+        begin="01:29:51.040"
+        end="01:29:53.960"><span region="Default">呆…</span></p>
+      <p
+        begin="01:29:54.910"
+        end="01:29:56.330"><span region="Default">呆…</span></p>
+      <p
+        begin="01:29:56.330"
+        end="01:29:58.630"><span region="Default">呆</span></p>
+      <p
+        begin="01:30:02.170"
+        end="01:30:05.380"><span region="Default">阿呆，一起跳舞吧</span></p>
+      <p
+        begin="01:30:13.080"
+        end="01:30:15.170"><span region="Default">（双叶幼稚园入学典礼）</span></p>
+      <p
+        begin="01:30:17.250"
+        end="01:30:19.330"><span region="Default">不理不理…</span></p>
+      <p
+        begin="01:31:05.710"
+        end="01:31:08.170"><span region="Default">阿呆，我们一起跳舞吧</span></p>
+      <p
+        begin="01:31:08.170"
+        end="01:31:09.540"><span region="Default">因为我们几个</span></p>
+      <p
+        begin="01:31:10.880"
+        end="01:31:14.790"><span region="Default">是朋友喔，大象</span></p>
+      <p
+        begin="01:31:14.790"
+        end="01:31:18.290"><span region="Default">呆…</span></p>
+      <p
+        begin="01:31:58.250"
+        end="01:32:00.460"><span region="Default">这颗石头好像屁屁</span></p>
+      <p
+        begin="01:32:00.460"
+        end="01:32:02.330"><span region="Default">我要当印度的绊脚石</span></p>
+      <p
+        begin="01:32:02.330"
+        end="01:32:04.750"><span region="Default">应该是“伴手礼”才对</span></p>
+      <p
+        begin="01:32:04.750"
+        end="01:32:06.040"><span region="Default">也可以这样说</span></p>
+      <p
+        begin="01:32:06.040"
+        end="01:32:07.580"><span region="Default">这样说也可以</span></p>
+      <p
+        begin="01:32:11.420"
+        end="01:32:12.460"><span region="Default">是阿呆</span></p>
+      <p
+        begin="01:32:12.460"
+        end="01:32:14.330"><span region="Default">阿呆</span></p>
+      <p
+        begin="01:32:14.330"
+        end="01:32:16.170"><span region="Default">阿呆在哭哭</span></p>
+      <p
+        begin="01:32:16.170"
+        end="01:32:18.540"><span region="Default">不是，这是鼻水</span></p>
+      <p
+        begin="01:32:20.890"
+        end="01:32:23.580"><span region="Default">各位，对不起</span></p>
+      <p
+        begin="01:32:35.040"
+        end="01:32:35.960"><span region="Default">真好</span></p>
+      <p
+        begin="01:32:36.960"
+        end="01:32:38.670"><span region="Default">明明变成了暴君</span></p>
+      <p
+        begin="01:32:38.670"
+        end="01:32:41.040"><span region="Default">身边还是有喜欢自己的朋友</span></p>
+      <p
+        begin="01:32:41.830"
+        end="01:32:43.380"><span region="Default">我现在应该</span></p>
+      <p
+        begin="01:32:43.380"
+        end="01:32:46.040"><span region="Default">跟他们一起开心的露出笑容才对</span></p>
+      <p
+        begin="01:32:46.540"
+        end="01:32:50.380"><span region="Default">可是我却觉得好忌妒那些小朋友</span></p>
+      <p
+        begin="01:32:50.710"
+        end="01:32:52.000"><span region="Default">真的很抱歉</span></p>
+      <p
+        begin="01:32:52.000"
+        end="01:32:53.670"><span region="Default">- 我真是一个…　- 阿呆真是伤脑筋</span></p>
+      <p
+        begin="01:32:53.670"
+        end="01:32:55.210"><span region="Default">- 讨人厌的家伙　- 轮不到你来说</span></p>
+      <p
+        begin="01:32:59.290"
+        end="01:33:01.920"><span region="Default">要是大家知道我个性这么糟</span></p>
+      <p
+        begin="01:33:01.920"
+        end="01:33:04.330"><span region="Default">一定会非常讨厌我吧</span></p>
+      <p
+        begin="01:33:05.070"
+        end="01:33:08.380"><span region="Default">我到底在说什么</span></p>
+      <p
+        begin="01:33:08.960"
+        end="01:33:11.540"><span region="Default">你说错啰，我很喜欢你啊</span></p>
+      <p
+        begin="01:33:12.500"
+        end="01:33:14.380"><span region="Default">虽然看到其他人幸福</span></p>
+      <p
+        begin="01:33:14.380"
+        end="01:33:16.540"><span region="Default">所以一起开心是很棒的事</span></p>
+      <p
+        begin="01:33:16.540"
+        end="01:33:19.250"><span region="Default">但不可能每次都这么想，对吧？</span></p>
+      <p
+        begin="01:33:19.250"
+        end="01:33:20.000"><span region="Default">是啊</span></p>
+      <p
+        begin="01:33:20.500"
+        end="01:33:22.460"><span region="Default">如果想要讨好每一个人</span></p>
+      <p
+        begin="01:33:22.460"
+        end="01:33:25.830"><span region="Default">或者是不管做什么事都不会犯错的人</span></p>
+      <p
+        begin="01:33:25.830"
+        end="01:33:27.500"><span region="Default">一定会过得很辛苦</span></p>
+      <p
+        begin="01:33:28.040"
+        end="01:33:30.580"><span region="Default">绝对不可能会有人这么完美的</span></p>
+      <p
+        begin="01:33:30.750"
+        end="01:33:32.040"><span region="Default">要是你很完美</span></p>
+      <p
+        begin="01:33:32.040"
+        end="01:33:33.830"><span region="Default">我可能就没有办法跟你相处</span></p>
+      <p
+        begin="01:33:33.830"
+        end="01:33:35.080"><span region="Default">因为太累人了</span></p>
+      <p
+        begin="01:33:35.080"
+        end="01:33:36.420"><span region="Default">我也一样啊</span></p>
+      <p
+        begin="01:33:36.420"
+        end="01:33:38.040"><span region="Default">如果你是个个性好</span></p>
+      <p
+        begin="01:33:38.040"
+        end="01:33:39.960"><span region="Default">长得漂亮，身材一级棒</span></p>
+      <p
+        begin="01:33:39.960"
+        end="01:33:41.170"><span region="Default">还一直很温柔</span></p>
+      <p
+        begin="01:33:41.170"
+        end="01:33:42.800"><span region="Default">每天摆出好脸色</span></p>
+      <p
+        begin="01:33:42.800"
+        end="01:33:45.500"><span region="Default">什么事都做得完美的超人的话…</span></p>
+      <p
+        begin="01:33:45.500"
+        end="01:33:46.540"><span region="Default">好像也还不错</span></p>
+      <p
+        begin="01:33:49.170"
+        end="01:33:50.540"><span region="Default">艾莉安娜</span></p>
+      <p
+        begin="01:34:07.740"
+        end="01:34:09.710"><span region="Default">只要把这个插进鼻孔的话</span></p>
+      <p
+        begin="01:34:09.710"
+        end="01:34:11.170"><span region="Default">就能变超强</span></p>
+      <p
+        begin="01:34:11.170"
+        end="01:34:13.210"><span region="Default">不行啦，不能做这种事</span></p>
+      <p
+        begin="01:34:13.210"
+        end="01:34:14.580"><span region="Default">就插进去嘛</span></p>
+      <p
+        begin="01:34:14.580"
+        end="01:34:16.460"><span region="Default">反正现在也没有人在看</span></p>
+      <p
+        begin="01:34:17.570"
+        end="01:34:18.710"><span region="Default">可是…</span></p>
+      <p
+        begin="01:34:18.710"
+        end="01:34:20.960"><span region="Default">这个刚才插过阿呆的鼻子</span></p>
+      <p
+        begin="01:34:20.960"
+        end="01:34:22.670"><span region="Default">还有小新的屁屁耶</span></p>
+      <p
+        begin="01:34:22.670"
+        end="01:34:23.880"><span region="Default">不会很脏吗？</span></p>
+      <p
+        begin="01:34:23.880"
+        end="01:34:26.080"><span region="Default">就算脏又怎么样？</span></p>
+      <p
+        begin="01:34:26.080"
+        end="01:34:28.500"><span region="Default">以后你就不再是御饭团了</span></p>
+      <p
+        begin="01:34:28.500"
+        end="01:34:31.540"><span region="Default">而是最强的酱烤饭团耶</span></p>
+      <p
+        begin="01:34:31.540"
+        end="01:34:33.080"><span region="Default">说得也是</span></p>
+      <p
+        begin="01:34:38.740"
+        end="01:34:40.250"><span region="Default">奇怪，这是什么啊？</span></p>
+      <p
+        begin="01:34:40.250"
+        end="01:34:41.290"><span region="Default">应该是馕吧？</span></p>
+      <p
+        begin="01:34:41.290"
+        end="01:34:42.710"><span region="Default">什么啊，是馕啊</span></p>
+      <p
+        begin="01:34:51.380"
+        end="01:34:52.460"><span region="Default">那是什么？</span></p>
+      <p
+        begin="01:34:52.460"
+        end="01:34:53.580"><span region="Default">是馕吗？</span></p>
+      <p
+        begin="01:34:53.580"
+        end="01:34:54.580"><span region="Default">米饭？</span></p>
+      <p
+        begin="01:34:57.880"
+        end="01:35:00.000"><span region="Default">你好，我是洽帕提</span></p>
+      <p
+        begin="01:35:04.130"
+        end="01:35:04.920"><span region="Default">大哥</span></p>
+      <p
+        begin="01:35:04.920"
+        end="01:35:06.920"><span region="Default">纸插到那个洽帕提上了</span></p>
+      <p
+        begin="01:35:06.920"
+        end="01:35:08.670"><span region="Default">是暴君洽帕提吗？</span></p>
+      <p
+        begin="01:35:09.240"
+        end="01:35:12.670"><span region="Default">洽帕提是用全麦面粉加水搓揉的面团</span></p>
+      <p
+        begin="01:35:12.670"
+        end="01:35:15.580"><span region="Default">不经发酵就擀成圆型薄饼烤制而成</span></p>
+      <p
+        begin="01:35:15.580"
+        end="01:35:16.710"><span region="Default">请牢记在心</span></p>
+      <p
+        begin="01:35:17.440"
+        end="01:35:20.040"><span region="Default">它在世上一点也不有名啊</span></p>
+      <p
+        begin="01:35:20.040"
+        end="01:35:22.710"><span region="Default">知名度完全输给了馕还有米饭</span></p>
+      <p
+        begin="01:35:22.710"
+        end="01:35:24.460"><span region="Default">现在洽帕提想要变有名的欲望</span></p>
+      <p
+        begin="01:35:24.460"
+        end="01:35:26.170"><span region="Default">让它开始失控了</span></p>
+      <p
+        begin="01:35:26.170"
+        end="01:35:27.080"><span region="Default">（即时新闻）</span></p>
+      <p
+        begin="01:35:27.080"
+        end="01:35:29.130"><span region="Default">这是灾难现场最新画面</span></p>
+      <p
+        begin="01:35:29.130"
+        end="01:35:31.210"><span region="Default">- 看不出来这是什么耶？<br/>- 绝对不是用电脑动画做的</span></p>
+      <p
+        begin="01:35:31.210"
+        end="01:35:33.630"><span region="Default">- 完蛋了<br/>- 这是一个巨大的馕吗？</span></p>
+      <p
+        begin="01:35:33.630"
+        end="01:35:36.380"><span region="Default">- 这下事情严重了<br/>- 不对，据说应该是洽帕提才对</span></p>
+      <p
+        begin="01:35:36.380"
+        end="01:35:37.920"><span region="Default">快逃啊</span></p>
+      <p
+        begin="01:35:37.920"
+        end="01:35:41.460"><span region="Default">现在世界上完全没有知名度的洽帕提</span></p>
+      <p
+        begin="01:35:41.460"
+        end="01:35:43.000"><span region="Default">发现强者了</span></p>
+      <p
+        begin="01:35:43.000"
+        end="01:35:45.040"><span region="Default">当我独一无二的搭档吧</span></p>
+      <p
+        begin="01:35:49.170"
+        end="01:35:51.290"><span region="Default">洽帕提是印度的家常料理</span></p>
+      <p
+        begin="01:35:51.290"
+        end="01:35:52.580"><span region="Default">适合各种咖哩</span></p>
+      <p
+        begin="01:35:52.580"
+        end="01:35:54.540"><span region="Default">是一种相当美味的食物</span></p>
+      <p
+        begin="01:35:54.540"
+        end="01:35:56.460"><span region="Default">只需要准备材料跟一点火</span></p>
+      <p
+        begin="01:35:56.460"
+        end="01:35:58.880"><span region="Default">随时随地都可以烤出好吃的洽帕提</span></p>
+      <p
+        begin="01:35:58.880"
+        end="01:35:59.880"><span region="Default">做法很简单</span></p>
+      <p
+        begin="01:35:59.880"
+        end="01:36:01.210"><span region="Default">Q弹有劲的洽帕提</span></p>
+      <p
+        begin="01:36:01.210"
+        end="01:36:02.750"><span region="Default">（洽帕提）<br/>超级食物洽帕提</span></p>
+      <p
+        begin="01:36:02.750"
+        end="01:36:05.380"><span region="Default">让人忍不住想品尝的美妙名字洽帕提</span></p>
+      <p
+        begin="01:36:05.380"
+        end="01:36:07.040"><span region="Default">让大家开心的洽帕提</span></p>
+      <p
+        begin="01:36:07.040"
+        end="01:36:09.420"><span region="Default">- 这是什么啊？<br/>- C- H- A- P- A- T- I</span></p>
+      <p
+        begin="01:36:09.420"
+        end="01:36:11.880"><span region="Default">要从洽帕提上把纸拔掉才行</span></p>
+      <p
+        begin="01:36:11.880"
+        end="01:36:13.750"><span region="Default">可是在那么高的地方</span></p>
+      <p
+        begin="01:36:15.380"
+        end="01:36:17.710"><span region="Default">好，上吧</span></p>
+      <p
+        begin="01:36:19.000"
+        end="01:36:19.790"><span region="Default">跳不到</span></p>
+      <p
+        begin="01:36:19.790"
+        end="01:36:21.960"><span region="Default">你怎么有自信会成功啊？</span></p>
+      <p
+        begin="01:36:21.960"
+        end="01:36:24.000"><span region="Default">孩子们，快点退后</span></p>
+      <p
+        begin="01:36:25.210"
+        end="01:36:28.130"><span region="Default">我们会联手把它拉下来，把纸拔掉</span></p>
+      <p
+        begin="01:36:28.580"
+        end="01:36:30.580"><span region="Default">一口气把它解决吧</span></p>
+      <p
+        begin="01:36:30.830"
+        end="01:36:32.290"><span region="Default">印度力量…</span></p>
+      <p
+        begin="01:36:40.500"
+        end="01:36:41.630"><span region="Default">他们抓到了</span></p>
+      <p
+        begin="01:36:42.300"
+        end="01:36:43.080"><span region="Default">糟糕</span></p>
+      <p
+        begin="01:36:43.580"
+        end="01:36:45.500"><span region="Default">可恶的家伙</span></p>
+      <p
+        begin="01:36:45.500"
+        end="01:36:47.330"><span region="Default">到底为什么啊？</span></p>
+      <p
+        begin="01:36:47.330"
+        end="01:36:50.000"><span region="Default">我可是最完美的男人乌尔夫耶</span></p>
+      <p
+        begin="01:36:50.000"
+        end="01:36:52.580"><span region="Default">印度最赞最强的好男人</span></p>
+      <p
+        begin="01:36:52.580"
+        end="01:36:53.750"><span region="Default">他一个人没办法的</span></p>
+      <p
+        begin="01:36:53.750"
+        end="01:36:54.670"><span region="Default">老公</span></p>
+      <p
+        begin="01:37:07.920"
+        end="01:37:10.250"><span region="Default">糟了，还有一只手</span></p>
+      <p
+        begin="01:37:14.040"
+        end="01:37:15.630"><span region="Default">很抱歉，我们来迟了</span></p>
+      <p
+        begin="01:37:15.630"
+        end="01:37:17.630"><span region="Default">园长，你来了…</span></p>
+      <p
+        begin="01:37:17.630"
+        end="01:37:19.130"><span region="Default">伍亨．阿罕</span></p>
+      <p
+        begin="01:37:19.130"
+        end="01:37:20.460"><span region="Default">文太．高仓</span></p>
+      <p
+        begin="01:37:25.210"
+        end="01:37:27.880"><span region="Default">那两个人形象是不是变了？</span></p>
+      <p
+        begin="01:37:27.880"
+        end="01:37:30.210"><span region="Default">看来是经历了严酷的旅程</span></p>
+      <p
+        begin="01:37:31.830"
+        end="01:37:34.130"><span region="Default">已经成功把洽帕提抓住了</span></p>
+      <p
+        begin="01:37:34.130"
+        end="01:37:36.420"><span region="Default">可是接下来要怎么办啊？</span></p>
+      <p
+        begin="01:37:36.420"
+        end="01:37:37.330"><span region="Default">就是现在</span></p>
+      <p
+        begin="01:37:37.330"
+        end="01:37:38.380"><span region="Default">上啊</span></p>
+      <p
+        begin="01:37:42.160"
+        end="01:37:44.000"><span region="Default">不可以，太危险了</span></p>
+      <p
+        begin="01:37:44.000"
+        end="01:37:44.790"><span region="Default">不要</span></p>
+      <p
+        begin="01:37:44.790"
+        end="01:37:45.540"><span region="Default">不要</span></p>
+      <p
+        begin="01:37:45.540"
+        end="01:37:46.920"><span region="Default">只要我们在一起</span></p>
+      <p
+        begin="01:37:46.920"
+        end="01:37:48.290"><span region="Default">就能去任何地方</span></p>
+      <p
+        begin="01:37:48.290"
+        end="01:37:49.960"><span region="Default">你们打算把纸拔掉吗？</span></p>
+      <p
+        begin="01:37:49.960"
+        end="01:37:52.670"><span region="Default">没错，因为这里是我们的世界</span></p>
+      <p
+        begin="01:37:52.670"
+        end="01:37:55.670"><span region="Default">就算觉得害怕或是想哭</span></p>
+      <p
+        begin="01:37:55.670"
+        end="01:37:57.880"><span region="Default">不要担心，笑一个</span></p>
+      <p
+        begin="01:37:57.880"
+        end="01:37:59.540"><span region="Default">你不是孤单一个人</span></p>
+      <p
+        begin="01:38:05.580"
+        end="01:38:08.000"><span region="Default">一起把洽帕提的纸拔掉</span></p>
+      <p
+        begin="01:38:08.000"
+        end="01:38:09.790"><span region="Default">让世界更有趣</span></p>
+      <p
+        begin="01:38:10.330"
+        end="01:38:11.750"><span region="Default">纸在那个地方</span></p>
+      <p
+        begin="01:38:11.750"
+        end="01:38:14.000"><span region="Default">走吧，春日部防卫队</span></p>
+      <p
+        begin="01:38:14.000"
+        end="01:38:15.290"><span region="Default">那摩斯戴</span></p>
+      <p
+        begin="01:38:15.290"
+        end="01:38:16.750"><span region="Default">FIRE…</span></p>
+      <p
+        begin="01:38:24.580"
+        end="01:38:26.290"><span region="Default">不行，拔不出来</span></p>
+      <p
+        begin="01:38:26.290"
+        end="01:38:28.210"><span region="Default">大家一起用力拉</span></p>
+      <p
+        begin="01:38:29.200"
+        end="01:38:30.420"><span region="Default">没问题…</span></p>
+      <p
+        begin="01:38:30.750"
+        end="01:38:32.210"><span region="Default">预备…</span></p>
+      <p
+        begin="01:38:51.760"
+        end="01:38:54.380"><span region="Default">拔出来了…</span></p>
+      <p
+        begin="01:39:07.630"
+        end="01:39:09.580"><span region="Default">我要开动了…</span></p>
+      <p
+        begin="01:39:10.500"
+        end="01:39:11.380"><span region="Default">看起来好好吃</span></p>
+      <p
+        begin="01:39:11.380"
+        end="01:39:12.790"><span region="Default">- 还有很多　- 要配哪个咖哩好呢？</span></p>
+      <p
+        begin="01:39:12.790"
+        end="01:39:14.790"><span region="Default">- 我要来吃洽帕提<br/>- 所以你们大家要尽量吃喔</span></p>
+      <p
+        begin="01:39:14.790"
+        end="01:39:15.670"><span region="Default">这不会辣</span></p>
+      <p
+        begin="01:39:15.670"
+        end="01:39:17.460"><span region="Default">- 洽帕提好好吃　- 真的吗？是哪个？</span></p>
+      <p
+        begin="01:39:19.380"
+        end="01:39:20.790"><span region="Default">真好吃</span></p>
+      <p
+        begin="01:39:20.790"
+        end="01:39:21.830"><span region="Default">艾莉安娜</span></p>
+      <p
+        begin="01:39:21.830"
+        end="01:39:23.630"><span region="Default">你喜欢扭屁屁美少女吗？</span></p>
+      <p
+        begin="01:39:23.630"
+        end="01:39:24.500"><span region="Default">很喜欢</span></p>
+      <p
+        begin="01:39:24.500"
+        end="01:39:27.040"><span region="Default">我喜欢姜黄天使</span></p>
+      <p
+        begin="01:39:27.040"
+        end="01:39:28.710"><span region="Default">她又帅又可爱对吧？</span></p>
+      <p
+        begin="01:39:28.710"
+        end="01:39:31.500"><span region="Default">妮妮喜欢的是鸟胺酸天使</span></p>
+      <p
+        begin="01:39:31.500"
+        end="01:39:32.710"><span region="Default">那艾莉安娜呢？</span></p>
+      <p
+        begin="01:39:32.710"
+        end="01:39:33.790"><span region="Default">你喜欢哪一个？</span></p>
+      <p
+        begin="01:39:34.790"
+        end="01:39:36.000"><span region="Default">好问题</span></p>
+      <p
+        begin="01:39:36.000"
+        end="01:39:37.790"><span region="Default">我等你问我这个很久了</span></p>
+      <p
+        begin="01:39:37.790"
+        end="01:39:39.670"><span region="Default">我最喜欢的天使是…</span></p>
+      <p
+        begin="01:39:40.330"
+        end="01:39:43.040"><span region="Default">每个人都有好多的搭档</span></p>
+      <p
+        begin="01:39:43.670"
+        end="01:39:47.130"><span region="Default">但是我跟人类、动物</span></p>
+      <p
+        begin="01:39:47.130"
+        end="01:39:49.040"><span region="Default">或洽帕提都合不来</span></p>
+      <p
+        begin="01:39:49.500"
+        end="01:39:51.580"><span region="Default">为什么我找不到搭档呢？</span></p>
+      <p
+        begin="01:39:51.580"
+        end="01:39:53.920"><span region="Default">我觉得搭档或是朋友</span></p>
+      <p
+        begin="01:39:53.920"
+        end="01:39:56.630"><span region="Default">不是说想找就可以马上找到的</span></p>
+      <p
+        begin="01:39:58.130"
+        end="01:40:00.250"><span region="Default">一个人也没有什么不好</span></p>
+      <p
+        begin="01:40:00.250"
+        end="01:40:01.710"><span region="Default">不用跟别人比较</span></p>
+      <p
+        begin="01:40:01.710"
+        end="01:40:03.330"><span region="Default">对别人友善一点</span></p>
+      <p
+        begin="01:40:03.330"
+        end="01:40:04.670"><span region="Default">傻傻的过生活</span></p>
+      <p
+        begin="01:40:04.670"
+        end="01:40:07.040"><span region="Default">做自己喜欢、开心的事情吧</span></p>
+      <p
+        begin="01:40:07.040"
+        end="01:40:08.670"><span region="Default">把自己当朋友</span></p>
+      <p
+        begin="01:40:08.670"
+        end="01:40:10.920"><span region="Default">让自己打从心底露出笑容</span></p>
+      <p
+        begin="01:40:10.920"
+        end="01:40:11.830"><span region="Default">总有一天</span></p>
+      <p
+        begin="01:40:11.830"
+        end="01:40:15.080"><span region="Default">你身边自然而然会出现很棒的搭档</span></p>
+      <p
+        begin="01:40:15.080"
+        end="01:40:17.000"><span region="Default">不管是大人还是小孩</span></p>
+      <p
+        begin="01:40:17.000"
+        end="01:40:20.380"><span region="Default">你一定能跨越各种差异找到，对不对？</span></p>
+      <p
+        begin="01:40:22.080"
+        end="01:40:24.420"><span region="Default">- 给你吃　- 来，大家一起吃洽帕提吧</span></p>
+      <p
+        begin="01:40:24.420"
+        end="01:40:26.580"><span region="Default">可是我比较想要吃馕耶</span></p>
+      <p
+        begin="01:40:26.580"
+        end="01:40:28.580"><span region="Default">- 谢谢　- 真是“馕”熬的一天啊</span></p>
+      <p
+        begin="01:40:28.830"
+        end="01:40:30.420"><span region="Default">幸好没有人受伤</span></p>
+      <p
+        begin="01:40:30.420"
+        end="01:40:32.460"><span region="Default">也成功阻止了洽帕提</span></p>
+      <p
+        begin="01:40:32.460"
+        end="01:40:33.710"><span region="Default">不愧是大哥</span></p>
+      <p
+        begin="01:40:33.710"
+        end="01:40:36.380"><span region="Default">这么一来，我们长年追查的纸也…</span></p>
+      <p
+        begin="01:40:36.920"
+        end="01:40:38.080"><span region="Default">纸跑去哪里了？</span></p>
+      <p
+        begin="01:40:41.750"
+        end="01:40:44.250"><span region="Default">有适合用的纸，真是太好了</span></p>
+      <p
+        begin="01:40:44.250"
+        end="01:40:47.250"><span region="Default">印度的厕所没有卫生纸</span></p>
+      <p
+        begin="01:40:47.250"
+        end="01:40:50.080"><span region="Default">就算有也不可以丢进马桶里</span></p>
+      <p
+        begin="01:40:50.080"
+        end="01:40:51.540"><span region="Default">难道你用那张纸…</span></p>
+      <p
+        begin="01:40:51.540"
+        end="01:40:52.460"><span region="Default">擦屁股？</span></p>
+      <p
+        begin="01:40:52.960"
+        end="01:40:53.960"><span region="Default">你们要吗？</span></p>
+      <p
+        begin="01:40:53.960"
+        end="01:40:55.130"><span region="Default">不…</span></p>
+      <p
+        begin="01:40:55.540"
+        end="01:40:56.250"><span region="Default">不要吗？</span></p>
+      <p
+        begin="01:40:56.710"
+        end="01:40:57.540"><span region="Default">那就…</span></p>
+      <p
+        begin="01:40:58.050"
+        end="01:41:00.290"><span region="Default">不…</span></p>
+      <p
+        begin="01:41:00.290"
+        end="01:41:03.080"><span region="Default">大哥，纸就这样被烧掉了</span></p>
+      <p
+        begin="01:41:06.920"
+        end="01:41:09.250"><span region="Default">算了，这样的话也没办法了</span></p>
+      <p
+        begin="01:41:10.830"
+        end="01:41:12.880"><span region="Default">叔叔，你要吃洽帕提吗？</span></p>
+      <p
+        begin="01:41:13.210"
+        end="01:41:15.670"><span region="Default">我不叫叔叔，新之助</span></p>
+      <p
+        begin="01:41:15.670"
+        end="01:41:17.130"><span region="Default">我的名字是</span></p>
+      <p
+        begin="01:41:17.130"
+        end="01:41:19.380"><span region="Default">卡比尔．卡查帕帕尔．帕卡帕帕尔．</span></p>
+      <p
+        begin="01:41:19.380"
+        end="01:41:21.330"><span region="Default">卡查帕帕尔．帕卡帕帕尔</span></p>
+      <p
+        begin="01:41:21.500"
+        end="01:41:23.380"><span region="Default">大半夜起来泡泡面</span></p>
+      <p
+        begin="01:41:23.380"
+        end="01:41:26.000"><span region="Default">怕面泡烂烂，快速吃光光，赶紧收一收</span></p>
+      <p
+        begin="01:41:26.000"
+        end="01:41:28.170"><span region="Default">是卡比尔．卡查帕帕尔．帕卡帕帕尔．</span></p>
+      <p
+        begin="01:41:28.170"
+        end="01:41:29.880"><span region="Default">卡查帕帕尔．帕卡帕帕尔</span></p>
+      <p
+        begin="01:41:30.500"
+        end="01:41:32.210"><span region="Default">那你再说三次吧</span></p>
+      <p
+        begin="01:41:32.830"
+        end="01:41:40.670"><span region="Default">卡比尔．卡查帕帕尔．帕卡帕帕尔．<br/>卡查帕帕尔．帕卡帕帕尔…</span></p>
+      <p
+        begin="01:41:40.670"
+        end="01:41:41.670"><span region="Default">我说三次了</span></p>
+      <p
+        begin="01:41:41.670"
+        end="01:41:42.790"><span region="Default">新之助，换你</span></p>
+      <p
+        begin="01:41:43.450"
+        end="01:41:45.670"><span region="Default">我没有听清楚，你再说三次</span></p>
+    </div>
+  </body>
+</tt>
