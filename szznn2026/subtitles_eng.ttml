@@ -1,0 +1,3883 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="eng">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:00:34.333"
+        end="00:00:35.583"><span region="Default">Who is this?</span></p>
+      <p
+        begin="00:00:36.208"
+        end="00:00:37.916"><span region="Default">His name is Suroso.</span></p>
+      <p
+        begin="00:00:38.000"
+        end="00:00:39.625"><span region="Default">The Chief of Karang Setan Village.</span></p>
+      <p
+        begin="00:00:40.625"
+        end="00:00:42.791"><span region="Default">What do you want to do with him?</span></p>
+      <p
+        begin="00:00:43.541"
+        end="00:00:45.750"><span region="Default">I want him to die quickly.</span></p>
+      <p
+        begin="00:00:48.708"
+        end="00:00:50.750"><span region="Default">Why should he die?</span></p>
+      <p
+        begin="00:00:53.500"
+        end="00:00:55.166"><span region="Default">So I can replace him and become</span></p>
+      <p
+        begin="00:00:55.250"
+        end="00:00:57.916"><span region="Default">the Chief of Karang Setan.</span></p>
+      <p
+        begin="00:00:59.166"
+        end="00:01:01.416"><span region="Default">Are you ready to bear the sins?</span></p>
+      <p
+        begin="00:01:04.166"
+        end="00:01:05.666"><span region="Default">If I wasn't ready,</span></p>
+      <p
+        begin="00:01:05.750"
+        end="00:01:08.041"><span region="Default">I wouldn't have come here to meet you.</span></p>
+      <p
+        begin="00:01:28.083"
+        end="00:01:29.125"><span region="Default">Pardi.</span></p>
+      <p
+        begin="00:01:32.041"
+        end="00:01:33.958"><span region="Default">I took half to pay your debt.</span></p>
+      <p
+        begin="00:01:36.750"
+        end="00:01:37.625"><span region="Default">Daliman</span></p>
+      <p
+        begin="00:01:37.708"
+        end="00:01:40.125"><span region="Default">Why are you lining up, huh?</span></p>
+      <p
+        begin="00:01:40.208"
+        end="00:01:43.125"><span region="Default">Your wages are gone<br/>from paying your the debt!</span></p>
+      <p
+        begin="00:01:43.791"
+        end="00:01:46.625"><span region="Default">Please, Mr. Banteng.<br/>Please take half for now.</span></p>
+      <p
+        begin="00:01:47.208"
+        end="00:01:48.375"><span region="Default">I need the money.</span></p>
+      <p
+        begin="00:01:50.625"
+        end="00:01:51.833"><span region="Default">Thank you.</span></p>
+      <p
+        begin="00:02:05.708"
+        end="00:02:06.791"><span region="Default">Please don't.</span></p>
+      <p
+        begin="00:02:06.875"
+        end="00:02:09.000"><span region="Default">Let's teach him a lesson.</span></p>
+      <p
+        begin="00:02:09.833"
+        end="00:02:11.916"><span region="Default">-Soak him.<br/>-No!</span></p>
+      <p
+        begin="00:02:16.041"
+        end="00:02:18.541"><span region="Default">-Please.<br/>-Keep going.</span></p>
+      <p
+        begin="00:02:35.416"
+        end="00:02:37.416"><span region="Default">Don't lie to me.</span></p>
+      <p
+        begin="00:02:38.500"
+        end="00:02:40.291"><span region="Default">I swear.</span></p>
+      <p
+        begin="00:02:40.375"
+        end="00:02:43.458"><span region="Default">I have nothing left to pay my debt.</span></p>
+      <p
+        begin="00:02:48.208"
+        end="00:02:49.208"><span region="Default">Boss.</span></p>
+      <p
+        begin="00:02:49.291"
+        end="00:02:51.333"><span region="Default">I beg you, Boss.</span></p>
+      <p
+        begin="00:02:52.291"
+        end="00:02:55.375"><span region="Default">I shall accept Mr. Kawi's request.</span></p>
+      <p
+        begin="00:02:55.458"
+        end="00:03:00.041"><span region="Default">I'll let my daughter work here<br/>to pay my debt.</span></p>
+      <p
+        begin="00:03:00.125"
+        end="00:03:02.791"><span region="Default">DANGDUT NIGHT CLUB</span></p>
+      <p
+        begin="00:03:05.166"
+        end="00:03:06.500"><span region="Default">I know, right?</span></p>
+      <p
+        begin="00:03:06.583"
+        end="00:03:09.083"><span region="Default">I came here, and her you are.</span></p>
+      <p
+        begin="00:03:23.708"
+        end="00:03:25.041"><span region="Default">I'm Lawu.</span></p>
+      <p
+        begin="00:03:35.500"
+        end="00:03:37.375"><span region="Default">-Here.<br/>-Dad…</span></p>
+      <p
+        begin="00:03:38.166"
+        end="00:03:39.375"><span region="Default">It's okay.</span></p>
+      <p
+        begin="00:03:49.416"
+        end="00:03:51.166"><span region="Default">Sir, please don't.</span></p>
+      <p
+        begin="00:03:51.958"
+        end="00:03:53.625"><span region="Default">Please, don't.</span></p>
+      <p
+        begin="00:03:54.291"
+        end="00:03:56.916"><span region="Default">Help! Help me!</span></p>
+      <p
+        begin="00:03:58.041"
+        end="00:03:59.666"><span region="Default">Please help!</span></p>
+      <p
+        begin="00:03:59.750"
+        end="00:04:01.666"><span region="Default">-Sweetie?<br/>-Dad!</span></p>
+      <p
+        begin="00:04:01.750"
+        end="00:04:04.708"><span region="Default">-Sweetheart!<br/>-Help!</span></p>
+      <p
+        begin="00:04:04.791"
+        end="00:04:07.375"><span region="Default">-My daughter!<br/>-Help!</span></p>
+      <p
+        begin="00:04:07.458"
+        end="00:04:08.625"><span region="Default">-Sweetheart!<br/>-Dad!</span></p>
+      <p
+        begin="00:04:14.958"
+        end="00:04:18.500"><span region="Default">KARANG SETAN VILLAGE HEAD OFFICE</span></p>
+      <p
+        begin="00:04:28.208"
+        end="00:04:29.208"><span region="Default">It won't start?</span></p>
+      <p
+        begin="00:04:33.583"
+        end="00:04:35.166"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:04:35.250"
+        end="00:04:36.583"><span region="Default">May I help you?</span></p>
+      <p
+        begin="00:04:38.416"
+        end="00:04:39.708"><span region="Default">Sure.</span></p>
+      <p
+        begin="00:04:52.083"
+        end="00:04:53.458"><span region="Default">You rarely use it, do you?</span></p>
+      <p
+        begin="00:04:54.625"
+        end="00:04:55.916"><span region="Default">Very rarely.</span></p>
+      <p
+        begin="00:04:57.041"
+        end="00:04:59.375"><span region="Default">Usually my father drives it.</span></p>
+      <p
+        begin="00:05:05.291"
+        end="00:05:06.583"><span region="Default">Thank God.</span></p>
+      <p
+        begin="00:05:08.291"
+        end="00:05:10.291"><span region="Default">-Thank you, sir.<br/>-You're welcome.</span></p>
+      <p
+        begin="00:05:11.958"
+        end="00:05:13.375"><span region="Default">Sorry to trouble you.</span></p>
+      <p
+        begin="00:05:14.041"
+        end="00:05:15.166"><span region="Default">Not a problem.</span></p>
+      <p
+        begin="00:05:15.250"
+        end="00:05:17.291"><span region="Default">It would be a problem<br/>if I had to pry open the engine.</span></p>
+      <p
+        begin="00:05:20.333"
+        end="00:05:23.541"><span region="Default">Is the office open or closed,<br/>why is it so quiet?</span></p>
+      <p
+        begin="00:05:24.208"
+        end="00:05:25.583"><span region="Default">It's open.</span></p>
+      <p
+        begin="00:05:25.666"
+        end="00:05:27.583"><span region="Default">But the Chief isn't there.</span></p>
+      <p
+        begin="00:05:27.666"
+        end="00:05:29.458"><span region="Default">He passed away two weeks ago.</span></p>
+      <p
+        begin="00:05:29.541"
+        end="00:05:31.208"><span region="Default">May he rest in peace.</span></p>
+      <p
+        begin="00:05:31.958"
+        end="00:05:33.083"><span region="Default">Thank you.</span></p>
+      <p
+        begin="00:05:34.083"
+        end="00:05:35.375"><span region="Default">Peace be upon you.</span></p>
+      <p
+        begin="00:05:35.458"
+        end="00:05:37.083"><span region="Default">And upon you too.</span></p>
+      <p
+        begin="00:05:53.208"
+        end="00:05:56.208"><span region="Default">I want to find someone<br/>who used to live here.</span></p>
+      <p
+        begin="00:05:56.833"
+        end="00:06:00.083"><span region="Default">-Who is it?<br/>-His name is Kasman Wironegoro.</span></p>
+      <p
+        begin="00:06:00.166"
+        end="00:06:01.291"><span region="Default">Kasman?</span></p>
+      <p
+        begin="00:06:02.625"
+        end="00:06:04.041"><span region="Default">Gun, do you know him?</span></p>
+      <p
+        begin="00:06:04.125"
+        end="00:06:06.416"><span region="Default">He lived here quite a long time ago.<br/>I was still a little boy.</span></p>
+      <p
+        begin="00:06:06.500"
+        end="00:06:09.375"><span region="Default">Listen. We'll help you<br/>search for him in the district.</span></p>
+      <p
+        begin="00:06:09.458"
+        end="00:06:11.250"><span region="Default">Just come again later.</span></p>
+      <p
+        begin="00:06:11.750"
+        end="00:06:14.125"><span region="Default">Sorry. What's your name?</span></p>
+      <p
+        begin="00:06:14.208"
+        end="00:06:15.166"><span region="Default">I'm Pramuja.</span></p>
+      <p
+        begin="00:06:16.250"
+        end="00:06:17.375"><span region="Default">Oh, you can fill this form.</span></p>
+      <p
+        begin="00:06:27.166"
+        end="00:06:28.458"><span region="Default">Sorry to trouble you.</span></p>
+      <p
+        begin="00:06:29.125"
+        end="00:06:30.458"><span region="Default">Not a problem.</span></p>
+      <p
+        begin="00:06:30.541"
+        end="00:06:32.500"><span region="Default">It would be a problem<br/>if I had to pry open the engine.</span></p>
+      <p
+        begin="00:06:41.500"
+        end="00:06:44.125"><span region="Default">-Suzzanna?<br/>-Yes?</span></p>
+      <p
+        begin="00:06:46.375"
+        end="00:06:47.708"><span region="Default">-Yes?<br/>-Who is it from?</span></p>
+      <p
+        begin="00:06:49.625"
+        end="00:06:51.041"><span region="Default">From Bisman?</span></p>
+      <p
+        begin="00:06:51.875"
+        end="00:06:52.708"><span region="Default">Mom?</span></p>
+      <p
+        begin="00:06:53.291"
+        end="00:06:54.125"><span region="Default">Hey.</span></p>
+      <p
+        begin="00:06:55.000"
+        end="00:06:56.083"><span region="Default">Mom!</span></p>
+      <p
+        begin="00:06:57.250"
+        end="00:06:58.833"><span region="Default">Why did you accept it?</span></p>
+      <p
+        begin="00:07:00.541"
+        end="00:07:05.416"><span region="Default">It doesn't feel right<br/>if we keep refusing Bisman's gift.</span></p>
+      <p
+        begin="00:07:06.000"
+        end="00:07:08.083"><span region="Default">That's what he wants.</span></p>
+      <p
+        begin="00:07:08.791"
+        end="00:07:12.250"><span region="Default">He waits until we feel uncomfortable.<br/>After a while,</span></p>
+      <p
+        begin="00:07:12.333"
+        end="00:07:14.458"><span region="Default">we'll end up accepting his proposal.</span></p>
+      <p
+        begin="00:07:14.541"
+        end="00:07:19.375"><span region="Default">Don't you feel sorry for our daughter?<br/>She's becoming an old virgin.</span></p>
+      <p
+        begin="00:07:19.458"
+        end="00:07:23.458"><span region="Default">I also want Suzzanna<br/>to get a husband soon.</span></p>
+      <p
+        begin="00:07:23.541"
+        end="00:07:26.541"><span region="Default">But not with a man who already has a wife.</span></p>
+      <p
+        begin="00:07:26.625"
+        end="00:07:28.708"><span region="Default">Especially that man named Bisman.</span></p>
+      <p
+        begin="00:07:28.791"
+        end="00:07:30.083"><span region="Default">Gosh, honey.</span></p>
+      <p
+        begin="00:07:30.166"
+        end="00:07:33.541"><span region="Default">Suzzanna will not be miserable.</span></p>
+      <p
+        begin="00:07:33.625"
+        end="00:07:35.750"><span region="Default">Even if she becomes a second wife.</span></p>
+      <p
+        begin="00:07:35.833"
+        end="00:07:39.875"><span region="Default">Because Bisman's wealth<br/>will never run out.</span></p>
+      <p
+        begin="00:07:39.958"
+        end="00:07:42.375"><span region="Default">Oh, dear God.</span></p>
+      <p
+        begin="00:07:42.458"
+        end="00:07:44.958"><span region="Default">Do you know how he got that wealth?</span></p>
+      <p
+        begin="00:07:45.791"
+        end="00:07:47.458"><span region="Default">In what way?</span></p>
+      <p
+        begin="00:07:47.541"
+        end="00:07:50.708"><span region="Default">We don't need to worry about<br/>other people's lives.</span></p>
+      <p
+        begin="00:07:51.291"
+        end="00:07:54.958"><span region="Default">What's important is that we're nice,<br/>and our daughter is safe.</span></p>
+      <p
+        begin="00:07:55.458"
+        end="00:07:58.083"><span region="Default">Oh, so that's what you think?</span></p>
+      <p
+        begin="00:07:58.166"
+        end="00:08:02.541"><span region="Default">Sweetie, do you want to<br/>accept Bisman's proposal?</span></p>
+      <p
+        begin="00:08:05.541"
+        end="00:08:06.708"><span region="Default">No, Dad.</span></p>
+      <p
+        begin="00:08:06.791"
+        end="00:08:08.083"><span region="Default">Why not?</span></p>
+      <p
+        begin="00:08:08.958"
+        end="00:08:10.833"><span region="Default">Your mother said</span></p>
+      <p
+        begin="00:08:10.916"
+        end="00:08:13.916"><span region="Default">Bisman's wealth<br/>will never run out for generations.</span></p>
+      <p
+        begin="00:08:14.583"
+        end="00:08:17.500"><span region="Default">It's not that I don't want<br/>to get married soon, Mom.</span></p>
+      <p
+        begin="00:08:18.500"
+        end="00:08:20.750"><span region="Default">But I want to find a good husband.</span></p>
+      <p
+        begin="00:08:20.833"
+        end="00:08:22.833"><span region="Default">That's right.</span></p>
+      <p
+        begin="00:08:22.916"
+        end="00:08:27.375"><span region="Default">A good husband… When will you find one?</span></p>
+      <p
+        begin="00:08:27.458"
+        end="00:08:29.750"><span region="Default">We'll meet soon.</span></p>
+      <p
+        begin="00:08:31.083"
+        end="00:08:34.666"><span region="Default">I can feel it. My soulmate is near.</span></p>
+      <p
+        begin="00:08:35.541"
+        end="00:08:37.208"><span region="Default">Such a know-it-all.</span></p>
+      <p
+        begin="00:08:45.125"
+        end="00:08:46.458"><span region="Default">What is going on?</span></p>
+      <p
+        begin="00:08:47.041"
+        end="00:08:49.208"><span region="Default">The situation is getting worse, Teacher.</span></p>
+      <p
+        begin="00:08:51.583"
+        end="00:08:52.958"><span region="Default">Come in, come in.</span></p>
+      <p
+        begin="00:09:01.250"
+        end="00:09:02.208"><span region="Default">I'm sorry.</span></p>
+      <p
+        begin="00:09:02.708"
+        end="00:09:04.333"><span region="Default">I invited my friends here</span></p>
+      <p
+        begin="00:09:04.416"
+        end="00:09:07.625"><span region="Default">hoping that you can find a way out.</span></p>
+      <p
+        begin="00:09:11.666"
+        end="00:09:14.791"><span region="Default">You all know that I am a nobody.</span></p>
+      <p
+        begin="00:09:15.916"
+        end="00:09:17.583"><span region="Default">I'm just a teacher.</span></p>
+      <p
+        begin="00:09:17.666"
+        end="00:09:21.500"><span region="Default">But in my opinion,<br/>Mr. Satrio is more than just a teacher.</span></p>
+      <p
+        begin="00:09:23.000"
+        end="00:09:26.500"><span region="Default">Because only you have the courage<br/>to go against Bisman's men.</span></p>
+      <p
+        begin="00:09:27.583"
+        end="00:09:30.666"><span region="Default">If that time you did not appear,</span></p>
+      <p
+        begin="00:09:30.750"
+        end="00:09:32.458"><span region="Default">I would have been dead.</span></p>
+      <p
+        begin="00:09:37.375"
+        end="00:09:40.375"><span region="Default">Teacher. Do you have a death wish?</span></p>
+      <p
+        begin="00:09:40.458"
+        end="00:09:42.500"><span region="Default">You guys have a death wish</span></p>
+      <p
+        begin="00:09:42.583"
+        end="00:09:45.000"><span region="Default">if you still insist on disturbing<br/>the sellers here.</span></p>
+      <p
+        begin="00:09:45.666"
+        end="00:09:47.958"><span region="Default">You bastard.</span></p>
+      <p
+        begin="00:09:49.083"
+        end="00:09:50.083"><span region="Default">Look.</span></p>
+      <p
+        begin="00:09:51.208"
+        end="00:09:53.916"><span region="Default">Everyone, look.<br/>There are only four of them.</span></p>
+      <p
+        begin="00:09:54.958"
+        end="00:09:57.041"><span region="Default">There is no reason to be afraid.</span></p>
+      <p
+        begin="00:10:14.000"
+        end="00:10:17.750"><span region="Default">Anyone can do the same thing I did</span></p>
+      <p
+        begin="00:10:18.333"
+        end="00:10:21.458"><span region="Default">when faced with a situation like that.</span></p>
+      <p
+        begin="00:10:21.541"
+        end="00:10:24.000"><span region="Default">But most people just run away, sir.</span></p>
+      <p
+        begin="00:10:24.083"
+        end="00:10:25.666"><span region="Default">Mr. Satrio,</span></p>
+      <p
+        begin="00:10:25.750"
+        end="00:10:28.000"><span region="Default">now is not the time to be humble.</span></p>
+      <p
+        begin="00:10:28.083"
+        end="00:10:31.291"><span region="Default">The residents here<br/>want you to lead the resistance</span></p>
+      <p
+        begin="00:10:31.375"
+        end="00:10:33.625"><span region="Default">against Bisman.</span></p>
+      <p
+        begin="00:10:33.708"
+        end="00:10:35.166"><span region="Default">Not by violence,</span></p>
+      <p
+        begin="00:10:36.083"
+        end="00:10:39.625"><span region="Default">but in ways that do not break the law.</span></p>
+      <p
+        begin="00:10:39.708"
+        end="00:10:41.000"><span region="Default">What do you mean?</span></p>
+      <p
+        begin="00:10:41.083"
+        end="00:10:45.333"><span region="Default">You must run for office,<br/>in the village head elections next month,</span></p>
+      <p
+        begin="00:10:45.416"
+        end="00:10:47.958"><span region="Default">replacing the late Chief Suroso.</span></p>
+      <p
+        begin="00:10:48.875"
+        end="00:10:50.166"><span region="Default">Because if not,</span></p>
+      <p
+        begin="00:10:50.250"
+        end="00:10:53.250"><span region="Default">Bisman will become the sole candidate.</span></p>
+      <p
+        begin="00:10:54.208"
+        end="00:10:55.791"><span region="Default">And that's exactly what he wants.</span></p>
+      <p
+        begin="00:11:07.250"
+        end="00:11:11.083"><span region="Default">Listen, you can't act like a hero, Dad.</span></p>
+      <p
+        begin="00:11:11.666"
+        end="00:11:13.375"><span region="Default">I am not.</span></p>
+      <p
+        begin="00:11:14.375"
+        end="00:11:17.166"><span region="Default">These days, everyone<br/>should want to be a hero.</span></p>
+      <p
+        begin="00:11:20.083"
+        end="00:11:23.625"><span region="Default">The behavior of Bisman<br/>and his men is truly barbaric.</span></p>
+      <p
+        begin="00:11:23.708"
+        end="00:11:26.791"><span region="Default">And no one should let it happen.<br/>Including me.</span></p>
+      <p
+        begin="00:11:26.875"
+        end="00:11:30.750"><span region="Default">But people expect you to step<br/>forward to lead the resistance.</span></p>
+      <p
+        begin="00:11:31.791"
+        end="00:11:33.291"><span region="Default">I'm thinking about it.</span></p>
+      <p
+        begin="00:11:34.791"
+        end="00:11:37.750"><span region="Default">Dad, just mind your own business.</span></p>
+      <p
+        begin="00:11:38.875"
+        end="00:11:41.958"><span region="Default">If needed, we should just move<br/>to another village.</span></p>
+      <p
+        begin="00:11:42.041"
+        end="00:11:43.333"><span region="Default">Sweetheart.</span></p>
+      <p
+        begin="00:11:43.916"
+        end="00:11:47.958"><span region="Default">We must fight injustice.</span></p>
+      <p
+        begin="00:11:48.041"
+        end="00:11:53.375"><span region="Default">Imagine, what if it happened to our<br/>family? Aren't you going to ask for help?</span></p>
+      <p
+        begin="00:11:53.958"
+        end="00:11:56.541"><span region="Default">Does it have to be you<br/>who steps forward to lead?</span></p>
+      <p
+        begin="00:11:56.625"
+        end="00:11:59.541"><span region="Default">Whoever becomes the leader,</span></p>
+      <p
+        begin="00:11:59.625"
+        end="00:12:05.583"><span region="Default">everyone must be ready to accept the fact<br/>that every change will demand sacrifice.</span></p>
+      <p
+        begin="00:12:06.375"
+        end="00:12:07.416"><span region="Default">Do you understand?</span></p>
+      <p
+        begin="00:12:09.000"
+        end="00:12:10.833"><span region="Default">You're right.</span></p>
+      <p
+        begin="00:12:10.916"
+        end="00:12:14.750"><span region="Default">But don't hurt your own family.</span></p>
+      <p
+        begin="00:12:14.833"
+        end="00:12:15.958"><span region="Default">I will never.</span></p>
+      <p
+        begin="00:12:16.625"
+        end="00:12:19.250"><span region="Default">Not directly.</span></p>
+      <p
+        begin="00:12:19.875"
+        end="00:12:22.625"><span region="Default">But because of your actions,<br/>Bisman might get angry.</span></p>
+      <p
+        begin="00:12:22.708"
+        end="00:12:26.250"><span region="Default">He'll make our family miserable.<br/>What is the difference?</span></p>
+      <p
+        begin="00:12:26.333"
+        end="00:12:27.500"><span region="Default">Whatever.</span></p>
+      <p
+        begin="00:12:33.666"
+        end="00:12:38.000"><span region="Default">Are you sure Satrio dares<br/>to lead people against me?</span></p>
+      <p
+        begin="00:12:38.083"
+        end="00:12:42.625"><span region="Default">From what I heard, their conversation<br/>was heading in that direction, Boss.</span></p>
+      <p
+        begin="00:12:42.708"
+        end="00:12:45.375"><span region="Default">What's so great about him?<br/>Is he really a hero?</span></p>
+      <p
+        begin="00:12:45.458"
+        end="00:12:47.541"><span region="Default">Maybe because<br/>he had the guts to fight back.</span></p>
+      <p
+        begin="00:12:48.291"
+        end="00:12:49.291"><span region="Default">Against who?</span></p>
+      <p
+        begin="00:12:49.375"
+        end="00:12:52.416"><span region="Default">-Me and the guys.<br/>-He defeated you guys?</span></p>
+      <p
+        begin="00:12:53.083"
+        end="00:12:56.458"><span region="Default">That time it didn't turn into a fight,<br/>but he has the influence.</span></p>
+      <p
+        begin="00:12:56.541"
+        end="00:12:58.958"><span region="Default">Making people angry and willing to fight.</span></p>
+      <p
+        begin="00:12:59.041"
+        end="00:13:01.666"><span region="Default">That bastard is the source of the problem.</span></p>
+      <p
+        begin="00:13:01.750"
+        end="00:13:03.541"><span region="Default">Of all the villagers of Karang Setan,</span></p>
+      <p
+        begin="00:13:03.625"
+        end="00:13:06.333"><span region="Default">he's the only one<br/>who didn't want to sell his land to us.</span></p>
+      <p
+        begin="00:13:06.416"
+        end="00:13:08.458"><span region="Default">There's one more thing, Boss.</span></p>
+      <p
+        begin="00:13:08.541"
+        end="00:13:11.708"><span region="Default">something Satrio is planning</span></p>
+      <p
+        begin="00:13:11.791"
+        end="00:13:14.041"><span region="Default">that I believe is extremely dangerous.</span></p>
+      <p
+        begin="00:13:14.125"
+        end="00:13:17.833"><span region="Default">Preventing Bisman<br/>from becoming chief is necessary.</span></p>
+      <p
+        begin="00:13:17.916"
+        end="00:13:22.041"><span region="Default">But if he has already committed acts<br/>of oppression against you</span></p>
+      <p
+        begin="00:13:22.583"
+        end="00:13:26.625"><span region="Default">and ordered his men<br/>to carry out violence against you,</span></p>
+      <p
+        begin="00:13:26.708"
+        end="00:13:31.083"><span region="Default">why is it that until now no one<br/>has ever reported this to the police?</span></p>
+      <p
+        begin="00:13:31.166"
+        end="00:13:34.166"><span region="Default">We've done that before.</span></p>
+      <p
+        begin="00:13:34.250"
+        end="00:13:36.208"><span region="Default">But it was ignored.</span></p>
+      <p
+        begin="00:13:36.291"
+        end="00:13:40.000"><span region="Default">Could it be because the ones who came<br/>were small people like me?</span></p>
+      <p
+        begin="00:13:40.083"
+        end="00:13:43.791"><span region="Default">If that's the case,<br/>then we should ask you for help as well.</span></p>
+      <p
+        begin="00:13:44.541"
+        end="00:13:46.875"><span region="Default">Please go to the city<br/>and file a report with the police.</span></p>
+      <p
+        begin="00:13:48.000"
+        end="00:13:48.833"><span region="Default">He's confident</span></p>
+      <p
+        begin="00:13:49.583"
+        end="00:13:53.291"><span region="Default">that the police will<br/>shut this place down permanently.</span></p>
+      <p
+        begin="00:14:42.250"
+        end="00:14:44.125"><span region="Default">A night of terror.</span></p>
+      <p
+        begin="00:14:45.041"
+        end="00:14:47.000"><span region="Default">Curses come from all directions.</span></p>
+      <p
+        begin="00:14:47.083"
+        end="00:14:51.000"><span region="Default">Tormented souls, full of suspicion.</span></p>
+      <p
+        begin="00:14:51.083"
+        end="00:14:55.416"><span region="Default">A body consumed by dark forest spirits.</span></p>
+      <p
+        begin="00:14:55.500"
+        end="00:14:59.291"><span region="Default">Come from the north,<br/>south, west, and east.</span></p>
+      <p
+        begin="00:14:59.375"
+        end="00:15:04.291"><span region="Default">Come to me on this darkest night.</span></p>
+      <p
+        begin="00:15:04.375"
+        end="00:15:08.125"><span region="Default">I am your servant, I am your offering.</span></p>
+      <p
+        begin="00:15:08.666"
+        end="00:15:12.375"><span region="Default">I give you my blood and my life.</span></p>
+      <p
+        begin="00:15:19.500"
+        end="00:15:20.666"><span region="Default">Drink.</span></p>
+      <p
+        begin="00:15:44.041"
+        end="00:15:47.666"><span region="Default">I planted it<br/>at the back door of his house.</span></p>
+      <p
+        begin="00:15:49.625"
+        end="00:15:51.125"><span region="Default">It is called</span></p>
+      <p
+        begin="00:15:51.875"
+        end="00:15:54.625"><span region="Default">the death-strike curse.</span></p>
+      <p
+        begin="00:16:13.541"
+        end="00:16:15.583"><span region="Default">Mom, what's wrong?</span></p>
+      <p
+        begin="00:16:18.958"
+        end="00:16:21.250"><span region="Default">Mom, Kitty is dead!</span></p>
+      <p
+        begin="00:16:22.958"
+        end="00:16:24.125"><span region="Default">Kitty?</span></p>
+      <p
+        begin="00:16:24.208"
+        end="00:16:27.250"><span region="Default">Hot! Hot! Oh, it's hot!</span></p>
+      <p
+        begin="00:16:29.041"
+        end="00:16:30.708"><span region="Default">Hot!</span></p>
+      <p
+        begin="00:16:30.791"
+        end="00:16:33.833"><span region="Default">-It's hot!<br/>-What's wrong?</span></p>
+      <p
+        begin="00:16:33.916"
+        end="00:16:35.458"><span region="Default">Hot!</span></p>
+      <p
+        begin="00:16:35.541"
+        end="00:16:37.583"><span region="Default">What happened to you?</span></p>
+      <p
+        begin="00:16:37.666"
+        end="00:16:39.208"><span region="Default">Ouch, it's hot, ouch!</span></p>
+      <p
+        begin="00:16:39.291"
+        end="00:16:41.500"><span region="Default">Hot, hot!</span></p>
+      <p
+        begin="00:16:41.583"
+        end="00:16:44.166"><span region="Default">-It's hot!<br/>-What is happening?</span></p>
+      <p
+        begin="00:16:44.250"
+        end="00:16:45.875"><span region="Default">Hot, hot!</span></p>
+      <p
+        begin="00:16:45.958"
+        end="00:16:47.750"><span region="Default">Honey, what's wrong?</span></p>
+      <p
+        begin="00:16:48.958"
+        end="00:16:50.166"><span region="Default">Dad?</span></p>
+      <p
+        begin="00:16:50.250"
+        end="00:16:53.208"><span region="Default">Hot, it hurts, hot!</span></p>
+      <p
+        begin="00:16:53.291"
+        end="00:16:54.625"><span region="Default">-It hurts.<br/>-Dad!</span></p>
+      <p
+        begin="00:16:54.708"
+        end="00:16:58.333"><span region="Default">Stay away, dear, this must be witchcraft.</span></p>
+      <p
+        begin="00:16:58.416"
+        end="00:17:01.416"><span region="Default">-Witchcraft?<br/>-Hot! It's hot.</span></p>
+      <p
+        begin="00:17:01.500"
+        end="00:17:02.791"><span region="Default">Wait…</span></p>
+      <p
+        begin="00:17:03.541"
+        end="00:17:05.500"><span region="Default">-What is this?<br/>-Father!</span></p>
+      <p
+        begin="00:17:10.250"
+        end="00:17:12.375"><span region="Default">Ouch, it hurts!</span></p>
+      <p
+        begin="00:17:12.458"
+        end="00:17:15.041"><span region="Default">It hurts, what's happening to me?</span></p>
+      <p
+        begin="00:17:15.125"
+        end="00:17:16.333"><span region="Default">-Dad…<br/>-Help me!</span></p>
+      <p
+        begin="00:17:16.416"
+        end="00:17:18.958"><span region="Default">Ouch, it hurts!</span></p>
+      <p
+        begin="00:17:21.916"
+        end="00:17:23.166"><span region="Default">Ouch, ouch!</span></p>
+      <p
+        begin="00:17:26.125"
+        end="00:17:27.125"><span region="Default">Ouch, ouch!</span></p>
+      <p
+        begin="00:17:28.250"
+        end="00:17:30.416"><span region="Default">-Ouch!<br/>-Dad!</span></p>
+      <p
+        begin="00:17:34.583"
+        end="00:17:37.583"><span region="Default">-Dad!<br/>-Honey!</span></p>
+      <p
+        begin="00:17:37.666"
+        end="00:17:39.625"><span region="Default">-Honey!<br/>-Dad!</span></p>
+      <p
+        begin="00:17:39.708"
+        end="00:17:40.875"><span region="Default">-Honey?<br/>-Dad?</span></p>
+      <p
+        begin="00:17:40.958"
+        end="00:17:42.708"><span region="Default">-Honey?<br/>-Dad?</span></p>
+      <p
+        begin="00:17:43.708"
+        end="00:17:46.625"><span region="Default">-Dad!<br/>-Honey…</span></p>
+      <p
+        begin="00:17:48.000"
+        end="00:17:50.500"><span region="Default">Honey…</span></p>
+      <p
+        begin="00:17:52.000"
+        end="00:17:55.000"><span region="Default">Long live Chief Bisman!</span></p>
+      <p
+        begin="00:17:55.083"
+        end="00:17:57.291"><span region="Default">Long live!</span></p>
+      <p
+        begin="00:18:04.333"
+        end="00:18:06.083"><span region="Default">DANGDUT NIGHT CLUB</span></p>
+      <p
+        begin="00:18:25.125"
+        end="00:18:27.041"><span region="Default">Boss, wait! Calm down.</span></p>
+      <p
+        begin="00:18:34.208"
+        end="00:18:35.125"><span region="Default">Boss.</span></p>
+      <p
+        begin="00:18:39.375"
+        end="00:18:40.208"><span region="Default">Here you go, Boss.</span></p>
+      <p
+        begin="00:18:41.041"
+        end="00:18:45.625"><span region="Default">I had to look for it in your room.<br/>I couldn't find it at the front desk.</span></p>
+      <p
+        begin="00:18:45.708"
+        end="00:18:47.791"><span region="Default">Why didn't you ask my wife?</span></p>
+      <p
+        begin="00:18:48.375"
+        end="00:18:49.791"><span region="Default">Mrs. Suroh is not here.</span></p>
+      <p
+        begin="00:18:51.625"
+        end="00:18:56.500"><span region="Default">The maid said, she just left<br/>for the prayers at Suzzanna's house.</span></p>
+      <p
+        begin="00:18:57.083"
+        end="00:18:58.000"><span region="Default">What?</span></p>
+      <p
+        begin="00:18:58.791"
+        end="00:19:01.291"><span region="Default">Go after her. Stop her.</span></p>
+      <p
+        begin="00:19:01.375"
+        end="00:19:04.166"><span region="Default">-Don't let her meet Suzzanna.<br/>-Yes.</span></p>
+      <p
+        begin="00:19:04.250"
+        end="00:19:07.250"><span region="Default">She's going to babble<br/>all sorts of things about Satrio's death.</span></p>
+      <p
+        begin="00:19:07.833"
+        end="00:19:08.666"><span region="Default">Yes, Boss.</span></p>
+      <p
+        begin="00:19:08.750"
+        end="00:19:09.708"><span region="Default">Don't go alone.</span></p>
+      <p
+        begin="00:19:09.791"
+        end="00:19:11.791"><span region="Default">It must be crowded there.</span></p>
+      <p
+        begin="00:19:11.875"
+        end="00:19:15.625"><span region="Default">If you meet people who don't like us,<br/>it'll be a hassle.</span></p>
+      <p
+        begin="00:19:15.708"
+        end="00:19:18.250"><span region="Default">-Take Banteng and Lawu with you.<br/>-Yes, Boss.</span></p>
+      <p
+        begin="00:19:21.250"
+        end="00:19:22.083"><span region="Default">Where is your mother?</span></p>
+      <p
+        begin="00:19:22.916"
+        end="00:19:26.416"><span region="Default">She went to the mosque.<br/>Delivering food to the orphans.</span></p>
+      <p
+        begin="00:19:26.500"
+        end="00:19:30.416"><span region="Default">Alright then. I'll just speak with you.</span></p>
+      <p
+        begin="00:19:31.041"
+        end="00:19:32.625"><span region="Default">So that my heart can be at peace.</span></p>
+      <p
+        begin="00:19:32.708"
+        end="00:19:37.458"><span region="Default">Because even in the afterlife,<br/>I would feel haunted by guilt</span></p>
+      <p
+        begin="00:19:38.125"
+        end="00:19:42.750"><span region="Default">if I helped keep secret<br/>the injustice that you deserve to know.</span></p>
+      <p
+        begin="00:19:43.458"
+        end="00:19:44.791"><span region="Default">What injustice, Ma'am?</span></p>
+      <p
+        begin="00:19:44.875"
+        end="00:19:46.958"><span region="Default">The cause of your father's death.</span></p>
+      <p
+        begin="00:19:56.125"
+        end="00:20:00.041"><span region="Default">Back then,<br/>he sent a dark spell to Chief Suroso.</span></p>
+      <p
+        begin="00:20:00.125"
+        end="00:20:02.166"><span region="Default">Until he got sick and died.</span></p>
+      <p
+        begin="00:20:02.250"
+        end="00:20:04.708"><span region="Default">Oh, dear God.</span></p>
+      <p
+        begin="00:20:04.791"
+        end="00:20:06.000"><span region="Default">After that,</span></p>
+      <p
+        begin="00:20:06.666"
+        end="00:20:09.041"><span region="Default">the people held an election.</span></p>
+      <p
+        begin="00:20:09.125"
+        end="00:20:13.583"><span region="Default">And he had to go up against your father<br/>who was liked by many people.</span></p>
+      <p
+        begin="00:20:13.666"
+        end="00:20:19.125"><span region="Default">Your father's fate, my dear,<br/>was not much different from Suroso.</span></p>
+      <p
+        begin="00:20:20.083"
+        end="00:20:22.583"><span region="Default">Killed by witchcraft.</span></p>
+      <p
+        begin="00:20:24.541"
+        end="00:20:25.625"><span region="Default">Oh, God.</span></p>
+      <p
+        begin="00:20:36.583"
+        end="00:20:38.708"><span region="Default">-Mrs. Suroh.<br/>-What do you want?</span></p>
+      <p
+        begin="00:20:39.375"
+        end="00:20:41.958"><span region="Default">Sorry, ma'am, Boss is looking for you.</span></p>
+      <p
+        begin="00:20:42.625"
+        end="00:20:46.291"><span region="Default">Earlier, he told us<br/>to look for you and bring you home.</span></p>
+      <p
+        begin="00:20:46.375"
+        end="00:20:48.208"><span region="Default">Tell your boss, okay?</span></p>
+      <p
+        begin="00:20:48.791"
+        end="00:20:50.583"><span region="Default">I'm staying here.</span></p>
+      <p
+        begin="00:20:50.666"
+        end="00:20:54.875"><span region="Default">Well, if you want to stay here, please do.</span></p>
+      <p
+        begin="00:20:54.958"
+        end="00:20:58.416"><span region="Default">But we will also stay here<br/>and wait for you.</span></p>
+      <p
+        begin="00:20:58.500"
+        end="00:21:01.041"><span region="Default">No need! You should go!</span></p>
+      <p
+        begin="00:21:03.583"
+        end="00:21:04.583"><span region="Default">Banteng!</span></p>
+      <p
+        begin="00:21:05.375"
+        end="00:21:09.041"><span region="Default">No need to make it difficult.<br/>We're just carrying out orders.</span></p>
+      <p
+        begin="00:21:09.125"
+        end="00:21:10.166"><span region="Default">Let's go home.</span></p>
+      <p
+        begin="00:21:11.500"
+        end="00:21:12.791"><span region="Default">-Come!<br/>-What the heck?</span></p>
+      <p
+        begin="00:21:12.875"
+        end="00:21:15.083"><span region="Default">-Come home!<br/>-How dare you!</span></p>
+      <p
+        begin="00:21:18.125"
+        end="00:21:22.250"><span region="Default">You're so rude!<br/>How dare you touch someone else's wife?</span></p>
+      <p
+        begin="00:21:22.333"
+        end="00:21:24.416"><span region="Default">Why are you so angry?</span></p>
+      <p
+        begin="00:21:24.500"
+        end="00:21:26.916"><span region="Default">No wonder Boss wants to get married again.</span></p>
+      <p
+        begin="00:21:32.875"
+        end="00:21:34.166"><span region="Default">Banteng!</span></p>
+      <p
+        begin="00:21:36.041"
+        end="00:21:37.250"><span region="Default">How dare you!</span></p>
+      <p
+        begin="00:21:40.291"
+        end="00:21:42.500"><span region="Default">-Where do you think you're going?<br/>-Let me go!</span></p>
+      <p
+        begin="00:21:45.208"
+        end="00:21:46.458"><span region="Default">Idiot!</span></p>
+      <p
+        begin="00:21:48.166"
+        end="00:21:49.791"><span region="Default">Mrs. Suroh…</span></p>
+      <p
+        begin="00:21:58.416"
+        end="00:21:59.666"><span region="Default">You.</span></p>
+      <p
+        begin="00:21:59.750"
+        end="00:22:02.583"><span region="Default">If you ever tell our boss, you're dead!</span></p>
+      <p
+        begin="00:22:29.916"
+        end="00:22:30.916"><span region="Default">Come on, come on!</span></p>
+      <p
+        begin="00:23:57.500"
+        end="00:24:00.833"><span region="Default">Where are you going now?</span></p>
+      <p
+        begin="00:24:04.833"
+        end="00:24:05.791"><span region="Default">Go on, jump!</span></p>
+      <p
+        begin="00:24:15.125"
+        end="00:24:16.250"><span region="Default">Jump!</span></p>
+      <p
+        begin="00:25:25.541"
+        end="00:25:26.500"><span region="Default">Boss.</span></p>
+      <p
+        begin="00:25:27.500"
+        end="00:25:29.708"><span region="Default">I am ready to accept the punishment.</span></p>
+      <p
+        begin="00:25:30.500"
+        end="00:25:31.750"><span region="Default">Even if you'll kill me,</span></p>
+      <p
+        begin="00:25:32.375"
+        end="00:25:34.041"><span region="Default">I am willing…</span></p>
+      <p
+        begin="00:25:41.791"
+        end="00:25:43.333"><span region="Default">What about Suzzanna?</span></p>
+      <p
+        begin="00:25:48.500"
+        end="00:25:51.208"><span region="Default">-Suzzanna…<br/>-After seeing Mrs. Suroh's condition,</span></p>
+      <p
+        begin="00:25:51.291"
+        end="00:25:53.958"><span region="Default">Suzzanna got scared<br/>and ran out of the house.</span></p>
+      <p
+        begin="00:25:54.041"
+        end="00:25:55.375"><span region="Default">We tried to catch up,</span></p>
+      <p
+        begin="00:25:55.958"
+        end="00:25:57.125"><span region="Default">but we lost her.</span></p>
+      <p
+        begin="00:25:57.916"
+        end="00:25:58.958"><span region="Default">We tried to find her.</span></p>
+      <p
+        begin="00:26:00.625"
+        end="00:26:05.208"><span region="Default">But we decided<br/>to return to Suzzanna's house.</span></p>
+      <p
+        begin="00:26:05.291"
+        end="00:26:07.500"><span region="Default">To take care of Mrs. Suroh's body.</span></p>
+      <p
+        begin="00:26:07.583"
+        end="00:26:09.958"><span region="Default">Does she know<br/>that I put a spell on her father?</span></p>
+      <p
+        begin="00:26:10.041"
+        end="00:26:13.666"><span region="Default">It seems like…<br/>Mrs. Suroh hadn't told her yet, Boss.</span></p>
+      <p
+        begin="00:26:15.291"
+        end="00:26:16.500"><span region="Default">Find Suzzanna.</span></p>
+      <p
+        begin="00:26:17.125"
+        end="00:26:19.125"><span region="Default">As soon as you do, report to me.</span></p>
+      <p
+        begin="00:26:20.375"
+        end="00:26:23.083"><span region="Default">Don't let anything happen to Suzzanna.</span></p>
+      <p
+        begin="00:26:23.791"
+        end="00:26:24.625"><span region="Default">Yes, Boss.</span></p>
+      <p
+        begin="00:27:35.958"
+        end="00:27:37.333"><span region="Default">Bruised and battered.</span></p>
+      <p
+        begin="00:27:40.208"
+        end="00:27:43.500"><span region="Default">It's cracked. There is a deep wound here.</span></p>
+      <p
+        begin="00:27:45.125"
+        end="00:27:46.750"><span region="Default">She got stabbed too.</span></p>
+      <p
+        begin="00:27:46.833"
+        end="00:27:48.833"><span region="Default">But she's not dead yet.</span></p>
+      <p
+        begin="00:27:55.208"
+        end="00:27:56.125"><span region="Default">Pramuja.</span></p>
+      <p
+        begin="00:27:57.750"
+        end="00:28:01.958"><span region="Default">Stay until she gets better, okay?<br/>Poor thing.</span></p>
+      <p
+        begin="00:28:03.791"
+        end="00:28:06.458"><span region="Default">I can heal her internal wounds.</span></p>
+      <p
+        begin="00:28:07.916"
+        end="00:28:09.666"><span region="Default">You heal the outside wounds.</span></p>
+      <p
+        begin="00:28:12.083"
+        end="00:28:13.250"><span region="Default">Yes, Auntie.</span></p>
+      <p
+        begin="00:29:45.166"
+        end="00:29:48.000"><span region="Default">Her will to live is strong.</span></p>
+      <p
+        begin="00:29:49.250"
+        end="00:29:50.416"><span region="Default">Pramuja?</span></p>
+      <p
+        begin="00:30:02.583"
+        end="00:30:04.041"><span region="Default">What you said is true.</span></p>
+      <p
+        begin="00:30:05.708"
+        end="00:30:06.958"><span region="Default">It took three weeks for her to wake up.</span></p>
+      <p
+        begin="00:30:12.291"
+        end="00:30:14.083"><span region="Default">Don't get up yet.</span></p>
+      <p
+        begin="00:30:15.125"
+        end="00:30:17.416"><span region="Default">Your bones are not strong enough.</span></p>
+      <p
+        begin="00:30:17.500"
+        end="00:30:18.541"><span region="Default">Rest.</span></p>
+      <p
+        begin="00:30:24.958"
+        end="00:30:26.333"><span region="Default">Where am I?</span></p>
+      <p
+        begin="00:30:26.416"
+        end="00:30:28.000"><span region="Default">In my house.</span></p>
+      <p
+        begin="00:30:28.708"
+        end="00:30:30.625"><span region="Default">Kalinegoro Village.</span></p>
+      <p
+        begin="00:30:32.041"
+        end="00:30:34.333"><span region="Default">This is my nephew, Pramuja.</span></p>
+      <p
+        begin="00:30:35.416"
+        end="00:30:38.000"><span region="Default">It was my nephew who helped you.</span></p>
+      <p
+        begin="00:30:43.875"
+        end="00:30:46.041"><span region="Default">What's your name, dear?</span></p>
+      <p
+        begin="00:30:46.125"
+        end="00:30:47.666"><span region="Default">Suzzanna.</span></p>
+      <p
+        begin="00:30:48.375"
+        end="00:30:49.875"><span region="Default">Suzzanna.</span></p>
+      <p
+        begin="00:30:51.250"
+        end="00:30:53.250"><span region="Default">My name is Gayatri.</span></p>
+      <p
+        begin="00:30:53.333"
+        end="00:30:55.166"><span region="Default">And I'm Bawuk.</span></p>
+      <p
+        begin="00:31:29.458"
+        end="00:31:30.500"><span region="Default">Take it easy.</span></p>
+      <p
+        begin="00:31:46.166"
+        end="00:31:47.458"><span region="Default">Are your legs strong enough?</span></p>
+      <p
+        begin="00:31:48.583"
+        end="00:31:50.583"><span region="Default">Thanks to you and your aunt.</span></p>
+      <p
+        begin="00:31:52.375"
+        end="00:31:54.375"><span region="Default">-Can I help you?<br/>-No need.</span></p>
+      <p
+        begin="00:31:55.791"
+        end="00:31:58.416"><span region="Default">I'll manage. Have a seat.</span></p>
+      <p
+        begin="00:32:06.833"
+        end="00:32:09.833"><span region="Default">Maybe you don't remember<br/>but we have met before.</span></p>
+      <p
+        begin="00:32:20.208"
+        end="00:32:21.375"><span region="Default">Let me help you.</span></p>
+      <p
+        begin="00:32:32.375"
+        end="00:32:33.458"><span region="Default">I remember.</span></p>
+      <p
+        begin="00:32:46.708"
+        end="00:32:48.791"><span region="Default">Her hand still hurts, Auntie.</span></p>
+      <p
+        begin="00:32:49.500"
+        end="00:32:50.750"><span region="Default">I'm helping her.</span></p>
+      <p
+        begin="00:32:51.375"
+        end="00:32:53.541"><span region="Default">Yes, go ahead and help her.</span></p>
+      <p
+        begin="00:33:04.458"
+        end="00:33:07.750"><span region="Default">TWO WEEKS LATER</span></p>
+      <p
+        begin="00:33:17.125"
+        end="00:33:19.083"><span region="Default">-I'm getting the clothes.<br/>-I'll do it.</span></p>
+      <p
+        begin="00:33:32.958"
+        end="00:33:33.958"><span region="Default">A moment.</span></p>
+      <p
+        begin="00:33:35.708"
+        end="00:33:38.875"><span region="Default">He has hurt me for decades, Ma'am.</span></p>
+      <p
+        begin="00:33:40.125"
+        end="00:33:42.000"><span region="Default">I can't take it anymore.</span></p>
+      <p
+        begin="00:33:44.166"
+        end="00:33:48.291"><span region="Default">He even started beating up my kids.</span></p>
+      <p
+        begin="00:33:50.333"
+        end="00:33:53.125"><span region="Default">I can't let this go on any longer.</span></p>
+      <p
+        begin="00:33:54.000"
+        end="00:33:56.166"><span region="Default">How can I help you?</span></p>
+      <p
+        begin="00:33:56.833"
+        end="00:33:58.458"><span region="Default">Please send my husband home, Ma'am.</span></p>
+      <p
+        begin="00:33:59.291"
+        end="00:34:00.458"><span region="Default">Send him home?</span></p>
+      <p
+        begin="00:34:01.041"
+        end="00:34:02.750"><span region="Default">What do you mean?</span></p>
+      <p
+        begin="00:34:03.416"
+        end="00:34:05.000"><span region="Default">Return him to God.</span></p>
+      <p
+        begin="00:35:05.166"
+        end="00:35:06.333"><span region="Default">Pramuja.</span></p>
+      <p
+        begin="00:35:10.125"
+        end="00:35:12.833"><span region="Default">-What is this, Auntie?<br/>-I already told you.</span></p>
+      <p
+        begin="00:35:12.916"
+        end="00:35:14.916"><span region="Default">Never come in here.</span></p>
+      <p
+        begin="00:35:16.583"
+        end="00:35:18.958"><span region="Default">All this time I thought<br/>that you only practiced healing.</span></p>
+      <p
+        begin="00:35:19.041"
+        end="00:35:21.125"><span region="Default">But this, this is all…</span></p>
+      <p
+        begin="00:35:27.958"
+        end="00:35:29.750"><span region="Default">-Are you disappointed?<br/>-I…</span></p>
+      <p
+        begin="00:35:31.416"
+        end="00:35:33.500"><span region="Default">Then you'd better go.</span></p>
+      <p
+        begin="00:35:34.291"
+        end="00:35:37.083"><span region="Default">-And don't stay here anymore.<br/>-But…</span></p>
+      <p
+        begin="00:36:30.375"
+        end="00:36:33.458"><span region="Default">Please forgive my mistake<br/>and impudence, Ma'am.</span></p>
+      <p
+        begin="00:36:33.541"
+        end="00:36:35.833"><span region="Default">But she forced her way in.</span></p>
+      <p
+        begin="00:36:35.916"
+        end="00:36:37.500"><span region="Default">What do you want?</span></p>
+      <p
+        begin="00:36:46.125"
+        end="00:36:48.750"><span region="Default">Let me learn from you, Ma'am.</span></p>
+      <p
+        begin="00:36:50.458"
+        end="00:36:54.583"><span region="Default">So that I can get revenge<br/>on the cruel people who did this to me.</span></p>
+      <p
+        begin="00:36:55.708"
+        end="00:36:56.541"><span region="Default">My dear.</span></p>
+      <p
+        begin="00:36:58.208"
+        end="00:37:01.541"><span region="Default">Aren't you afraid of God?</span></p>
+      <p
+        begin="00:37:01.625"
+        end="00:37:03.375"><span region="Default">Why do you ask that?</span></p>
+      <p
+        begin="00:37:06.291"
+        end="00:37:07.458"><span region="Default">Oh, dear.</span></p>
+      <p
+        begin="00:37:07.541"
+        end="00:37:10.291"><span region="Default">I know what you want.</span></p>
+      <p
+        begin="00:37:11.083"
+        end="00:37:15.291"><span region="Default">I also know that, once you start learning,</span></p>
+      <p
+        begin="00:37:15.375"
+        end="00:37:17.958"><span region="Default">you have to be ready</span></p>
+      <p
+        begin="00:37:18.041"
+        end="00:37:20.958"><span region="Default">to go to the depths of hell.</span></p>
+      <p
+        begin="00:37:22.708"
+        end="00:37:24.041"><span region="Default">For me,</span></p>
+      <p
+        begin="00:37:24.958"
+        end="00:37:28.333"><span region="Default">the fire of hell<br/>is in Karang Setan, Ma'am.</span></p>
+      <p
+        begin="00:37:32.541"
+        end="00:37:33.708"><span region="Default">And I…</span></p>
+      <p
+        begin="00:37:35.250"
+        end="00:37:38.333"><span region="Default">will try with<br/>the strength that I have left</span></p>
+      <p
+        begin="00:37:38.416"
+        end="00:37:42.750"><span region="Default">to put it out, Ma'am.<br/>Even if I get burned in the process.</span></p>
+      <p
+        begin="00:37:45.375"
+        end="00:37:47.666"><span region="Default">Do you really want it that desperately?</span></p>
+      <p
+        begin="00:37:48.416"
+        end="00:37:51.708"><span region="Default">I don't know where else<br/>to ask for help, Ma'am.</span></p>
+      <p
+        begin="00:37:55.125"
+        end="00:37:57.208"><span region="Default">I have to save my mom.</span></p>
+      <p
+        begin="00:37:59.208"
+        end="00:38:00.166"><span region="Default">Come then, dear.</span></p>
+      <p
+        begin="00:38:10.916"
+        end="00:38:14.666"><span region="Default">For a long time,<br/>I've been looking for someone</span></p>
+      <p
+        begin="00:38:14.750"
+        end="00:38:17.125"><span region="Default">who I consider worthy<br/>to inherit my knowledge.</span></p>
+      <p
+        begin="00:38:18.208"
+        end="00:38:20.333"><span region="Default">I thought Pramuja would do it.</span></p>
+      <p
+        begin="00:38:22.000"
+        end="00:38:25.750"><span region="Default">But it turned out he only wanted<br/>to study healing.</span></p>
+      <p
+        begin="00:38:26.708"
+        end="00:38:28.500"><span region="Default">For him, things like this</span></p>
+      <p
+        begin="00:38:29.083"
+        end="00:38:30.833"><span region="Default">are polytheism.</span></p>
+      <p
+        begin="00:38:34.250"
+        end="00:38:36.625"><span region="Default">And then you came.</span></p>
+      <p
+        begin="00:38:38.958"
+        end="00:38:41.875"><span region="Default">My inner eye can immediately see</span></p>
+      <p
+        begin="00:38:41.958"
+        end="00:38:43.958"><span region="Default">that you have the ability</span></p>
+      <p
+        begin="00:38:44.041"
+        end="00:38:47.375"><span region="Default">which will make it easier for you<br/>to absorb the knowledge I have.</span></p>
+      <p
+        begin="00:38:48.041"
+        end="00:38:49.416"><span region="Default">What abilities, Ma'am?</span></p>
+      <p
+        begin="00:38:54.541"
+        end="00:38:56.041"><span region="Default">Do you see Bawuk?</span></p>
+      <p
+        begin="00:38:58.375"
+        end="00:38:59.291"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:38:59.375"
+        end="00:39:03.750"><span region="Default">Have you ever seen<br/>Pramuja talking to Bawuk?</span></p>
+      <p
+        begin="00:39:07.375"
+        end="00:39:09.916"><span region="Default">Pramuja can't see Bawuk.</span></p>
+      <p
+        begin="00:39:10.666"
+        end="00:39:12.083"><span region="Default">But you can.</span></p>
+      <p
+        begin="00:39:12.166"
+        end="00:39:15.333"><span region="Default">Bawuk is actually a Jinn</span></p>
+      <p
+        begin="00:39:15.416"
+        end="00:39:18.750"><span region="Default">who lives in this house.</span></p>
+      <p
+        begin="00:39:20.416"
+        end="00:39:24.208"><span region="Default">You were unconscious for almost a month.</span></p>
+      <p
+        begin="00:39:24.291"
+        end="00:39:26.750"><span region="Default">It seems to have honed your skills.</span></p>
+      <p
+        begin="00:39:28.375"
+        end="00:39:29.958"><span region="Default">And with this ability,</span></p>
+      <p
+        begin="00:39:30.041"
+        end="00:39:31.625"><span region="Default">I'm sure, my dear,</span></p>
+      <p
+        begin="00:39:32.833"
+        end="00:39:37.041"><span region="Default">that you will easily learn<br/>the knowledge that I possess.</span></p>
+      <p
+        begin="00:39:37.833"
+        end="00:39:39.000"><span region="Default">First of all,</span></p>
+      <p
+        begin="00:39:39.083"
+        end="00:39:42.333"><span region="Default">you have to undergo white fasting.</span></p>
+      <p
+        begin="00:39:42.958"
+        end="00:39:45.958"><span region="Default">For seven days and seven nights.</span></p>
+      <p
+        begin="00:39:46.041"
+        end="00:39:50.375"><span region="Default">And during that time,<br/>you have to stay standing.</span></p>
+      <p
+        begin="00:39:50.458"
+        end="00:39:52.750"><span region="Default">You must not sleep.</span></p>
+      <p
+        begin="00:39:53.458"
+        end="00:39:58.875"><span region="Default">After fasting, you have to soak in water<br/>on the coast of the South Sea</span></p>
+      <p
+        begin="00:39:58.958"
+        end="00:40:02.166"><span region="Default">while continuously praying.</span></p>
+      <p
+        begin="00:40:02.250"
+        end="00:40:06.333"><span region="Default">So that you are ready to receive<br/>the knowledge you desire.</span></p>
+      <p
+        begin="00:40:06.416"
+        end="00:40:11.500"><span region="Default">And what requires the most strength<br/>and endurance of your body and soul is</span></p>
+      <p
+        begin="00:40:11.583"
+        end="00:40:14.750"><span region="Default">meditating for 40 days</span></p>
+      <p
+        begin="00:40:14.833"
+        end="00:40:16.916"><span region="Default">and 40 nights.</span></p>
+      <p
+        begin="00:41:01.291"
+        end="00:41:03.125"><span region="Default">At one point,</span></p>
+      <p
+        begin="00:41:04.125"
+        end="00:41:08.458"><span region="Default">you will find a spirit familiar<br/>who is compatible with you.</span></p>
+      <p
+        begin="00:41:10.333"
+        end="00:41:13.250"><span region="Default">Who will always be ready to help you.</span></p>
+      <p
+        begin="00:41:14.708"
+        end="00:41:18.250"><span region="Default">And carry out all<br/>your orders and requests.</span></p>
+      <p
+        begin="00:41:18.333"
+        end="00:41:19.750"><span region="Default">As long as</span></p>
+      <p
+        begin="00:41:20.625"
+        end="00:41:24.416"><span region="Default">you give her offerings<br/>according to her wishes.</span></p>
+      <p
+        begin="00:41:26.750"
+        end="00:41:31.833"><span region="Default">Keep your heirloom and take it with you,<br/>wherever you go.</span></p>
+      <p
+        begin="00:41:31.916"
+        end="00:41:33.625"><span region="Default">Because that's where</span></p>
+      <p
+        begin="00:41:34.291"
+        end="00:41:39.750"><span region="Default">your familiar spirit will stay<br/>until you need its help.</span></p>
+      <p
+        begin="00:41:45.416"
+        end="00:41:46.333"><span region="Default">Good afternoon, Chief.</span></p>
+      <p
+        begin="00:41:47.583"
+        end="00:41:48.458"><span region="Default">Good afternoon.</span></p>
+      <p
+        begin="00:41:54.375"
+        end="00:41:55.708"><span region="Default">How can I help?</span></p>
+      <p
+        begin="00:41:56.750"
+        end="00:42:00.041"><span region="Default">Listen, Chief, the reason why I came here</span></p>
+      <p
+        begin="00:42:00.125"
+        end="00:42:03.416"><span region="Default">is to find out about someone<br/>who once lived here.</span></p>
+      <p
+        begin="00:42:03.500"
+        end="00:42:07.041"><span region="Default">His name is Kasman Wironegoro.</span></p>
+      <p
+        begin="00:42:08.875"
+        end="00:42:12.250"><span region="Default">You're looking for someone named Kasman?<br/>What's the reason?</span></p>
+      <p
+        begin="00:42:14.250"
+        end="00:42:15.875"><span region="Default">He is my father.</span></p>
+      <p
+        begin="00:42:19.500"
+        end="00:42:22.625"><span region="Default">I don't have any pictures,<br/>but I have a picture of my mother.</span></p>
+      <p
+        begin="00:42:26.208"
+        end="00:42:28.125"><span region="Default">Your father was a savage.</span></p>
+      <p
+        begin="00:42:29.041"
+        end="00:42:32.583"><span region="Default">He once got a woman pregnant<br/>and then got kicked out of this village.</span></p>
+      <p
+        begin="00:42:40.791"
+        end="00:42:44.125"><span region="Default">I'm sorry, Chief.<br/>But do you know where my father is?</span></p>
+      <p
+        begin="00:42:44.208"
+        end="00:42:46.500"><span region="Default">Or at least where he lives?</span></p>
+      <p
+        begin="00:42:46.583"
+        end="00:42:48.166"><span region="Default">Your father is dead.</span></p>
+      <p
+        begin="00:42:55.458"
+        end="00:42:57.625"><span region="Default">-Is this coffee or horse piss?<br/>-Coffee, Boss.</span></p>
+      <p
+        begin="00:42:57.708"
+        end="00:42:59.083"><span region="Default">Don't talk back to me!</span></p>
+      <p
+        begin="00:43:10.166"
+        end="00:43:11.416"><span region="Default">I should go.</span></p>
+      <p
+        begin="00:43:21.166"
+        end="00:43:23.166"><span region="Default">Who made coffee for the chief?</span></p>
+      <p
+        begin="00:43:23.750"
+        end="00:43:24.583"><span region="Default">I did.</span></p>
+      <p
+        begin="00:43:25.916"
+        end="00:43:27.583"><span region="Default">Was that coffee or horse piss?</span></p>
+      <p
+        begin="00:43:29.416"
+        end="00:43:30.541"><span region="Default">Coffee, obviously.</span></p>
+      <p
+        begin="00:43:30.625"
+        end="00:43:31.833"><span region="Default">Make a better one.</span></p>
+      <p
+        begin="00:43:31.916"
+        end="00:43:33.125"><span region="Default">The Chief left already.</span></p>
+      <p
+        begin="00:43:33.208"
+        end="00:43:35.875"><span region="Default">Just make some more.<br/>For me, Tohir, and Diran.</span></p>
+      <p
+        begin="00:43:36.791"
+        end="00:43:38.000"><span region="Default">Gosh.</span></p>
+      <p
+        begin="00:43:43.375"
+        end="00:43:44.250"><span region="Default">Geez.</span></p>
+      <p
+        begin="00:43:44.833"
+        end="00:43:47.791"><span region="Default">When morons get promoted as officials,<br/>they get so cocky.</span></p>
+      <p
+        begin="00:43:48.666"
+        end="00:43:50.208"><span region="Default">Idiots.</span></p>
+      <p
+        begin="00:44:05.958"
+        end="00:44:07.916"><span region="Default">What are you using that for?</span></p>
+      <p
+        begin="00:44:08.000"
+        end="00:44:09.291"><span region="Default">Herbal drink.</span></p>
+      <p
+        begin="00:44:29.875"
+        end="00:44:31.833"><span region="Default">Here, I've made more coffee.</span></p>
+      <p
+        begin="00:44:44.583"
+        end="00:44:46.125"><span region="Default">What did you add to this coffee?</span></p>
+      <p
+        begin="00:44:48.000"
+        end="00:44:49.875"><span region="Default">Well, I had some nutmeg powder,</span></p>
+      <p
+        begin="00:44:49.958"
+        end="00:44:51.625"><span region="Default">I tried mixing it in.</span></p>
+      <p
+        begin="00:44:53.750"
+        end="00:44:56.541"><span region="Default">Now, this is coffee!</span></p>
+      <p
+        begin="00:44:59.750"
+        end="00:45:00.750"><span region="Default">Try some, Tohir.</span></p>
+      <p
+        begin="00:45:09.125"
+        end="00:45:10.750"><span region="Default">Extraordinary!</span></p>
+      <p
+        begin="00:45:13.083"
+        end="00:45:14.375"><span region="Default">Give it a try, Diran.</span></p>
+      <p
+        begin="00:45:20.583"
+        end="00:45:21.791"><span region="Default">Why does it taste like horse piss?</span></p>
+      <p
+        begin="00:45:24.208"
+        end="00:45:26.166"><span region="Default">You don't understand coffee.</span></p>
+      <p
+        begin="00:45:26.250"
+        end="00:45:27.500"><span region="Default">Give it to me.</span></p>
+      <p
+        begin="00:45:27.583"
+        end="00:45:31.125"><span region="Default">Make me a cup again tomorrow, okay?</span></p>
+      <p
+        begin="00:45:31.208"
+        end="00:45:32.250"><span region="Default">Yes, sir.</span></p>
+      <p
+        begin="00:45:39.083"
+        end="00:45:42.000"><span region="Default">WELCOME TO KARANG SETAN VILLAGE</span></p>
+      <p
+        begin="00:45:48.833"
+        end="00:45:49.958"><span region="Default">Mom?</span></p>
+      <p
+        begin="00:46:10.458"
+        end="00:46:11.333"><span region="Default">Mom?</span></p>
+      <p
+        begin="00:46:18.916"
+        end="00:46:19.750"><span region="Default">Mom?</span></p>
+      <p
+        begin="00:46:21.666"
+        end="00:46:22.666"><span region="Default">Mom.</span></p>
+      <p
+        begin="00:46:28.458"
+        end="00:46:29.500"><span region="Default">Mom?</span></p>
+      <p
+        begin="00:46:33.708"
+        end="00:46:35.458"><span region="Default">Mom, you're burning up.</span></p>
+      <p
+        begin="00:46:35.541"
+        end="00:46:37.750"><span region="Default">It's been a long time, sweetie.</span></p>
+      <p
+        begin="00:46:38.583"
+        end="00:46:40.250"><span region="Default">Sometimes I get a fever,</span></p>
+      <p
+        begin="00:46:41.500"
+        end="00:46:42.958"><span region="Default">sometimes it goes away.</span></p>
+      <p
+        begin="00:46:43.833"
+        end="00:46:45.583"><span region="Default">What happened to your face?</span></p>
+      <p
+        begin="00:46:46.333"
+        end="00:46:48.125"><span region="Default">After you</span></p>
+      <p
+        begin="00:46:49.416"
+        end="00:46:51.250"><span region="Default">went missing…</span></p>
+      <p
+        begin="00:46:53.416"
+        end="00:46:57.000"><span region="Default">The three thugs, Bisman's men</span></p>
+      <p
+        begin="00:46:57.083"
+        end="00:47:00.666"><span region="Default">come almost every day.</span></p>
+      <p
+        begin="00:47:00.750"
+        end="00:47:05.041"><span region="Default">I even memorized their names.</span></p>
+      <p
+        begin="00:47:05.125"
+        end="00:47:09.500"><span region="Default">Banteng, Lawu, Kawi.</span></p>
+      <p
+        begin="00:47:09.583"
+        end="00:47:13.208"><span region="Default">They come in<br/>the morning asking for breakfast.</span></p>
+      <p
+        begin="00:47:13.291"
+        end="00:47:17.833"><span region="Default">They come in the afternoon, and at night</span></p>
+      <p
+        begin="00:47:17.916"
+        end="00:47:22.333"><span region="Default">while they got drunk.</span></p>
+      <p
+        begin="00:47:23.333"
+        end="00:47:28.375"><span region="Default">If they don't like my cooking,</span></p>
+      <p
+        begin="00:47:28.458"
+        end="00:47:30.041"><span region="Default">they get angry.</span></p>
+      <p
+        begin="00:47:40.291"
+        end="00:47:42.208"><span region="Default">Those savages.</span></p>
+      <p
+        begin="00:47:46.458"
+        end="00:47:49.291"><span region="Default">They must be punished<br/>as severely as possible.</span></p>
+      <p
+        begin="00:47:49.958"
+        end="00:47:53.041"><span region="Default">We're no match</span></p>
+      <p
+        begin="00:47:54.666"
+        end="00:47:59.208"><span region="Default">for their power.</span></p>
+      <p
+        begin="00:48:01.750"
+        end="00:48:03.041"><span region="Default">My dear…</span></p>
+      <p
+        begin="00:48:04.625"
+        end="00:48:08.541"><span region="Default">You should leave this village.</span></p>
+      <p
+        begin="00:48:09.250"
+        end="00:48:10.291"><span region="Default">Sweetie.</span></p>
+      <p
+        begin="00:48:12.125"
+        end="00:48:15.125"><span region="Default">I can't take it anymore.</span></p>
+      <p
+        begin="00:48:15.750"
+        end="00:48:17.791"><span region="Default">Remember, sweetie.</span></p>
+      <p
+        begin="00:48:17.875"
+        end="00:48:21.500"><span region="Default">Please bury me</span></p>
+      <p
+        begin="00:48:22.250"
+        end="00:48:25.708"><span region="Default">beside your father.</span></p>
+      <p
+        begin="00:48:36.083"
+        end="00:48:37.000"><span region="Default">Mom…</span></p>
+      <p
+        begin="00:48:38.250"
+        end="00:48:39.125"><span region="Default">SUTINI DAUGHTER OF PRAYITNO</span></p>
+      <p
+        begin="00:48:39.208"
+        end="00:48:40.875"><span region="Default">I'm sorry for your loss.</span></p>
+      <p
+        begin="00:49:03.500"
+        end="00:49:04.416"><span region="Default">Suzzanna?</span></p>
+      <p
+        begin="00:49:09.791"
+        end="00:49:11.583"><span region="Default">Why are you here?</span></p>
+      <p
+        begin="00:49:11.666"
+        end="00:49:13.083"><span region="Default">I…</span></p>
+      <p
+        begin="00:49:13.875"
+        end="00:49:17.083"><span region="Default">I'm looking for my father's gravestone.</span></p>
+      <p
+        begin="00:49:17.166"
+        end="00:49:21.041"><span region="Default">I've heard that there is a possibility<br/>that my father has died.</span></p>
+      <p
+        begin="00:49:23.208"
+        end="00:49:24.916"><span region="Default">My mother passed away.</span></p>
+      <p
+        begin="00:49:25.500"
+        end="00:49:27.875"><span region="Default">Indeed, to Allah we belong<br/>and to Him we shall return.</span></p>
+      <p
+        begin="00:49:27.958"
+        end="00:49:30.666"><span region="Default">Suzzanna. I'm sorry for your loss.</span></p>
+      <p
+        begin="00:49:32.125"
+        end="00:49:33.166"><span region="Default">Thank you.</span></p>
+      <p
+        begin="00:49:34.250"
+        end="00:49:35.333"><span region="Default">If you…</span></p>
+      <p
+        begin="00:49:37.708"
+        end="00:49:39.500"><span region="Default">ever need my help,</span></p>
+      <p
+        begin="00:49:40.208"
+        end="00:49:42.041"><span region="Default">you can meet me at the mosque.</span></p>
+      <p
+        begin="00:49:43.041"
+        end="00:49:44.250"><span region="Default">It's nearby.</span></p>
+      <p
+        begin="00:49:44.791"
+        end="00:49:46.416"><span region="Default">I'm staying there for now.</span></p>
+      <p
+        begin="00:49:47.458"
+        end="00:49:48.833"><span region="Default">Thank you, Pramuja.</span></p>
+      <p
+        begin="00:50:00.333"
+        end="00:50:01.208"><span region="Default">Hang in there.</span></p>
+      <p
+        begin="00:50:21.583"
+        end="00:50:22.625"><span region="Default">Suzzanna.</span></p>
+      <p
+        begin="00:50:23.291"
+        end="00:50:26.583"><span region="Default">It's so unfortunate that we keep meeting<br/>in sad situations like this.</span></p>
+      <p
+        begin="00:50:26.666"
+        end="00:50:29.791"><span region="Default">The people of<br/>the Karang Setan village administration,</span></p>
+      <p
+        begin="00:50:30.416"
+        end="00:50:34.666"><span region="Default">offer our deepest condolences<br/>on the passing of Mrs. Sutini.</span></p>
+      <p
+        begin="00:50:37.208"
+        end="00:50:38.916"><span region="Default">Thank you, Boss.</span></p>
+      <p
+        begin="00:50:39.000"
+        end="00:50:40.916"><span region="Default">Please don't call me that.</span></p>
+      <p
+        begin="00:50:42.041"
+        end="00:50:44.458"><span region="Default">You can call me Chief. Or Bisman.</span></p>
+      <p
+        begin="00:50:45.875"
+        end="00:50:48.666"><span region="Default">Thank you, Bisman.</span></p>
+      <p
+        begin="00:50:49.708"
+        end="00:50:51.416"><span region="Default">Where have you been, Suzzanna?</span></p>
+      <p
+        begin="00:50:52.375"
+        end="00:50:53.875"><span region="Default">Since your father passed away,</span></p>
+      <p
+        begin="00:50:54.625"
+        end="00:50:56.166"><span region="Default">you just disappeared.</span></p>
+      <p
+        begin="00:51:08.000"
+        end="00:51:10.041"><span region="Default">Let me propose to you, Suzzanna.</span></p>
+      <p
+        begin="00:51:21.500"
+        end="00:51:23.416"><span region="Default">I will only accept your proposal</span></p>
+      <p
+        begin="00:51:24.166"
+        end="00:51:26.750"><span region="Default">after my mind is completely calm.</span></p>
+      <p
+        begin="00:51:27.833"
+        end="00:51:30.958"><span region="Default">And my heart can only be at peace<br/>after I know for sure</span></p>
+      <p
+        begin="00:51:31.708"
+        end="00:51:34.416"><span region="Default">who put a spell on my father.</span></p>
+      <p
+        begin="00:51:36.875"
+        end="00:51:39.958"><span region="Default">Can you catch that person,</span></p>
+      <p
+        begin="00:51:40.541"
+        end="00:51:43.958"><span region="Default">and bring him before<br/>me in a helpless state?</span></p>
+      <p
+        begin="00:51:47.833"
+        end="00:51:49.666"><span region="Default">My heart shall be at peace</span></p>
+      <p
+        begin="00:51:49.750"
+        end="00:51:53.500"><span region="Default">once you punish your three men,</span></p>
+      <p
+        begin="00:51:53.583"
+        end="00:51:56.375"><span region="Default">who had the heart to oppress my mother</span></p>
+      <p
+        begin="00:51:56.458"
+        end="00:51:58.458"><span region="Default">until she got sick and died.</span></p>
+      <p
+        begin="00:51:59.333"
+        end="00:52:00.666"><span region="Default">They are also the ones</span></p>
+      <p
+        begin="00:52:01.416"
+        end="00:52:04.583"><span region="Default">who had been chasing me<br/>until I fell off a cliff.</span></p>
+      <p
+        begin="00:52:05.625"
+        end="00:52:07.833"><span region="Default">I was unconscious for a month.</span></p>
+      <p
+        begin="00:52:11.708"
+        end="00:52:14.250"><span region="Default">If you can sort it all out,</span></p>
+      <p
+        begin="00:52:15.291"
+        end="00:52:16.500"><span region="Default">I will accept your proposal.</span></p>
+      <p
+        begin="00:52:28.291"
+        end="00:52:32.208"><span region="Default">The boss will definitely tell Lesus<br/>to put a spell on the three of us.</span></p>
+      <p
+        begin="00:52:33.333"
+        end="00:52:34.416"><span region="Default">Impossible.</span></p>
+      <p
+        begin="00:52:35.583"
+        end="00:52:38.125"><span region="Default">Boss Bisman is like a brother to us.</span></p>
+      <p
+        begin="00:52:38.208"
+        end="00:52:41.041"><span region="Default">Brothers don't put spells on each other.</span></p>
+      <p
+        begin="00:52:41.125"
+        end="00:52:43.833"><span region="Default">What do you mean brothers?</span></p>
+      <p
+        begin="00:52:44.583"
+        end="00:52:48.000"><span region="Default">Whenever Boss Bisman says we're brothers,<br/>he never means it.</span></p>
+      <p
+        begin="00:52:48.083"
+        end="00:52:52.583"><span region="Default">So that we feel close to him.<br/>Loyal to him.</span></p>
+      <p
+        begin="00:52:52.666"
+        end="00:52:54.250"><span region="Default">We're not actually brothers!</span></p>
+      <p
+        begin="00:52:54.333"
+        end="00:52:56.458"><span region="Default">-Is that so?<br/>-You idiot!</span></p>
+      <p
+        begin="00:52:57.458"
+        end="00:52:59.875"><span region="Default">Back when we were porters,</span></p>
+      <p
+        begin="00:52:59.958"
+        end="00:53:02.708"><span region="Default">Boss Bisman was already rich.</span></p>
+      <p
+        begin="00:53:02.791"
+        end="00:53:06.458"><span region="Default">If he doesn't like us anymore,<br/>it's easy for him to get rid of us.</span></p>
+      <p
+        begin="00:53:07.541"
+        end="00:53:08.750"><span region="Default">So…</span></p>
+      <p
+        begin="00:53:09.708"
+        end="00:53:10.958"><span region="Default">What should we do?</span></p>
+      <p
+        begin="00:53:11.791"
+        end="00:53:14.083"><span region="Default">The source of the problem is Suzzanna.</span></p>
+      <p
+        begin="00:53:15.625"
+        end="00:53:18.083"><span region="Default">Suzzanna has poisoned the boss's mind.</span></p>
+      <p
+        begin="00:53:18.166"
+        end="00:53:22.375"><span region="Default">If the poison dies,<br/>the boss will come to his senses again.</span></p>
+      <p
+        begin="00:53:24.250"
+        end="00:53:26.583"><span region="Default">So we have to kill Suzzanna first.</span></p>
+      <p
+        begin="00:53:27.375"
+        end="00:53:30.041"><span region="Default">-Before he finishes us off.<br/>-Hey!</span></p>
+      <p
+        begin="00:53:30.666"
+        end="00:53:33.416"><span region="Default">Why are you acting<br/>like a fool just like Lawu?</span></p>
+      <p
+        begin="00:53:35.083"
+        end="00:53:38.041"><span region="Default">Better to be a fool but act on it!</span></p>
+      <p
+        begin="00:53:38.125"
+        end="00:53:40.291"><span region="Default">Than being smart but cowardly.</span></p>
+      <p
+        begin="00:53:41.333"
+        end="00:53:42.958"><span region="Default">If you don't have the guts,</span></p>
+      <p
+        begin="00:53:43.583"
+        end="00:53:45.166"><span region="Default">I can go alone!</span></p>
+      <p
+        begin="00:54:42.500"
+        end="00:54:45.000"><span region="Default">Huh? Hey, hey.</span></p>
+      <p
+        begin="00:54:46.708"
+        end="00:54:47.666"><span region="Default">Hey!</span></p>
+      <p
+        begin="00:54:48.583"
+        end="00:54:49.666"><span region="Default">Hey!</span></p>
+      <p
+        begin="00:55:48.208"
+        end="00:55:49.708"><span region="Default">Hey, my car!</span></p>
+      <p
+        begin="00:59:00.791"
+        end="00:59:03.166"><span region="Default">Boss.</span></p>
+      <p
+        begin="00:59:04.333"
+        end="00:59:07.750"><span region="Default">I can't take it anymore.</span></p>
+      <p
+        begin="00:59:09.041"
+        end="00:59:12.833"><span region="Default">I'd rather die, Boss.</span></p>
+      <p
+        begin="00:59:12.916"
+        end="00:59:15.958"><span region="Default">Nonsense. You must be strong.</span></p>
+      <p
+        begin="00:59:16.541"
+        end="00:59:19.083"><span region="Default">I swear to God.</span></p>
+      <p
+        begin="00:59:20.083"
+        end="00:59:21.875"><span region="Default">I can't take it.</span></p>
+      <p
+        begin="00:59:22.875"
+        end="00:59:26.833"><span region="Default">Please kill me.</span></p>
+      <p
+        begin="00:59:28.791"
+        end="00:59:30.000"><span region="Default">Please…</span></p>
+      <p
+        begin="00:59:31.250"
+        end="00:59:33.875"><span region="Default">Kill me, Boss.</span></p>
+      <p
+        begin="00:59:35.125"
+        end="00:59:38.000"><span region="Default">Please kill me.</span></p>
+      <p
+        begin="00:59:39.083"
+        end="00:59:40.500"><span region="Default">Please.</span></p>
+      <p
+        begin="00:59:40.583"
+        end="00:59:44.666"><span region="Default">Kill me, Boss.</span></p>
+      <p
+        begin="00:59:45.333"
+        end="00:59:47.791"><span region="Default">Kill me, please.</span></p>
+      <p
+        begin="00:59:47.875"
+        end="00:59:49.208"><span region="Default">Please…</span></p>
+      <p
+        begin="00:59:49.291"
+        end="00:59:51.166"><span region="Default">Forgive me, Banteng.</span></p>
+      <p
+        begin="00:59:51.250"
+        end="00:59:52.666"><span region="Default">Just do it.</span></p>
+      <p
+        begin="01:00:03.458"
+        end="01:00:04.583"><span region="Default">Boss!</span></p>
+      <p
+        begin="01:00:12.250"
+        end="01:00:14.666"><span region="Default">I know what's on your mind.</span></p>
+      <p
+        begin="01:00:14.750"
+        end="01:00:16.166"><span region="Default">I swear to God.</span></p>
+      <p
+        begin="01:00:17.083"
+        end="01:00:19.958"><span region="Default">I had absolutely no intention<br/>of killing Banteng.</span></p>
+      <p
+        begin="01:00:21.500"
+        end="01:00:25.250"><span region="Default">I can't bear<br/>to see him suffering for so long.</span></p>
+      <p
+        begin="01:00:27.541"
+        end="01:00:30.333"><span region="Default">Keep God's name out of your mouth, Boss.</span></p>
+      <p
+        begin="01:00:31.708"
+        end="01:00:34.666"><span region="Default">God won't even care</span></p>
+      <p
+        begin="01:00:35.375"
+        end="01:00:37.666"><span region="Default">that you keep mentioning Him.</span></p>
+      <p
+        begin="01:00:39.541"
+        end="01:00:41.291"><span region="Default">As if you practice religion.</span></p>
+      <p
+        begin="01:00:54.166"
+        end="01:00:55.125"><span region="Default">Pramuja.</span></p>
+      <p
+        begin="01:00:56.500"
+        end="01:00:57.666"><span region="Default">Good evening.</span></p>
+      <p
+        begin="01:01:00.041"
+        end="01:01:02.083"><span region="Default">I'm here to give you some food.</span></p>
+      <p
+        begin="01:01:03.625"
+        end="01:01:07.833"><span region="Default">I know that you're grieving.<br/>I figured you haven't eaten.</span></p>
+      <p
+        begin="01:01:10.000"
+        end="01:01:12.125"><span region="Default">Thank you for the food.</span></p>
+      <p
+        begin="01:01:12.916"
+        end="01:01:13.958"><span region="Default">Please come in.</span></p>
+      <p
+        begin="01:01:16.375"
+        end="01:01:17.750"><span region="Default">So, Pramuja.</span></p>
+      <p
+        begin="01:01:18.458"
+        end="01:01:20.208"><span region="Default">Have you found your father?</span></p>
+      <p
+        begin="01:01:22.916"
+        end="01:01:26.375"><span region="Default">It seems like the chief knows<br/>something about my father.</span></p>
+      <p
+        begin="01:01:27.375"
+        end="01:01:29.166"><span region="Default">But he's still covering it up.</span></p>
+      <p
+        begin="01:01:30.458"
+        end="01:01:32.083"><span region="Default">So when are you going home?</span></p>
+      <p
+        begin="01:01:34.041"
+        end="01:01:36.958"><span region="Default">I'm staying here for now.</span></p>
+      <p
+        begin="01:01:37.791"
+        end="01:01:40.500"><span region="Default">I want to find out what Bisman is hiding.</span></p>
+      <p
+        begin="01:01:42.833"
+        end="01:01:44.875"><span region="Default">You should stay away from Bisman.</span></p>
+      <p
+        begin="01:01:46.041"
+        end="01:01:47.250"><span region="Default">He is dangerous.</span></p>
+      <p
+        begin="01:01:49.458"
+        end="01:01:50.750"><span region="Default">He killed my father.</span></p>
+      <p
+        begin="01:01:57.208"
+        end="01:01:58.750"><span region="Default">I'll just…</span></p>
+      <p
+        begin="01:02:01.041"
+        end="01:02:03.125"><span region="Default">expose his rottenness and help you.</span></p>
+      <p
+        begin="01:02:03.208"
+        end="01:02:05.375"><span region="Default">I don't need help.</span></p>
+      <p
+        begin="01:02:08.250"
+        end="01:02:11.250"><span region="Default">I don't want anything bad<br/>to happen to you. I don't want you…</span></p>
+      <p
+        begin="01:02:14.541"
+        end="01:02:17.541"><span region="Default">I don't want to lose someone<br/>who has been good to me.</span></p>
+      <p
+        begin="01:02:19.125"
+        end="01:02:20.500"><span region="Default">Don't be afraid.</span></p>
+      <p
+        begin="01:02:21.250"
+        end="01:02:24.125"><span region="Default">I have no fear anymore.</span></p>
+      <p
+        begin="01:02:29.000"
+        end="01:02:30.875"><span region="Default">Don't stay here too long.</span></p>
+      <p
+        begin="01:02:31.458"
+        end="01:02:32.583"><span region="Default">You are not safe.</span></p>
+      <p
+        begin="01:02:33.333"
+        end="01:02:35.125"><span region="Default">They killed your family.</span></p>
+      <p
+        begin="01:02:35.208"
+        end="01:02:38.125"><span region="Default">I'll have my revenge on all of them.</span></p>
+      <p
+        begin="01:02:38.208"
+        end="01:02:40.125"><span region="Default">In what way?</span></p>
+      <p
+        begin="01:02:41.208"
+        end="01:02:43.208"><span region="Default">You are alone, Suzzanna.</span></p>
+      <p
+        begin="01:02:43.291"
+        end="01:02:45.375"><span region="Default">You could be the next victim.</span></p>
+      <p
+        begin="01:02:46.291"
+        end="01:02:49.000"><span region="Default">Oppression demands rebellion.</span></p>
+      <p
+        begin="01:02:50.541"
+        end="01:02:53.500"><span region="Default">If that means I will become a victim,<br/>let it be.</span></p>
+      <p
+        begin="01:02:53.583"
+        end="01:02:55.833"><span region="Default">-Suzzanna, you…<br/>-It's getting late.</span></p>
+      <p
+        begin="01:03:04.250"
+        end="01:03:06.625"><span region="Default">I… I should go.</span></p>
+      <p
+        begin="01:03:14.916"
+        end="01:03:16.208"><span region="Default">Do not forget to eat.</span></p>
+      <p
+        begin="01:03:21.000"
+        end="01:03:23.333"><span region="Default">Yesterday a Quran teacher came here.</span></p>
+      <p
+        begin="01:03:23.416"
+        end="01:03:26.666"><span region="Default">Saying you were the one<br/>who requested a teacher for me.</span></p>
+      <p
+        begin="01:03:26.750"
+        end="01:03:28.583"><span region="Default">Are you mocking me?</span></p>
+      <p
+        begin="01:03:28.666"
+        end="01:03:31.708"><span region="Default">Quran teacher? What's his name?</span></p>
+      <p
+        begin="01:03:31.791"
+        end="01:03:33.791"><span region="Default">Lastri or something?</span></p>
+      <p
+        begin="01:03:34.375"
+        end="01:03:35.750"><span region="Default">A woman?</span></p>
+      <p
+        begin="01:03:36.916"
+        end="01:03:39.041"><span region="Default">-Where is she from?<br/>-From Karang Setan, she said.</span></p>
+      <p
+        begin="01:03:43.541"
+        end="01:03:44.583"><span region="Default">What does she look like?</span></p>
+      <p
+        begin="01:03:45.250"
+        end="01:03:47.166"><span region="Default">Why are you so curious?</span></p>
+      <p
+        begin="01:03:47.791"
+        end="01:03:49.750"><span region="Default">-Is she your girlfriend?<br/>-Nonsense.</span></p>
+      <p
+        begin="01:03:49.833"
+        end="01:03:51.625"><span region="Default">Just admit it.</span></p>
+      <p
+        begin="01:03:51.708"
+        end="01:03:55.500"><span region="Default">If you have no relationship with her,<br/>why would she ask for your photo?</span></p>
+      <p
+        begin="01:03:56.125"
+        end="01:03:57.166"><span region="Default">She asked for a photo?</span></p>
+      <p
+        begin="01:03:57.750"
+        end="01:03:59.208"><span region="Default">And you gave it to her?</span></p>
+      <p
+        begin="01:04:22.750"
+        end="01:04:25.708"><span region="Default">Hey, why are you daydreaming?</span></p>
+      <p
+        begin="01:04:26.375"
+        end="01:04:27.916"><span region="Default">You might get possessed.</span></p>
+      <p
+        begin="01:04:44.208"
+        end="01:04:48.291"><span region="Default">My beloved children.</span></p>
+      <p
+        begin="01:04:48.375"
+        end="01:04:53.000"><span region="Default">Come over.</span></p>
+      <p
+        begin="01:04:57.500"
+        end="01:05:02.666"><span region="Default">Tell the man to climb up the coconut tree.</span></p>
+      <p
+        begin="01:05:48.041"
+        end="01:05:51.666"><span region="Default">Honey? Who asked for coconuts?</span></p>
+      <p
+        begin="01:06:28.916"
+        end="01:06:31.541"><span region="Default">Oh my God, honey!</span></p>
+      <p
+        begin="01:06:34.041"
+        end="01:06:35.208"><span region="Default">Honey!</span></p>
+      <p
+        begin="01:06:35.291"
+        end="01:06:36.416"><span region="Default">Lawu!</span></p>
+      <p
+        begin="01:06:39.833"
+        end="01:06:41.166"><span region="Default">Help!</span></p>
+      <p
+        begin="01:06:59.291"
+        end="01:07:00.625"><span region="Default">Boss.</span></p>
+      <p
+        begin="01:07:17.000"
+        end="01:07:18.166"><span region="Default">It turns out</span></p>
+      <p
+        begin="01:07:19.083"
+        end="01:07:20.916"><span region="Default">for the sake of a woman,</span></p>
+      <p
+        begin="01:07:21.708"
+        end="01:07:25.250"><span region="Default">you can so easily sacrifice your own men.</span></p>
+      <p
+        begin="01:07:27.250"
+        end="01:07:29.000"><span region="Default">Last week, Banteng died.</span></p>
+      <p
+        begin="01:07:29.916"
+        end="01:07:30.833"><span region="Default">Now, look at Lawu.</span></p>
+      <p
+        begin="01:07:32.708"
+        end="01:07:35.541"><span region="Default">It's true that I'm mad at you guys.</span></p>
+      <p
+        begin="01:07:37.250"
+        end="01:07:40.958"><span region="Default">But I would never<br/>cast spells on my own men.</span></p>
+      <p
+        begin="01:07:45.250"
+        end="01:07:46.250"><span region="Default">Hey!</span></p>
+      <p
+        begin="01:07:47.916"
+        end="01:07:49.500"><span region="Default">Where are you going?</span></p>
+      <p
+        begin="01:07:49.583"
+        end="01:07:51.500"><span region="Default">Come on!</span></p>
+      <p
+        begin="01:07:57.041"
+        end="01:07:58.416"><span region="Default">Make him come out!</span></p>
+      <p
+        begin="01:07:59.208"
+        end="01:08:00.166"><span region="Default">Lesus!</span></p>
+      <p
+        begin="01:08:00.791"
+        end="01:08:02.041"><span region="Default">Come out!</span></p>
+      <p
+        begin="01:08:02.125"
+        end="01:08:03.458"><span region="Default">Come out!</span></p>
+      <p
+        begin="01:08:04.208"
+        end="01:08:05.833"><span region="Default">Attack! Burn!</span></p>
+      <p
+        begin="01:08:09.583"
+        end="01:08:11.291"><span region="Default">Burn everything!</span></p>
+      <p
+        begin="01:08:11.375"
+        end="01:08:12.916"><span region="Default">Come on!</span></p>
+      <p
+        begin="01:08:19.291"
+        end="01:08:21.791"><span region="Default">He must have a protective spell.</span></p>
+      <p
+        begin="01:08:21.875"
+        end="01:08:23.208"><span region="Default">What do you mean?</span></p>
+      <p
+        begin="01:08:23.958"
+        end="01:08:25.458"><span region="Default">Try cutting off his big toe.</span></p>
+      <p
+        begin="01:08:27.000"
+        end="01:08:28.916"><span region="Default">That's usually their weakness.</span></p>
+      <p
+        begin="01:08:29.583"
+        end="01:08:30.875"><span region="Default">Go get him.</span></p>
+      <p
+        begin="01:08:30.958"
+        end="01:08:33.416"><span region="Default">-Come on.<br/>-Hey!</span></p>
+      <p
+        begin="01:08:33.500"
+        end="01:08:34.666"><span region="Default">Hold him!</span></p>
+      <p
+        begin="01:08:34.750"
+        end="01:08:36.333"><span region="Default">Kneel down.</span></p>
+      <p
+        begin="01:08:36.416"
+        end="01:08:38.541"><span region="Default">Stab him!</span></p>
+      <p
+        begin="01:08:40.708"
+        end="01:08:41.958"><span region="Default">Stab him.</span></p>
+      <p
+        begin="01:08:57.125"
+        end="01:08:58.666"><span region="Default">Burn him.</span></p>
+      <p
+        begin="01:09:01.666"
+        end="01:09:03.583"><span region="Default">-Come on!<br/>-Burn!</span></p>
+      <p
+        begin="01:09:05.916"
+        end="01:09:08.750"><span region="Default">Throw everything in!</span></p>
+      <p
+        begin="01:09:09.750"
+        end="01:09:10.916"><span region="Default">Burn!</span></p>
+      <p
+        begin="01:09:11.000"
+        end="01:09:12.041"><span region="Default">Hey, here.</span></p>
+      <p
+        begin="01:09:24.041"
+        end="01:09:25.416"><span region="Default">Burn him!</span></p>
+      <p
+        begin="01:09:26.583"
+        end="01:09:29.583"><span region="Default">-Let's go home!<br/>-Let's go!</span></p>
+      <p
+        begin="01:10:07.416"
+        end="01:10:08.500"><span region="Default">Boss?</span></p>
+      <p
+        begin="01:10:28.791"
+        end="01:10:30.416"><span region="Default">What is it, Kawi?</span></p>
+      <p
+        begin="01:10:30.500"
+        end="01:10:31.750"><span region="Default">Don't worry.</span></p>
+      <p
+        begin="01:10:32.416"
+        end="01:10:34.291"><span region="Default">I'm not here to mess around.</span></p>
+      <p
+        begin="01:10:34.791"
+        end="01:10:36.958"><span region="Default">I'm relieved because</span></p>
+      <p
+        begin="01:10:37.041"
+        end="01:10:40.125"><span region="Default">you can't possibly cast any spells<br/>on me and Lawu anymore.</span></p>
+      <p
+        begin="01:10:40.208"
+        end="01:10:43.291"><span region="Default">Your favorite shaman,</span></p>
+      <p
+        begin="01:10:43.375"
+        end="01:10:45.041"><span region="Default">has become a corpse.</span></p>
+      <p
+        begin="01:10:47.250"
+        end="01:10:49.250"><span region="Default">You stupid son of a bitch!</span></p>
+      <p
+        begin="01:10:50.041"
+        end="01:10:51.416"><span region="Default">Why kill him?</span></p>
+      <p
+        begin="01:10:51.500"
+        end="01:10:53.833"><span region="Default">I've said it many times</span></p>
+      <p
+        begin="01:10:53.916"
+        end="01:10:57.041"><span region="Default">that I never ordered anyone<br/>to finish you off!</span></p>
+      <p
+        begin="01:10:58.583"
+        end="01:11:01.666"><span region="Default">I'm already confused, Kawi!<br/>Now I'm even more confused!</span></p>
+      <p
+        begin="01:11:12.333"
+        end="01:11:13.541"><span region="Default">Honey?</span></p>
+      <p
+        begin="01:11:13.625"
+        end="01:11:15.125"><span region="Default">Honey?</span></p>
+      <p
+        begin="01:11:15.208"
+        end="01:11:16.208"><span region="Default">Lawu?</span></p>
+      <p
+        begin="01:11:16.875"
+        end="01:11:17.916"><span region="Default">Wu. Lawu!</span></p>
+      <p
+        begin="01:11:18.833"
+        end="01:11:19.833"><span region="Default">Lawu?</span></p>
+      <p
+        begin="01:11:26.666"
+        end="01:11:27.500"><span region="Default">Nurse!</span></p>
+      <p
+        begin="01:11:34.875"
+        end="01:11:36.333"><span region="Default">Wu. Lawu!</span></p>
+      <p
+        begin="01:12:25.500"
+        end="01:12:30.125"><span region="Default">Look! Do you really think that Lesus<br/>can still send spells?</span></p>
+      <p
+        begin="01:12:31.125"
+        end="01:12:32.333"><span region="Default">Lawu!</span></p>
+      <p
+        begin="01:12:33.083"
+        end="01:12:34.416"><span region="Default">Honey!</span></p>
+      <p
+        begin="01:12:34.500"
+        end="01:12:37.458"><span region="Default">Lawu, wake up honey!</span></p>
+      <p
+        begin="01:12:41.416"
+        end="01:12:42.750"><span region="Default">Peace be upon you.</span></p>
+      <p
+        begin="01:12:42.833"
+        end="01:12:45.166"><span region="Default">And upon you too. Can I help you?</span></p>
+      <p
+        begin="01:12:45.250"
+        end="01:12:47.750"><span region="Default">I want to meet the chief.</span></p>
+      <p
+        begin="01:12:48.833"
+        end="01:12:50.416"><span region="Default">Please wait.</span></p>
+      <p
+        begin="01:12:50.500"
+        end="01:12:52.000"><span region="Default">Have a seat.</span></p>
+      <p
+        begin="01:12:52.083"
+        end="01:12:53.000"><span region="Default">Thank you.</span></p>
+      <p
+        begin="01:12:54.916"
+        end="01:12:56.166"><span region="Default">So…</span></p>
+      <p
+        begin="01:12:56.250"
+        end="01:12:59.041"><span region="Default">Who actually cast spells<br/>on Banteng and Lawu?</span></p>
+      <p
+        begin="01:12:59.875"
+        end="01:13:01.416"><span region="Default">Sorry, Boss.</span></p>
+      <p
+        begin="01:13:01.500"
+        end="01:13:04.958"><span region="Default">I still don't know who did it.</span></p>
+      <p
+        begin="01:13:05.708"
+        end="01:13:08.500"><span region="Default">But, whoever he is,</span></p>
+      <p
+        begin="01:13:08.583"
+        end="01:13:12.750"><span region="Default">I think, he acted on Suzzanna's request.</span></p>
+      <p
+        begin="01:13:13.500"
+        end="01:13:16.166"><span region="Default">Why do you think so?</span></p>
+      <p
+        begin="01:13:16.750"
+        end="01:13:17.875"><span region="Default">Do you think</span></p>
+      <p
+        begin="01:13:17.958"
+        end="01:13:20.916"><span region="Default">there's anyone else who has a grudge<br/>against us more than her?</span></p>
+      <p
+        begin="01:13:23.958"
+        end="01:13:27.041"><span region="Default">Kliwon! Tohir! Diran!</span></p>
+      <p
+        begin="01:13:27.125"
+        end="01:13:28.416"><span region="Default">-Yes!<br/>-Yes, Boss!</span></p>
+      <p
+        begin="01:13:28.500"
+        end="01:13:29.708"><span region="Default">Yes, Boss?</span></p>
+      <p
+        begin="01:13:32.666"
+        end="01:13:34.875"><span region="Default">Starting today, you three</span></p>
+      <p
+        begin="01:13:34.958"
+        end="01:13:37.916"><span region="Default">keep an eye on Suzzanna 24 hours a day.</span></p>
+      <p
+        begin="01:13:38.000"
+        end="01:13:42.416"><span region="Default">If you see her entertaining guests,<br/>or if there is someone suspicious,</span></p>
+      <p
+        begin="01:13:42.500"
+        end="01:13:43.625"><span region="Default">report to me immediately.</span></p>
+      <p
+        begin="01:13:44.333"
+        end="01:13:46.125"><span region="Default">That person might be the shaman.</span></p>
+      <p
+        begin="01:13:47.375"
+        end="01:13:49.208"><span region="Default">Or his men that Suzzanna hired.</span></p>
+      <p
+        begin="01:13:49.291"
+        end="01:13:51.041"><span region="Default">-Understood?<br/>-Understood, Boss.</span></p>
+      <p
+        begin="01:13:51.125"
+        end="01:13:54.875"><span region="Default">If you can tell me who the shaman is,</span></p>
+      <p
+        begin="01:13:54.958"
+        end="01:13:57.166"><span region="Default">I will triple your salary.</span></p>
+      <p
+        begin="01:13:57.833"
+        end="01:13:59.625"><span region="Default">So, keep your eyes open.</span></p>
+      <p
+        begin="01:14:04.166"
+        end="01:14:06.000"><span region="Default">Hey, you!</span></p>
+      <p
+        begin="01:14:10.666"
+        end="01:14:12.166"><span region="Default">What are you doing there?</span></p>
+      <p
+        begin="01:14:12.833"
+        end="01:14:13.875"><span region="Default">I…</span></p>
+      <p
+        begin="01:14:14.541"
+        end="01:14:18.250"><span region="Default">I want to ask about my father.<br/>Do you have time?</span></p>
+      <p
+        begin="01:14:18.333"
+        end="01:14:20.791"><span region="Default">-What's your name again?<br/>-Pramuja.</span></p>
+      <p
+        begin="01:14:20.875"
+        end="01:14:24.041"><span region="Default">I told you, your father is dead.</span></p>
+      <p
+        begin="01:14:25.458"
+        end="01:14:27.500"><span region="Default">So, I'm sorry.</span></p>
+      <p
+        begin="01:14:27.583"
+        end="01:14:29.416"><span region="Default">There's nothing I can do.</span></p>
+      <p
+        begin="01:14:33.708"
+        end="01:14:35.916"><span region="Default">Remember, open your eyes.</span></p>
+      <p
+        begin="01:14:36.000"
+        end="01:14:38.750"><span region="Default">We have to keep looking for the shaman.</span></p>
+      <p
+        begin="01:14:39.583"
+        end="01:14:43.750"><span region="Default">For triple salary, I'd even meet a ghost.</span></p>
+      <p
+        begin="01:14:45.333"
+        end="01:14:46.916"><span region="Default">But this is a dark shaman.</span></p>
+      <p
+        begin="01:14:47.000"
+        end="01:14:48.083"><span region="Default">What do you mean?</span></p>
+      <p
+        begin="01:14:48.166"
+        end="01:14:50.666"><span region="Default">Well, if it's a ghost, we can run away.</span></p>
+      <p
+        begin="01:14:50.750"
+        end="01:14:53.541"><span region="Default">But if it's a shaman,<br/>wherever we go, his spells will follow us.</span></p>
+      <p
+        begin="01:14:55.416"
+        end="01:14:56.750"><span region="Default">You're right.</span></p>
+      <p
+        begin="01:14:57.916"
+        end="01:14:59.041"><span region="Default">Gosh.</span></p>
+      <p
+        begin="01:15:01.000"
+        end="01:15:02.791"><span region="Default">I'm scared now.</span></p>
+      <p
+        begin="01:15:03.750"
+        end="01:15:04.625"><span region="Default">Gosh.</span></p>
+      <p
+        begin="01:15:04.708"
+        end="01:15:08.083"><span region="Default">Besides, how are we supposed to know</span></p>
+      <p
+        begin="01:15:08.166"
+        end="01:15:09.666"><span region="Default">if a person is a black magic shaman?</span></p>
+      <p
+        begin="01:15:09.750"
+        end="01:15:11.666"><span region="Default">My grandmother said,</span></p>
+      <p
+        begin="01:15:11.750"
+        end="01:15:16.291"><span region="Default">black magic shamans usually<br/>own a keris and a voodoo doll.</span></p>
+      <p
+        begin="01:15:17.250"
+        end="01:15:21.125"><span region="Default">Whoever owns those items<br/>must be the black magic shaman.</span></p>
+      <p
+        begin="01:15:22.625"
+        end="01:15:23.916"><span region="Default">I'm getting more and more scared.</span></p>
+      <p
+        begin="01:15:24.750"
+        end="01:15:25.666"><span region="Default">Me too.</span></p>
+      <p
+        begin="01:15:27.916"
+        end="01:15:29.000"><span region="Default">Tohir, come here.</span></p>
+      <p
+        begin="01:15:31.416"
+        end="01:15:33.666"><span region="Default">You and I, check over there, okay?</span></p>
+      <p
+        begin="01:15:34.333"
+        end="01:15:36.125"><span region="Default">Diran, you check over there.</span></p>
+      <p
+        begin="01:15:37.875"
+        end="01:15:39.166"><span region="Default">Why am I alone?</span></p>
+      <p
+        begin="01:15:39.250"
+        end="01:15:41.291"><span region="Default">No need to be afraid like that.</span></p>
+      <p
+        begin="01:15:41.375"
+        end="01:15:42.583"><span region="Default">Come on, Tohir.</span></p>
+      <p
+        begin="01:15:44.041"
+        end="01:15:45.791"><span region="Default">Tohir? Kliwon?</span></p>
+      <p
+        begin="01:15:47.416"
+        end="01:15:48.458"><span region="Default">Geez.</span></p>
+      <p
+        begin="01:15:54.916"
+        end="01:15:56.041"><span region="Default">Suzzanna.</span></p>
+      <p
+        begin="01:15:56.583"
+        end="01:15:59.250"><span region="Default">-Why are you still here?<br/>-I need to tell you something.</span></p>
+      <p
+        begin="01:16:13.250"
+        end="01:16:14.833"><span region="Default">I met Bisman earlier,</span></p>
+      <p
+        begin="01:16:14.916"
+        end="01:16:18.833"><span region="Default">and I heard his men think<br/>that you hired a black magic shaman</span></p>
+      <p
+        begin="01:16:18.916"
+        end="01:16:20.125"><span region="Default">to put a spell on them.</span></p>
+      <p
+        begin="01:16:21.833"
+        end="01:16:25.791"><span region="Default">Now, they have sent people to spy on you.<br/>We have to get out of here immediately.</span></p>
+      <p
+        begin="01:16:27.291"
+        end="01:16:28.666"><span region="Default">You are not safe alone.</span></p>
+      <p
+        begin="01:16:29.750"
+        end="01:16:31.500"><span region="Default">I cannot leave, Pramuja.</span></p>
+      <p
+        begin="01:16:31.583"
+        end="01:16:33.458"><span region="Default">What are you thinking, Suzzanna?</span></p>
+      <p
+        begin="01:16:34.875"
+        end="01:16:36.666"><span region="Default">You can't fight them alone.</span></p>
+      <p
+        begin="01:16:37.208"
+        end="01:16:40.041"><span region="Default">They're crazy for thinking<br/>that you cast a spell on them.</span></p>
+      <p
+        begin="01:16:40.958"
+        end="01:16:42.708"><span region="Default">You don't understand.</span></p>
+      <p
+        begin="01:16:46.208"
+        end="01:16:47.291"><span region="Default">You better go.</span></p>
+      <p
+        begin="01:16:48.458"
+        end="01:16:50.625"><span region="Default">We'll meet again after everything is done.</span></p>
+      <p
+        begin="01:16:50.708"
+        end="01:16:52.583"><span region="Default">I don't understand what you are thinking.</span></p>
+      <p
+        begin="01:16:57.208"
+        end="01:16:58.291"><span region="Default">A crow?</span></p>
+      <p
+        begin="01:17:37.458"
+        end="01:17:40.500"><span region="Default">Why did you have to learn things like this<br/>from Aunt Gayatri?</span></p>
+      <p
+        begin="01:17:40.583"
+        end="01:17:42.208"><span region="Default">This is the only way.</span></p>
+      <p
+        begin="01:17:42.291"
+        end="01:17:44.166"><span region="Default">The only way for whom?</span></p>
+      <p
+        begin="01:17:46.083"
+        end="01:17:48.250"><span region="Default">For people who don't<br/>believe in the power of God?</span></p>
+      <p
+        begin="01:17:49.208"
+        end="01:17:51.041"><span region="Default">You're not that kind of person, Suzzanna.</span></p>
+      <p
+        begin="01:17:51.125"
+        end="01:17:53.833"><span region="Default">Not everyone is as unfortunate as I am.</span></p>
+      <p
+        begin="01:17:53.916"
+        end="01:17:58.083"><span region="Default">And not everyone who suffers misfortune<br/>chooses this path.</span></p>
+      <p
+        begin="01:18:01.291"
+        end="01:18:04.000"><span region="Default">What kind of path do<br/>you think I should take?</span></p>
+      <p
+        begin="01:18:06.291"
+        end="01:18:07.125"><span region="Default">Pray?</span></p>
+      <p
+        begin="01:18:08.375"
+        end="01:18:10.833"><span region="Default">And continue to pray for God's protection?</span></p>
+      <p
+        begin="01:18:10.916"
+        end="01:18:11.875"><span region="Default">Suzzanna.</span></p>
+      <p
+        begin="01:18:13.833"
+        end="01:18:16.875"><span region="Default">For years I prayed<br/>to Him with all my heart.</span></p>
+      <p
+        begin="01:18:17.708"
+        end="01:18:19.125"><span region="Default">Believing that He exists.</span></p>
+      <p
+        begin="01:18:22.208"
+        end="01:18:25.541"><span region="Default">Believing in His strength and power.</span></p>
+      <p
+        begin="01:18:25.625"
+        end="01:18:27.583"><span region="Default">That He will always protect me.</span></p>
+      <p
+        begin="01:18:28.875"
+        end="01:18:31.500"><span region="Default">And protect the people I love.</span></p>
+      <p
+        begin="01:18:35.000"
+        end="01:18:36.083"><span region="Default">My father.</span></p>
+      <p
+        begin="01:18:37.416"
+        end="01:18:38.416"><span region="Default">My mother.</span></p>
+      <p
+        begin="01:18:41.416"
+        end="01:18:42.750"><span region="Default">But then what?</span></p>
+      <p
+        begin="01:18:44.458"
+        end="01:18:47.708"><span region="Default">When evil people killed my father,</span></p>
+      <p
+        begin="01:18:48.541"
+        end="01:18:50.000"><span region="Default">and oppressed my mother…</span></p>
+      <p
+        begin="01:18:52.375"
+        end="01:18:54.166"><span region="Default">Did God help me?</span></p>
+      <p
+        begin="01:18:54.875"
+        end="01:18:56.333"><span region="Default">No.</span></p>
+      <p
+        begin="01:18:59.916"
+        end="01:19:02.208"><span region="Default">-Suzzanna, you…<br/>-Miss Suzzanna?</span></p>
+      <p
+        begin="01:19:09.958"
+        end="01:19:11.083"><span region="Default">What's wrong?</span></p>
+      <p
+        begin="01:19:12.916"
+        end="01:19:15.875"><span region="Default">I thought I heard a man's voice.</span></p>
+      <p
+        begin="01:19:16.875"
+        end="01:19:18.416"><span region="Default">Is there anyone else here?</span></p>
+      <p
+        begin="01:19:19.666"
+        end="01:19:21.125"><span region="Default">There's no one else here.</span></p>
+      <p
+        begin="01:19:24.000"
+        end="01:19:26.750"><span region="Default">If you want, please see for yourself.</span></p>
+      <p
+        begin="01:19:27.583"
+        end="01:19:28.541"><span region="Default">Yes.</span></p>
+      <p
+        begin="01:19:29.125"
+        end="01:19:30.041"><span region="Default">Excuse me.</span></p>
+      <p
+        begin="01:20:20.416"
+        end="01:20:21.875"><span region="Default">What's wrong?</span></p>
+      <p
+        begin="01:20:22.916"
+        end="01:20:25.875"><span region="Default">What you said is true, Miss.<br/>There's no one else here.</span></p>
+      <p
+        begin="01:20:28.750"
+        end="01:20:30.708"><span region="Default">Sit down, I'll make you a drink.</span></p>
+      <p
+        begin="01:20:30.791"
+        end="01:20:32.958"><span region="Default">No thank you, I'm full.</span></p>
+      <p
+        begin="01:20:34.125"
+        end="01:20:35.208"><span region="Default">Gosh.</span></p>
+      <p
+        begin="01:20:47.875"
+        end="01:20:48.916"><span region="Default">Kliwon!</span></p>
+      <p
+        begin="01:20:50.250"
+        end="01:20:52.083"><span region="Default">Sorry, Tohir! Sorry, sorry.</span></p>
+      <p
+        begin="01:20:54.375"
+        end="01:20:57.041"><span region="Default">Kliwon? Tohir!</span></p>
+      <p
+        begin="01:20:57.958"
+        end="01:20:59.791"><span region="Default">Danger. Danger!</span></p>
+      <p
+        begin="01:20:59.875"
+        end="01:21:01.708"><span region="Default">Ghost!</span></p>
+      <p
+        begin="01:21:01.791"
+        end="01:21:03.833"><span region="Default">-Ghost…<br/>-This is Tohir, not a ghost!</span></p>
+      <p
+        begin="01:21:04.583"
+        end="01:21:06.333"><span region="Default">I know who the black magic shaman is.</span></p>
+      <p
+        begin="01:21:06.416"
+        end="01:21:07.250"><span region="Default">-Really?<br/>-Who?</span></p>
+      <p
+        begin="01:21:07.333"
+        end="01:21:09.916"><span region="Default">Let's just report it to the boss,<br/>shall we?</span></p>
+      <p
+        begin="01:21:10.000"
+        end="01:21:12.208"><span region="Default">Hey, Diran, wait!</span></p>
+      <p
+        begin="01:21:12.291"
+        end="01:21:14.166"><span region="Default">You're not the only one<br/>who wants a raise! Hey!</span></p>
+      <p
+        begin="01:21:15.875"
+        end="01:21:17.125"><span region="Default">He figured it out.</span></p>
+      <p
+        begin="01:21:18.333"
+        end="01:21:20.791"><span region="Default">He will report to Bisman soon.</span></p>
+      <p
+        begin="01:21:21.458"
+        end="01:21:23.125"><span region="Default">Don't you worry.</span></p>
+      <p
+        begin="01:21:24.041"
+        end="01:21:26.625"><span region="Default">He won't be able to tell anyone.</span></p>
+      <p
+        begin="01:21:49.541"
+        end="01:21:51.541"><span region="Default">I'm not as nice as you think.</span></p>
+      <p
+        begin="01:21:53.208"
+        end="01:21:54.333"><span region="Default">You better go.</span></p>
+      <p
+        begin="01:22:01.541"
+        end="01:22:02.625"><span region="Default">Leave, Pramuja.</span></p>
+      <p
+        begin="01:22:41.416"
+        end="01:22:43.291"><span region="Default">I have no business with you guys.</span></p>
+      <p
+        begin="01:22:46.791"
+        end="01:22:48.750"><span region="Default">DANGDUT NIGHT CLUB</span></p>
+      <p
+        begin="01:23:07.375"
+        end="01:23:09.708"><span region="Default">What were you doing at Suzzanna's house?</span></p>
+      <p
+        begin="01:23:11.791"
+        end="01:23:14.291"><span region="Default">Protecting her from people like you.</span></p>
+      <p
+        begin="01:23:16.375"
+        end="01:23:18.125"><span region="Default">Who's protecting who?</span></p>
+      <p
+        begin="01:23:18.875"
+        end="01:23:21.916"><span region="Default">You can't even protect yourself.</span></p>
+      <p
+        begin="01:23:23.083"
+        end="01:23:25.333"><span region="Default">I am in charge here.</span></p>
+      <p
+        begin="01:23:26.125"
+        end="01:23:28.958"><span region="Default">And I will destroy<br/>whoever goes against me.</span></p>
+      <p
+        begin="01:23:31.083"
+        end="01:23:34.541"><span region="Default">I am not afraid of people like you.</span></p>
+      <p
+        begin="01:24:35.708"
+        end="01:24:36.958"><span region="Default">What happened?</span></p>
+      <p
+        begin="01:24:37.041"
+        end="01:24:38.958"><span region="Default">I got pushed by Kliwon, Boss.</span></p>
+      <p
+        begin="01:24:39.041"
+        end="01:24:40.291"><span region="Default">What are you doing here?</span></p>
+      <p
+        begin="01:24:40.916"
+        end="01:24:42.958"><span region="Default">Aren't you supposed<br/>to be watching Suzzanna's house?</span></p>
+      <p
+        begin="01:24:44.666"
+        end="01:24:46.500"><span region="Default">I have important news, Boss.</span></p>
+      <p
+        begin="01:24:46.583"
+        end="01:24:48.958"><span region="Default">-You definitely won't believe it.<br/>-What news?</span></p>
+      <p
+        begin="01:24:49.041"
+        end="01:24:51.458"><span region="Default">I know who the black magic shaman is.</span></p>
+      <p
+        begin="01:24:53.958"
+        end="01:24:55.000"><span region="Default">Who is it?</span></p>
+      <p
+        begin="01:24:55.083"
+        end="01:24:56.541"><span region="Default">The black magic shaman is…</span></p>
+      <p
+        begin="01:24:59.208"
+        end="01:25:00.250"><span region="Default">Don't mess with me!</span></p>
+      <p
+        begin="01:25:01.250"
+        end="01:25:02.500"><span region="Default">Quickly, tell me who!</span></p>
+      <p
+        begin="01:25:02.583"
+        end="01:25:05.208"><span region="Default">Well, Boss, the black magic shaman is…</span></p>
+      <p
+        begin="01:25:05.916"
+        end="01:25:07.625"><span region="Default">Can you talk or not?</span></p>
+      <p
+        begin="01:25:07.708"
+        end="01:25:09.083"><span region="Default">Yes, I can.</span></p>
+      <p
+        begin="01:25:09.166"
+        end="01:25:10.875"><span region="Default">The black magic shaman is…</span></p>
+      <p
+        begin="01:25:13.000"
+        end="01:25:15.250"><span region="Default">You two, weren't you with him earlier?</span></p>
+      <p
+        begin="01:25:15.333"
+        end="01:25:16.541"><span region="Default">Yes, Boss.</span></p>
+      <p
+        begin="01:25:16.625"
+        end="01:25:18.166"><span region="Default">So who is the shaman?</span></p>
+      <p
+        begin="01:25:18.250"
+        end="01:25:20.583"><span region="Default">-I don't know, Boss.<br/>-I don't know either.</span></p>
+      <p
+        begin="01:25:20.666"
+        end="01:25:23.125"><span region="Default">Did you see anyone enter Suzzanna's house?</span></p>
+      <p
+        begin="01:25:23.208"
+        end="01:25:24.916"><span region="Default">-No.<br/>-No, Boss.</span></p>
+      <p
+        begin="01:25:25.000"
+        end="01:25:27.333"><span region="Default">One is stuttering,<br/>and the other two don't know anything.</span></p>
+      <p
+        begin="01:25:27.416"
+        end="01:25:30.291"><span region="Default">It's useless for me<br/>to talk to stupid people like you.</span></p>
+      <p
+        begin="01:25:34.708"
+        end="01:25:35.583"><span region="Default">Hey!</span></p>
+      <p
+        begin="01:25:36.166"
+        end="01:25:37.958"><span region="Default">Do you want to get us killed?</span></p>
+      <p
+        begin="01:25:38.041"
+        end="01:25:40.208"><span region="Default">Huh? We can get killed?</span></p>
+      <p
+        begin="01:25:40.291"
+        end="01:25:42.375"><span region="Default">We might if this keeps happening.</span></p>
+      <p
+        begin="01:25:42.458"
+        end="01:25:46.125"><span region="Default">Why would you report to the boss<br/>without knowing who the shaman is?</span></p>
+      <p
+        begin="01:25:46.833"
+        end="01:25:49.375"><span region="Default">I actually know. I saw it.</span></p>
+      <p
+        begin="01:25:50.333"
+        end="01:25:54.416"><span region="Default">That's why I want to talk to the boss.<br/>But it couldn't come out.</span></p>
+      <p
+        begin="01:25:54.500"
+        end="01:25:56.541"><span region="Default">Can't you just write<br/>the name of the shaman?</span></p>
+      <p
+        begin="01:25:57.208"
+        end="01:25:58.541"><span region="Default">Here, write it down.</span></p>
+      <p
+        begin="01:25:58.625"
+        end="01:26:00.375"><span region="Default">I can't read or write.</span></p>
+      <p
+        begin="01:26:00.458"
+        end="01:26:03.583"><span region="Default">Wow, you're stuttering and illiterate.</span></p>
+      <p
+        begin="01:26:03.666"
+        end="01:26:05.250"><span region="Default">Can you read and write?</span></p>
+      <p
+        begin="01:26:06.000"
+        end="01:26:08.000"><span region="Default">-I can't.<br/>-Geez.</span></p>
+      <p
+        begin="01:26:08.583"
+        end="01:26:10.875"><span region="Default">I'm having a hard<br/>time listening to you two.</span></p>
+      <p
+        begin="01:26:10.958"
+        end="01:26:12.291"><span region="Default">How are we supposed to improve,</span></p>
+      <p
+        begin="01:26:12.375"
+        end="01:26:14.541"><span region="Default">if the quality of our human resources<br/>is this low?</span></p>
+      <p
+        begin="01:26:21.000"
+        end="01:26:22.791"><span region="Default">What's wrong with them?</span></p>
+      <p
+        begin="01:26:22.875"
+        end="01:26:24.666"><span region="Default">I just wanted to tell them</span></p>
+      <p
+        begin="01:26:24.750"
+        end="01:26:26.791"><span region="Default">that the black magic shaman is Suzzanna.</span></p>
+      <p
+        begin="01:26:27.375"
+        end="01:26:29.291"><span region="Default">Huh, I said it?</span></p>
+      <p
+        begin="01:26:30.125"
+        end="01:26:32.916"><span region="Default">I think she put a spell on me.</span></p>
+      <p
+        begin="01:28:42.833"
+        end="01:28:45.666"><span region="Default">Scattered from the world,</span></p>
+      <p
+        begin="01:28:45.750"
+        end="01:28:47.250"><span region="Default">everything lies in ruin.</span></p>
+      <p
+        begin="01:29:01.541"
+        end="01:29:03.875"><span region="Default">Purged, without a trace.</span></p>
+      <p
+        begin="01:30:25.791"
+        end="01:30:26.833"><span region="Default">Not bad.</span></p>
+      <p
+        begin="01:30:27.541"
+        end="01:30:29.291"><span region="Default">You spent months away from this village.</span></p>
+      <p
+        begin="01:30:30.250"
+        end="01:30:32.041"><span region="Default">And mastered<br/>witchcraft before coming home.</span></p>
+      <p
+        begin="01:30:32.666"
+        end="01:30:33.666"><span region="Default">Too bad.</span></p>
+      <p
+        begin="01:30:33.750"
+        end="01:30:36.375"><span region="Default">You think too highly of yourself.</span></p>
+      <p
+        begin="01:30:37.083"
+        end="01:30:39.666"><span region="Default">You think you can beat everyone.</span></p>
+      <p
+        begin="01:30:39.750"
+        end="01:30:42.333"><span region="Default">I have never studied witchcraft.</span></p>
+      <p
+        begin="01:30:43.291"
+        end="01:30:44.708"><span region="Default">But just so you know,</span></p>
+      <p
+        begin="01:30:44.791"
+        end="01:30:46.291"><span region="Default">from Ponorogo,</span></p>
+      <p
+        begin="01:30:46.916"
+        end="01:30:48.500"><span region="Default">up to Banyuwangi,</span></p>
+      <p
+        begin="01:30:49.625"
+        end="01:30:52.000"><span region="Default">I know many shamans.</span></p>
+      <p
+        begin="01:30:53.291"
+        end="01:30:56.708"><span region="Default">And every one gave me something<br/>to protect myself.</span></p>
+      <p
+        begin="01:30:58.708"
+        end="01:31:00.291"><span region="Default">It's okay.</span></p>
+      <p
+        begin="01:31:00.375"
+        end="01:31:02.625"><span region="Default">Let's just forget the past.</span></p>
+      <p
+        begin="01:31:03.833"
+        end="01:31:05.791"><span region="Default">You should focus</span></p>
+      <p
+        begin="01:31:05.875"
+        end="01:31:07.625"><span region="Default">on having a better future.</span></p>
+      <p
+        begin="01:31:08.375"
+        end="01:31:10.375"><span region="Default">By accepting my proposal.</span></p>
+      <p
+        begin="01:31:14.166"
+        end="01:31:16.208"><span region="Default">I'm still waiting</span></p>
+      <p
+        begin="01:31:16.791"
+        end="01:31:19.708"><span region="Default">for you to complete<br/>the requirements I told you.</span></p>
+      <p
+        begin="01:31:20.708"
+        end="01:31:22.750"><span region="Default">I've helped finish off two men.</span></p>
+      <p
+        begin="01:31:23.916"
+        end="01:31:26.916"><span region="Default">There is one more<br/>left, who is still alive.</span></p>
+      <p
+        begin="01:31:48.291"
+        end="01:31:52.666"><span region="Default">Tomorrow morning, take me to Ponorogo.<br/>I want to visit Mbah Kodrat.</span></p>
+      <p
+        begin="01:31:55.666"
+        end="01:31:57.166"><span region="Default">You realize,</span></p>
+      <p
+        begin="01:31:57.250"
+        end="01:32:03.166"><span region="Default">what could happen if I put<br/>a soul-split spell on your future wife?</span></p>
+      <p
+        begin="01:32:03.250"
+        end="01:32:06.083"><span region="Default">-I understand.<br/>-Won't you be disappointed?</span></p>
+      <p
+        begin="01:32:06.666"
+        end="01:32:09.083"><span region="Default">That you're marrying a completely<br/>different woman?</span></p>
+      <p
+        begin="01:32:10.208"
+        end="01:32:11.375"><span region="Default">No, Mbah.</span></p>
+      <p
+        begin="01:32:12.208"
+        end="01:32:13.583"><span region="Default">It's better that way.</span></p>
+      <p
+        begin="01:32:14.666"
+        end="01:32:19.041"><span region="Default">Instead of having her recognize me,<br/>and hate me all my life.</span></p>
+      <p
+        begin="01:33:39.958"
+        end="01:33:42.166"><span region="Default">Do you know where you are?</span></p>
+      <p
+        begin="01:33:48.250"
+        end="01:33:49.708"><span region="Default">What's your name?</span></p>
+      <p
+        begin="01:33:53.000"
+        end="01:33:55.000"><span region="Default">If you don't know what your name is,</span></p>
+      <p
+        begin="01:33:55.666"
+        end="01:33:58.708"><span region="Default">I will give you the name Suzzanna.</span></p>
+      <p
+        begin="01:34:23.791"
+        end="01:34:25.416"><span region="Default">You should eat.</span></p>
+      <p
+        begin="01:34:26.458"
+        end="01:34:28.708"><span region="Default">You haven't eaten since yesterday.</span></p>
+      <p
+        begin="01:34:52.333"
+        end="01:34:54.166"><span region="Default">Why did you come back here?</span></p>
+      <p
+        begin="01:34:55.083"
+        end="01:34:56.791"><span region="Default">Because I still want to find my father.</span></p>
+      <p
+        begin="01:34:56.875"
+        end="01:34:58.250"><span region="Default">What is your mother's name?</span></p>
+      <p
+        begin="01:34:58.916"
+        end="01:35:00.041"><span region="Default">Astuti.</span></p>
+      <p
+        begin="01:35:06.666"
+        end="01:35:07.875"><span region="Default">Here's the photo.</span></p>
+      <p
+        begin="01:35:07.958"
+        end="01:35:11.458"><span region="Default">But I don't have a photo of my father.<br/>She said my father was a sailor.</span></p>
+      <p
+        begin="01:35:12.500"
+        end="01:35:15.666"><span region="Default">And he had an accident<br/>when she gave birth to me.</span></p>
+      <p
+        begin="01:35:26.833"
+        end="01:35:28.291"><span region="Default">Your father lied.</span></p>
+      <p
+        begin="01:35:30.208"
+        end="01:35:31.375"><span region="Default">He was not a sailor.</span></p>
+      <p
+        begin="01:35:32.125"
+        end="01:35:34.166"><span region="Default">His name is not Kasman either.</span></p>
+      <p
+        begin="01:35:34.250"
+        end="01:35:38.083"><span region="Default">He faked his name<br/>and claimed to be a sailor,</span></p>
+      <p
+        begin="01:35:38.166"
+        end="01:35:41.291"><span region="Default">to find an excuse to<br/>leave your mother often.</span></p>
+      <p
+        begin="01:35:41.375"
+        end="01:35:43.750"><span region="Default">Because he had lovers everywhere.</span></p>
+      <p
+        begin="01:35:44.500"
+        end="01:35:48.458"><span region="Default">After that, your father left this village,<br/>and never came back again.</span></p>
+      <p
+        begin="01:35:49.333"
+        end="01:35:50.541"><span region="Default">Do you know where my father is?</span></p>
+      <p
+        begin="01:35:50.625"
+        end="01:35:56.208"><span region="Default">I'll tell you where your father is, only<br/>after you answer my questions honestly.</span></p>
+      <p
+        begin="01:35:56.291"
+        end="01:35:58.333"><span region="Default">God willing, I will answer honestly, sir.</span></p>
+      <p
+        begin="01:36:00.041"
+        end="01:36:02.708"><span region="Default">What is your real purpose<br/>in coming to Karang Setan?</span></p>
+      <p
+        begin="01:36:03.791"
+        end="01:36:05.958"><span region="Default">-To look for my father.<br/>-Liar.</span></p>
+      <p
+        begin="01:36:06.541"
+        end="01:36:10.041"><span region="Default">-You came here for Suzzanna, didn't you?<br/>-No.</span></p>
+      <p
+        begin="01:36:10.125"
+        end="01:36:13.583"><span region="Default">What is your relationship with her?<br/>Why do you feel the need to come here?</span></p>
+      <p
+        begin="01:36:13.666"
+        end="01:36:15.333"><span region="Default">Do you love her?</span></p>
+      <p
+        begin="01:36:22.291"
+        end="01:36:25.041"><span region="Default">Why are you asking about<br/>my relationship with Suzzanna?</span></p>
+      <p
+        begin="01:36:25.625"
+        end="01:36:28.208"><span region="Default">Because soon she will marry me.</span></p>
+      <p
+        begin="01:36:29.750"
+        end="01:36:34.166"><span region="Default">And I have to make sure<br/>no one else has any objections.</span></p>
+      <p
+        begin="01:36:34.250"
+        end="01:36:36.541"><span region="Default">Suzzanna will not marry you.</span></p>
+      <p
+        begin="01:36:37.625"
+        end="01:36:39.333"><span region="Default">Unless you force her.</span></p>
+      <p
+        begin="01:36:40.208"
+        end="01:36:41.875"><span region="Default">As long as I am alive,</span></p>
+      <p
+        begin="01:36:42.666"
+        end="01:36:45.875"><span region="Default">I will make sure that will never happen.</span></p>
+      <p
+        begin="01:36:46.666"
+        end="01:36:48.208"><span region="Default">We shall see.</span></p>
+      <p
+        begin="01:37:04.666"
+        end="01:37:06.041"><span region="Default">Suzzanna.</span></p>
+      <p
+        begin="01:37:07.500"
+        end="01:37:10.583"><span region="Default">Put down the broom. We'll talk inside.</span></p>
+      <p
+        begin="01:37:14.416"
+        end="01:37:15.625"><span region="Default">Suzzanna?</span></p>
+      <p
+        begin="01:37:16.625"
+        end="01:37:18.125"><span region="Default">Who are you?</span></p>
+      <p
+        begin="01:37:22.000"
+        end="01:37:25.208"><span region="Default">Just wait inside. Okay?</span></p>
+      <p
+        begin="01:37:35.208"
+        end="01:37:36.750"><span region="Default">What did you do to her?</span></p>
+      <p
+        begin="01:37:37.791"
+        end="01:37:40.041"><span region="Default">Which shaman did you ask<br/>to corrupt her mind?</span></p>
+      <p
+        begin="01:37:40.125"
+        end="01:37:41.291"><span region="Default">None of your business.</span></p>
+      <p
+        begin="01:37:42.041"
+        end="01:37:44.250"><span region="Default">Soon, she will be my wife.</span></p>
+      <p
+        begin="01:37:51.625"
+        end="01:37:52.833"><span region="Default">Enough.</span></p>
+      <p
+        begin="01:37:53.458"
+        end="01:37:55.541"><span region="Default">Let's just finish him off, Boss.</span></p>
+      <p
+        begin="01:37:56.208"
+        end="01:37:59.416"><span region="Default">No. Give him supplies<br/>to go home to Kalinegoro.</span></p>
+      <p
+        begin="01:38:00.958"
+        end="01:38:02.041"><span region="Default">Take him.</span></p>
+      <p
+        begin="01:38:42.333"
+        end="01:38:43.500"><span region="Default">Who are you?</span></p>
+      <p
+        begin="01:38:46.541"
+        end="01:38:47.791"><span region="Default">You're an officer, right?</span></p>
+      <p
+        begin="01:38:48.708"
+        end="01:38:50.875"><span region="Default">What are you doing peeking into<br/>the bridal chamber like this?</span></p>
+      <p
+        begin="01:38:50.958"
+        end="01:38:52.291"><span region="Default">Do you want to be beaten up by the chief?</span></p>
+      <p
+        begin="01:38:52.375"
+        end="01:38:55.083"><span region="Default">No! I don't mean to harm Suzzanna.</span></p>
+      <p
+        begin="01:38:55.166"
+        end="01:38:58.000"><span region="Default">-I swear!<br/>-If you don't mean any harm,</span></p>
+      <p
+        begin="01:38:58.916"
+        end="01:39:00.208"><span region="Default">why are you acting like a thief?</span></p>
+      <p
+        begin="01:39:00.291"
+        end="01:39:03.375"><span region="Default">And what are you doing here? Perhaps…</span></p>
+      <p
+        begin="01:39:04.125"
+        end="01:39:07.291"><span region="Default">-Are you a thief calling me a thief?<br/>-I came here to help Suzzanna.</span></p>
+      <p
+        begin="01:39:07.375"
+        end="01:39:08.541"><span region="Default">Me too!</span></p>
+      <p
+        begin="01:39:10.083"
+        end="01:39:11.791"><span region="Default">-Can you help me?<br/>-Yes.</span></p>
+      <p
+        begin="01:39:24.583"
+        end="01:39:25.875"><span region="Default">VILLAGE TRANSPORTATION</span></p>
+      <p
+        begin="01:39:33.500"
+        end="01:39:34.625"><span region="Default">-Come on, pick her up.<br/>-Come on.</span></p>
+      <p
+        begin="01:39:34.708"
+        end="01:39:36.541"><span region="Default">Watch her head.</span></p>
+      <p
+        begin="01:39:36.625"
+        end="01:39:37.666"><span region="Default">Watch it.</span></p>
+      <p
+        begin="01:39:39.000"
+        end="01:39:40.208"><span region="Default">Pull her up.</span></p>
+      <p
+        begin="01:39:44.916"
+        end="01:39:47.750"><span region="Default">-So you guys have repented?<br/>-Whatever, shut up.</span></p>
+      <p
+        begin="01:40:00.208"
+        end="01:40:01.583"><span region="Default">WELCOME TO KARANG SETAN VILLAGE</span></p>
+      <p
+        begin="01:40:06.041"
+        end="01:40:07.083"><span region="Default">Auntie?</span></p>
+      <p
+        begin="01:40:17.916"
+        end="01:40:19.083"><span region="Default">Suzzanna?</span></p>
+      <p
+        begin="01:40:20.041"
+        end="01:40:22.958"><span region="Default">Sorry, Auntie. I had to come back.</span></p>
+      <p
+        begin="01:40:23.708"
+        end="01:40:24.958"><span region="Default">For Suzzanna's sake.</span></p>
+      <p
+        begin="01:40:25.583"
+        end="01:40:27.083"><span region="Default">Someone made her lose her memory.</span></p>
+      <p
+        begin="01:40:27.166"
+        end="01:40:30.208"><span region="Default">The soul-split spell.</span></p>
+      <p
+        begin="01:40:31.833"
+        end="01:40:34.166"><span region="Default">Her body is strong enough<br/>not to drive her crazy.</span></p>
+      <p
+        begin="01:40:35.208"
+        end="01:40:36.750"><span region="Default">But the treatment you taught me…</span></p>
+      <p
+        begin="01:40:36.833"
+        end="01:40:38.250"><span region="Default">I haven't mastered it yet.</span></p>
+      <p
+        begin="01:40:38.333"
+        end="01:40:42.041"><span region="Default">You don't need to<br/>learn strange things like me.</span></p>
+      <p
+        begin="01:40:42.916"
+        end="01:40:45.083"><span region="Default">Come on. Come inside.</span></p>
+      <p
+        begin="01:40:46.125"
+        end="01:40:47.041"><span region="Default">Come.</span></p>
+      <p
+        begin="01:40:50.708"
+        end="01:40:51.791"><span region="Default">Come on, dear.</span></p>
+      <p
+        begin="01:40:53.166"
+        end="01:40:54.291"><span region="Default">Come on.</span></p>
+      <p
+        begin="01:41:03.208"
+        end="01:41:05.875"><span region="Default">If you don't mind,<br/>I'll leave Suzzanna here for now.</span></p>
+      <p
+        begin="01:41:07.583"
+        end="01:41:10.125"><span region="Default">I have something to do in Karang Setan.</span></p>
+      <p
+        begin="01:41:15.041"
+        end="01:41:16.958"><span region="Default">With pleasure, my boy.</span></p>
+      <p
+        begin="01:41:19.208"
+        end="01:41:20.708"><span region="Default">Be careful, okay?</span></p>
+      <p
+        begin="01:41:27.083"
+        end="01:41:28.916"><span region="Default">Forgive me, will you?</span></p>
+      <p
+        begin="01:41:33.583"
+        end="01:41:36.166"><span region="Default">If you still want to stay here,</span></p>
+      <p
+        begin="01:41:37.458"
+        end="01:41:39.041"><span region="Default">I won't kick you out.</span></p>
+      <p
+        begin="01:41:40.416"
+        end="01:41:43.458"><span region="Default">My house is your house too.</span></p>
+      <p
+        begin="01:42:22.416"
+        end="01:42:23.291"><span region="Default">Who are you?</span></p>
+      <p
+        begin="01:42:23.375"
+        end="01:42:24.875"><span region="Default">Who the hell are you?</span></p>
+      <p
+        begin="01:42:36.375"
+        end="01:42:39.708"><span region="Default">Do you want to know what dying feels like?</span></p>
+      <p
+        begin="01:42:40.708"
+        end="01:42:43.083"><span region="Default">Feel it</span></p>
+      <p
+        begin="01:42:43.166"
+        end="01:42:45.583"><span region="Default">before you die.</span></p>
+      <p
+        begin="01:43:16.208"
+        end="01:43:17.583"><span region="Default">Tell me.</span></p>
+      <p
+        begin="01:43:17.666"
+        end="01:43:20.750"><span region="Default">Who told you to bother Suzzanna?</span></p>
+      <p
+        begin="01:43:21.541"
+        end="01:43:23.291"><span region="Default">It's none of your business!</span></p>
+      <p
+        begin="01:43:24.666"
+        end="01:43:26.208"><span region="Default">It sure is.</span></p>
+      <p
+        begin="01:43:27.083"
+        end="01:43:28.750"><span region="Default">Whoever decides</span></p>
+      <p
+        begin="01:43:28.833"
+        end="01:43:31.750"><span region="Default">to bother Suzzanna<br/>will be dealing with me.</span></p>
+      <p
+        begin="01:44:00.291"
+        end="01:44:01.208"><span region="Default">Oh, no.</span></p>
+      <p
+        begin="01:44:37.208"
+        end="01:44:40.958"><span region="Default">Now… It's time for you to die.</span></p>
+      <p
+        begin="01:44:44.750"
+        end="01:44:47.958"><span region="Default">Die, Gayatri. Die!</span></p>
+      <p
+        begin="01:44:50.458"
+        end="01:44:56.791"><span region="Default">Your time here is over.</span></p>
+      <p
+        begin="01:45:01.208"
+        end="01:45:02.500"><span region="Default">Hey!</span></p>
+      <p
+        begin="01:45:03.291"
+        end="01:45:09.750"><span region="Default">I know your soul is lodged in your throat.</span></p>
+      <p
+        begin="01:45:14.041"
+        end="01:45:15.416"><span region="Default">Once I bind you,</span></p>
+      <p
+        begin="01:45:15.958"
+        end="01:45:18.208"><span region="Default">you will become my puppet.</span></p>
+      <p
+        begin="01:45:21.166"
+        end="01:45:26.041"><span region="Default">Face the full moon's light,</span></p>
+      <p
+        begin="01:45:26.125"
+        end="01:45:27.958"><span region="Default">old shaman!</span></p>
+      <p
+        begin="01:46:34.333"
+        end="01:46:35.416"><span region="Default">Tohir.</span></p>
+      <p
+        begin="01:46:35.500"
+        end="01:46:36.875"><span region="Default">How did it go?</span></p>
+      <p
+        begin="01:46:37.583"
+        end="01:46:39.500"><span region="Default">-I can't find her.<br/>-You can't?</span></p>
+      <p
+        begin="01:46:40.541"
+        end="01:46:41.625"><span region="Default">Hey, where's Kliwon?</span></p>
+      <p
+        begin="01:46:41.708"
+        end="01:46:43.625"><span region="Default">Getting dolled up. Wait, what?</span></p>
+      <p
+        begin="01:46:43.708"
+        end="01:46:45.625"><span region="Default">You think Kliwon is<br/>the one getting married?</span></p>
+      <p
+        begin="01:46:45.708"
+        end="01:46:49.416"><span region="Default">-Sorry, Boss, I mean…<br/>-Has Suzzanna finished her makeup?</span></p>
+      <p
+        begin="01:46:49.500"
+        end="01:46:51.666"><span region="Default">I've been looking, Boss</span></p>
+      <p
+        begin="01:46:51.750"
+        end="01:46:55.000"><span region="Default">I'm asking about Suzzanna.<br/>It has nothing to do with Kliwon.</span></p>
+      <p
+        begin="01:46:55.083"
+        end="01:46:58.583"><span region="Default">I'm also answering about Suzzanna.<br/>Not about Kliwon.</span></p>
+      <p
+        begin="01:46:58.666"
+        end="01:47:01.833"><span region="Default">Why did you say you're looking?<br/>Is she missing?</span></p>
+      <p
+        begin="01:47:01.916"
+        end="01:47:04.625"><span region="Default">If she wasn't,<br/>I wouldn't be looking for her.</span></p>
+      <p
+        begin="01:47:04.708"
+        end="01:47:07.541"><span region="Default">-Do you know where Suzzanna is?<br/>-No, Boss.</span></p>
+      <p
+        begin="01:47:08.750"
+        end="01:47:12.083"><span region="Default">Kawi! Where's Suzzanna?</span></p>
+      <p
+        begin="01:47:20.708"
+        end="01:47:24.166"><span region="Default">It seems like he wants to kill your soul.</span></p>
+      <p
+        begin="01:47:25.458"
+        end="01:47:27.458"><span region="Default">Without damaging your body.</span></p>
+      <p
+        begin="01:47:28.958"
+        end="01:47:33.791"><span region="Default">Let me learn what it takes<br/>to get rid of his protection, Ma'am.</span></p>
+      <p
+        begin="01:47:33.875"
+        end="01:47:37.375"><span region="Default">His defense is too strong for me to fight.</span></p>
+      <p
+        begin="01:47:39.541"
+        end="01:47:41.791"><span region="Default">About his protection,</span></p>
+      <p
+        begin="01:47:42.750"
+        end="01:47:44.000"><span region="Default">let me handle it.</span></p>
+      <p
+        begin="01:47:45.458"
+        end="01:47:47.541"><span region="Default">But to attack him,</span></p>
+      <p
+        begin="01:47:47.625"
+        end="01:47:50.291"><span region="Default">there is actually one thing</span></p>
+      <p
+        begin="01:47:50.375"
+        end="01:47:53.958"><span region="Default">which I haven't taught<br/>because it's too dangerous.</span></p>
+      <p
+        begin="01:47:54.041"
+        end="01:47:55.708"><span region="Default">It is called…</span></p>
+      <p
+        begin="01:47:56.541"
+        end="01:47:58.750"><span region="Default">the bamboo-bundle spell.</span></p>
+      <p
+        begin="01:47:59.500"
+        end="01:48:02.625"><span region="Default">Its power is equal to the death-hex,</span></p>
+      <p
+        begin="01:48:02.708"
+        end="01:48:07.250"><span region="Default">but it won’t strike only Bisman.</span></p>
+      <p
+        begin="01:48:08.333"
+        end="01:48:12.083"><span region="Default">All of his descendants<br/>will perish as well.</span></p>
+      <p
+        begin="01:48:13.083"
+        end="01:48:15.500"><span region="Default">Bisman has no descendants, Ma'am.</span></p>
+      <p
+        begin="01:48:17.375"
+        end="01:48:20.500"><span region="Default">There will be no<br/>victims other than himself.</span></p>
+      <p
+        begin="01:48:21.625"
+        end="01:48:23.000"><span region="Default">I will teach it to you</span></p>
+      <p
+        begin="01:48:23.625"
+        end="01:48:25.750"><span region="Default">but only for one attack.</span></p>
+      <p
+        begin="01:48:25.833"
+        end="01:48:28.208"><span region="Default">And this cannot be undone.</span></p>
+      <p
+        begin="01:48:29.041"
+        end="01:48:30.916"><span region="Default">If you try to undo it,</span></p>
+      <p
+        begin="01:48:31.625"
+        end="01:48:36.000"><span region="Default">its destructive power will return<br/>to hit the sender.</span></p>
+      <p
+        begin="01:48:37.000"
+        end="01:48:38.791"><span region="Default">To hit you.</span></p>
+      <p
+        begin="01:48:53.166"
+        end="01:48:54.625"><span region="Default">Listen, everyone.</span></p>
+      <p
+        begin="01:48:55.916"
+        end="01:48:58.208"><span region="Default">This is Boss Bisman's order.</span></p>
+      <p
+        begin="01:48:59.166"
+        end="01:49:00.791"><span region="Default">All of you</span></p>
+      <p
+        begin="01:49:00.875"
+        end="01:49:04.708"><span region="Default">must work together<br/>to look for Suzzanna until you find her.</span></p>
+      <p
+        begin="01:49:04.791"
+        end="01:49:07.833"><span region="Default">If Suzzanna is still not found by sunset,</span></p>
+      <p
+        begin="01:49:08.416"
+        end="01:49:10.750"><span region="Default">you have to bear the consequences.</span></p>
+      <p
+        begin="01:49:11.958"
+        end="01:49:15.416"><span region="Default">Boss Bisman will only give you time<br/>until tomorrow night</span></p>
+      <p
+        begin="01:49:16.000"
+        end="01:49:19.125"><span region="Default">for you to pay off your debts.</span></p>
+      <p
+        begin="01:49:21.750"
+        end="01:49:23.708"><span region="Default">What? What?</span></p>
+      <p
+        begin="01:49:24.291"
+        end="01:49:28.166"><span region="Default">If you don't agree, come up here!<br/>Don't grumble behind my back.</span></p>
+      <p
+        begin="01:49:29.833"
+        end="01:49:30.791"><span region="Default">Why so silent?</span></p>
+      <p
+        begin="01:49:32.125"
+        end="01:49:33.958"><span region="Default">Get out of here. Scatter!</span></p>
+      <p
+        begin="01:49:34.041"
+        end="01:49:36.375"><span region="Default">Hurry up and find Suzzanna!</span></p>
+      <p
+        begin="01:49:36.458"
+        end="01:49:38.166"><span region="Default">That's not their job.</span></p>
+      <p
+        begin="01:49:39.000"
+        end="01:49:39.833"><span region="Default">Huh?</span></p>
+      <p
+        begin="01:49:40.916"
+        end="01:49:42.458"><span region="Default">Who said that?</span></p>
+      <p
+        begin="01:49:52.458"
+        end="01:49:54.250"><span region="Default">I'm not from here.</span></p>
+      <p
+        begin="01:49:55.375"
+        end="01:49:58.750"><span region="Default">But I know this is just your trick<br/>to make them pay their debts.</span></p>
+      <p
+        begin="01:49:59.625"
+        end="01:50:03.208"><span region="Default">Don't mess around<br/>with Boss Bisman's orders.</span></p>
+      <p
+        begin="01:50:03.291"
+        end="01:50:07.000"><span region="Default">Even the stupidest person in this village<br/>knows that your order is unreasonable.</span></p>
+      <p
+        begin="01:50:07.083"
+        end="01:50:09.416"><span region="Default">Pass these around.</span></p>
+      <p
+        begin="01:50:09.500"
+        end="01:50:13.541"><span region="Default">If Suzzanna really disappeared,<br/>she could have run to Ngawi,</span></p>
+      <p
+        begin="01:50:13.625"
+        end="01:50:15.458"><span region="Default">Jombang, Kediri,</span></p>
+      <p
+        begin="01:50:15.541"
+        end="01:50:18.625"><span region="Default">so you're saying that we should<br/>search all the villages?</span></p>
+      <p
+        begin="01:50:18.708"
+        end="01:50:21.500"><span region="Default">All the towns? Do you all<br/>want to look for Suzzanna everywhere?</span></p>
+      <p
+        begin="01:50:21.583"
+        end="01:50:24.500"><span region="Default">-No!<br/>-No, no!</span></p>
+      <p
+        begin="01:50:24.583"
+        end="01:50:26.750"><span region="Default">-Shut up!<br/>-No!</span></p>
+      <p
+        begin="01:50:26.833"
+        end="01:50:30.000"><span region="Default">Whether this concerns Suzzanna or not,</span></p>
+      <p
+        begin="01:50:30.083"
+        end="01:50:32.250"><span region="Default">a debt is a debt.</span></p>
+      <p
+        begin="01:50:32.333"
+        end="01:50:33.750"><span region="Default">Who put them in debt?</span></p>
+      <p
+        begin="01:50:35.500"
+        end="01:50:36.375"><span region="Default">You must know.</span></p>
+      <p
+        begin="01:50:36.958"
+        end="01:50:38.333"><span region="Default">Five years ago,</span></p>
+      <p
+        begin="01:50:38.416"
+        end="01:50:39.750"><span region="Default">Boss Bisman deliberately spread pests,</span></p>
+      <p
+        begin="01:50:39.833"
+        end="01:50:41.708"><span region="Default">and destroyed all the rice fields<br/>in this village.</span></p>
+      <p
+        begin="01:50:42.291"
+        end="01:50:43.500"><span region="Default">Tens of hectares in number.</span></p>
+      <p
+        begin="01:50:44.458"
+        end="01:50:45.750"><span region="Default">Then after the crop failed, what happened?</span></p>
+      <p
+        begin="01:50:45.833"
+        end="01:50:49.125"><span region="Default">They were all forced to borrow money<br/>from Boss Bisman.</span></p>
+      <p
+        begin="01:50:49.208"
+        end="01:50:52.000"><span region="Default">If they wanted to pay their debts,<br/>they mortgaged their rice fields.</span></p>
+      <p
+        begin="01:50:52.083"
+        end="01:50:56.333"><span region="Default">Become laborers on their own rice fields<br/>which are now owned by Boss Bisman, right?</span></p>
+      <p
+        begin="01:50:56.416"
+        end="01:50:58.250"><span region="Default">That's right, that's right!</span></p>
+      <p
+        begin="01:50:58.833"
+        end="01:51:00.750"><span region="Default">I experienced it myself.</span></p>
+      <p
+        begin="01:51:00.833"
+        end="01:51:02.500"><span region="Default">This is colonization.</span></p>
+      <p
+        begin="01:51:03.083"
+        end="01:51:04.208"><span region="Default">Oppression.</span></p>
+      <p
+        begin="01:51:05.541"
+        end="01:51:07.666"><span region="Default">Pursuing wealth to gain power.</span></p>
+      <p
+        begin="01:51:08.416"
+        end="01:51:12.125"><span region="Default">Using power to make yourself richer<br/>by causing misery to others.</span></p>
+      <p
+        begin="01:51:12.208"
+        end="01:51:13.791"><span region="Default">Do you want to keep being oppressed?</span></p>
+      <p
+        begin="01:51:13.875"
+        end="01:51:15.541"><span region="Default">No!</span></p>
+      <p
+        begin="01:51:15.625"
+        end="01:51:17.250"><span region="Default">Do you want to keep being wronged?</span></p>
+      <p
+        begin="01:51:17.333"
+        end="01:51:23.125"><span region="Default">-No.<br/>-No!</span></p>
+      <p
+        begin="01:51:23.208"
+        end="01:51:25.458"><span region="Default">This is slander. Beat him up. Get him!</span></p>
+      <p
+        begin="01:52:26.416"
+        end="01:52:29.333"><span region="Default">We have to get the cash safe<br/>in the café cupboard.</span></p>
+      <p
+        begin="01:52:58.416"
+        end="01:53:00.958"><span region="Default">Bisman! Where are you?</span></p>
+      <p
+        begin="01:53:04.458"
+        end="01:53:05.583"><span region="Default">Come on, Boss.</span></p>
+      <p
+        begin="01:53:09.250"
+        end="01:53:12.041"><span region="Default">Bisman is getting away!</span></p>
+      <p
+        begin="01:53:12.125"
+        end="01:53:15.000"><span region="Default">Bisman! Don't run away!</span></p>
+      <p
+        begin="01:53:15.083"
+        end="01:53:18.041"><span region="Default">Bisman!</span></p>
+      <p
+        begin="01:53:35.750"
+        end="01:53:37.958"><span region="Default">Let's go!</span></p>
+      <p
+        begin="01:53:48.833"
+        end="01:53:50.541"><span region="Default">Hey, lock all the doors!</span></p>
+      <p
+        begin="01:53:55.208"
+        end="01:53:58.291"><span region="Default">Come on, guys! Come on!</span></p>
+      <p
+        begin="01:54:09.000"
+        end="01:54:10.041"><span region="Default">The key is at home.</span></p>
+      <p
+        begin="01:54:15.625"
+        end="01:54:17.666"><span region="Default">Attack, don't be afraid!</span></p>
+      <p
+        begin="01:55:10.916"
+        end="01:55:11.958"><span region="Default">Here, Boss.</span></p>
+      <p
+        begin="01:55:24.708"
+        end="01:55:26.250"><span region="Default">Wait here, Boss.</span></p>
+      <p
+        begin="01:56:10.166"
+        end="01:56:11.291"><span region="Default">Take that!</span></p>
+      <p
+        begin="01:56:25.291"
+        end="01:56:26.333"><span region="Default">Bisman!</span></p>
+      <p
+        begin="01:56:56.541"
+        end="01:57:00.291"><span region="Default">I humbly ask for your help.</span></p>
+      <p
+        begin="01:57:38.666"
+        end="01:57:40.041"><span region="Default">Boss…</span></p>
+      <p
+        begin="01:58:47.541"
+        end="01:58:48.666"><span region="Default">Help me.</span></p>
+      <p
+        begin="01:58:49.666"
+        end="01:58:50.958"><span region="Default">Help.</span></p>
+      <p
+        begin="01:59:04.583"
+        end="01:59:05.541"><span region="Default">Wait.</span></p>
+      <p
+        begin="01:59:06.875"
+        end="01:59:07.916"><span region="Default">Help…</span></p>
+      <p
+        begin="01:59:45.500"
+        end="01:59:47.500"><span region="Default">SATRIYO SON OF WARYONO</span></p>
+      <p
+        begin="01:59:51.458"
+        end="01:59:54.625"><span region="Default">SUTINI, DAUGHTER OF PRAYITNO</span></p>
+      <p
+        begin="01:59:57.541"
+        end="01:59:58.375"><span region="Default">Suzzanna.</span></p>
+      <p
+        begin="01:59:59.916"
+        end="02:00:01.458"><span region="Default">I feel worthless.</span></p>
+      <p
+        begin="02:00:02.375"
+        end="02:00:05.416"><span region="Default">-Seeing my parents' grave.<br/>-Suzzanna.</span></p>
+      <p
+        begin="02:00:06.041"
+        end="02:00:07.916"><span region="Default">You only need to do one thing.</span></p>
+      <p
+        begin="02:00:09.416"
+        end="02:00:11.875"><span region="Default">Abandon your mystical powers.</span></p>
+      <p
+        begin="02:00:11.958"
+        end="02:00:13.666"><span region="Default">I can help you.</span></p>
+      <p
+        begin="02:00:13.750"
+        end="02:00:15.916"><span region="Default">I know someone in Trenggalek</span></p>
+      <p
+        begin="02:00:16.000"
+        end="02:00:18.708"><span region="Default">who can help you, and he can heal you.</span></p>
+      <p
+        begin="02:00:18.791"
+        end="02:00:19.875"><span region="Default">It's not that easy.</span></p>
+      <p
+        begin="02:00:19.958"
+        end="02:00:22.000"><span region="Default">It all depends on your intentions,<br/>Suzzanna.</span></p>
+      <p
+        begin="02:00:26.666"
+        end="02:00:29.375"><span region="Default">But will Allah forgive my sins?</span></p>
+      <p
+        begin="02:00:30.791"
+        end="02:00:32.333"><span region="Default">Allah is Most Forgiving.</span></p>
+      <p
+        begin="02:00:35.000"
+        end="02:00:37.083"><span region="Default">You just have to believe.</span></p>
+      <p
+        begin="02:00:43.375"
+        end="02:00:44.541"><span region="Default">Thank you.</span></p>
+      <p
+        begin="02:00:48.000"
+        end="02:00:49.750"><span region="Default">For always helping me.</span></p>
+      <p
+        begin="02:00:52.166"
+        end="02:00:55.041"><span region="Default">Not just once, but twice.</span></p>
+      <p
+        begin="02:00:56.708"
+        end="02:00:57.916"><span region="Default">Three times.</span></p>
+      <p
+        begin="02:00:58.666"
+        end="02:01:00.208"><span region="Default">You forgot the motorbike.</span></p>
+      <p
+        begin="02:01:05.500"
+        end="02:01:06.333"><span region="Default">Alright then.</span></p>
+      <p
+        begin="02:01:09.250"
+        end="02:01:12.791"><span region="Default">I've been looking around for you.<br/>Turns out you're here.</span></p>
+      <p
+        begin="02:01:12.875"
+        end="02:01:14.500"><span region="Default">What is it?</span></p>
+      <p
+        begin="02:01:14.583"
+        end="02:01:17.166"><span region="Default">Earlier the police came to the office</span></p>
+      <p
+        begin="02:01:17.250"
+        end="02:01:19.541"><span region="Default">-with a letter for you, Pramuja.<br/>-Yes.</span></p>
+      <p
+        begin="02:01:19.625"
+        end="02:01:23.625"><span region="Default">They said this was found<br/>in the living room of Bisman's house.</span></p>
+      <p
+        begin="02:01:24.375"
+        end="02:01:25.666"><span region="Default">For me?</span></p>
+      <p
+        begin="02:01:25.750"
+        end="02:01:27.291"><span region="Default">Yes.</span></p>
+      <p
+        begin="02:01:27.375"
+        end="02:01:29.833"><span region="Default">Carry on then.</span></p>
+      <p
+        begin="02:01:29.916"
+        end="02:01:31.625"><span region="Default">Hope you get married. Ow!</span></p>
+      <p
+        begin="02:01:32.250"
+        end="02:01:33.500"><span region="Default">Get married soon.</span></p>
+      <p
+        begin="02:01:36.791"
+        end="02:01:37.750"><span region="Default">Gosh.</span></p>
+      <p
+        begin="02:01:41.083"
+        end="02:01:42.083"><span region="Default">Did your father…</span></p>
+      <p
+        begin="02:01:42.958"
+        end="02:01:44.625"><span region="Default">know Bisman?</span></p>
+      <p
+        begin="02:01:44.708"
+        end="02:01:47.041"><span region="Default">Bisman once told me that</span></p>
+      <p
+        begin="02:01:48.250"
+        end="02:01:49.958"><span region="Default">he knew my father.</span></p>
+      <p
+        begin="02:01:57.875"
+        end="02:01:58.958"><span region="Default">It's my mother's picture.</span></p>
+      <p
+        begin="02:01:59.583"
+        end="02:02:01.666"><span region="Default">Why did Bisman have<br/>a photo of your mother?</span></p>
+      <p
+        begin="02:02:13.583"
+        end="02:02:14.750"><span region="Default">Pramuja.</span></p>
+      <p
+        begin="02:02:15.416"
+        end="02:02:20.250"><span region="Default">This is the first time I've felt<br/>what happiness is like.</span></p>
+      <p
+        begin="02:02:20.333"
+        end="02:02:22.083"><span region="Default">That is after knowing</span></p>
+      <p
+        begin="02:02:22.166"
+        end="02:02:25.666"><span region="Default">that I have a very good son.</span></p>
+      <p
+        begin="02:02:25.750"
+        end="02:02:27.750"><span region="Default">So unlike his father.</span></p>
+      <p
+        begin="02:02:27.833"
+        end="02:02:30.666"><span region="Default">You can be embarrassed<br/>to have a father like me.</span></p>
+      <p
+        begin="02:02:30.750"
+        end="02:02:32.833"><span region="Default">But I am proud to have a son like you.</span></p>
+      <p
+        begin="02:02:36.500"
+        end="02:02:42.875"><span region="Default">It is called the bamboo-bundle spell.<br/>Its power is equal to the death-hex,</span></p>
+      <p
+        begin="02:02:42.958"
+        end="02:02:47.625"><span region="Default">but it won’t strike only Bisman.</span></p>
+      <p
+        begin="02:02:47.708"
+        end="02:02:51.458"><span region="Default">All of his descendants<br/>will perish as well.</span></p>
+      <p
+        begin="02:02:53.916"
+        end="02:02:55.541"><span region="Default">If you try to undo it,</span></p>
+      <p
+        begin="02:02:55.625"
+        end="02:02:59.791"><span region="Default">its destructive power will return<br/>to hit the sender.</span></p>
+      <p
+        begin="02:02:59.875"
+        end="02:03:02.416"><span region="Default">To hit you.</span></p>
+      <p
+        begin="02:03:02.500"
+        end="02:03:06.375"><span region="Default">I’m sorry I couldn’t be<br/>a good father to you.</span></p>
+      <p
+        begin="02:03:06.458"
+        end="02:03:10.750"><span region="Default">Even though it’s impossible<br/>to erase the mistakes I’ve made,</span></p>
+      <p
+        begin="02:03:10.833"
+        end="02:03:15.041"><span region="Default">I have decided<br/>to leave all of my wealth to you.</span></p>
+      <p
+        begin="02:03:15.125"
+        end="02:03:20.708"><span region="Default">I hope you can find it in your heart<br/>to forgive me.</span></p>
+      <p
+        begin="02:03:48.250"
+        end="02:03:49.416"><span region="Default">Suzzanna.</span></p>
+      <p
+        begin="02:03:50.708"
+        end="02:03:51.833"><span region="Default">Suzzanna?</span></p>
+      <p
+        begin="02:04:04.791"
+        end="02:04:05.916"><span region="Default">Suzzanna?</span></p>
+      <p
+        begin="02:04:26.291"
+        end="02:04:27.291"><span region="Default">Suzzanna!</span></p>
+      <p
+        begin="02:04:29.208"
+        end="02:04:32.041"><span region="Default">Suzzanna! Open up!<br/>What's wrong with you? Open the door!</span></p>
+      <p
+        begin="02:04:33.458"
+        end="02:04:37.375"><span region="Default">Let me bear all the consequences<br/>of my actions, Pramuja.</span></p>
+      <p
+        begin="02:04:38.083"
+        end="02:04:42.250"><span region="Default">I cast the witchcraft not only to Bisman,</span></p>
+      <p
+        begin="02:04:43.875"
+        end="02:04:48.416"><span region="Default">but also, to all his descendants.</span></p>
+      <p
+        begin="02:04:49.000"
+        end="02:04:50.458"><span region="Default">Oh, God.</span></p>
+      <p
+        begin="02:04:51.250"
+        end="02:04:54.166"><span region="Default">You won't end up like Bisman</span></p>
+      <p
+        begin="02:04:56.958"
+        end="02:04:59.375"><span region="Default">because I've already cancelled the attack.</span></p>
+      <p
+        begin="02:05:01.875"
+        end="02:05:03.833"><span region="Default">It will hit me back.</span></p>
+      <p
+        begin="02:05:04.500"
+        end="02:05:06.666"><span region="Default">No, don't. Don't do this.<br/>No, Suzzanna. Don't do this.</span></p>
+      <p
+        begin="02:05:06.750"
+        end="02:05:08.416"><span region="Default">There must be another way.</span></p>
+      <p
+        begin="02:05:08.500"
+        end="02:05:10.958"><span region="Default">You can cancel all of this by repenting.</span></p>
+      <p
+        begin="02:05:11.541"
+        end="02:05:13.458"><span region="Default">It's not that easy, Pramuja.</span></p>
+      <p
+        begin="02:05:16.916"
+        end="02:05:18.666"><span region="Default">I've gone too far</span></p>
+      <p
+        begin="02:05:19.875"
+        end="02:05:21.541"><span region="Default">down the wrong path.</span></p>
+      <p
+        begin="02:05:21.625"
+        end="02:05:25.708"><span region="Default">The unforgiving path of polytheism.</span></p>
+      <p
+        begin="02:05:26.416"
+        end="02:05:28.000"><span region="Default">Full of sin.</span></p>
+      <p
+        begin="02:05:28.083"
+        end="02:05:30.625"><span region="Default">Forgiveness belongs to Allah.</span></p>
+      <p
+        begin="02:05:30.708"
+        end="02:05:32.750"><span region="Default">It's not up to us to decide.</span></p>
+      <p
+        begin="02:05:32.833"
+        end="02:05:35.333"><span region="Default">I beg you to ask forgiveness from Allah.</span></p>
+      <p
+        begin="02:05:35.416"
+        end="02:05:37.916"><span region="Default">Ask Allah for help<br/>while you still have the chance.</span></p>
+      <p
+        begin="02:05:39.208"
+        end="02:05:43.125"><span region="Default">The doors of heaven are no longer open<br/>for me, Pramuja.</span></p>
+      <p
+        begin="02:05:46.500"
+        end="02:05:49.750"><span region="Default">The doors of heaven are locked for me.</span></p>
+      <p
+        begin="02:06:02.333"
+        end="02:06:04.041"><span region="Default">But I'm happy.</span></p>
+      <p
+        begin="02:06:09.666"
+        end="02:06:14.250"><span region="Default">Seeing Karang Setan free from oppression.</span></p>
+      <p
+        begin="02:06:19.416"
+        end="02:06:21.958"><span region="Default">Like my father's wish.</span></p>
+      <p
+        begin="02:06:31.208"
+        end="02:06:33.416"><span region="Default">Every change</span></p>
+      <p
+        begin="02:06:33.500"
+        end="02:06:36.666"><span region="Default">requires sacrifice.</span></p>
+      <p
+        begin="02:06:38.916"
+        end="02:06:41.500"><span region="Default">Suzzanna, don't. Suzzanna!</span></p>
+      <p
+        begin="02:06:41.583"
+        end="02:06:42.791"><span region="Default">Suzzanna?</span></p>
+      <p
+        begin="02:06:47.958"
+        end="02:06:49.000"><span region="Default">Suzzanna?</span></p>
+      <p
+        begin="02:06:50.125"
+        end="02:06:51.500"><span region="Default">Suzzanna?</span></p>
+      <p
+        begin="02:07:52.708"
+        end="02:07:53.916"><span region="Default">Oh…</span></p>
+      <p
+        begin="02:07:54.000"
+        end="02:07:55.500"><span region="Default">Oh, God…</span></p>
+      <p
+        begin="02:07:55.583"
+        end="02:07:59.000"><span region="Default">Oh, God, please forgive her.</span></p>
+      <p
+        begin="02:08:19.625"
+        end="02:08:21.375"><span region="Default">Ladies and Gentlemen,</span></p>
+      <p
+        begin="02:08:21.458"
+        end="02:08:24.375"><span region="Default">respected residents of Karang Setan.</span></p>
+      <p
+        begin="02:08:24.458"
+        end="02:08:27.583"><span region="Default">There are several things<br/>I would like to convey to you.</span></p>
+      <p
+        begin="02:08:28.458"
+        end="02:08:30.416"><span region="Default">I, Pramuja,</span></p>
+      <p
+        begin="02:08:31.541"
+        end="02:08:33.291"><span region="Default">am the son of Boss…</span></p>
+      <p
+        begin="02:08:36.708"
+        end="02:08:38.458"><span region="Default">I am the son of Bisman.</span></p>
+      <p
+        begin="02:08:39.208"
+        end="02:08:42.458"><span region="Default">Therefore, I inherited his wealth.</span></p>
+      <p
+        begin="02:08:43.958"
+        end="02:08:46.125"><span region="Default">The wealth that he had obtained so far</span></p>
+      <p
+        begin="02:08:46.958"
+        end="02:08:50.041"><span region="Default">in ways that defy religious rules,</span></p>
+      <p
+        begin="02:08:50.125"
+        end="02:08:51.750"><span region="Default">and violate state regulations.</span></p>
+      <p
+        begin="02:08:52.333"
+        end="02:08:54.625"><span region="Default">I will return them completely</span></p>
+      <p
+        begin="02:08:54.708"
+        end="02:08:56.000"><span region="Default">to all of you, ladies and gentlemen.</span></p>
+      <p
+        begin="02:08:56.708"
+        end="02:08:58.208"><span region="Default">Oh, thank God.</span></p>
+      <p
+        begin="02:08:58.291"
+        end="02:09:00.666"><span region="Default">All of your debt to Bisman</span></p>
+      <p
+        begin="02:09:01.333"
+        end="02:09:03.750"><span region="Default">will be considered paid.</span></p>
+      <p
+        begin="02:09:03.833"
+        end="02:09:05.208"><span region="Default">Thank God.</span></p>
+      <p
+        begin="02:09:05.750"
+        end="02:09:10.625"><span region="Default">The rice fields that were forcibly seized,<br/>from all of you</span></p>
+      <p
+        begin="02:09:10.708"
+        end="02:09:13.208"><span region="Default">shall be returned to you completely.</span></p>
+      <p
+        begin="02:09:13.291"
+        end="02:09:15.875"><span region="Default">KARANG NIRWONO MARKET - BANYUWANGI</span></p>
+      <p
+        begin="02:09:29.625"
+        end="02:09:32.000"><span region="Default">KARANG NIRWONO VILLAGE HEAD OFFICE</span></p>
+      <p
+        begin="02:09:59.250"
+        end="02:10:02.791"><span region="Default">SUZZANNA DAUGHTER OF SATRIYO</span></p>
+    </div>
+  </body>
+</tt>
